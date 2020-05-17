@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/bookmark/</loc>
+    <lastmod>2020-05-17T18:54:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/hugo/</loc>
+    <lastmod>2020-05-17T18:54:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/bookmark/hugo-the-scope-the-context-and-the-dot/</loc>
+    <lastmod>2020-05-17T18:54:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2020-05-17T18:54:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-05-17T18:54:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/hello/</loc>
+    <lastmod>2020-05-17T14:54:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/bookmark/hello-bookmark/</loc>
+    <lastmod>2020-05-17T14:54:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sites/</loc>
+    <lastmod>2020-05-17T14:54:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/world/</loc>
+    <lastmod>2020-05-17T14:54:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sites/www.gohugo.io/</loc>
+    <lastmod>2020-05-17T14:54:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/til/home-til/</loc>
+    <lastmod>2020-05-16T21:19:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/til/</loc>
+    <lastmod>2020-05-16T21:19:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/til/dark-mode-website-css/</loc>
+    <lastmod>2020-05-16T16:14:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sites/https/regisphilibert.com/</loc>
+  </url>
+  
+</urlset>
