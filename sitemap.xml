@@ -3,76 +3,96 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/bookmark/</loc>
+    <loc>http://www.yinyangi.in/kbs/bookmark/</loc>
     <lastmod>2020-05-17T18:54:04+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/hugo/</loc>
+    <loc>http://www.yinyangi.in/kbs/tags/hugo/</loc>
     <lastmod>2020-05-17T18:54:04+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/bookmark/hugo-the-scope-the-context-and-the-dot/</loc>
+    <loc>http://www.yinyangi.in/kbs/bookmark/hugo-the-scope-the-context-and-the-dot/</loc>
     <lastmod>2020-05-17T18:54:04+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://www.yinyangi.in/kbs/tags/</loc>
     <lastmod>2020-05-17T18:54:04+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://www.yinyangi.in/kbs/</loc>
     <lastmod>2020-05-17T18:54:04+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/hello/</loc>
+    <loc>http://www.yinyangi.in/kbs/snippet/hugo-tags-list/</loc>
+    <lastmod>2020-05-17T18:09:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/snippet/</loc>
+    <lastmod>2020-05-17T18:09:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/til/change-orientation-of-an-image/</loc>
+    <lastmod>2020-05-17T17:30:23+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/tags/css/</loc>
+    <lastmod>2020-05-17T17:30:23+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/til/</loc>
+    <lastmod>2020-05-17T17:30:23+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/tags/hello/</loc>
     <lastmod>2020-05-17T14:54:46+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/bookmark/hello-bookmark/</loc>
+    <loc>http://www.yinyangi.in/kbs/bookmark/hello-bookmark/</loc>
     <lastmod>2020-05-17T14:54:46+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/sites/</loc>
+    <loc>http://www.yinyangi.in/kbs/sites/</loc>
     <lastmod>2020-05-17T14:54:46+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/world/</loc>
+    <loc>http://www.yinyangi.in/kbs/tags/world/</loc>
     <lastmod>2020-05-17T14:54:46+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/sites/www.gohugo.io/</loc>
+    <loc>http://www.yinyangi.in/kbs/sites/www.gohugo.io/</loc>
     <lastmod>2020-05-17T14:54:46+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/til/home-til/</loc>
+    <loc>http://www.yinyangi.in/kbs/til/home-til/</loc>
     <lastmod>2020-05-16T21:19:26+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/til/</loc>
-    <lastmod>2020-05-16T21:19:26+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/til/dark-mode-website-css/</loc>
+    <loc>http://www.yinyangi.in/kbs/til/dark-mode-website-css/</loc>
     <lastmod>2020-05-16T16:14:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://www.yinyangi.in/kbs/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/sites/https/regisphilibert.com/</loc>
+    <loc>http://www.yinyangi.in/kbs/sites/https/regisphilibert.com/</loc>
   </url>
   
 </urlset>

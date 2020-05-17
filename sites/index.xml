@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sites on Tils and bookmarks</title>
-    <link>http://example.org/sites/</link>
+    <link>http://www.yinyangi.in/kbs/sites/</link>
     <description>Recent content in Sites on Tils and bookmarks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 May 2020 14:54:46 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/sites/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.yinyangi.in/kbs/sites/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>www.gohugo.io</title>
-      <link>http://example.org/sites/www.gohugo.io/</link>
+      <link>http://www.yinyangi.in/kbs/sites/www.gohugo.io/</link>
       <pubDate>Sun, 17 May 2020 14:54:46 +0530</pubDate>
       
-      <guid>http://example.org/sites/www.gohugo.io/</guid>
+      <guid>http://www.yinyangi.in/kbs/sites/www.gohugo.io/</guid>
       <description></description>
     </item>
     
     <item>
       <title>https://regisphilibert.com</title>
-      <link>http://example.org/sites/https/regisphilibert.com/</link>
+      <link>http://www.yinyangi.in/kbs/sites/https/regisphilibert.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/sites/https/regisphilibert.com/</guid>
+      <guid>http://www.yinyangi.in/kbs/sites/https/regisphilibert.com/</guid>
       <description></description>
     </item>
     

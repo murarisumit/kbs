@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on Tils and bookmarks</title>
-    <link>http://www.yinyangi.in/kbs/tags/hugo/</link>
-    <description>Recent content in hugo on Tils and bookmarks</description>
+    <title>Snippets on Tils and bookmarks</title>
+    <link>http://www.yinyangi.in/kbs/snippet/</link>
+    <description>Recent content in Snippets on Tils and bookmarks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2020 18:54:04 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2020 18:09:46 +0530</lastBuildDate>
     
-	<atom:link href="http://www.yinyangi.in/kbs/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.yinyangi.in/kbs/snippet/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hugo the Scope the Context and the Dot</title>
-      <link>http://www.yinyangi.in/kbs/bookmark/hugo-the-scope-the-context-and-the-dot/</link>
-      <pubDate>Sun, 17 May 2020 18:54:04 +0530</pubDate>
-      
-      <guid>http://www.yinyangi.in/kbs/bookmark/hugo-the-scope-the-context-and-the-dot/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Hugo Tags List</title>
