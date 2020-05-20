@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Tils and bookmarks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2020 18:54:04 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2020 22:04:04 +0530</lastBuildDate>
     
 	<atom:link href="http://www.yinyangi.in/kbs/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>cheatsheets</title>
+      <link>http://www.yinyangi.in/kbs/tags/cheatsheets/</link>
+      <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
+      
+      <guid>http://www.yinyangi.in/kbs/tags/cheatsheets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prometheus</title>
+      <link>http://www.yinyangi.in/kbs/tags/prometheus/</link>
+      <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
+      
+      <guid>http://www.yinyangi.in/kbs/tags/prometheus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>promql</title>
+      <link>http://www.yinyangi.in/kbs/tags/promql/</link>
+      <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
+      
+      <guid>http://www.yinyangi.in/kbs/tags/promql/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>hugo</title>

@@ -6,10 +6,19 @@
     <description>Recent content in Bookmarks on Tils and bookmarks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2020 18:54:04 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2020 22:04:04 +0530</lastBuildDate>
     
 	<atom:link href="http://www.yinyangi.in/kbs/bookmark/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Promql cheatsheet</title>
+      <link>http://www.yinyangi.in/kbs/bookmark/promql/</link>
+      <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
+      
+      <guid>http://www.yinyangi.in/kbs/bookmark/promql/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hugo the Scope the Context and the Dot</title>
