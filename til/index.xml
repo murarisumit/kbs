@@ -6,10 +6,22 @@
     <description>Recent content in Tils on Tils and bookmarks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2020 17:30:23 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2020 19:18:04 +0530</lastBuildDate>
     
 	<atom:link href="http://www.yinyangi.in/kbs/til/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KISS</title>
+      <link>http://www.yinyangi.in/kbs/til/kiss/</link>
+      <pubDate>Thu, 21 May 2020 19:18:04 +0530</pubDate>
+      
+      <guid>http://www.yinyangi.in/kbs/til/kiss/</guid>
+      <description>KISS is an acronym for &amp;ldquo;Keep it simple stupid&amp;rdquo; (notice no comma).
+Stupid does not refer to the user. To quote Wikipedia:
+ The principle is best exemplified by the story of Johnson handing a team of design engineers a handful of tools, with the challenge that the jet aircraft they were designing must be repairable by
+an average mechanic in the field under combat conditions with only these tools.</description>
+    </item>
     
     <item>
       <title>Change Orientation of an Image</title>

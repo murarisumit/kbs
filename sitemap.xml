@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.yinyangi.in/kbs/tags/acronyms/</loc>
+    <lastmod>2020-05-21T19:18:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/til/kiss/</loc>
+    <lastmod>2020-05-21T19:18:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/tags/</loc>
+    <lastmod>2020-05-21T19:18:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/til/</loc>
+    <lastmod>2020-05-21T19:18:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/</loc>
+    <lastmod>2020-05-21T19:18:04+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.yinyangi.in/kbs/bookmark/</loc>
     <lastmod>2020-05-21T08:39:21+05:30</lastmod>
   </url>
@@ -23,12 +48,12 @@
   </url>
   
   <url>
-    <loc>http://www.yinyangi.in/kbs/tags/</loc>
+    <loc>http://www.yinyangi.in/kbs/sites/</loc>
     <lastmod>2020-05-21T08:39:21+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://www.yinyangi.in/kbs/</loc>
+    <loc>http://www.yinyangi.in/kbs/sites/www.solipsys.co.uk/</loc>
     <lastmod>2020-05-21T08:39:21+05:30</lastmod>
   </url>
   
@@ -54,11 +79,6 @@
   
   <url>
     <loc>http://www.yinyangi.in/kbs/bookmark/eks-best-practices/</loc>
-    <lastmod>2020-05-20T22:16:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.yinyangi.in/kbs/sites/</loc>
     <lastmod>2020-05-20T22:16:17+05:30</lastmod>
   </url>
   
@@ -98,6 +118,11 @@
   </url>
   
   <url>
+    <loc>http://www.yinyangi.in/kbs/sites/regisphilibert.com/</loc>
+    <lastmod>2020-05-17T18:54:04+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.yinyangi.in/kbs/snippet/hugo-tags-list/</loc>
     <lastmod>2020-05-17T18:09:46+05:30</lastmod>
   </url>
@@ -114,11 +139,6 @@
   
   <url>
     <loc>http://www.yinyangi.in/kbs/tags/css/</loc>
-    <lastmod>2020-05-17T17:30:23+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.yinyangi.in/kbs/til/</loc>
     <lastmod>2020-05-17T17:30:23+05:30</lastmod>
   </url>
   
@@ -154,14 +174,6 @@
   
   <url>
     <loc>http://www.yinyangi.in/kbs/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.yinyangi.in/kbs/sites/https/regisphilibert.com/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.yinyangi.in/kbs/sites/https/www.solipsys.co.uk/</loc>
   </url>
   
 </urlset>
