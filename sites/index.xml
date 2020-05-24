@@ -6,10 +6,28 @@
     <description>Recent content in Sites on Tils and bookmarks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2020 08:39:21 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2020 21:41:57 +0530</lastBuildDate>
     
 	<atom:link href="http://www.yinyangi.in/kbs/sites/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>povilasv.me</title>
+      <link>http://www.yinyangi.in/kbs/sites/povilasv.me/</link>
+      <pubDate>Sun, 24 May 2020 21:41:57 +0530</pubDate>
+      
+      <guid>http://www.yinyangi.in/kbs/sites/povilasv.me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog.stephsmith.io</title>
+      <link>http://www.yinyangi.in/kbs/sites/blog.stephsmith.io/</link>
+      <pubDate>Thu, 21 May 2020 20:42:29 +0530</pubDate>
+      
+      <guid>http://www.yinyangi.in/kbs/sites/blog.stephsmith.io/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>www.solipsys.co.uk</title>
