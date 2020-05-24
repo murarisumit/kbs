@@ -47,14 +47,5 @@ For instance, if I have an image that is on its side, I can use the following ro
 1 2 3  img { transform: rotate(90deg); }   It takes an angle which can be specified in degrees. Here I use 90deg. If I was going for a different effect, I could do something like 45deg.</description>
     </item>
     
-    <item>
-      <title>Dark Mode Website Css</title>
-      <link>http://www.yinyangi.in/kbs/til/dark-mode-website-css/</link>
-      <pubDate>Sat, 16 May 2020 16:14:17 +0530</pubDate>
-      
-      <guid>http://www.yinyangi.in/kbs/til/dark-mode-website-css/</guid>
-      <description>Test me more about it, and it&amp;rsquo;s working for me</description>
-    </item>
-    
   </channel>
 </rss>

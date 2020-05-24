@@ -6,10 +6,19 @@
     <description>Recent content on Tils and bookmarks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 May 2020 21:41:57 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2020 23:23:53 +0530</lastBuildDate>
     
 	<atom:link href="http://www.yinyangi.in/kbs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why Normalize CSS</title>
+      <link>http://www.yinyangi.in/kbs/bookmark/why-normalize/</link>
+      <pubDate>Sun, 24 May 2020 23:23:53 +0530</pubDate>
+      
+      <guid>http://www.yinyangi.in/kbs/bookmark/why-normalize/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>K8s Node Local Dns Cache</title>
@@ -102,15 +111,6 @@ For instance, if I have an image that is on its side, I can use the following ro
     </item>
     
     <item>
-      <title>Hello bookmarks</title>
-      <link>http://www.yinyangi.in/kbs/bookmark/hello-bookmark/</link>
-      <pubDate>Sun, 17 May 2020 14:54:46 +0530</pubDate>
-      
-      <guid>http://www.yinyangi.in/kbs/bookmark/hello-bookmark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Home til</title>
       <link>http://www.yinyangi.in/kbs/til/home-til/</link>
       <pubDate>Sat, 16 May 2020 21:19:26 +0530</pubDate>
@@ -119,15 +119,6 @@ For instance, if I have an image that is on its side, I can use the following ro
       <description>A single-line CSS transform is all it takes to change the orientation of an image (or any DOM element, really).
 For instance, if I have an image that is on its side, I can use the following rotate transform to orient it correctly.
 1 2 3  img { transform: rotate(90deg); }   It takes an angle which can be specified in degrees. Here I use 90deg. If I was going for a different effect, I could do something like 45deg.</description>
-    </item>
-    
-    <item>
-      <title>Dark Mode Website Css</title>
-      <link>http://www.yinyangi.in/kbs/til/dark-mode-website-css/</link>
-      <pubDate>Sat, 16 May 2020 16:14:17 +0530</pubDate>
-      
-      <guid>http://www.yinyangi.in/kbs/til/dark-mode-website-css/</guid>
-      <description>Test me more about it, and it&amp;rsquo;s working for me</description>
     </item>
     
   </channel>

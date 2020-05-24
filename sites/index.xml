@@ -6,10 +6,19 @@
     <description>Recent content in Sites on Tils and bookmarks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 May 2020 21:41:57 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2020 23:23:53 +0530</lastBuildDate>
     
 	<atom:link href="http://www.yinyangi.in/kbs/sites/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>nicolasgallagher.com</title>
+      <link>http://www.yinyangi.in/kbs/sites/nicolasgallagher.com/</link>
+      <pubDate>Sun, 24 May 2020 23:23:53 +0530</pubDate>
+      
+      <guid>http://www.yinyangi.in/kbs/sites/nicolasgallagher.com/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>povilasv.me</title>
@@ -62,15 +71,6 @@
       <pubDate>Sun, 17 May 2020 18:54:04 +0530</pubDate>
       
       <guid>http://www.yinyangi.in/kbs/sites/regisphilibert.com/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>www.gohugo.io</title>
-      <link>http://www.yinyangi.in/kbs/sites/www.gohugo.io/</link>
-      <pubDate>Sun, 17 May 2020 14:54:46 +0530</pubDate>
-      
-      <guid>http://www.yinyangi.in/kbs/sites/www.gohugo.io/</guid>
       <description></description>
     </item>
     
