@@ -110,16 +110,5 @@ For instance, if I have an image that is on its side, I can use the following ro
 1 2 3 4 5 6 7  import ( &amp;#34;fmt&amp;#34; ) func main() { fmt.</description>
     </item>
     
-    <item>
-      <title>Home til</title>
-      <link>http://www.yinyangi.in/kbs/til/home-til/</link>
-      <pubDate>Sat, 16 May 2020 21:19:26 +0530</pubDate>
-      
-      <guid>http://www.yinyangi.in/kbs/til/home-til/</guid>
-      <description>A single-line CSS transform is all it takes to change the orientation of an image (or any DOM element, really).
-For instance, if I have an image that is on its side, I can use the following rotate transform to orient it correctly.
-1 2 3  img { transform: rotate(90deg); }   It takes an angle which can be specified in degrees. Here I use 90deg. If I was going for a different effect, I could do something like 45deg.</description>
-    </item>
-    
   </channel>
 </rss>
