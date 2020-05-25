@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.yinyangi.in/kbs/til/ipv4-link-local/</loc>
+    <lastmod>2020-05-25T09:24:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/tags/network/</loc>
+    <lastmod>2020-05-25T09:24:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/tags/osi-layer2/</loc>
+    <lastmod>2020-05-25T09:24:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/tags/</loc>
+    <lastmod>2020-05-25T09:24:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/til/</loc>
+    <lastmod>2020-05-25T09:24:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/</loc>
+    <lastmod>2020-05-25T09:24:33+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.yinyangi.in/kbs/bookmark/</loc>
     <lastmod>2020-05-24T23:23:53+05:30</lastmod>
   </url>
@@ -19,16 +49,6 @@
   
   <url>
     <loc>http://www.yinyangi.in/kbs/sites/</loc>
-    <lastmod>2020-05-24T23:23:53+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.yinyangi.in/kbs/tags/</loc>
-    <lastmod>2020-05-24T23:23:53+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.yinyangi.in/kbs/</loc>
     <lastmod>2020-05-24T23:23:53+05:30</lastmod>
   </url>
   
@@ -94,11 +114,6 @@
   
   <url>
     <loc>http://www.yinyangi.in/kbs/til/kiss/</loc>
-    <lastmod>2020-05-21T19:18:04+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.yinyangi.in/kbs/til/</loc>
     <lastmod>2020-05-21T19:18:04+05:30</lastmod>
   </url>
   

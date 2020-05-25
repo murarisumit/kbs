@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+
+    <title>Tils and bookmarks</title>
+    <link rel="stylesheet" href="/kbs/css/style.css"/>
+    
+<title itemprop="name">IPv4 Link Local | Tils and bookmarks</title>
+<meta property="og:title" content="IPv4 Link Local | Tils and bookmarks" />
+<meta name="twitter:title" content="IPv4 Link Local | Tils and bookmarks" />
+<meta itemprop="name" content="IPv4 Link Local | Tils and bookmarks" />
+<meta name="application-name" content="IPv4 Link Local | Tils and bookmarks" />
+<meta property="og:site_name" content="" />
+
+
+<meta name="description" content="" />
+<meta itemprop="description" content="" />
+<meta property="og:description" content="" />
+<meta name="twitter:description" content="" />
+
+
+<base href="http://www.yinyangi.in/kbs/til/ipv4-link-local/">
+<link rel="canonical" href="http://www.yinyangi.in/kbs/til/ipv4-link-local/" itemprop="url" /> 
+<meta name="url" content="http://www.yinyangi.in/kbs/til/ipv4-link-local/" />
+<meta name="twitter:url" content="http://www.yinyangi.in/kbs/til/ipv4-link-local/" /> 
+<meta property="og:url" content="http://www.yinyangi.in/kbs/til/ipv4-link-local/" />
+
+
+<meta property="og:locale" content="en">
+<meta name="language" content="">
+
+
+
+<meta property="og:updated_time" content=2020-05-25T09:24:33&#43;0530 />
+
+
+<link rel="sitemap" type="application/xml" title="Sitemap" href="http://www.yinyangi.in/kbssitemap.xml" /> 
+
+
+
+
+</head>
+<body>
+<header id="header">
+  <h1><a href="http://www.yinyangi.in/kbs">Tils and bookmarks</a></h1>
+    <nav>
+        <ul>
+            <li><a href="/kbs/tags">tags</a></li>
+            <li><a href="/kbs/sites">sites</a></li>
+            <li><a href="https://github.com/murarisumit">github</a></li>
+        </ul>
+    </nav>
+</header>
+<main id="main">
+
+    <article class="single">
+        <h1> IPv4 Link Local </h1>
+        
+        <p>To participate in wide-area IP networking, a host needs to be
+configured with IP addresses for its interfaces, either manually by
+the user or automatically from a source on the network such as a
+Dynamic Host Configuration Protocol (DHCP) server.  Unfortunately,
+such address configuration information may not always be available.
+It is therefore beneficial for a host to be able to depend on a
+useful subset of IP networking functions even when no address
+configuration is available.</p>
+<p>It means link-local address are used when host is not able to get any network configuration from</p>
+<ul>
+<li>Manual Configuration</li>
+<li>DHCP (DHCPv4 or DHCPv6)</li>
+</ul>
+<p>then it automatically take IP from pool of <code>169.254.0.0/16 (169.254.0.0 – 169.254.255.255)</code>
+mentioned in RFC <a href="https://tools.ietf.org/html/rfc3927">3927</a></p>
+<p>Process:</p>
+<ol>
+<li>Take any random IP from above pool</li>
+<li>Check if IP is not taken by others using broadcast via ARP</li>
+<li>If IP is taken then go back to step 1</li>
+<li>If IP is not taken, then assign the IP to yourself and be ready for networking.</li>
+</ol>
+<p>Important points to be noted</p>
+<ul>
+<li>These address are not routable by router
+<ul>
+<li>Why : Because it&rsquo;s in RFC, our rulebook for internet and also rule makes sense too.</li>
+<li>In step2, we only check in our ARP domain i.e. layer 2, it makes sense not to get these routed by layer3, since there is bright chance other machines in their layer 2 would&rsquo;ve done the same and IP would conflict.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>Reference:</p>
+<ul>
+<li>RFC <a href="https://tools.ietf.org/html/rfc3927">3927</a></li>
+</ul>
+
+        
+    </article>
+</main>
+<footer id="footer">look ma, a footer</footer>
+</body>
+</html>
+<link rel="stylesheet" type="text/css" href="/kbs/css/normalize.css" media="none"  onload="if(media!='all')media='all'"/>
+<link rel="stylesheet" type="text/css" href="/kbs/css/syntax.css" media="none"  onload="if(media!='all')media='all'"/>
+
