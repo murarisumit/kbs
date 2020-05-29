@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Tils and bookmarks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2020 09:24:33 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2020 01:50:59 +0530</lastBuildDate>
     
 	<atom:link href="http://www.yinyangi.in/kbs/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>home-server</title>
+      <link>http://www.yinyangi.in/kbs/tags/home-server/</link>
+      <pubDate>Sat, 30 May 2020 01:50:59 +0530</pubDate>
+      
+      <guid>http://www.yinyangi.in/kbs/tags/home-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nfs</title>
+      <link>http://www.yinyangi.in/kbs/tags/nfs/</link>
+      <pubDate>Sat, 30 May 2020 01:50:59 +0530</pubDate>
+      
+      <guid>http://www.yinyangi.in/kbs/tags/nfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rpi</title>
+      <link>http://www.yinyangi.in/kbs/tags/rpi/</link>
+      <pubDate>Sat, 30 May 2020 01:50:59 +0530</pubDate>
+      
+      <guid>http://www.yinyangi.in/kbs/tags/rpi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>network</title>

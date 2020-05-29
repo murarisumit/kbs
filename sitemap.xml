@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.yinyangi.in/kbs/bookmark/</loc>
+    <lastmod>2020-05-30T01:50:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/tags/home-server/</loc>
+    <lastmod>2020-05-30T01:50:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/tags/nfs/</loc>
+    <lastmod>2020-05-30T01:50:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/bookmark/pi-nfs-server/</loc>
+    <lastmod>2020-05-30T01:50:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/sites/pimylifeup.com/</loc>
+    <lastmod>2020-05-30T01:50:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/tags/rpi/</loc>
+    <lastmod>2020-05-30T01:50:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/sites/</loc>
+    <lastmod>2020-05-30T01:50:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/tags/</loc>
+    <lastmod>2020-05-30T01:50:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yinyangi.in/kbs/</loc>
+    <lastmod>2020-05-30T01:50:59+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.yinyangi.in/kbs/til/ipv4-link-local/</loc>
     <lastmod>2020-05-25T09:24:33+05:30</lastmod>
   </url>
@@ -18,23 +63,8 @@
   </url>
   
   <url>
-    <loc>http://www.yinyangi.in/kbs/tags/</loc>
-    <lastmod>2020-05-25T09:24:33+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.yinyangi.in/kbs/til/</loc>
     <lastmod>2020-05-25T09:24:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.yinyangi.in/kbs/</loc>
-    <lastmod>2020-05-25T09:24:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.yinyangi.in/kbs/bookmark/</loc>
-    <lastmod>2020-05-24T23:23:53+05:30</lastmod>
   </url>
   
   <url>
@@ -44,11 +74,6 @@
   
   <url>
     <loc>http://www.yinyangi.in/kbs/sites/nicolasgallagher.com/</loc>
-    <lastmod>2020-05-24T23:23:53+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.yinyangi.in/kbs/sites/</loc>
     <lastmod>2020-05-24T23:23:53+05:30</lastmod>
   </url>
   

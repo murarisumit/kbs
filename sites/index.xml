@@ -6,10 +6,19 @@
     <description>Recent content in Sites on Tils and bookmarks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 May 2020 23:23:53 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2020 01:50:59 +0530</lastBuildDate>
     
 	<atom:link href="http://www.yinyangi.in/kbs/sites/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>pimylifeup.com</title>
+      <link>http://www.yinyangi.in/kbs/sites/pimylifeup.com/</link>
+      <pubDate>Sat, 30 May 2020 01:50:59 +0530</pubDate>
+      
+      <guid>http://www.yinyangi.in/kbs/sites/pimylifeup.com/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>nicolasgallagher.com</title>
