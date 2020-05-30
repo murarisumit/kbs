@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snippets on Tils and bookmarks</title>
-    <link>http://www.yinyangi.in/kbs/snippet/</link>
+    <link>https://www.yinyangi.in/kbs/snippet/</link>
     <description>Recent content in Snippets on Tils and bookmarks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 May 2020 18:09:46 +0530</lastBuildDate>
     
-	<atom:link href="http://www.yinyangi.in/kbs/snippet/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.yinyangi.in/kbs/snippet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo Tags List</title>
-      <link>http://www.yinyangi.in/kbs/snippet/hugo-tags-list/</link>
+      <link>https://www.yinyangi.in/kbs/snippet/hugo-tags-list/</link>
       <pubDate>Sun, 17 May 2020 18:09:46 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/snippet/hugo-tags-list/</guid>
+      <guid>https://www.yinyangi.in/kbs/snippet/hugo-tags-list/</guid>
       <description>A simple snippet i found to fetch all tags, and still to read it up
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32  {{ if ne .Site.Params.TagsInHome 0 }} {{ $randTags := (slice)}} {{ range $name, $taxonomy := .Site.Taxonomies.tags }} {{ $randTags = $randTags | append $name }} {{ end }} {{ $randTags = sort (first .</description>
     </item>

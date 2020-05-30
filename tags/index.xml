@@ -2,210 +2,210 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tils and bookmarks</title>
-    <link>http://www.yinyangi.in/kbs/tags/</link>
+    <link>https://www.yinyangi.in/kbs/tags/</link>
     <description>Recent content in Tags on Tils and bookmarks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 May 2020 01:50:59 +0530</lastBuildDate>
     
-	<atom:link href="http://www.yinyangi.in/kbs/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.yinyangi.in/kbs/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>home-server</title>
-      <link>http://www.yinyangi.in/kbs/tags/home-server/</link>
+      <link>https://www.yinyangi.in/kbs/tags/home-server/</link>
       <pubDate>Sat, 30 May 2020 01:50:59 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/home-server/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/home-server/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nfs</title>
-      <link>http://www.yinyangi.in/kbs/tags/nfs/</link>
+      <link>https://www.yinyangi.in/kbs/tags/nfs/</link>
       <pubDate>Sat, 30 May 2020 01:50:59 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/nfs/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/nfs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rpi</title>
-      <link>http://www.yinyangi.in/kbs/tags/rpi/</link>
+      <link>https://www.yinyangi.in/kbs/tags/rpi/</link>
       <pubDate>Sat, 30 May 2020 01:50:59 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/rpi/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/rpi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>network</title>
-      <link>http://www.yinyangi.in/kbs/tags/network/</link>
+      <link>https://www.yinyangi.in/kbs/tags/network/</link>
       <pubDate>Mon, 25 May 2020 09:24:33 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/network/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>osi-layer2</title>
-      <link>http://www.yinyangi.in/kbs/tags/osi-layer2/</link>
+      <link>https://www.yinyangi.in/kbs/tags/osi-layer2/</link>
       <pubDate>Mon, 25 May 2020 09:24:33 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/osi-layer2/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/osi-layer2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>http://www.yinyangi.in/kbs/tags/css/</link>
+      <link>https://www.yinyangi.in/kbs/tags/css/</link>
       <pubDate>Sun, 24 May 2020 23:23:53 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/css/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cache</title>
-      <link>http://www.yinyangi.in/kbs/tags/cache/</link>
+      <link>https://www.yinyangi.in/kbs/tags/cache/</link>
       <pubDate>Sun, 24 May 2020 21:41:57 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/cache/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/cache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>coredns</title>
-      <link>http://www.yinyangi.in/kbs/tags/coredns/</link>
+      <link>https://www.yinyangi.in/kbs/tags/coredns/</link>
       <pubDate>Sun, 24 May 2020 21:41:57 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/coredns/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/coredns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dns</title>
-      <link>http://www.yinyangi.in/kbs/tags/dns/</link>
+      <link>https://www.yinyangi.in/kbs/tags/dns/</link>
       <pubDate>Sun, 24 May 2020 21:41:57 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/dns/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/dns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iptables</title>
-      <link>http://www.yinyangi.in/kbs/tags/iptables/</link>
+      <link>https://www.yinyangi.in/kbs/tags/iptables/</link>
       <pubDate>Sun, 24 May 2020 21:41:57 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/iptables/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/iptables/</guid>
       <description></description>
     </item>
     
     <item>
       <title>k8s</title>
-      <link>http://www.yinyangi.in/kbs/tags/k8s/</link>
+      <link>https://www.yinyangi.in/kbs/tags/k8s/</link>
       <pubDate>Sun, 24 May 2020 21:41:57 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/k8s/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/k8s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>writing</title>
-      <link>http://www.yinyangi.in/kbs/tags/writing/</link>
+      <link>https://www.yinyangi.in/kbs/tags/writing/</link>
       <pubDate>Thu, 21 May 2020 20:42:29 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/writing/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/writing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>acronyms</title>
-      <link>http://www.yinyangi.in/kbs/tags/acronyms/</link>
+      <link>https://www.yinyangi.in/kbs/tags/acronyms/</link>
       <pubDate>Thu, 21 May 2020 19:18:04 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/acronyms/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/acronyms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>communication</title>
-      <link>http://www.yinyangi.in/kbs/tags/communication/</link>
+      <link>https://www.yinyangi.in/kbs/tags/communication/</link>
       <pubDate>Thu, 21 May 2020 08:39:21 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/communication/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/communication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hn-post</title>
-      <link>http://www.yinyangi.in/kbs/tags/hn-post/</link>
+      <link>https://www.yinyangi.in/kbs/tags/hn-post/</link>
       <pubDate>Thu, 21 May 2020 08:39:21 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/hn-post/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/hn-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aws</title>
-      <link>http://www.yinyangi.in/kbs/tags/aws/</link>
+      <link>https://www.yinyangi.in/kbs/tags/aws/</link>
       <pubDate>Wed, 20 May 2020 22:16:17 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/aws/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>best-practices</title>
-      <link>http://www.yinyangi.in/kbs/tags/best-practices/</link>
+      <link>https://www.yinyangi.in/kbs/tags/best-practices/</link>
       <pubDate>Wed, 20 May 2020 22:16:17 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/best-practices/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/best-practices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>eks</title>
-      <link>http://www.yinyangi.in/kbs/tags/eks/</link>
+      <link>https://www.yinyangi.in/kbs/tags/eks/</link>
       <pubDate>Wed, 20 May 2020 22:16:17 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/eks/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/eks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cheatsheets</title>
-      <link>http://www.yinyangi.in/kbs/tags/cheatsheets/</link>
+      <link>https://www.yinyangi.in/kbs/tags/cheatsheets/</link>
       <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/cheatsheets/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/cheatsheets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>prometheus</title>
-      <link>http://www.yinyangi.in/kbs/tags/prometheus/</link>
+      <link>https://www.yinyangi.in/kbs/tags/prometheus/</link>
       <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/prometheus/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/prometheus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>promql</title>
-      <link>http://www.yinyangi.in/kbs/tags/promql/</link>
+      <link>https://www.yinyangi.in/kbs/tags/promql/</link>
       <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/promql/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/promql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http://www.yinyangi.in/kbs/tags/hugo/</link>
+      <link>https://www.yinyangi.in/kbs/tags/hugo/</link>
       <pubDate>Sun, 17 May 2020 18:54:04 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/tags/hugo/</guid>
+      <guid>https://www.yinyangi.in/kbs/tags/hugo/</guid>
       <description></description>
     </item>
     

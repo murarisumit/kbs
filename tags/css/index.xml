@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>css on Tils and bookmarks</title>
-    <link>http://www.yinyangi.in/kbs/tags/css/</link>
+    <link>https://www.yinyangi.in/kbs/tags/css/</link>
     <description>Recent content in css on Tils and bookmarks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 May 2020 23:23:53 +0530</lastBuildDate>
     
-	<atom:link href="http://www.yinyangi.in/kbs/tags/css/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.yinyangi.in/kbs/tags/css/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Why Normalize CSS</title>
-      <link>http://www.yinyangi.in/kbs/bookmark/why-normalize/</link>
+      <link>https://www.yinyangi.in/kbs/bookmark/why-normalize/</link>
       <pubDate>Sun, 24 May 2020 23:23:53 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/bookmark/why-normalize/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmark/why-normalize/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Change Orientation of an Image</title>
-      <link>http://www.yinyangi.in/kbs/til/change-orientation-of-an-image/</link>
+      <link>https://www.yinyangi.in/kbs/til/change-orientation-of-an-image/</link>
       <pubDate>Sun, 17 May 2020 17:30:23 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/til/change-orientation-of-an-image/</guid>
+      <guid>https://www.yinyangi.in/kbs/til/change-orientation-of-an-image/</guid>
       <description>A single-line CSS transform is all it takes to change the orientation of an image (or any DOM element, really).
 For instance, if I have an image that is on its side, I can use the following rotate transform to orient it correctly.
 1 2 3  img { transform: rotate(90deg); }   Testing you babay

@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bookmarks on Tils and bookmarks</title>
-    <link>http://www.yinyangi.in/kbs/bookmark/</link>
+    <link>https://www.yinyangi.in/kbs/bookmark/</link>
     <description>Recent content in Bookmarks on Tils and bookmarks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 May 2020 01:50:59 +0530</lastBuildDate>
     
-	<atom:link href="http://www.yinyangi.in/kbs/bookmark/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.yinyangi.in/kbs/bookmark/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pi Nfs Server</title>
-      <link>http://www.yinyangi.in/kbs/bookmark/pi-nfs-server/</link>
+      <link>https://www.yinyangi.in/kbs/bookmark/pi-nfs-server/</link>
       <pubDate>Sat, 30 May 2020 01:50:59 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/bookmark/pi-nfs-server/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmark/pi-nfs-server/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why Normalize CSS</title>
-      <link>http://www.yinyangi.in/kbs/bookmark/why-normalize/</link>
+      <link>https://www.yinyangi.in/kbs/bookmark/why-normalize/</link>
       <pubDate>Sun, 24 May 2020 23:23:53 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/bookmark/why-normalize/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmark/why-normalize/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K8s Node Local Dns Cache</title>
-      <link>http://www.yinyangi.in/kbs/bookmark/k8s-node-local-dns-cache/</link>
+      <link>https://www.yinyangi.in/kbs/bookmark/k8s-node-local-dns-cache/</link>
       <pubDate>Sun, 24 May 2020 21:41:57 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/bookmark/k8s-node-local-dns-cache/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmark/k8s-node-local-dns-cache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning to Write With Confidencce</title>
-      <link>http://www.yinyangi.in/kbs/bookmark/learning-to-write-with-confidence/</link>
+      <link>https://www.yinyangi.in/kbs/bookmark/learning-to-write-with-confidence/</link>
       <pubDate>Thu, 21 May 2020 20:42:29 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/bookmark/learning-to-write-with-confidence/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmark/learning-to-write-with-confidence/</guid>
       <description>Some notes Writing is Thinking  &amp;ldquo;Self-doubt can be an ally. This is because it serves as an indicator of aspiration. It reflects love, love of something we dream of doing, and desire, desire to do it. If you find yourself asking yourself (and your friends), &amp;ldquo;Am I really a writer? Am I really an artist?&amp;rdquo; chances are you are.&amp;rdquo; - The War of Art
   &amp;ldquo;Each time you write a page, you are a writer.</description>
     </item>
     
     <item>
       <title>Sell Yourself, Sell Your Work</title>
-      <link>http://www.yinyangi.in/kbs/bookmark/sell-yourself-sell-your-work/</link>
+      <link>https://www.yinyangi.in/kbs/bookmark/sell-yourself-sell-your-work/</link>
       <pubDate>Thu, 21 May 2020 08:39:21 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/bookmark/sell-yourself-sell-your-work/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmark/sell-yourself-sell-your-work/</guid>
       <description>Few notes Doing technically brilliant work may be enough for your personal gratification, but you should never think it&amp;rsquo;s enough. If you lock yourself in a room and do the most marvellous work but don&amp;rsquo;t tell anyone, then no one will know, no one will benefit, and the work will be lost. You may as well not have bothered. For the world to benefit from your work, and therefore for you to benefit fully from your work, you have to make it known.</description>
     </item>
     
     <item>
       <title>EKS Best Practices</title>
-      <link>http://www.yinyangi.in/kbs/bookmark/eks-best-practices/</link>
+      <link>https://www.yinyangi.in/kbs/bookmark/eks-best-practices/</link>
       <pubDate>Wed, 20 May 2020 22:16:17 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/bookmark/eks-best-practices/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmark/eks-best-practices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Promql cheatsheet</title>
-      <link>http://www.yinyangi.in/kbs/bookmark/promql/</link>
+      <link>https://www.yinyangi.in/kbs/bookmark/promql/</link>
       <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/bookmark/promql/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmark/promql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo the Scope the Context and the Dot</title>
-      <link>http://www.yinyangi.in/kbs/bookmark/hugo-the-scope-the-context-and-the-dot/</link>
+      <link>https://www.yinyangi.in/kbs/bookmark/hugo-the-scope-the-context-and-the-dot/</link>
       <pubDate>Sun, 17 May 2020 18:54:04 +0530</pubDate>
       
-      <guid>http://www.yinyangi.in/kbs/bookmark/hugo-the-scope-the-context-and-the-dot/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmark/hugo-the-scope-the-context-and-the-dot/</guid>
       <description></description>
     </item>
     
