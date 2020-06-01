@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>youtube on Tils and bookmarks</title>
-    <link>https://www.yinyangi.in/kbs/tags/youtube/</link>
-    <description>Recent content in youtube on Tils and bookmarks</description>
+    <title>www.youtube.com on Tils and bookmarks</title>
+    <link>https://www.yinyangi.in/kbs/sites/www.youtube.com/</link>
+    <description>Recent content in www.youtube.com on Tils and bookmarks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jun 2020 10:12:30 +0530</lastBuildDate>
     
-	<atom:link href="https://www.yinyangi.in/kbs/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.yinyangi.in/kbs/sites/www.youtube.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <description>External-love is what I&amp;rsquo;m going to give, not what I&amp;rsquo;m going to get.
 I good line that i need to keep in check is:
  &amp;ldquo;People make serious mistake in thinking, that you give to those who you love, and the answer is you love to those whom you give&amp;rdquo; His point is, if I give something to you, I have invested myself in you, since self-love is given everybody loves themselves, now that part of me has become in you, there is part of me in you that I love.</description>
-    </item>
-    
-    <item>
-      <title>Ctfs Are Awesome</title>
-      <link>https://www.yinyangi.in/kbs/bookmark/ctfs-are-awesome/</link>
-      <pubDate>Mon, 01 Jun 2020 07:01:13 +0530</pubDate>
-      
-      <guid>https://www.yinyangi.in/kbs/bookmark/ctfs-are-awesome/</guid>
-      <description></description>
     </item>
     
   </channel>
