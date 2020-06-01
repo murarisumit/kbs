@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>youtube on Tils and bookmarks</title>
+    <link>https://www.yinyangi.in/kbs/tags/youtube/</link>
+    <description>Recent content in youtube on Tils and bookmarks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jun 2020 07:01:13 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.yinyangi.in/kbs/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ctfs Are Awesome</title>
+      <link>https://www.yinyangi.in/kbs/bookmark/ctfs-are-awesome/</link>
+      <pubDate>Mon, 01 Jun 2020 07:01:13 +0530</pubDate>
+      
+      <guid>https://www.yinyangi.in/kbs/bookmark/ctfs-are-awesome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
