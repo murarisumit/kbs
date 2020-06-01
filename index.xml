@@ -6,10 +6,23 @@
     <description>Recent content on Tils and bookmarks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 10:12:30 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 13:42:43 +0530</lastBuildDate>
     
 	<atom:link href="https://www.yinyangi.in/kbs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Css Id vs Class</title>
+      <link>https://www.yinyangi.in/kbs/note/css-id-vs-class/</link>
+      <pubDate>Mon, 01 Jun 2020 13:42:43 +0530</pubDate>
+      
+      <guid>https://www.yinyangi.in/kbs/note/css-id-vs-class/</guid>
+      <description>Simple CSS question while working on resume project, is when to use id and when to use class.
+First thing to know about IDs:
+ IDs are unique
+ Browser knows a bit about IDs, this ID is what we see in fragment or hash-value. Browser uses this to reach parts various part of repo. So it has to be unique.
+For css it doesn&amp;rsquo;t matter it applies stying if you ask by #id_name or .</description>
+    </item>
     
     <item>
       <title>What Is Not Love</title>
@@ -17,7 +30,7 @@
       <pubDate>Mon, 01 Jun 2020 10:12:30 +0530</pubDate>
       
       <guid>https://www.yinyangi.in/kbs/bookmark/what-is-not-love/</guid>
-      <description>External-love is what I&amp;rsquo;m going to give, not what I&amp;rsquo;m going to get.
+      <description>External-love is what I&amp;rsquo;m going to give, not what I&amp;rsquo;m going to get. (This line is bit vague)
 I good line that i need to keep in check is:
  &amp;ldquo;People make serious mistake in thinking, that you give to those who you love, and the answer is you love to those whom you give&amp;rdquo; His point is, if I give something to you, I have invested myself in you, since self-love is given everybody loves themselves, now that part of me has become in you, there is part of me in you that I love.</description>
     </item>
