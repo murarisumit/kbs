@@ -3,36 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/tags/css/</loc>
-    <lastmod>2020-06-01T13:42:43+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/note/css-id-vs-class/</loc>
-    <lastmod>2020-06-01T13:42:43+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/note/</loc>
-    <lastmod>2020-06-01T13:42:43+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/tags/</loc>
-    <lastmod>2020-06-01T13:42:43+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/</loc>
-    <lastmod>2020-06-01T13:42:43+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/tags/why/</loc>
-    <lastmod>2020-06-01T13:42:43+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.yinyangi.in/kbs/bookmark/</loc>
     <lastmod>2020-06-01T10:12:30+05:30</lastmod>
   </url>
@@ -49,6 +19,16 @@
   
   <url>
     <loc>https://www.yinyangi.in/kbs/sites/</loc>
+    <lastmod>2020-06-01T10:12:30+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/tags/</loc>
+    <lastmod>2020-06-01T10:12:30+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/</loc>
     <lastmod>2020-06-01T10:12:30+05:30</lastmod>
   </url>
   
@@ -84,6 +64,11 @@
   
   <url>
     <loc>https://www.yinyangi.in/kbs/tags/lessons/</loc>
+    <lastmod>2020-05-31T15:15:50+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/note/</loc>
     <lastmod>2020-05-31T15:15:50+05:30</lastmod>
   </url>
   
@@ -140,6 +125,11 @@
   <url>
     <loc>https://www.yinyangi.in/kbs/til/</loc>
     <lastmod>2020-05-25T09:24:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/tags/css/</loc>
+    <lastmod>2020-05-24T23:23:53+05:30</lastmod>
   </url>
   
   <url>

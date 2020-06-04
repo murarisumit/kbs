@@ -6,23 +6,10 @@
     <description>Recent content on Tils and bookmarks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 13:42:43 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 10:12:30 +0530</lastBuildDate>
     
 	<atom:link href="https://www.yinyangi.in/kbs/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Css Id vs Class</title>
-      <link>https://www.yinyangi.in/kbs/note/css-id-vs-class/</link>
-      <pubDate>Mon, 01 Jun 2020 13:42:43 +0530</pubDate>
-      
-      <guid>https://www.yinyangi.in/kbs/note/css-id-vs-class/</guid>
-      <description>Simple CSS question while working on resume project, is when to use id and when to use class.
-First thing to know about IDs:
- IDs are unique
- Browser knows a bit about IDs, this ID is what we see in fragment or hash-value. Browser uses this to reach parts various part of repo. So it has to be unique.
-For css it doesn&amp;rsquo;t matter it applies stying if you ask by #id_name or .</description>
-    </item>
     
     <item>
       <title>What Is Not Love</title>
