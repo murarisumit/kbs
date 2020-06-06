@@ -5,7 +5,7 @@
 body {
     align-items: center;
     display: flex;
-    font: .8rem/1rem Verdana, Geneva, Tahoma, sans-serif;
+    font:.8rem/1rem Verdana, Geneva, Tahoma, sans-serif;
     flex-direction: column;
     justify-content: center;
 }
@@ -99,7 +99,6 @@ ul.pagination {
     display: flex;
     list-style: none;
 }
-
 
 ul.pagination li {
     margin: 0 .4rem 0 0;

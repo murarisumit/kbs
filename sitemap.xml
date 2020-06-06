@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>https://www.yinyangi.in/kbs/category/bookmarks/</loc>
+    <lastmod>2020-06-07T04:13:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/category/</loc>
+    <lastmod>2020-06-07T04:13:47+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.yinyangi.in/kbs/tags/decentralization/</loc>
     <lastmod>2020-06-07T04:13:47+05:30</lastmod>
   </url>
@@ -108,6 +118,26 @@
   </url>
   
   <url>
+    <loc>https://www.yinyangi.in/kbs/category/tils/</loc>
+    <lastmod>2020-06-05T02:37:08+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/tags/css/</loc>
+    <lastmod>2020-06-01T13:42:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/note/css-id-vs-class/</loc>
+    <lastmod>2020-06-01T13:42:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/note/</loc>
+    <lastmod>2020-06-01T13:42:43+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.yinyangi.in/kbs/tags/emotions/</loc>
     <lastmod>2020-06-01T10:12:30+05:30</lastmod>
   </url>
@@ -153,7 +183,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/note/</loc>
+    <loc>https://www.yinyangi.in/kbs/category/notes/</loc>
     <lastmod>2020-05-31T15:15:50+05:30</lastmod>
   </url>
   
@@ -205,11 +235,6 @@
   <url>
     <loc>https://www.yinyangi.in/kbs/tags/osi-layer2/</loc>
     <lastmod>2020-05-25T09:24:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/tags/css/</loc>
-    <lastmod>2020-05-24T23:23:53+05:30</lastmod>
   </url>
   
   <url>
@@ -378,12 +403,13 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/til/change-orientation-of-an-image/</loc>
-    <lastmod>2020-05-17T17:30:23+05:30</lastmod>
+    <loc>https://www.yinyangi.in/kbs/category/snippets/</loc>
+    <lastmod>2020-05-17T18:09:46+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/categories/</loc>
+    <loc>https://www.yinyangi.in/kbs/til/change-orientation-of-an-image/</loc>
+    <lastmod>2020-05-17T17:30:23+05:30</lastmod>
   </url>
   
 </urlset>
