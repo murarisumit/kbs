@@ -13,10 +13,10 @@
     
     <item>
       <title>IPv4 Link Local</title>
-      <link>https://www.yinyangi.in/kbs/til/ipv4-link-local/</link>
+      <link>https://www.yinyangi.in/kbs/tils/ipv4-link-local/</link>
       <pubDate>Mon, 25 May 2020 09:24:33 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/til/ipv4-link-local/</guid>
+      <guid>https://www.yinyangi.in/kbs/tils/ipv4-link-local/</guid>
       <description>To participate in wide-area IP networking, a host needs to be configured with IP addresses for its interfaces, either manually by the user or automatically from a source on the network such as a Dynamic Host Configuration Protocol (DHCP) server. Unfortunately, such address configuration information may not always be available. It is therefore beneficial for a host to be able to depend on a useful subset of IP networking functions even when no address configuration is available.</description>
     </item>
     

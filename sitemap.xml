@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/bookmark/</loc>
+    <loc>https://www.yinyangi.in/kbs/bookmarks/</loc>
     <lastmod>2020-06-07T04:13:47+05:30</lastmod>
   </url>
   
@@ -28,7 +28,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/bookmark/federation-is-worst-of-all-worlds/</loc>
+    <loc>https://www.yinyangi.in/kbs/bookmarks/federation-is-worst-of-all-worlds/</loc>
     <lastmod>2020-06-07T04:13:47+05:30</lastmod>
   </url>
   
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/bookmark/learn-go-with-tests/</loc>
+    <loc>https://www.yinyangi.in/kbs/bookmarks/learn-go-with-tests/</loc>
     <lastmod>2020-06-07T04:09:38+05:30</lastmod>
   </url>
   
@@ -88,7 +88,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/bookmark/understanding-the-bin-sbin-usr-sbin-split/</loc>
+    <loc>https://www.yinyangi.in/kbs/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</loc>
     <lastmod>2020-06-07T04:06:21+05:30</lastmod>
   </url>
   
@@ -98,7 +98,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/til/abrahamic-history-lengend-mythology/</loc>
+    <loc>https://www.yinyangi.in/kbs/tils/abrahamic-history-lengend-mythology/</loc>
     <lastmod>2020-06-05T02:37:08+05:30</lastmod>
   </url>
   
@@ -113,7 +113,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/til/</loc>
+    <loc>https://www.yinyangi.in/kbs/tils/</loc>
     <lastmod>2020-06-05T02:37:08+05:30</lastmod>
   </url>
   
@@ -128,12 +128,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/note/css-id-vs-class/</loc>
-    <lastmod>2020-06-01T13:42:43+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/note/</loc>
+    <loc>https://www.yinyangi.in/kbs/tils/css-id-vs-class/</loc>
     <lastmod>2020-06-01T13:42:43+05:30</lastmod>
   </url>
   
@@ -148,7 +143,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/bookmark/what-is-not-love/</loc>
+    <loc>https://www.yinyangi.in/kbs/bookmarks/what-is-not-love/</loc>
     <lastmod>2020-06-01T10:12:30+05:30</lastmod>
   </url>
   
@@ -168,7 +163,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/bookmark/ctfs-are-awesome/</loc>
+    <loc>https://www.yinyangi.in/kbs/bookmarks/ctfs-are-awesome/</loc>
     <lastmod>2020-06-01T07:01:13+05:30</lastmod>
   </url>
   
@@ -178,12 +173,22 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/tags/lessons/</loc>
+    <loc>https://www.yinyangi.in/kbs/decisions/</loc>
     <lastmod>2020-05-31T15:15:50+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/category/notes/</loc>
+    <loc>https://www.yinyangi.in/kbs/tags/decisions/</loc>
+    <lastmod>2020-05-31T15:15:50+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/category/decisions/</loc>
+    <lastmod>2020-05-31T15:15:50+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/tags/lessons/</loc>
     <lastmod>2020-05-31T15:15:50+05:30</lastmod>
   </url>
   
@@ -193,7 +198,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/note/why-stopping-vim-now/</loc>
+    <loc>https://www.yinyangi.in/kbs/decisions/why-stopping-vim-now/</loc>
     <lastmod>2020-05-31T15:15:50+05:30</lastmod>
   </url>
   
@@ -208,7 +213,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/bookmark/pi-nfs-server/</loc>
+    <loc>https://www.yinyangi.in/kbs/bookmarks/pi-nfs-server/</loc>
     <lastmod>2020-05-30T01:50:59+05:30</lastmod>
   </url>
   
@@ -223,7 +228,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/til/ipv4-link-local/</loc>
+    <loc>https://www.yinyangi.in/kbs/tils/ipv4-link-local/</loc>
     <lastmod>2020-05-25T09:24:33+05:30</lastmod>
   </url>
   
@@ -243,7 +248,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/bookmark/why-normalize/</loc>
+    <loc>https://www.yinyangi.in/kbs/bookmarks/why-normalize/</loc>
     <lastmod>2020-05-24T23:23:53+05:30</lastmod>
   </url>
   
@@ -273,7 +278,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/bookmark/k8s-node-local-dns-cache/</loc>
+    <loc>https://www.yinyangi.in/kbs/bookmarks/k8s-node-local-dns-cache/</loc>
     <lastmod>2020-05-24T21:41:57+05:30</lastmod>
   </url>
   
@@ -288,7 +293,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/bookmark/learning-to-write-with-confidence/</loc>
+    <loc>https://www.yinyangi.in/kbs/bookmarks/learning-to-write-with-confidence/</loc>
     <lastmod>2020-05-21T20:42:29+05:30</lastmod>
   </url>
   
@@ -303,7 +308,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/til/kiss/</loc>
+    <loc>https://www.yinyangi.in/kbs/tils/kiss/</loc>
     <lastmod>2020-05-21T19:18:04+05:30</lastmod>
   </url>
   
@@ -318,7 +323,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/bookmark/sell-yourself-sell-your-work/</loc>
+    <loc>https://www.yinyangi.in/kbs/bookmarks/sell-yourself-sell-your-work/</loc>
     <lastmod>2020-05-21T08:39:21+05:30</lastmod>
   </url>
   
@@ -348,7 +353,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/bookmark/eks-best-practices/</loc>
+    <loc>https://www.yinyangi.in/kbs/bookmarks/eks-best-practices/</loc>
     <lastmod>2020-05-20T22:16:17+05:30</lastmod>
   </url>
   
@@ -373,7 +378,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/bookmark/promql/</loc>
+    <loc>https://www.yinyangi.in/kbs/bookmarks/promql/</loc>
     <lastmod>2020-05-20T22:04:04+05:30</lastmod>
   </url>
   
@@ -383,7 +388,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/bookmark/hugo-the-scope-the-context-and-the-dot/</loc>
+    <loc>https://www.yinyangi.in/kbs/bookmarks/hugo-the-scope-the-context-and-the-dot/</loc>
     <lastmod>2020-05-17T18:54:04+05:30</lastmod>
   </url>
   
@@ -393,12 +398,12 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/snippet/hugo-tags-list/</loc>
+    <loc>https://www.yinyangi.in/kbs/snippets/hugo-tags-list/</loc>
     <lastmod>2020-05-17T18:09:46+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/snippet/</loc>
+    <loc>https://www.yinyangi.in/kbs/snippets/</loc>
     <lastmod>2020-05-17T18:09:46+05:30</lastmod>
   </url>
   
@@ -408,7 +413,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/til/change-orientation-of-an-image/</loc>
+    <loc>https://www.yinyangi.in/kbs/tils/change-orientation-of-an-image/</loc>
     <lastmod>2020-05-17T17:30:23+05:30</lastmod>
   </url>
   

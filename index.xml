@@ -13,37 +13,37 @@
     
     <item>
       <title>Federation Is Worst of All Worlds</title>
-      <link>https://www.yinyangi.in/kbs/bookmark/federation-is-worst-of-all-worlds/</link>
+      <link>https://www.yinyangi.in/kbs/bookmarks/federation-is-worst-of-all-worlds/</link>
       <pubDate>Sun, 07 Jun 2020 04:13:47 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmark/federation-is-worst-of-all-worlds/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmarks/federation-is-worst-of-all-worlds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn Go With Tests</title>
-      <link>https://www.yinyangi.in/kbs/bookmark/learn-go-with-tests/</link>
+      <link>https://www.yinyangi.in/kbs/bookmarks/learn-go-with-tests/</link>
       <pubDate>Sun, 07 Jun 2020 04:09:38 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmark/learn-go-with-tests/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmarks/learn-go-with-tests/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding the /bin, /sbin, /usr/sbin Split</title>
-      <link>https://www.yinyangi.in/kbs/bookmark/understanding-the-bin-sbin-usr-sbin-split/</link>
+      <link>https://www.yinyangi.in/kbs/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</link>
       <pubDate>Sun, 07 Jun 2020 04:06:21 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmark/understanding-the-bin-sbin-usr-sbin-split/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abrahamic History, Lengend and Mythology</title>
-      <link>https://www.yinyangi.in/kbs/til/abrahamic-history-lengend-mythology/</link>
+      <link>https://www.yinyangi.in/kbs/tils/abrahamic-history-lengend-mythology/</link>
       <pubDate>Fri, 05 Jun 2020 02:37:08 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/til/abrahamic-history-lengend-mythology/</guid>
+      <guid>https://www.yinyangi.in/kbs/tils/abrahamic-history-lengend-mythology/</guid>
       <description>There is set of religions that come from Abrahim. I was trying to understand how they all are related.
 There are three abrahamic religions
  Judaism Christanity Islam  Q: Who is Abramhim ?
@@ -52,10 +52,10 @@ There are three abrahamic religions
     
     <item>
       <title>Css Id vs Class</title>
-      <link>https://www.yinyangi.in/kbs/note/css-id-vs-class/</link>
+      <link>https://www.yinyangi.in/kbs/tils/css-id-vs-class/</link>
       <pubDate>Mon, 01 Jun 2020 13:42:43 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/note/css-id-vs-class/</guid>
+      <guid>https://www.yinyangi.in/kbs/tils/css-id-vs-class/</guid>
       <description>Simple CSS question while working on resume project, is when to use id and when to use class.
 First thing to know about IDs:
  IDs are unique
@@ -65,10 +65,10 @@ For css it doesn&amp;rsquo;t matter it applies stying if you ask by #id_name or 
     
     <item>
       <title>What Is Not Love</title>
-      <link>https://www.yinyangi.in/kbs/bookmark/what-is-not-love/</link>
+      <link>https://www.yinyangi.in/kbs/bookmarks/what-is-not-love/</link>
       <pubDate>Mon, 01 Jun 2020 10:12:30 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmark/what-is-not-love/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmarks/what-is-not-love/</guid>
       <description>External-love is what I&amp;rsquo;m going to give, not what I&amp;rsquo;m going to get. (This line is bit vague)
 I good line that i need to keep in check is:
  &amp;ldquo;People make serious mistake in thinking, that you give to those who you love, and the answer is you love to those whom you give&amp;rdquo; His point is, if I give something to you, I have invested myself in you, since self-love is given everybody loves themselves, now that part of me has become in you, there is part of me in you that I love.</description>
@@ -76,19 +76,19 @@ I good line that i need to keep in check is:
     
     <item>
       <title>Ctfs Are Awesome</title>
-      <link>https://www.yinyangi.in/kbs/bookmark/ctfs-are-awesome/</link>
+      <link>https://www.yinyangi.in/kbs/bookmarks/ctfs-are-awesome/</link>
       <pubDate>Mon, 01 Jun 2020 07:01:13 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmark/ctfs-are-awesome/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmarks/ctfs-are-awesome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why Stopping Vim Now</title>
-      <link>https://www.yinyangi.in/kbs/note/why-stopping-vim-now/</link>
+      <link>https://www.yinyangi.in/kbs/decisions/why-stopping-vim-now/</link>
       <pubDate>Sun, 31 May 2020 15:15:50 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/note/why-stopping-vim-now/</guid>
+      <guid>https://www.yinyangi.in/kbs/decisions/why-stopping-vim-now/</guid>
       <description>While learning more about tools for the trade, vim was the tool that was thrown at me a lot. This tool took a long time, because I went the wrong route and was trying to use it as IDE not how it was intended.
 The way I started was at first, moved to config and plugin, instead of getting comfortable with vim-help, docs or core-vim without any setting.
 I learnt a few things here like vim-fugitive, it&amp;rsquo;s a great plugin, and alone it makes vim a treat to use.</description>
@@ -96,56 +96,56 @@ I learnt a few things here like vim-fugitive, it&amp;rsquo;s a great plugin, and
     
     <item>
       <title>Pi Nfs Server</title>
-      <link>https://www.yinyangi.in/kbs/bookmark/pi-nfs-server/</link>
+      <link>https://www.yinyangi.in/kbs/bookmarks/pi-nfs-server/</link>
       <pubDate>Sat, 30 May 2020 01:50:59 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmark/pi-nfs-server/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmarks/pi-nfs-server/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IPv4 Link Local</title>
-      <link>https://www.yinyangi.in/kbs/til/ipv4-link-local/</link>
+      <link>https://www.yinyangi.in/kbs/tils/ipv4-link-local/</link>
       <pubDate>Mon, 25 May 2020 09:24:33 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/til/ipv4-link-local/</guid>
+      <guid>https://www.yinyangi.in/kbs/tils/ipv4-link-local/</guid>
       <description>To participate in wide-area IP networking, a host needs to be configured with IP addresses for its interfaces, either manually by the user or automatically from a source on the network such as a Dynamic Host Configuration Protocol (DHCP) server. Unfortunately, such address configuration information may not always be available. It is therefore beneficial for a host to be able to depend on a useful subset of IP networking functions even when no address configuration is available.</description>
     </item>
     
     <item>
       <title>Why Normalize CSS</title>
-      <link>https://www.yinyangi.in/kbs/bookmark/why-normalize/</link>
+      <link>https://www.yinyangi.in/kbs/bookmarks/why-normalize/</link>
       <pubDate>Sun, 24 May 2020 23:23:53 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmark/why-normalize/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmarks/why-normalize/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K8s Node Local Dns Cache</title>
-      <link>https://www.yinyangi.in/kbs/bookmark/k8s-node-local-dns-cache/</link>
+      <link>https://www.yinyangi.in/kbs/bookmarks/k8s-node-local-dns-cache/</link>
       <pubDate>Sun, 24 May 2020 21:41:57 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmark/k8s-node-local-dns-cache/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmarks/k8s-node-local-dns-cache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning to Write With Confidencce</title>
-      <link>https://www.yinyangi.in/kbs/bookmark/learning-to-write-with-confidence/</link>
+      <link>https://www.yinyangi.in/kbs/bookmarks/learning-to-write-with-confidence/</link>
       <pubDate>Thu, 21 May 2020 20:42:29 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmark/learning-to-write-with-confidence/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmarks/learning-to-write-with-confidence/</guid>
       <description>Some notes Writing is Thinking  &amp;ldquo;Self-doubt can be an ally. This is because it serves as an indicator of aspiration. It reflects love, love of something we dream of doing, and desire, desire to do it. If you find yourself asking yourself (and your friends), &amp;ldquo;Am I really a writer? Am I really an artist?&amp;rdquo; chances are you are.&amp;rdquo; - The War of Art
   &amp;ldquo;Each time you write a page, you are a writer.</description>
     </item>
     
     <item>
       <title>KISS</title>
-      <link>https://www.yinyangi.in/kbs/til/kiss/</link>
+      <link>https://www.yinyangi.in/kbs/tils/kiss/</link>
       <pubDate>Thu, 21 May 2020 19:18:04 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/til/kiss/</guid>
+      <guid>https://www.yinyangi.in/kbs/tils/kiss/</guid>
       <description>KISS is an acronym for &amp;ldquo;Keep it simple stupid&amp;rdquo; (notice no comma).
 Stupid does not refer to the user. To quote Wikipedia:
  The principle is best exemplified by the story of Johnson handing a team of design engineers a handful of tools, with the challenge that the jet aircraft they were designing must be repairable by
@@ -154,56 +154,56 @@ an average mechanic in the field under combat conditions with only these tools.<
     
     <item>
       <title>Sell Yourself, Sell Your Work</title>
-      <link>https://www.yinyangi.in/kbs/bookmark/sell-yourself-sell-your-work/</link>
+      <link>https://www.yinyangi.in/kbs/bookmarks/sell-yourself-sell-your-work/</link>
       <pubDate>Thu, 21 May 2020 08:39:21 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmark/sell-yourself-sell-your-work/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmarks/sell-yourself-sell-your-work/</guid>
       <description>Few notes Doing technically brilliant work may be enough for your personal gratification, but you should never think it&amp;rsquo;s enough. If you lock yourself in a room and do the most marvellous work but don&amp;rsquo;t tell anyone, then no one will know, no one will benefit, and the work will be lost. You may as well not have bothered. For the world to benefit from your work, and therefore for you to benefit fully from your work, you have to make it known.</description>
     </item>
     
     <item>
       <title>EKS Best Practices</title>
-      <link>https://www.yinyangi.in/kbs/bookmark/eks-best-practices/</link>
+      <link>https://www.yinyangi.in/kbs/bookmarks/eks-best-practices/</link>
       <pubDate>Wed, 20 May 2020 22:16:17 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmark/eks-best-practices/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmarks/eks-best-practices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Promql cheatsheet</title>
-      <link>https://www.yinyangi.in/kbs/bookmark/promql/</link>
+      <link>https://www.yinyangi.in/kbs/bookmarks/promql/</link>
       <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmark/promql/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmarks/promql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo the Scope the Context and the Dot</title>
-      <link>https://www.yinyangi.in/kbs/bookmark/hugo-the-scope-the-context-and-the-dot/</link>
+      <link>https://www.yinyangi.in/kbs/bookmarks/hugo-the-scope-the-context-and-the-dot/</link>
       <pubDate>Sun, 17 May 2020 18:54:04 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmark/hugo-the-scope-the-context-and-the-dot/</guid>
+      <guid>https://www.yinyangi.in/kbs/bookmarks/hugo-the-scope-the-context-and-the-dot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo Tags List</title>
-      <link>https://www.yinyangi.in/kbs/snippet/hugo-tags-list/</link>
+      <link>https://www.yinyangi.in/kbs/snippets/hugo-tags-list/</link>
       <pubDate>Sun, 17 May 2020 18:09:46 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/snippet/hugo-tags-list/</guid>
+      <guid>https://www.yinyangi.in/kbs/snippets/hugo-tags-list/</guid>
       <description>A simple snippet i found to fetch all tags, and still to read it up
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32  {{ if ne .Site.Params.TagsInHome 0 }} {{ $randTags := (slice)}} {{ range $name, $taxonomy := .Site.Taxonomies.tags }} {{ $randTags = $randTags | append $name }} {{ end }} {{ $randTags = sort (first .</description>
     </item>
     
     <item>
       <title>Change Orientation of an Image</title>
-      <link>https://www.yinyangi.in/kbs/til/change-orientation-of-an-image/</link>
+      <link>https://www.yinyangi.in/kbs/tils/change-orientation-of-an-image/</link>
       <pubDate>Sun, 17 May 2020 17:30:23 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/til/change-orientation-of-an-image/</guid>
+      <guid>https://www.yinyangi.in/kbs/tils/change-orientation-of-an-image/</guid>
       <description>A single-line CSS transform is all it takes to change the orientation of an image (or any DOM element, really).
 For instance, if I have an image that is on its side, I can use the following rotate transform to orient it correctly.
 1 2 3  img { transform: rotate(90deg); }   Testing you babay

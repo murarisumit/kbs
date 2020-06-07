@@ -13,10 +13,10 @@
     
     <item>
       <title>Abrahamic History, Lengend and Mythology</title>
-      <link>https://www.yinyangi.in/kbs/til/abrahamic-history-lengend-mythology/</link>
+      <link>https://www.yinyangi.in/kbs/tils/abrahamic-history-lengend-mythology/</link>
       <pubDate>Fri, 05 Jun 2020 02:37:08 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/til/abrahamic-history-lengend-mythology/</guid>
+      <guid>https://www.yinyangi.in/kbs/tils/abrahamic-history-lengend-mythology/</guid>
       <description>There is set of religions that come from Abrahim. I was trying to understand how they all are related.
 There are three abrahamic religions
  Judaism Christanity Islam  Q: Who is Abramhim ?
@@ -24,20 +24,33 @@ There are three abrahamic religions
     </item>
     
     <item>
+      <title>Css Id vs Class</title>
+      <link>https://www.yinyangi.in/kbs/tils/css-id-vs-class/</link>
+      <pubDate>Mon, 01 Jun 2020 13:42:43 +0530</pubDate>
+      
+      <guid>https://www.yinyangi.in/kbs/tils/css-id-vs-class/</guid>
+      <description>Simple CSS question while working on resume project, is when to use id and when to use class.
+First thing to know about IDs:
+ IDs are unique
+ Browser knows a bit about IDs, this ID is what we see in fragment or hash-value. Browser uses this to reach parts various part of repo. So it has to be unique.
+For css it doesn&amp;rsquo;t matter it applies stying if you ask by #id_name or .</description>
+    </item>
+    
+    <item>
       <title>IPv4 Link Local</title>
-      <link>https://www.yinyangi.in/kbs/til/ipv4-link-local/</link>
+      <link>https://www.yinyangi.in/kbs/tils/ipv4-link-local/</link>
       <pubDate>Mon, 25 May 2020 09:24:33 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/til/ipv4-link-local/</guid>
+      <guid>https://www.yinyangi.in/kbs/tils/ipv4-link-local/</guid>
       <description>To participate in wide-area IP networking, a host needs to be configured with IP addresses for its interfaces, either manually by the user or automatically from a source on the network such as a Dynamic Host Configuration Protocol (DHCP) server. Unfortunately, such address configuration information may not always be available. It is therefore beneficial for a host to be able to depend on a useful subset of IP networking functions even when no address configuration is available.</description>
     </item>
     
     <item>
       <title>KISS</title>
-      <link>https://www.yinyangi.in/kbs/til/kiss/</link>
+      <link>https://www.yinyangi.in/kbs/tils/kiss/</link>
       <pubDate>Thu, 21 May 2020 19:18:04 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/til/kiss/</guid>
+      <guid>https://www.yinyangi.in/kbs/tils/kiss/</guid>
       <description>KISS is an acronym for &amp;ldquo;Keep it simple stupid&amp;rdquo; (notice no comma).
 Stupid does not refer to the user. To quote Wikipedia:
  The principle is best exemplified by the story of Johnson handing a team of design engineers a handful of tools, with the challenge that the jet aircraft they were designing must be repairable by
@@ -46,10 +59,10 @@ an average mechanic in the field under combat conditions with only these tools.<
     
     <item>
       <title>Change Orientation of an Image</title>
-      <link>https://www.yinyangi.in/kbs/til/change-orientation-of-an-image/</link>
+      <link>https://www.yinyangi.in/kbs/tils/change-orientation-of-an-image/</link>
       <pubDate>Sun, 17 May 2020 17:30:23 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/til/change-orientation-of-an-image/</guid>
+      <guid>https://www.yinyangi.in/kbs/tils/change-orientation-of-an-image/</guid>
       <description>A single-line CSS transform is all it takes to change the orientation of an image (or any DOM element, really).
 For instance, if I have an image that is on its side, I can use the following rotate transform to orient it correctly.
 1 2 3  img { transform: rotate(90deg); }   Testing you babay
