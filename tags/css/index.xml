@@ -30,7 +30,9 @@ For css it doesn&amp;rsquo;t matter it applies stying if you ask by #id_name or 
       <pubDate>Sun, 24 May 2020 23:23:53 +0530</pubDate>
       
       <guid>https://www.yinyangi.in/kbs/bookmarks/why-normalize/</guid>
-      <description></description>
+      <description>Normalize.css is a small CSS file that provides better cross-browser consistency in the default styling of HTML elements. It’s a modern, HTML5-ready, alternative to the traditional CSS reset.
+The aims of normalize.css are as follows:
+ Preserve useful browser defaults rather than erasing them. Normalize styles for a wide range of HTML elements. Correct bugs and common browser inconsistencies. Improve usability with subtle improvements. Explain the code using comments and detailed documentation.</description>
     </item>
     
     <item>
