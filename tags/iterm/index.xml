@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iterm on knowledge base</title>
+    <link>https://www.yinyangi.in/kbs/tags/iterm/</link>
+    <description>Recent content in iterm on knowledge base</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jun 2020 00:22:04 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.yinyangi.in/kbs/tags/iterm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How I Use Tmux</title>
+      <link>https://www.yinyangi.in/kbs/bookmarks/how-i-use-tmux/</link>
+      <pubDate>Tue, 09 Jun 2020 00:22:04 +0530</pubDate>
+      
+      <guid>https://www.yinyangi.in/kbs/bookmarks/how-i-use-tmux/</guid>
+      <description>For MacOS, I chose iTerm2 because it’s able to send a series of hex codes to the terminal via a keybind. Again, if I am using tmux through ssh, I can still use the keybindings, as if tmux were running locally.
+Setting up the keybinds is not the most straightforward process. In the iTerm2 Settings &amp;gt; Profiles &amp;gt; Keys, I added new keybindings with the &amp;ldquo;+&amp;rdquo; button. And in the dialog dropdown, I chose &amp;ldquo;Send Hex Code.</description>
+    </item>
+    
+  </channel>
+</rss>

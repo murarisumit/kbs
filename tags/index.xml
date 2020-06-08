@@ -6,10 +6,37 @@
     <description>Recent content in Tags on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jun 2020 04:13:47 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 00:22:04 +0530</lastBuildDate>
     
 	<atom:link href="https://www.yinyangi.in/kbs/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>iterm</title>
+      <link>https://www.yinyangi.in/kbs/tags/iterm/</link>
+      <pubDate>Tue, 09 Jun 2020 00:22:04 +0530</pubDate>
+      
+      <guid>https://www.yinyangi.in/kbs/tags/iterm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>setup</title>
+      <link>https://www.yinyangi.in/kbs/tags/setup/</link>
+      <pubDate>Tue, 09 Jun 2020 00:22:04 +0530</pubDate>
+      
+      <guid>https://www.yinyangi.in/kbs/tags/setup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tmux</title>
+      <link>https://www.yinyangi.in/kbs/tags/tmux/</link>
+      <pubDate>Tue, 09 Jun 2020 00:22:04 +0530</pubDate>
+      
+      <guid>https://www.yinyangi.in/kbs/tags/tmux/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>decentralization</title>

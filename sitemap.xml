@@ -4,17 +4,47 @@
   
   <url>
     <loc>https://www.yinyangi.in/kbs/bookmarks/</loc>
-    <lastmod>2020-06-07T04:13:47+05:30</lastmod>
+    <lastmod>2020-06-09T00:22:04+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.yinyangi.in/kbs/category/bookmarks/</loc>
-    <lastmod>2020-06-07T04:13:47+05:30</lastmod>
+    <lastmod>2020-06-09T00:22:04+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.yinyangi.in/kbs/category/</loc>
-    <lastmod>2020-06-07T04:13:47+05:30</lastmod>
+    <lastmod>2020-06-09T00:22:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/bookmarks/how-i-use-tmux/</loc>
+    <lastmod>2020-06-09T00:22:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/tags/iterm/</loc>
+    <lastmod>2020-06-09T00:22:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/</loc>
+    <lastmod>2020-06-09T00:22:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/tags/setup/</loc>
+    <lastmod>2020-06-09T00:22:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/tags/</loc>
+    <lastmod>2020-06-09T00:22:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/tags/tmux/</loc>
+    <lastmod>2020-06-09T00:22:04+05:30</lastmod>
   </url>
   
   <url>
@@ -38,17 +68,7 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/</loc>
-    <lastmod>2020-06-07T04:13:47+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.yinyangi.in/kbs/sites/</loc>
-    <lastmod>2020-06-07T04:13:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/tags/</loc>
     <lastmod>2020-06-07T04:13:47+05:30</lastmod>
   </url>
   
@@ -415,6 +435,10 @@
   <url>
     <loc>https://www.yinyangi.in/kbs/tils/change-orientation-of-an-image/</loc>
     <lastmod>2020-05-17T17:30:23+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/sites/https/jeffawang.com/</loc>
   </url>
   
 </urlset>
