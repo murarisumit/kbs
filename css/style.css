@@ -10,6 +10,14 @@ body {
     justify-content: center;
 }
 
+blockquote {
+    background-color: #faebbc;
+    padding-top: 0.01rem;
+    padding-bottom: 0.01rem;
+    padding-left: 1rem;
+    border-left: 0.1rem solid #ccc;
+}
+
 .item {
     margin-bottom: 0.6rem;
 }
