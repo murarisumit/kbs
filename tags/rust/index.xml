@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rust on knowledge base</title>
+    <link>https://www.yinyangi.in/kbs/tags/rust/</link>
+    <description>Recent content in rust on knowledge base</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jun 2020 12:40:19 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.yinyangi.in/kbs/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rust Zero Cost Abstractions</title>
+      <link>https://www.yinyangi.in/kbs/bookmarks/rust-zero-cost-abstractions/</link>
+      <pubDate>Fri, 12 Jun 2020 12:40:19 +0530</pubDate>
+      
+      <guid>https://www.yinyangi.in/kbs/bookmarks/rust-zero-cost-abstractions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

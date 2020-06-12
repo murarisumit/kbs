@@ -3,37 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.yinyangi.in/kbs/tags/abstraction/</loc>
+    <lastmod>2020-06-12T14:31:26+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.yinyangi.in/kbs/bookmarks/</loc>
-    <lastmod>2020-06-12T09:36:24+05:30</lastmod>
+    <lastmod>2020-06-12T14:31:26+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.yinyangi.in/kbs/category/bookmarks/</loc>
-    <lastmod>2020-06-12T09:36:24+05:30</lastmod>
+    <lastmod>2020-06-12T14:31:26+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.yinyangi.in/kbs/category/</loc>
-    <lastmod>2020-06-12T09:36:24+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/tags/keyboard-shortcuts/</loc>
-    <lastmod>2020-06-12T09:36:24+05:30</lastmod>
+    <lastmod>2020-06-12T14:31:26+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.yinyangi.in/kbs/</loc>
-    <lastmod>2020-06-12T09:36:24+05:30</lastmod>
+    <lastmod>2020-06-12T14:31:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/tags/python/</loc>
+    <lastmod>2020-06-12T14:31:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/sites/ruudvanasseldonk.com/</loc>
+    <lastmod>2020-06-12T14:31:26+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.yinyangi.in/kbs/sites/</loc>
-    <lastmod>2020-06-12T09:36:24+05:30</lastmod>
+    <lastmod>2020-06-12T14:31:26+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.yinyangi.in/kbs/tags/</loc>
+    <lastmod>2020-06-12T14:31:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/tags/virtualenv/</loc>
+    <lastmod>2020-06-12T14:31:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/bookmarks/working-on-virtualenv-without-magic/</loc>
+    <lastmod>2020-06-12T14:31:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/tags/beautiful/</loc>
+    <lastmod>2020-06-12T14:19:12+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/bookmarks/beautiful-static-site/</loc>
+    <lastmod>2020-06-12T14:19:12+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/sites/github.com/</loc>
+    <lastmod>2020-06-12T14:19:12+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/tags/static-sites/</loc>
+    <lastmod>2020-06-12T14:19:12+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/tags/themes/</loc>
+    <lastmod>2020-06-12T14:19:12+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/tags/rust/</loc>
+    <lastmod>2020-06-12T12:40:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/bookmarks/rust-zero-cost-abstractions/</loc>
+    <lastmod>2020-06-12T12:40:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/tags/keyboard-shortcuts/</loc>
     <lastmod>2020-06-12T09:36:24+05:30</lastmod>
   </url>
   
@@ -50,61 +110,6 @@
   <url>
     <loc>https://www.yinyangi.in/kbs/sites/zellwk.com/</loc>
     <lastmod>2020-06-12T09:36:24+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/bookmarks/alan-ka-a-powerful-idea-about-idea/</loc>
-    <lastmod>2020-06-10T09:37:40+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/tags/alan_kay/</loc>
-    <lastmod>2020-06-10T09:37:40+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/tags/learning/</loc>
-    <lastmod>2020-06-10T09:37:40+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/sites/www.ted.com/</loc>
-    <lastmod>2020-06-10T09:37:40+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/tags/electricity/</loc>
-    <lastmod>2020-06-09T18:08:10+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/bookmarks/what-is-killer-voltage-or-current/</loc>
-    <lastmod>2020-06-09T18:08:10+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/sites/www.youtube.com/</loc>
-    <lastmod>2020-06-09T18:08:10+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/bookmarks/how-i-use-tmux/</loc>
-    <lastmod>2020-06-09T00:22:04+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/tags/iterm/</loc>
-    <lastmod>2020-06-09T00:22:04+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/tags/setup/</loc>
-    <lastmod>2020-06-09T00:22:04+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/tags/tmux/</loc>
-    <lastmod>2020-06-09T00:22:04+05:30</lastmod>
   </url>
   
   <url>
@@ -223,6 +228,11 @@
   </url>
   
   <url>
+    <loc>https://www.yinyangi.in/kbs/sites/www.youtube.com/</loc>
+    <lastmod>2020-06-01T10:12:30+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.yinyangi.in/kbs/tags/youtube/</loc>
     <lastmod>2020-06-01T10:12:30+05:30</lastmod>
   </url>
@@ -234,6 +244,11 @@
   
   <url>
     <loc>https://www.yinyangi.in/kbs/bookmarks/ctfs-are-awesome/</loc>
+    <lastmod>2020-06-01T07:01:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yinyangi.in/kbs/sites/youtube.com/</loc>
     <lastmod>2020-06-01T07:01:13+05:30</lastmod>
   </url>
   
@@ -428,11 +443,6 @@
   </url>
   
   <url>
-    <loc>https://www.yinyangi.in/kbs/sites/github.com/</loc>
-    <lastmod>2020-05-20T22:04:04+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.yinyangi.in/kbs/tags/prometheus/</loc>
     <lastmod>2020-05-20T22:04:04+05:30</lastmod>
   </url>
@@ -480,10 +490,6 @@
   <url>
     <loc>https://www.yinyangi.in/kbs/tils/change-orientation-of-an-image/</loc>
     <lastmod>2020-05-17T17:30:23+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yinyangi.in/kbs/sites/https/jeffawang.com/</loc>
   </url>
   
 </urlset>

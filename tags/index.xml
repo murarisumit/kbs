@@ -6,10 +6,73 @@
     <description>Recent content in Tags on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2020 09:36:24 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2020 14:31:26 +0530</lastBuildDate>
     
 	<atom:link href="https://www.yinyangi.in/kbs/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>abstraction</title>
+      <link>https://www.yinyangi.in/kbs/tags/abstraction/</link>
+      <pubDate>Fri, 12 Jun 2020 14:31:26 +0530</pubDate>
+      
+      <guid>https://www.yinyangi.in/kbs/tags/abstraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://www.yinyangi.in/kbs/tags/python/</link>
+      <pubDate>Fri, 12 Jun 2020 14:31:26 +0530</pubDate>
+      
+      <guid>https://www.yinyangi.in/kbs/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtualenv</title>
+      <link>https://www.yinyangi.in/kbs/tags/virtualenv/</link>
+      <pubDate>Fri, 12 Jun 2020 14:31:26 +0530</pubDate>
+      
+      <guid>https://www.yinyangi.in/kbs/tags/virtualenv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>beautiful</title>
+      <link>https://www.yinyangi.in/kbs/tags/beautiful/</link>
+      <pubDate>Fri, 12 Jun 2020 14:19:12 +0530</pubDate>
+      
+      <guid>https://www.yinyangi.in/kbs/tags/beautiful/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>static-sites</title>
+      <link>https://www.yinyangi.in/kbs/tags/static-sites/</link>
+      <pubDate>Fri, 12 Jun 2020 14:19:12 +0530</pubDate>
+      
+      <guid>https://www.yinyangi.in/kbs/tags/static-sites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://www.yinyangi.in/kbs/tags/themes/</link>
+      <pubDate>Fri, 12 Jun 2020 14:19:12 +0530</pubDate>
+      
+      <guid>https://www.yinyangi.in/kbs/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rust</title>
+      <link>https://www.yinyangi.in/kbs/tags/rust/</link>
+      <pubDate>Fri, 12 Jun 2020 12:40:19 +0530</pubDate>
+      
+      <guid>https://www.yinyangi.in/kbs/tags/rust/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>keyboard-shortcuts</title>
@@ -26,60 +89,6 @@
       <pubDate>Fri, 12 Jun 2020 09:36:24 +0530</pubDate>
       
       <guid>https://www.yinyangi.in/kbs/tags/vscode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>alan_kay</title>
-      <link>https://www.yinyangi.in/kbs/tags/alan_kay/</link>
-      <pubDate>Wed, 10 Jun 2020 09:37:40 +0530</pubDate>
-      
-      <guid>https://www.yinyangi.in/kbs/tags/alan_kay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>learning</title>
-      <link>https://www.yinyangi.in/kbs/tags/learning/</link>
-      <pubDate>Wed, 10 Jun 2020 09:37:40 +0530</pubDate>
-      
-      <guid>https://www.yinyangi.in/kbs/tags/learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>electricity</title>
-      <link>https://www.yinyangi.in/kbs/tags/electricity/</link>
-      <pubDate>Tue, 09 Jun 2020 18:08:10 +0530</pubDate>
-      
-      <guid>https://www.yinyangi.in/kbs/tags/electricity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iterm</title>
-      <link>https://www.yinyangi.in/kbs/tags/iterm/</link>
-      <pubDate>Tue, 09 Jun 2020 00:22:04 +0530</pubDate>
-      
-      <guid>https://www.yinyangi.in/kbs/tags/iterm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>setup</title>
-      <link>https://www.yinyangi.in/kbs/tags/setup/</link>
-      <pubDate>Tue, 09 Jun 2020 00:22:04 +0530</pubDate>
-      
-      <guid>https://www.yinyangi.in/kbs/tags/setup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tmux</title>
-      <link>https://www.yinyangi.in/kbs/tags/tmux/</link>
-      <pubDate>Tue, 09 Jun 2020 00:22:04 +0530</pubDate>
-      
-      <guid>https://www.yinyangi.in/kbs/tags/tmux/</guid>
       <description></description>
     </item>
     
