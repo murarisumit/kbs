@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>youtube.com on knowledge base</title>
-    <link>https://www.yinyangi.in/kbs/sites/youtube.com/</link>
-    <description>Recent content in youtube.com on knowledge base</description>
+    <title>self-motivation on knowledge base</title>
+    <link>https://www.yinyangi.in/kbs/tags/self-motivation/</link>
+    <description>Recent content in self-motivation on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Jun 2020 17:43:03 +0530</lastBuildDate>
     
-	<atom:link href="https://www.yinyangi.in/kbs/sites/youtube.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.yinyangi.in/kbs/tags/self-motivation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://www.yinyangi.in/kbs/bookmarks/do-work-with-joy/</guid>
       <description>Don&amp;rsquo;t give up because it&amp;rsquo;s hard, if you love it: &amp;ldquo;do it&amp;rdquo;. It has to be done with joy, there is no point of adding more misery to our little world
 Work should be done because you want to do it, you like it. It would bring best from you, else whole point of living life miserably doesn&amp;rsquo;t make sense. No point of doing work which you don&amp;rsquo;t like in life, that life is not a full life, and life should be lived fully, joyfully.</description>
-    </item>
-    
-    <item>
-      <title>Ctfs Are Awesome</title>
-      <link>https://www.yinyangi.in/kbs/bookmarks/ctfs-are-awesome/</link>
-      <pubDate>Mon, 01 Jun 2020 07:01:13 +0530</pubDate>
-      
-      <guid>https://www.yinyangi.in/kbs/bookmarks/ctfs-are-awesome/</guid>
-      <description></description>
     </item>
     
   </channel>
