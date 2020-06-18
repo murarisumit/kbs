@@ -6,10 +6,20 @@
     <description>Recent content in Bookmarks on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2020 20:18:01 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2020 09:22:59 +0530</lastBuildDate>
     
 	<atom:link href="https://www.yinyangi.in/kbs/bookmarks/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projector Optics Internals</title>
+      <link>https://www.yinyangi.in/kbs/bookmarks/projector-optics-internals/</link>
+      <pubDate>Thu, 18 Jun 2020 09:22:59 +0530</pubDate>
+      
+      <guid>https://www.yinyangi.in/kbs/bookmarks/projector-optics-internals/</guid>
+      <description>Projector and optics personally is very facinating like astrology to me. Playing with light, was never fun and understanding when i was in school, but now I just love it, and also understanding how things work at the same time.
+Here Matt beautifully shows internals of optics in projector.</description>
+    </item>
     
     <item>
       <title>Video: A glimpse into ancient indian astronomy</title>
