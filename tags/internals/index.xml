@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>python on knowledge base</title>
-    <link>https://www.yinyangi.in/kbs/tags/python/</link>
-    <description>Recent content in python on knowledge base</description>
+    <title>internals on knowledge base</title>
+    <link>https://www.yinyangi.in/kbs/tags/internals/</link>
+    <description>Recent content in internals on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Jun 2020 18:56:13 +0530</lastBuildDate>
     
-	<atom:link href="https://www.yinyangi.in/kbs/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.yinyangi.in/kbs/tags/internals/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Sun, 21 Jun 2020 18:56:13 +0530</pubDate>
       
       <guid>https://www.yinyangi.in/kbs/bookmarks/inner-working-of-python-objects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Working on virtualenv without magic</title>
-      <link>https://www.yinyangi.in/kbs/bookmarks/working-on-virtualenv-without-magic/</link>
-      <pubDate>Fri, 12 Jun 2020 14:31:26 +0530</pubDate>
-      
-      <guid>https://www.yinyangi.in/kbs/bookmarks/working-on-virtualenv-without-magic/</guid>
       <description></description>
     </item>
     
