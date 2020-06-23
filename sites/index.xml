@@ -6,10 +6,19 @@
     <description>Recent content in Sites on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2020 09:01:33 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2020 16:53:01 +0530</lastBuildDate>
     
 	<atom:link href="https://www.yinyangi.in/kbs/sites/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>awesome-prometheus-alerts.grep.to</title>
+      <link>https://www.yinyangi.in/kbs/sites/awesome-prometheus-alerts.grep.to/</link>
+      <pubDate>Tue, 23 Jun 2020 16:53:01 +0530</pubDate>
+      
+      <guid>https://www.yinyangi.in/kbs/sites/awesome-prometheus-alerts.grep.to/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>youtube.com</title>

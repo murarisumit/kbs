@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>prometheus on knowledge base</title>
-    <link>https://www.yinyangi.in/kbs/tags/prometheus/</link>
-    <description>Recent content in prometheus on knowledge base</description>
+    <title>awesome-lists on knowledge base</title>
+    <link>https://www.yinyangi.in/kbs/tags/awesome-lists/</link>
+    <description>Recent content in awesome-lists on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jun 2020 16:53:01 +0530</lastBuildDate>
     
-	<atom:link href="https://www.yinyangi.in/kbs/tags/prometheus/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.yinyangi.in/kbs/tags/awesome-lists/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Tue, 23 Jun 2020 16:53:01 +0530</pubDate>
       
       <guid>https://www.yinyangi.in/kbs/bookmarks/awesome-prometheus-alerts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Promql cheatsheet</title>
-      <link>https://www.yinyangi.in/kbs/bookmarks/promql/</link>
-      <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
-      
-      <guid>https://www.yinyangi.in/kbs/bookmarks/promql/</guid>
       <description></description>
     </item>
     
