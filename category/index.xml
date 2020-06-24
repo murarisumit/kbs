@@ -6,10 +6,19 @@
     <description>Recent content in Category on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2020 16:53:01 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2020 12:17:11 +0530</lastBuildDate>
     
 	<atom:link href="https://www.yinyangi.in/kbs/category/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tils</title>
+      <link>https://www.yinyangi.in/kbs/category/tils/</link>
+      <pubDate>Wed, 24 Jun 2020 12:17:11 +0530</pubDate>
+      
+      <guid>https://www.yinyangi.in/kbs/category/tils/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>bookmarks</title>
@@ -17,15 +26,6 @@
       <pubDate>Tue, 23 Jun 2020 16:53:01 +0530</pubDate>
       
       <guid>https://www.yinyangi.in/kbs/category/bookmarks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tils</title>
-      <link>https://www.yinyangi.in/kbs/category/tils/</link>
-      <pubDate>Sun, 21 Jun 2020 12:17:11 +0530</pubDate>
-      
-      <guid>https://www.yinyangi.in/kbs/category/tils/</guid>
       <description></description>
     </item>
     
