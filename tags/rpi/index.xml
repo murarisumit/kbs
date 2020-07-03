@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rpi on knowledge base</title>
-    <link>https://www.yinyangi.in/kbs/tags/rpi/</link>
+    <link>https://kbs.yinyangi.in/tags/rpi/</link>
     <description>Recent content in rpi on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 May 2020 01:50:59 +0530</lastBuildDate>
     
-	<atom:link href="https://www.yinyangi.in/kbs/tags/rpi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.yinyangi.in/tags/rpi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pi Nfs Server</title>
-      <link>https://www.yinyangi.in/kbs/bookmarks/pi-nfs-server/</link>
+      <link>https://kbs.yinyangi.in/bookmarks/pi-nfs-server/</link>
       <pubDate>Sat, 30 May 2020 01:50:59 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmarks/pi-nfs-server/</guid>
+      <guid>https://kbs.yinyangi.in/bookmarks/pi-nfs-server/</guid>
       <description></description>
     </item>
     

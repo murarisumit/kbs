@@ -2,615 +2,615 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on knowledge base</title>
-    <link>https://www.yinyangi.in/kbs/tags/</link>
+    <link>https://kbs.yinyangi.in/tags/</link>
     <description>Recent content in Tags on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Jun 2020 12:17:11 +0530</lastBuildDate>
     
-	<atom:link href="https://www.yinyangi.in/kbs/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.yinyangi.in/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>breakfast-with-champions</title>
-      <link>https://www.yinyangi.in/kbs/tags/breakfast-with-champions/</link>
+      <link>https://kbs.yinyangi.in/tags/breakfast-with-champions/</link>
       <pubDate>Wed, 24 Jun 2020 12:17:11 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/breakfast-with-champions/</guid>
+      <guid>https://kbs.yinyangi.in/tags/breakfast-with-champions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cricket</title>
-      <link>https://www.yinyangi.in/kbs/tags/cricket/</link>
+      <link>https://kbs.yinyangi.in/tags/cricket/</link>
       <pubDate>Wed, 24 Jun 2020 12:17:11 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/cricket/</guid>
+      <guid>https://kbs.yinyangi.in/tags/cricket/</guid>
       <description></description>
     </item>
     
     <item>
       <title>awesome-lists</title>
-      <link>https://www.yinyangi.in/kbs/tags/awesome-lists/</link>
+      <link>https://kbs.yinyangi.in/tags/awesome-lists/</link>
       <pubDate>Tue, 23 Jun 2020 16:53:01 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/awesome-lists/</guid>
+      <guid>https://kbs.yinyangi.in/tags/awesome-lists/</guid>
       <description></description>
     </item>
     
     <item>
       <title>prometheus</title>
-      <link>https://www.yinyangi.in/kbs/tags/prometheus/</link>
+      <link>https://kbs.yinyangi.in/tags/prometheus/</link>
       <pubDate>Tue, 23 Jun 2020 16:53:01 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/prometheus/</guid>
+      <guid>https://kbs.yinyangi.in/tags/prometheus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>amish</title>
-      <link>https://www.yinyangi.in/kbs/tags/amish/</link>
+      <link>https://kbs.yinyangi.in/tags/amish/</link>
       <pubDate>Mon, 22 Jun 2020 09:01:33 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/amish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>india</title>
-      <link>https://www.yinyangi.in/kbs/tags/india/</link>
-      <pubDate>Mon, 22 Jun 2020 09:01:33 +0530</pubDate>
-      
-      <guid>https://www.yinyangi.in/kbs/tags/india/</guid>
+      <guid>https://kbs.yinyangi.in/tags/amish/</guid>
       <description></description>
     </item>
     
     <item>
       <title>indian-way</title>
-      <link>https://www.yinyangi.in/kbs/tags/indian-way/</link>
+      <link>https://kbs.yinyangi.in/tags/indian-way/</link>
       <pubDate>Mon, 22 Jun 2020 09:01:33 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/indian-way/</guid>
+      <guid>https://kbs.yinyangi.in/tags/indian-way/</guid>
       <description></description>
     </item>
     
     <item>
       <title>internals</title>
-      <link>https://www.yinyangi.in/kbs/tags/internals/</link>
+      <link>https://kbs.yinyangi.in/tags/internals/</link>
       <pubDate>Sun, 21 Jun 2020 18:56:13 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/internals/</guid>
+      <guid>https://kbs.yinyangi.in/tags/internals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>https://www.yinyangi.in/kbs/tags/python/</link>
+      <link>https://kbs.yinyangi.in/tags/python/</link>
       <pubDate>Sun, 21 Jun 2020 18:56:13 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/python/</guid>
+      <guid>https://kbs.yinyangi.in/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>india</title>
+      <link>https://kbs.yinyangi.in/tags/india/</link>
+      <pubDate>Sun, 21 Jun 2020 13:27:25 +0530</pubDate>
+      
+      <guid>https://kbs.yinyangi.in/tags/india/</guid>
       <description></description>
     </item>
     
     <item>
       <title>water-harvesting</title>
-      <link>https://www.yinyangi.in/kbs/tags/water-harvesting/</link>
+      <link>https://kbs.yinyangi.in/tags/water-harvesting/</link>
       <pubDate>Sun, 21 Jun 2020 13:27:25 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/water-harvesting/</guid>
+      <guid>https://kbs.yinyangi.in/tags/water-harvesting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>water-revolution</title>
-      <link>https://www.yinyangi.in/kbs/tags/water-revolution/</link>
+      <link>https://kbs.yinyangi.in/tags/water-revolution/</link>
       <pubDate>Sun, 21 Jun 2020 13:27:25 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/water-revolution/</guid>
+      <guid>https://kbs.yinyangi.in/tags/water-revolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>electricity</title>
-      <link>https://www.yinyangi.in/kbs/tags/electricity/</link>
+      <link>https://kbs.yinyangi.in/tags/electricity/</link>
       <pubDate>Fri, 19 Jun 2020 07:28:58 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/electricity/</guid>
+      <guid>https://kbs.yinyangi.in/tags/electricity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>textbook</title>
-      <link>https://www.yinyangi.in/kbs/tags/textbook/</link>
+      <link>https://kbs.yinyangi.in/tags/textbook/</link>
       <pubDate>Fri, 19 Jun 2020 07:28:58 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/textbook/</guid>
+      <guid>https://kbs.yinyangi.in/tags/textbook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gardens</title>
-      <link>https://www.yinyangi.in/kbs/tags/gardens/</link>
+      <link>https://kbs.yinyangi.in/tags/gardens/</link>
       <pubDate>Thu, 18 Jun 2020 09:31:02 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/gardens/</guid>
+      <guid>https://kbs.yinyangi.in/tags/gardens/</guid>
       <description></description>
     </item>
     
     <item>
       <title>home-gardens</title>
-      <link>https://www.yinyangi.in/kbs/tags/home-gardens/</link>
+      <link>https://kbs.yinyangi.in/tags/home-gardens/</link>
       <pubDate>Thu, 18 Jun 2020 09:31:02 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/home-gardens/</guid>
+      <guid>https://kbs.yinyangi.in/tags/home-gardens/</guid>
       <description></description>
     </item>
     
     <item>
       <title>diy</title>
-      <link>https://www.yinyangi.in/kbs/tags/diy/</link>
+      <link>https://kbs.yinyangi.in/tags/diy/</link>
       <pubDate>Thu, 18 Jun 2020 09:22:59 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/diy/</guid>
+      <guid>https://kbs.yinyangi.in/tags/diy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>optics</title>
-      <link>https://www.yinyangi.in/kbs/tags/optics/</link>
+      <link>https://kbs.yinyangi.in/tags/optics/</link>
       <pubDate>Thu, 18 Jun 2020 09:22:59 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/optics/</guid>
+      <guid>https://kbs.yinyangi.in/tags/optics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>projector</title>
-      <link>https://www.yinyangi.in/kbs/tags/projector/</link>
+      <link>https://kbs.yinyangi.in/tags/projector/</link>
       <pubDate>Thu, 18 Jun 2020 09:22:59 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/projector/</guid>
+      <guid>https://kbs.yinyangi.in/tags/projector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>astrology</title>
-      <link>https://www.yinyangi.in/kbs/tags/astrology/</link>
+      <link>https://kbs.yinyangi.in/tags/astrology/</link>
       <pubDate>Sun, 14 Jun 2020 20:18:01 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/astrology/</guid>
+      <guid>https://kbs.yinyangi.in/tags/astrology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>food-for-thought</title>
-      <link>https://www.yinyangi.in/kbs/tags/food-for-thought/</link>
+      <link>https://kbs.yinyangi.in/tags/food-for-thought/</link>
       <pubDate>Sun, 14 Jun 2020 20:18:01 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/food-for-thought/</guid>
+      <guid>https://kbs.yinyangi.in/tags/food-for-thought/</guid>
       <description></description>
     </item>
     
     <item>
       <title>self-motivation</title>
-      <link>https://www.yinyangi.in/kbs/tags/self-motivation/</link>
+      <link>https://kbs.yinyangi.in/tags/self-motivation/</link>
       <pubDate>Sat, 13 Jun 2020 17:43:03 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/self-motivation/</guid>
+      <guid>https://kbs.yinyangi.in/tags/self-motivation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>work-ethics</title>
-      <link>https://www.yinyangi.in/kbs/tags/work-ethics/</link>
+      <link>https://kbs.yinyangi.in/tags/work-ethics/</link>
       <pubDate>Sat, 13 Jun 2020 17:43:03 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/work-ethics/</guid>
+      <guid>https://kbs.yinyangi.in/tags/work-ethics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>abstraction</title>
-      <link>https://www.yinyangi.in/kbs/tags/abstraction/</link>
+      <link>https://kbs.yinyangi.in/tags/abstraction/</link>
       <pubDate>Fri, 12 Jun 2020 14:31:26 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/abstraction/</guid>
+      <guid>https://kbs.yinyangi.in/tags/abstraction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>virtualenv</title>
-      <link>https://www.yinyangi.in/kbs/tags/virtualenv/</link>
+      <link>https://kbs.yinyangi.in/tags/virtualenv/</link>
       <pubDate>Fri, 12 Jun 2020 14:31:26 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/virtualenv/</guid>
+      <guid>https://kbs.yinyangi.in/tags/virtualenv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>beautiful</title>
-      <link>https://www.yinyangi.in/kbs/tags/beautiful/</link>
+      <link>https://kbs.yinyangi.in/tags/beautiful/</link>
       <pubDate>Fri, 12 Jun 2020 14:19:12 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/beautiful/</guid>
+      <guid>https://kbs.yinyangi.in/tags/beautiful/</guid>
       <description></description>
     </item>
     
     <item>
       <title>static-sites</title>
-      <link>https://www.yinyangi.in/kbs/tags/static-sites/</link>
+      <link>https://kbs.yinyangi.in/tags/static-sites/</link>
       <pubDate>Fri, 12 Jun 2020 14:19:12 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/static-sites/</guid>
+      <guid>https://kbs.yinyangi.in/tags/static-sites/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://www.yinyangi.in/kbs/tags/themes/</link>
+      <link>https://kbs.yinyangi.in/tags/themes/</link>
       <pubDate>Fri, 12 Jun 2020 14:19:12 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/themes/</guid>
+      <guid>https://kbs.yinyangi.in/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rust</title>
-      <link>https://www.yinyangi.in/kbs/tags/rust/</link>
+      <link>https://kbs.yinyangi.in/tags/rust/</link>
       <pubDate>Fri, 12 Jun 2020 12:40:19 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/rust/</guid>
+      <guid>https://kbs.yinyangi.in/tags/rust/</guid>
       <description></description>
     </item>
     
     <item>
       <title>keyboard-shortcuts</title>
-      <link>https://www.yinyangi.in/kbs/tags/keyboard-shortcuts/</link>
+      <link>https://kbs.yinyangi.in/tags/keyboard-shortcuts/</link>
       <pubDate>Fri, 12 Jun 2020 09:36:24 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/keyboard-shortcuts/</guid>
+      <guid>https://kbs.yinyangi.in/tags/keyboard-shortcuts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vscode</title>
-      <link>https://www.yinyangi.in/kbs/tags/vscode/</link>
+      <link>https://kbs.yinyangi.in/tags/vscode/</link>
       <pubDate>Fri, 12 Jun 2020 09:36:24 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/vscode/</guid>
+      <guid>https://kbs.yinyangi.in/tags/vscode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>decentralization</title>
-      <link>https://www.yinyangi.in/kbs/tags/decentralization/</link>
+      <link>https://kbs.yinyangi.in/tags/decentralization/</link>
       <pubDate>Sun, 07 Jun 2020 04:13:47 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/decentralization/</guid>
+      <guid>https://kbs.yinyangi.in/tags/decentralization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>federation</title>
-      <link>https://www.yinyangi.in/kbs/tags/federation/</link>
+      <link>https://kbs.yinyangi.in/tags/federation/</link>
       <pubDate>Sun, 07 Jun 2020 04:13:47 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/federation/</guid>
+      <guid>https://kbs.yinyangi.in/tags/federation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://www.yinyangi.in/kbs/tags/golang/</link>
+      <link>https://kbs.yinyangi.in/tags/golang/</link>
       <pubDate>Sun, 07 Jun 2020 04:09:38 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/golang/</guid>
+      <guid>https://kbs.yinyangi.in/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tests</title>
-      <link>https://www.yinyangi.in/kbs/tags/tests/</link>
+      <link>https://kbs.yinyangi.in/tags/tests/</link>
       <pubDate>Sun, 07 Jun 2020 04:09:38 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/tests/</guid>
+      <guid>https://kbs.yinyangi.in/tags/tests/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial</title>
-      <link>https://www.yinyangi.in/kbs/tags/tutorial/</link>
+      <link>https://kbs.yinyangi.in/tags/tutorial/</link>
       <pubDate>Sun, 07 Jun 2020 04:09:38 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/tutorial/</guid>
+      <guid>https://kbs.yinyangi.in/tags/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nix</title>
-      <link>https://www.yinyangi.in/kbs/tags/nix/</link>
+      <link>https://kbs.yinyangi.in/tags/nix/</link>
       <pubDate>Sun, 07 Jun 2020 04:06:21 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/nix/</guid>
+      <guid>https://kbs.yinyangi.in/tags/nix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>why</title>
-      <link>https://www.yinyangi.in/kbs/tags/why/</link>
+      <link>https://kbs.yinyangi.in/tags/why/</link>
       <pubDate>Sun, 07 Jun 2020 04:06:21 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/why/</guid>
+      <guid>https://kbs.yinyangi.in/tags/why/</guid>
       <description></description>
     </item>
     
     <item>
       <title>curiosity</title>
-      <link>https://www.yinyangi.in/kbs/tags/curiosity/</link>
+      <link>https://kbs.yinyangi.in/tags/curiosity/</link>
       <pubDate>Fri, 05 Jun 2020 02:37:08 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/curiosity/</guid>
+      <guid>https://kbs.yinyangi.in/tags/curiosity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>religions</title>
-      <link>https://www.yinyangi.in/kbs/tags/religions/</link>
+      <link>https://kbs.yinyangi.in/tags/religions/</link>
       <pubDate>Fri, 05 Jun 2020 02:37:08 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/religions/</guid>
+      <guid>https://kbs.yinyangi.in/tags/religions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://www.yinyangi.in/kbs/tags/css/</link>
+      <link>https://kbs.yinyangi.in/tags/css/</link>
       <pubDate>Mon, 01 Jun 2020 13:42:43 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/css/</guid>
+      <guid>https://kbs.yinyangi.in/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emotions</title>
-      <link>https://www.yinyangi.in/kbs/tags/emotions/</link>
+      <link>https://kbs.yinyangi.in/tags/emotions/</link>
       <pubDate>Mon, 01 Jun 2020 10:12:30 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/emotions/</guid>
+      <guid>https://kbs.yinyangi.in/tags/emotions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>love</title>
-      <link>https://www.yinyangi.in/kbs/tags/love/</link>
+      <link>https://kbs.yinyangi.in/tags/love/</link>
       <pubDate>Mon, 01 Jun 2020 10:12:30 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/love/</guid>
+      <guid>https://kbs.yinyangi.in/tags/love/</guid>
       <description></description>
     </item>
     
     <item>
       <title>youtube</title>
-      <link>https://www.yinyangi.in/kbs/tags/youtube/</link>
+      <link>https://kbs.yinyangi.in/tags/youtube/</link>
       <pubDate>Mon, 01 Jun 2020 10:12:30 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/youtube/</guid>
+      <guid>https://kbs.yinyangi.in/tags/youtube/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ctf</title>
-      <link>https://www.yinyangi.in/kbs/tags/ctf/</link>
+      <link>https://kbs.yinyangi.in/tags/ctf/</link>
       <pubDate>Mon, 01 Jun 2020 07:01:13 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/ctf/</guid>
+      <guid>https://kbs.yinyangi.in/tags/ctf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>decisions</title>
-      <link>https://www.yinyangi.in/kbs/tags/decisions/</link>
+      <link>https://kbs.yinyangi.in/tags/decisions/</link>
       <pubDate>Sun, 31 May 2020 15:15:50 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/decisions/</guid>
+      <guid>https://kbs.yinyangi.in/tags/decisions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lessons</title>
-      <link>https://www.yinyangi.in/kbs/tags/lessons/</link>
+      <link>https://kbs.yinyangi.in/tags/lessons/</link>
       <pubDate>Sun, 31 May 2020 15:15:50 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/lessons/</guid>
+      <guid>https://kbs.yinyangi.in/tags/lessons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vim</title>
-      <link>https://www.yinyangi.in/kbs/tags/vim/</link>
+      <link>https://kbs.yinyangi.in/tags/vim/</link>
       <pubDate>Sun, 31 May 2020 15:15:50 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/vim/</guid>
+      <guid>https://kbs.yinyangi.in/tags/vim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>home-server</title>
-      <link>https://www.yinyangi.in/kbs/tags/home-server/</link>
+      <link>https://kbs.yinyangi.in/tags/home-server/</link>
       <pubDate>Sat, 30 May 2020 01:50:59 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/home-server/</guid>
+      <guid>https://kbs.yinyangi.in/tags/home-server/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nfs</title>
-      <link>https://www.yinyangi.in/kbs/tags/nfs/</link>
+      <link>https://kbs.yinyangi.in/tags/nfs/</link>
       <pubDate>Sat, 30 May 2020 01:50:59 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/nfs/</guid>
+      <guid>https://kbs.yinyangi.in/tags/nfs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rpi</title>
-      <link>https://www.yinyangi.in/kbs/tags/rpi/</link>
+      <link>https://kbs.yinyangi.in/tags/rpi/</link>
       <pubDate>Sat, 30 May 2020 01:50:59 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/rpi/</guid>
+      <guid>https://kbs.yinyangi.in/tags/rpi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>network</title>
-      <link>https://www.yinyangi.in/kbs/tags/network/</link>
+      <link>https://kbs.yinyangi.in/tags/network/</link>
       <pubDate>Mon, 25 May 2020 09:24:33 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/network/</guid>
+      <guid>https://kbs.yinyangi.in/tags/network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>osi-layer2</title>
-      <link>https://www.yinyangi.in/kbs/tags/osi-layer2/</link>
+      <link>https://kbs.yinyangi.in/tags/osi-layer2/</link>
       <pubDate>Mon, 25 May 2020 09:24:33 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/osi-layer2/</guid>
+      <guid>https://kbs.yinyangi.in/tags/osi-layer2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cache</title>
-      <link>https://www.yinyangi.in/kbs/tags/cache/</link>
+      <link>https://kbs.yinyangi.in/tags/cache/</link>
       <pubDate>Sun, 24 May 2020 21:41:57 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/cache/</guid>
+      <guid>https://kbs.yinyangi.in/tags/cache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>coredns</title>
-      <link>https://www.yinyangi.in/kbs/tags/coredns/</link>
+      <link>https://kbs.yinyangi.in/tags/coredns/</link>
       <pubDate>Sun, 24 May 2020 21:41:57 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/coredns/</guid>
+      <guid>https://kbs.yinyangi.in/tags/coredns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dns</title>
-      <link>https://www.yinyangi.in/kbs/tags/dns/</link>
+      <link>https://kbs.yinyangi.in/tags/dns/</link>
       <pubDate>Sun, 24 May 2020 21:41:57 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/dns/</guid>
+      <guid>https://kbs.yinyangi.in/tags/dns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iptables</title>
-      <link>https://www.yinyangi.in/kbs/tags/iptables/</link>
+      <link>https://kbs.yinyangi.in/tags/iptables/</link>
       <pubDate>Sun, 24 May 2020 21:41:57 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/iptables/</guid>
+      <guid>https://kbs.yinyangi.in/tags/iptables/</guid>
       <description></description>
     </item>
     
     <item>
       <title>k8s</title>
-      <link>https://www.yinyangi.in/kbs/tags/k8s/</link>
+      <link>https://kbs.yinyangi.in/tags/k8s/</link>
       <pubDate>Sun, 24 May 2020 21:41:57 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/k8s/</guid>
+      <guid>https://kbs.yinyangi.in/tags/k8s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>writing</title>
-      <link>https://www.yinyangi.in/kbs/tags/writing/</link>
+      <link>https://kbs.yinyangi.in/tags/writing/</link>
       <pubDate>Thu, 21 May 2020 20:42:29 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/writing/</guid>
+      <guid>https://kbs.yinyangi.in/tags/writing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>acronyms</title>
-      <link>https://www.yinyangi.in/kbs/tags/acronyms/</link>
+      <link>https://kbs.yinyangi.in/tags/acronyms/</link>
       <pubDate>Thu, 21 May 2020 19:18:04 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/acronyms/</guid>
+      <guid>https://kbs.yinyangi.in/tags/acronyms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>communication</title>
-      <link>https://www.yinyangi.in/kbs/tags/communication/</link>
+      <link>https://kbs.yinyangi.in/tags/communication/</link>
       <pubDate>Thu, 21 May 2020 08:39:21 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/communication/</guid>
+      <guid>https://kbs.yinyangi.in/tags/communication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hn-post</title>
-      <link>https://www.yinyangi.in/kbs/tags/hn-post/</link>
+      <link>https://kbs.yinyangi.in/tags/hn-post/</link>
       <pubDate>Thu, 21 May 2020 08:39:21 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/hn-post/</guid>
+      <guid>https://kbs.yinyangi.in/tags/hn-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aws</title>
-      <link>https://www.yinyangi.in/kbs/tags/aws/</link>
+      <link>https://kbs.yinyangi.in/tags/aws/</link>
       <pubDate>Wed, 20 May 2020 22:16:17 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/aws/</guid>
+      <guid>https://kbs.yinyangi.in/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>best-practices</title>
-      <link>https://www.yinyangi.in/kbs/tags/best-practices/</link>
+      <link>https://kbs.yinyangi.in/tags/best-practices/</link>
       <pubDate>Wed, 20 May 2020 22:16:17 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/best-practices/</guid>
+      <guid>https://kbs.yinyangi.in/tags/best-practices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>eks</title>
-      <link>https://www.yinyangi.in/kbs/tags/eks/</link>
+      <link>https://kbs.yinyangi.in/tags/eks/</link>
       <pubDate>Wed, 20 May 2020 22:16:17 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/eks/</guid>
+      <guid>https://kbs.yinyangi.in/tags/eks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cheatsheets</title>
-      <link>https://www.yinyangi.in/kbs/tags/cheatsheets/</link>
+      <link>https://kbs.yinyangi.in/tags/cheatsheets/</link>
       <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/cheatsheets/</guid>
+      <guid>https://kbs.yinyangi.in/tags/cheatsheets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>promql</title>
-      <link>https://www.yinyangi.in/kbs/tags/promql/</link>
+      <link>https://kbs.yinyangi.in/tags/promql/</link>
       <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/promql/</guid>
+      <guid>https://kbs.yinyangi.in/tags/promql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://www.yinyangi.in/kbs/tags/hugo/</link>
+      <link>https://kbs.yinyangi.in/tags/hugo/</link>
       <pubDate>Sun, 17 May 2020 18:54:04 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tags/hugo/</guid>
+      <guid>https://kbs.yinyangi.in/tags/hugo/</guid>
       <description></description>
     </item>
     

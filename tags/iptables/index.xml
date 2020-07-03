@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iptables on knowledge base</title>
-    <link>https://www.yinyangi.in/kbs/tags/iptables/</link>
+    <link>https://kbs.yinyangi.in/tags/iptables/</link>
     <description>Recent content in iptables on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 May 2020 21:41:57 +0530</lastBuildDate>
     
-	<atom:link href="https://www.yinyangi.in/kbs/tags/iptables/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.yinyangi.in/tags/iptables/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>K8s Node Local Dns Cache</title>
-      <link>https://www.yinyangi.in/kbs/bookmarks/k8s-node-local-dns-cache/</link>
+      <link>https://kbs.yinyangi.in/bookmarks/k8s-node-local-dns-cache/</link>
       <pubDate>Sun, 24 May 2020 21:41:57 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmarks/k8s-node-local-dns-cache/</guid>
+      <guid>https://kbs.yinyangi.in/bookmarks/k8s-node-local-dns-cache/</guid>
       <description></description>
     </item>
     

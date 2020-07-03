@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>projector on knowledge base</title>
-    <link>https://www.yinyangi.in/kbs/tags/projector/</link>
+    <link>https://kbs.yinyangi.in/tags/projector/</link>
     <description>Recent content in projector on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Jun 2020 09:22:59 +0530</lastBuildDate>
     
-	<atom:link href="https://www.yinyangi.in/kbs/tags/projector/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.yinyangi.in/tags/projector/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projector Optics Internals</title>
-      <link>https://www.yinyangi.in/kbs/bookmarks/projector-optics-internals/</link>
+      <link>https://kbs.yinyangi.in/bookmarks/projector-optics-internals/</link>
       <pubDate>Thu, 18 Jun 2020 09:22:59 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmarks/projector-optics-internals/</guid>
+      <guid>https://kbs.yinyangi.in/bookmarks/projector-optics-internals/</guid>
       <description>Projector and optics personally is very facinating like astrology to me. Playing with light, was never fun and understanding when i was in school, but now I just love it, and also understanding how things work at the same time.
 Here Matt beautifully shows internals of optics in projector.</description>
     </item>

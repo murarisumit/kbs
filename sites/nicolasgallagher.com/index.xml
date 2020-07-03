@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nicolasgallagher.com on knowledge base</title>
-    <link>https://www.yinyangi.in/kbs/sites/nicolasgallagher.com/</link>
+    <link>https://kbs.yinyangi.in/sites/nicolasgallagher.com/</link>
     <description>Recent content in nicolasgallagher.com on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 May 2020 23:23:53 +0530</lastBuildDate>
     
-	<atom:link href="https://www.yinyangi.in/kbs/sites/nicolasgallagher.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.yinyangi.in/sites/nicolasgallagher.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Why Normalize CSS</title>
-      <link>https://www.yinyangi.in/kbs/bookmarks/why-normalize/</link>
+      <link>https://kbs.yinyangi.in/bookmarks/why-normalize/</link>
       <pubDate>Sun, 24 May 2020 23:23:53 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmarks/why-normalize/</guid>
+      <guid>https://kbs.yinyangi.in/bookmarks/why-normalize/</guid>
       <description>Normalize.css is a small CSS file that provides better cross-browser consistency in the default styling of HTML elements. It’s a modern, HTML5-ready, alternative to the traditional CSS reset.
 The aims of normalize.css are as follows:
  Preserve useful browser defaults rather than erasing them. Normalize styles for a wide range of HTML elements. Correct bugs and common browser inconsistencies. Improve usability with subtle improvements. Explain the code using comments and detailed documentation.</description>

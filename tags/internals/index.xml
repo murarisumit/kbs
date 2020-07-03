@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>internals on knowledge base</title>
-    <link>https://www.yinyangi.in/kbs/tags/internals/</link>
+    <link>https://kbs.yinyangi.in/tags/internals/</link>
     <description>Recent content in internals on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Jun 2020 18:56:13 +0530</lastBuildDate>
     
-	<atom:link href="https://www.yinyangi.in/kbs/tags/internals/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.yinyangi.in/tags/internals/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Inner Working of Python Objects</title>
-      <link>https://www.yinyangi.in/kbs/bookmarks/inner-working-of-python-objects/</link>
+      <link>https://kbs.yinyangi.in/bookmarks/inner-working-of-python-objects/</link>
       <pubDate>Sun, 21 Jun 2020 18:56:13 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmarks/inner-working-of-python-objects/</guid>
+      <guid>https://kbs.yinyangi.in/bookmarks/inner-working-of-python-objects/</guid>
       <description></description>
     </item>
     

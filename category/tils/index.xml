@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tils on knowledge base</title>
-    <link>https://www.yinyangi.in/kbs/category/tils/</link>
+    <link>https://kbs.yinyangi.in/category/tils/</link>
     <description>Recent content in tils on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Jun 2020 12:17:11 +0530</lastBuildDate>
     
-	<atom:link href="https://www.yinyangi.in/kbs/category/tils/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.yinyangi.in/category/tils/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Moments: Breakfast With Champions</title>
-      <link>https://www.yinyangi.in/kbs/tils/moments-breakfast-with-champions/</link>
+      <link>https://kbs.yinyangi.in/tils/moments-breakfast-with-champions/</link>
       <pubDate>Wed, 24 Jun 2020 12:17:11 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tils/moments-breakfast-with-champions/</guid>
+      <guid>https://kbs.yinyangi.in/tils/moments-breakfast-with-champions/</guid>
       <description>Hayden: https://www.youtube.com/watch?v=cfksYTFzY5M Point is made was cricket was a big threatre for him, and live broadcasted threatre. He gave his performance and fine. I didn&amp;rsquo;t saw cricket or any game on those lines before. He made it feel like art form.
 Brett Lee: https://www.youtube.com/watch?v=Hl0Wc6TaokI&amp;amp;t Pain brett lee went through while bowling:
  https://www.youtube.com/watch?v=Hl0Wc6TaokI&amp;amp;t=14m0s https://www.youtube.com/watch?v=Hl0Wc6TaokI&amp;amp;t=15m26s  Michael Holding: https://www.youtube.com/watch?v=fbKkJO1OEc4 Really nice to hear his opinion and found someone who synchronizes with my thought process.</description>
@@ -24,10 +24,10 @@ Brett Lee: https://www.youtube.com/watch?v=Hl0Wc6TaokI&amp;amp;t Pain brett lee 
     
     <item>
       <title>Abrahamic History, Lengend and Mythology</title>
-      <link>https://www.yinyangi.in/kbs/tils/abrahamic-history-lengend-mythology/</link>
+      <link>https://kbs.yinyangi.in/tils/abrahamic-history-lengend-mythology/</link>
       <pubDate>Fri, 05 Jun 2020 02:37:08 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tils/abrahamic-history-lengend-mythology/</guid>
+      <guid>https://kbs.yinyangi.in/tils/abrahamic-history-lengend-mythology/</guid>
       <description>There is set of religions that come from Abrahim. I was trying to understand how they all are related.
 There are three abrahamic religions
  Judaism Christanity Islam  Q: Who is Abrahim(Ibrahim in quran) ?
@@ -36,10 +36,10 @@ There are three abrahamic religions
     
     <item>
       <title>CSS id vs class</title>
-      <link>https://www.yinyangi.in/kbs/tils/css-id-vs-class/</link>
+      <link>https://kbs.yinyangi.in/tils/css-id-vs-class/</link>
       <pubDate>Mon, 01 Jun 2020 13:42:43 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tils/css-id-vs-class/</guid>
+      <guid>https://kbs.yinyangi.in/tils/css-id-vs-class/</guid>
       <description>Simple CSS question while working on resume project, is when to use id and when to use class.
 First thing to know about IDs:
  IDs are unique
@@ -49,19 +49,19 @@ For css it doesn&amp;rsquo;t matter it applies stying if you ask by #id_name or 
     
     <item>
       <title>IPv4 Link Local</title>
-      <link>https://www.yinyangi.in/kbs/tils/ipv4-link-local/</link>
+      <link>https://kbs.yinyangi.in/tils/ipv4-link-local/</link>
       <pubDate>Mon, 25 May 2020 09:24:33 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tils/ipv4-link-local/</guid>
+      <guid>https://kbs.yinyangi.in/tils/ipv4-link-local/</guid>
       <description>To participate in wide-area IP networking, a host needs to be configured with IP addresses for its interfaces, either manually by the user or automatically from a source on the network such as a Dynamic Host Configuration Protocol (DHCP) server. Unfortunately, such address configuration information may not always be available. It is therefore beneficial for a host to be able to depend on a useful subset of IP networking functions even when no address configuration is available.</description>
     </item>
     
     <item>
       <title>KISS</title>
-      <link>https://www.yinyangi.in/kbs/tils/kiss/</link>
+      <link>https://kbs.yinyangi.in/tils/kiss/</link>
       <pubDate>Thu, 21 May 2020 19:18:04 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tils/kiss/</guid>
+      <guid>https://kbs.yinyangi.in/tils/kiss/</guid>
       <description>KISS is an acronym for &amp;ldquo;Keep it simple stupid&amp;rdquo; (notice no comma).
 Stupid does not refer to the user. To quote Wikipedia:
  The principle is best exemplified by the story of Johnson handing a team of design engineers a handful of tools, with the challenge that the jet aircraft they were designing must be repairable by
@@ -70,10 +70,10 @@ an average mechanic in the field under combat conditions with only these tools.<
     
     <item>
       <title>Change Orientation of an Image</title>
-      <link>https://www.yinyangi.in/kbs/tils/change-orientation-of-an-image/</link>
+      <link>https://kbs.yinyangi.in/tils/change-orientation-of-an-image/</link>
       <pubDate>Sun, 17 May 2020 17:30:23 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/tils/change-orientation-of-an-image/</guid>
+      <guid>https://kbs.yinyangi.in/tils/change-orientation-of-an-image/</guid>
       <description>A single-line CSS transform is all it takes to change the orientation of an image (or any DOM element, really).
 For instance, if I have an image that is on its side, I can use the following rotate transform to orient it correctly.
 1 2 3  img { transform: rotate(90deg); }   Testing you babay

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ruudvanasseldonk.com on knowledge base</title>
-    <link>https://www.yinyangi.in/kbs/sites/ruudvanasseldonk.com/</link>
+    <link>https://kbs.yinyangi.in/sites/ruudvanasseldonk.com/</link>
     <description>Recent content in ruudvanasseldonk.com on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jun 2020 14:31:26 +0530</lastBuildDate>
     
-	<atom:link href="https://www.yinyangi.in/kbs/sites/ruudvanasseldonk.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.yinyangi.in/sites/ruudvanasseldonk.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Working on virtualenv without magic</title>
-      <link>https://www.yinyangi.in/kbs/bookmarks/working-on-virtualenv-without-magic/</link>
+      <link>https://kbs.yinyangi.in/bookmarks/working-on-virtualenv-without-magic/</link>
       <pubDate>Fri, 12 Jun 2020 14:31:26 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmarks/working-on-virtualenv-without-magic/</guid>
+      <guid>https://kbs.yinyangi.in/bookmarks/working-on-virtualenv-without-magic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rust Zero Cost Abstractions</title>
-      <link>https://www.yinyangi.in/kbs/bookmarks/rust-zero-cost-abstractions/</link>
+      <link>https://kbs.yinyangi.in/bookmarks/rust-zero-cost-abstractions/</link>
       <pubDate>Fri, 12 Jun 2020 12:40:19 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmarks/rust-zero-cost-abstractions/</guid>
+      <guid>https://kbs.yinyangi.in/bookmarks/rust-zero-cost-abstractions/</guid>
       <description></description>
     </item>
     

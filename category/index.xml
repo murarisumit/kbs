@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Category on knowledge base</title>
-    <link>https://www.yinyangi.in/kbs/category/</link>
+    <link>https://kbs.yinyangi.in/category/</link>
     <description>Recent content in Category on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Jun 2020 12:17:11 +0530</lastBuildDate>
     
-	<atom:link href="https://www.yinyangi.in/kbs/category/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.yinyangi.in/category/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>tils</title>
-      <link>https://www.yinyangi.in/kbs/category/tils/</link>
+      <link>https://kbs.yinyangi.in/category/tils/</link>
       <pubDate>Wed, 24 Jun 2020 12:17:11 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/category/tils/</guid>
+      <guid>https://kbs.yinyangi.in/category/tils/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bookmarks</title>
-      <link>https://www.yinyangi.in/kbs/category/bookmarks/</link>
+      <link>https://kbs.yinyangi.in/category/bookmarks/</link>
       <pubDate>Tue, 23 Jun 2020 16:53:01 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/category/bookmarks/</guid>
+      <guid>https://kbs.yinyangi.in/category/bookmarks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ideas</title>
-      <link>https://www.yinyangi.in/kbs/category/ideas/</link>
+      <link>https://kbs.yinyangi.in/category/ideas/</link>
       <pubDate>Thu, 18 Jun 2020 09:31:02 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/category/ideas/</guid>
+      <guid>https://kbs.yinyangi.in/category/ideas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>decisions</title>
-      <link>https://www.yinyangi.in/kbs/category/decisions/</link>
+      <link>https://kbs.yinyangi.in/category/decisions/</link>
       <pubDate>Sun, 31 May 2020 15:15:50 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/category/decisions/</guid>
+      <guid>https://kbs.yinyangi.in/category/decisions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>snippets</title>
-      <link>https://www.yinyangi.in/kbs/category/snippets/</link>
+      <link>https://kbs.yinyangi.in/category/snippets/</link>
       <pubDate>Sun, 17 May 2020 18:09:46 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/category/snippets/</guid>
+      <guid>https://kbs.yinyangi.in/category/snippets/</guid>
       <description></description>
     </item>
     

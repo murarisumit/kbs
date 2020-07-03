@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>zellwk.com on knowledge base</title>
-    <link>https://www.yinyangi.in/kbs/sites/zellwk.com/</link>
+    <link>https://kbs.yinyangi.in/sites/zellwk.com/</link>
     <description>Recent content in zellwk.com on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jun 2020 09:36:24 +0530</lastBuildDate>
     
-	<atom:link href="https://www.yinyangi.in/kbs/sites/zellwk.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.yinyangi.in/sites/zellwk.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vscode Keyboard Shortcuts</title>
-      <link>https://www.yinyangi.in/kbs/bookmarks/vscode-keyboard-shortcuts/</link>
+      <link>https://kbs.yinyangi.in/bookmarks/vscode-keyboard-shortcuts/</link>
       <pubDate>Fri, 12 Jun 2020 09:36:24 +0530</pubDate>
       
-      <guid>https://www.yinyangi.in/kbs/bookmarks/vscode-keyboard-shortcuts/</guid>
+      <guid>https://kbs.yinyangi.in/bookmarks/vscode-keyboard-shortcuts/</guid>
       <description></description>
     </item>
     
