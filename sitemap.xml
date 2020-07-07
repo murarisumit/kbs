@@ -3,22 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kbs.yinyangi.in/category/</loc>
+    <lastmod>2020-07-07T08:56:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kbs.yinyangi.in/tags/k8s/</loc>
+    <lastmod>2020-07-07T08:56:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kbs.yinyangi.in/</loc>
+    <lastmod>2020-07-07T08:56:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kbs.yinyangi.in/tags/kubectl/</loc>
+    <lastmod>2020-07-07T08:56:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kbs.yinyangi.in/snippets/kubectl-seledom-used-snippet/</loc>
+    <lastmod>2020-07-07T08:56:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kbs.yinyangi.in/snippets/</loc>
+    <lastmod>2020-07-07T08:56:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kbs.yinyangi.in/category/snippets/</loc>
+    <lastmod>2020-07-07T08:56:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kbs.yinyangi.in/tags/</loc>
+    <lastmod>2020-07-07T08:56:18+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kbs.yinyangi.in/tags/breakfast-with-champions/</loc>
     <lastmod>2020-06-24T12:17:11+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://kbs.yinyangi.in/category/</loc>
-    <lastmod>2020-06-24T12:17:11+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kbs.yinyangi.in/tags/cricket/</loc>
-    <lastmod>2020-06-24T12:17:11+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kbs.yinyangi.in/</loc>
     <lastmod>2020-06-24T12:17:11+05:30</lastmod>
   </url>
   
@@ -29,11 +59,6 @@
   
   <url>
     <loc>https://kbs.yinyangi.in/sites/</loc>
-    <lastmod>2020-06-24T12:17:11+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kbs.yinyangi.in/tags/</loc>
     <lastmod>2020-06-24T12:17:11+05:30</lastmod>
   </url>
   
@@ -573,11 +598,6 @@
   </url>
   
   <url>
-    <loc>https://kbs.yinyangi.in/tags/k8s/</loc>
-    <lastmod>2020-05-24T21:41:57+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kbs.yinyangi.in/bookmarks/k8s-node-local-dns-cache/</loc>
     <lastmod>2020-05-24T21:41:57+05:30</lastmod>
   </url>
@@ -689,16 +709,6 @@
   
   <url>
     <loc>https://kbs.yinyangi.in/snippets/hugo-tags-list/</loc>
-    <lastmod>2020-05-17T18:09:46+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kbs.yinyangi.in/snippets/</loc>
-    <lastmod>2020-05-17T18:09:46+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kbs.yinyangi.in/category/snippets/</loc>
     <lastmod>2020-05-17T18:09:46+05:30</lastmod>
   </url>
   

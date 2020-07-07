@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Snippets on knowledge base</title>
-    <link>https://kbs.yinyangi.in/snippets/</link>
-    <description>Recent content in Snippets on knowledge base</description>
+    <title>kubectl on knowledge base</title>
+    <link>https://kbs.yinyangi.in/tags/kubectl/</link>
+    <description>Recent content in kubectl on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jul 2020 08:56:18 +0530</lastBuildDate>
     
-	<atom:link href="https://kbs.yinyangi.in/snippets/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.yinyangi.in/tags/kubectl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description> Seldom used kubectl get command, listing here for reference   Kubectl list taints:
 1  kubectl get nodes -o custom-columns=NAME:.metadata.name,ARCH:.status.nodeInfo.architecture,KERNEL:.status.nodeInfo.kernelVersion,KUBLET:.status.nodeInfo.kubeletVersion,CPU:.status.capacity.cpu,RAM:.status.capacity.memory,TAINTS:.spec.taints     Kubectl get all poods in node:
 1  kubectl get pods --all-namespaces -o wide --field-selector spec.nodeName=&amp;lt;node-name&amp;gt;     </description>
-    </item>
-    
-    <item>
-      <title>Hugo Tags List</title>
-      <link>https://kbs.yinyangi.in/snippets/hugo-tags-list/</link>
-      <pubDate>Sun, 17 May 2020 18:09:46 +0530</pubDate>
-      
-      <guid>https://kbs.yinyangi.in/snippets/hugo-tags-list/</guid>
-      <description>A simple snippet i found to fetch all tags, and still to read it up
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32  {{ if ne .Site.Params.TagsInHome 0 }} {{ $randTags := (slice)}} {{ range $name, $taxonomy := .Site.Taxonomies.tags }} {{ $randTags = $randTags | append $name }} {{ end }} {{ $randTags = sort (first .</description>
     </item>
     
   </channel>

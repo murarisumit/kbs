@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+
+    <title>knowledge base</title>
+    <script src="/js/utils/age.js"> </script>
+    
+<title itemprop="name">Kubectl Seledom Used Snippet | knowledge base</title>
+<meta property="og:title" content="Kubectl Seledom Used Snippet | knowledge base" />
+<meta name="twitter:title" content="Kubectl Seledom Used Snippet | knowledge base" />
+<meta itemprop="name" content="Kubectl Seledom Used Snippet | knowledge base" />
+<meta name="application-name" content="Kubectl Seledom Used Snippet | knowledge base" />
+<meta property="og:site_name" content="" />
+
+
+<meta name="description" content="" />
+<meta itemprop="description" content="" />
+<meta property="og:description" content="" />
+<meta name="twitter:description" content="" />
+
+
+<base href="https://kbs.yinyangi.in/snippets/kubectl-seledom-used-snippet/">
+<link rel="canonical" href="https://kbs.yinyangi.in/snippets/kubectl-seledom-used-snippet/" itemprop="url" /> 
+<meta name="url" content="https://kbs.yinyangi.in/snippets/kubectl-seledom-used-snippet/" />
+<meta name="twitter:url" content="https://kbs.yinyangi.in/snippets/kubectl-seledom-used-snippet/" /> 
+<meta property="og:url" content="https://kbs.yinyangi.in/snippets/kubectl-seledom-used-snippet/" />
+
+
+<meta property="og:locale" content="en">
+<meta name="language" content="">
+
+
+
+<meta property="og:updated_time" content=2020-07-07T08:56:18&#43;0530 />
+
+
+<link rel="sitemap" type="application/xml" title="Sitemap" href="https://kbs.yinyangi.in/sitemap.xml" /> 
+
+
+
+</head>
+
+<body onload="update_post_age()">
+    <header id="header">
+        <h1><a href="https://kbs.yinyangi.in/">knowledge base</a></h1>
+        <nav>
+            <ul>
+                <li><a href="/tags">tags</a></li>
+                <li><a href="/category">sections</a></li>
+                <li><a href="https://stackoverflow.com/users/story/2735833" target="_blank">me</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main id="main">
+<article class="single">
+    <h2> Kubectl Seledom Used Snippet </h2>
+    <strong>Tags: </strong>
+    
+    <button disabled="disabled"> k8s</button>
+    
+    <button disabled="disabled"> kubectl</button>
+    
+    
+    <hr>
+<h4 id="seldom-used-kubectl-get-command-listing-here-for-reference">Seldom used kubectl get command, listing here for reference</h4>
+<ul>
+<li>
+<p>Kubectl list taints:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">kubectl get nodes -o custom-columns=NAME:.metadata.name,ARCH:.status.nodeInfo.architecture,KERNEL:.status.nodeInfo.kernelVersion,KUBLET:.status.nodeInfo.kubeletVersion,CPU:.status.capacity.cpu,RAM:.status.capacity.memory,TAINTS:.spec.taints
+</code></pre></td></tr></table>
+</div>
+</div></li>
+<li>
+<p>Kubectl get all poods in node:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">kubectl get pods --all-namespaces -o wide --field-selector spec.nodeName=&lt;node-name&gt;
+</code></pre></td></tr></table>
+</div>
+</div></li>
+</ul>
+
+    
+</article>
+</main>
+
+</body>
+<link rel="stylesheet" href="/css/normalize.css" media="none" onload="if(media!='all')media='all'" />
+<link rel="stylesheet" href="/css/syntax.css" media="none" onload="if(media!='all')media='all'" />
+<link rel="stylesheet" href="/css/style.css" />
+<link rel="shortcut icon" href="/favicon.ico" />
+</html>
