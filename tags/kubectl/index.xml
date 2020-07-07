@@ -17,8 +17,8 @@
       <pubDate>Tue, 07 Jul 2020 08:56:18 +0530</pubDate>
       
       <guid>https://kbs.yinyangi.in/snippets/kubectl-seledom-used-snippet/</guid>
-      <description> Seldom used kubectl get command, listing here for reference   Kubectl list taints:
-1  kubectl get nodes -o custom-columns=NAME:.metadata.name,ARCH:.status.nodeInfo.architecture,KERNEL:.status.nodeInfo.kernelVersion,KUBLET:.status.nodeInfo.kubeletVersion,CPU:.status.capacity.cpu,RAM:.status.capacity.memory,TAINTS:.spec.taints     Kubectl get all poods in node:
+      <description> Seldom used kubectl get command, listing here for reference   List all taints in node.
+1  kubectl get nodes -o custom-columns=NAME:.metadata.name,ARCH:.status.nodeInfo.architecture,KERNEL:.status.nodeInfo.kernelVersion,KUBLET:.status.nodeInfo.kubeletVersion,CPU:.status.capacity.cpu,RAM:.status.capacity.memory,TAINTS:.spec.taints     Get all pods in specific node.
 1  kubectl get pods --all-namespaces -o wide --field-selector spec.nodeName=&amp;lt;node-name&amp;gt;     </description>
     </item>
     
