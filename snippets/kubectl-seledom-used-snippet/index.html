@@ -68,9 +68,9 @@
     
     <hr>
 <h4 id="seldom-used-kubectl-get-command-listing-here-for-reference">Seldom used kubectl get command, listing here for reference</h4>
+<h3 id="nodes">Nodes</h3>
 <ul>
-<li>
-<p>List all taints in node.</p>
+<li>List all taints in node.
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -80,6 +80,9 @@
 </code></pre></td></tr></table>
 </div>
 </div></li>
+</ul>
+<h3 id="pods">Pods</h3>
+<ul>
 <li>
 <p>Get all pods in specific node.</p>
 <div class="highlight"><div class="chroma">
@@ -91,11 +94,23 @@
 </code></pre></td></tr></table>
 </div>
 </div></li>
+<li>
+<p>List pods by age</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">kubectl get po --sort-by=.status.startTime
+</code></pre></td></tr></table>
+</div>
+</div></li>
 </ul>
 <p>References:</p>
 <ul>
 <li><a href="https://stackoverflow.com/questions/39231880/kubernetes-api-gets-pods-on-specific-nodes">https://stackoverflow.com/questions/39231880/kubernetes-api-gets-pods-on-specific-nodes</a></li>
 <li><a href="https://stackoverflow.com/questions/43379415/how-can-i-list-the-taints-on-kubernetes-nodes/59494876#59494876">https://stackoverflow.com/questions/43379415/how-can-i-list-the-taints-on-kubernetes-nodes/59494876#59494876</a></li>
+<li><a href="https://stackoverflow.com/questions/45310287/kubernetes-sort-pods-by-age">https://stackoverflow.com/questions/45310287/kubernetes-sort-pods-by-age</a></li>
 </ul>
 
     

@@ -17,10 +17,10 @@
       <pubDate>Tue, 07 Jul 2020 08:56:18 +0530</pubDate>
       
       <guid>https://kbs.yinyangi.in/snippets/kubectl-seledom-used-snippet/</guid>
-      <description> Seldom used kubectl get command, listing here for reference   List all taints in node.
-1  kubectl get nodes -o custom-columns=NAME:.metadata.name,ARCH:.status.nodeInfo.architecture,KERNEL:.status.nodeInfo.kernelVersion,KUBLET:.status.nodeInfo.kubeletVersion,CPU:.status.capacity.cpu,RAM:.status.capacity.memory,TAINTS:.spec.taints     Get all pods in specific node.
-1  kubectl get pods --all-namespaces -o wide --field-selector spec.nodeName=&amp;lt;node-name&amp;gt;     References:
- https://stackoverflow.com/questions/39231880/kubernetes-api-gets-pods-on-specific-nodes https://stackoverflow.com/questions/43379415/how-can-i-list-the-taints-on-kubernetes-nodes/59494876#59494876  </description>
+      <description> Seldom used kubectl get command, listing here for reference Nodes  List all taints in node. 1  kubectl get nodes -o custom-columns=NAME:.metadata.name,ARCH:.status.nodeInfo.architecture,KERNEL:.status.nodeInfo.kernelVersion,KUBLET:.status.nodeInfo.kubeletVersion,CPU:.status.capacity.cpu,RAM:.status.capacity.memory,TAINTS:.spec.taints     Pods   Get all pods in specific node.
+1  kubectl get pods --all-namespaces -o wide --field-selector spec.nodeName=&amp;lt;node-name&amp;gt;     List pods by age
+1  kubectl get po --sort-by=.status.startTime     References:
+ https://stackoverflow.com/questions/39231880/kubernetes-api-gets-pods-on-specific-nodes https://stackoverflow.com/questions/43379415/how-can-i-list-the-taints-on-kubernetes-nodes/59494876#59494876 https://stackoverflow.com/questions/45310287/kubernetes-sort-pods-by-age  </description>
     </item>
     
     <item>
