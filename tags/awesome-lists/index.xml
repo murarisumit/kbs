@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>awesome-lists on knowledge base</title>
-    <link>https://kbs.yinyangi.in/tags/awesome-lists/</link>
+    <link>https://kbs.murarisumit.in/tags/awesome-lists/</link>
     <description>Recent content in awesome-lists on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jun 2020 16:53:01 +0530</lastBuildDate>
     
-	<atom:link href="https://kbs.yinyangi.in/tags/awesome-lists/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.murarisumit.in/tags/awesome-lists/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Awesome Prometheus Alerts</title>
-      <link>https://kbs.yinyangi.in/bookmarks/awesome-prometheus-alerts/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-prometheus-alerts/</link>
       <pubDate>Tue, 23 Jun 2020 16:53:01 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/awesome-prometheus-alerts/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-prometheus-alerts/</guid>
       <description></description>
     </item>
     

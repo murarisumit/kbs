@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>prometheus on knowledge base</title>
-    <link>https://kbs.yinyangi.in/tags/prometheus/</link>
+    <link>https://kbs.murarisumit.in/tags/prometheus/</link>
     <description>Recent content in prometheus on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jun 2020 16:53:01 +0530</lastBuildDate>
     
-	<atom:link href="https://kbs.yinyangi.in/tags/prometheus/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.murarisumit.in/tags/prometheus/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Awesome Prometheus Alerts</title>
-      <link>https://kbs.yinyangi.in/bookmarks/awesome-prometheus-alerts/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-prometheus-alerts/</link>
       <pubDate>Tue, 23 Jun 2020 16:53:01 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/awesome-prometheus-alerts/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-prometheus-alerts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Promql cheatsheet</title>
-      <link>https://kbs.yinyangi.in/bookmarks/promql/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/promql/</link>
       <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/promql/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/promql/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>knowledge base</title>
-    <link>https://kbs.yinyangi.in/</link>
+    <link>https://kbs.murarisumit.in/</link>
     <description>Recent content on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jul 2020 08:56:18 +0530</lastBuildDate>
     
-	<atom:link href="https://kbs.yinyangi.in/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.murarisumit.in/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kubectl Seledom Used Snippet</title>
-      <link>https://kbs.yinyangi.in/snippets/kubectl-seledom-used-snippet/</link>
+      <link>https://kbs.murarisumit.in/snippets/kubectl-seledom-used-snippet/</link>
       <pubDate>Tue, 07 Jul 2020 08:56:18 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/snippets/kubectl-seledom-used-snippet/</guid>
+      <guid>https://kbs.murarisumit.in/snippets/kubectl-seledom-used-snippet/</guid>
       <description> Seldom used kubectl get command, listing here for reference Nodes  List all taints in node. 1  kubectl get nodes -o custom-columns=NAME:.metadata.name,ARCH:.status.nodeInfo.architecture,KERNEL:.status.nodeInfo.kernelVersion,KUBLET:.status.nodeInfo.kubeletVersion,CPU:.status.capacity.cpu,RAM:.status.capacity.memory,TAINTS:.spec.taints     Pods   Get all pods in specific node.
 1  kubectl get pods --all-namespaces -o wide --field-selector spec.nodeName=&amp;lt;node-name&amp;gt;     List pods by age
 1  kubectl get po --sort-by=.status.startTime     References:
@@ -25,10 +25,10 @@
     
     <item>
       <title>Moments: Breakfast With Champions</title>
-      <link>https://kbs.yinyangi.in/tils/moments-breakfast-with-champions/</link>
+      <link>https://kbs.murarisumit.in/tils/moments-breakfast-with-champions/</link>
       <pubDate>Wed, 24 Jun 2020 12:17:11 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/tils/moments-breakfast-with-champions/</guid>
+      <guid>https://kbs.murarisumit.in/tils/moments-breakfast-with-champions/</guid>
       <description>Hayden: https://www.youtube.com/watch?v=cfksYTFzY5M Point is made was cricket was a big threatre for him, and live broadcasted threatre. He gave his performance and fine. I didn&amp;rsquo;t saw cricket or any game on those lines before. He made it feel like art form.
 Brett Lee: https://www.youtube.com/watch?v=Hl0Wc6TaokI&amp;amp;t Pain brett lee went through while bowling:
  https://www.youtube.com/watch?v=Hl0Wc6TaokI&amp;amp;t=14m0s https://www.youtube.com/watch?v=Hl0Wc6TaokI&amp;amp;t=15m26s  Michael Holding: https://www.youtube.com/watch?v=fbKkJO1OEc4 Really nice to hear his opinion and found someone who synchronizes with my thought process.</description>
@@ -36,55 +36,55 @@ Brett Lee: https://www.youtube.com/watch?v=Hl0Wc6TaokI&amp;amp;t Pain brett lee 
     
     <item>
       <title>Awesome Prometheus Alerts</title>
-      <link>https://kbs.yinyangi.in/bookmarks/awesome-prometheus-alerts/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-prometheus-alerts/</link>
       <pubDate>Tue, 23 Jun 2020 16:53:01 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/awesome-prometheus-alerts/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-prometheus-alerts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amish the Indian Way</title>
-      <link>https://kbs.yinyangi.in/bookmarks/amish-the-indian-way/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/amish-the-indian-way/</link>
       <pubDate>Mon, 22 Jun 2020 09:01:33 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/amish-the-indian-way/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/amish-the-indian-way/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inner Working of Python Objects</title>
-      <link>https://kbs.yinyangi.in/bookmarks/inner-working-of-python-objects/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/inner-working-of-python-objects/</link>
       <pubDate>Sun, 21 Jun 2020 18:56:13 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/inner-working-of-python-objects/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/inner-working-of-python-objects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Permaculture Project Water Revolution India</title>
-      <link>https://kbs.yinyangi.in/bookmarks/permaculture-project-water-revolution-india/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/permaculture-project-water-revolution-india/</link>
       <pubDate>Sun, 21 Jun 2020 13:27:25 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/permaculture-project-water-revolution-india/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/permaculture-project-water-revolution-india/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lessons in Electric Circuits</title>
-      <link>https://kbs.yinyangi.in/bookmarks/lessons-in-electric-circuits/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/lessons-in-electric-circuits/</link>
       <pubDate>Fri, 19 Jun 2020 07:28:58 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/lessons-in-electric-circuits/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/lessons-in-electric-circuits/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Home terraplanter/garden</title>
-      <link>https://kbs.yinyangi.in/ideas/terraplanter/</link>
+      <link>https://kbs.murarisumit.in/ideas/terraplanter/</link>
       <pubDate>Thu, 18 Jun 2020 09:31:02 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/ideas/terraplanter/</guid>
+      <guid>https://kbs.murarisumit.in/ideas/terraplanter/</guid>
       <description>Found this beautiful kickstarter at: https://www.kickstarter.com/projects/terraplanter/terra-planter-the-inside-out-hydroponic-planter-pot . Youtube video for the same is at: https://www.youtube.com/watch?v=GruSnziMV4U
 Nice simple alternative to that which can be reasonably found: https://www.youtube.com/watch?v=3_Jv9b94WOg
 A nice vertical green tower: https://www.youtube.com/watch?v=HWviyAuh-aE
@@ -93,20 +93,20 @@ A nice vertical green tower: https://www.youtube.com/watch?v=HWviyAuh-aE
     
     <item>
       <title>Projector Optics Internals</title>
-      <link>https://kbs.yinyangi.in/bookmarks/projector-optics-internals/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/projector-optics-internals/</link>
       <pubDate>Thu, 18 Jun 2020 09:22:59 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/projector-optics-internals/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/projector-optics-internals/</guid>
       <description>Projector and optics personally is very facinating like astrology to me. Playing with light, was never fun and understanding when i was in school, but now I just love it, and also understanding how things work at the same time.
 Here Matt beautifully shows internals of optics in projector.</description>
     </item>
     
     <item>
       <title>Video: A glimpse into ancient indian astronomy</title>
-      <link>https://kbs.yinyangi.in/bookmarks/video-a-glimpse-into-ancient-indian-astronomy/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/video-a-glimpse-into-ancient-indian-astronomy/</link>
       <pubDate>Sun, 14 Jun 2020 20:18:01 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/video-a-glimpse-into-ancient-indian-astronomy/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/video-a-glimpse-into-ancient-indian-astronomy/</guid>
       <description>Astrology has always intrigued me, specifically indian style of astrology, have heard a lot about it. Lunar calendar and rituals and traditions around it always facinate me a lot. I have some longing for it.
 Haven&amp;rsquo;t worked on it much, but this video again brings those question back to me.
 Path for me is language first, will have to learn sanskrit first, then i would have lot of venues open to me.</description>
@@ -114,92 +114,92 @@ Path for me is language first, will have to learn sanskrit first, then i would h
     
     <item>
       <title>Do Work With Joy</title>
-      <link>https://kbs.yinyangi.in/bookmarks/do-work-with-joy/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/do-work-with-joy/</link>
       <pubDate>Sat, 13 Jun 2020 17:43:03 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/do-work-with-joy/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/do-work-with-joy/</guid>
       <description>Don&amp;rsquo;t give up because it&amp;rsquo;s hard, if you love it: &amp;ldquo;do it&amp;rdquo;. It has to be done with joy, there is no point of adding more misery to our little world
 Work should be done because you want to do it, you like it. It would bring best from you, else whole point of living life miserably doesn&amp;rsquo;t make sense. No point of doing work which you don&amp;rsquo;t like in life, that life is not a full life, and life should be lived fully, joyfully.</description>
     </item>
     
     <item>
       <title>Working on virtualenv without magic</title>
-      <link>https://kbs.yinyangi.in/bookmarks/working-on-virtualenv-without-magic/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/working-on-virtualenv-without-magic/</link>
       <pubDate>Fri, 12 Jun 2020 14:31:26 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/working-on-virtualenv-without-magic/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/working-on-virtualenv-without-magic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beautiful Static Site in haskell</title>
-      <link>https://kbs.yinyangi.in/bookmarks/beautiful-static-site/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/beautiful-static-site/</link>
       <pubDate>Fri, 12 Jun 2020 14:19:12 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/beautiful-static-site/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/beautiful-static-site/</guid>
       <description>He has made beautiful and optimized site, exactly how work should be like.</description>
     </item>
     
     <item>
       <title>Rust Zero Cost Abstractions</title>
-      <link>https://kbs.yinyangi.in/bookmarks/rust-zero-cost-abstractions/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/rust-zero-cost-abstractions/</link>
       <pubDate>Fri, 12 Jun 2020 12:40:19 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/rust-zero-cost-abstractions/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/rust-zero-cost-abstractions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vscode Keyboard Shortcuts</title>
-      <link>https://kbs.yinyangi.in/bookmarks/vscode-keyboard-shortcuts/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/vscode-keyboard-shortcuts/</link>
       <pubDate>Fri, 12 Jun 2020 09:36:24 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/vscode-keyboard-shortcuts/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/vscode-keyboard-shortcuts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Federation Is Worst of All Worlds</title>
-      <link>https://kbs.yinyangi.in/bookmarks/federation-is-worst-of-all-worlds/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/federation-is-worst-of-all-worlds/</link>
       <pubDate>Sun, 07 Jun 2020 04:13:47 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/federation-is-worst-of-all-worlds/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/federation-is-worst-of-all-worlds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn Go With Tests</title>
-      <link>https://kbs.yinyangi.in/bookmarks/learn-go-with-tests/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/learn-go-with-tests/</link>
       <pubDate>Sun, 07 Jun 2020 04:09:38 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/learn-go-with-tests/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/learn-go-with-tests/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding the /bin, /sbin, /usr/sbin Split</title>
-      <link>https://kbs.yinyangi.in/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</link>
       <pubDate>Sun, 07 Jun 2020 04:06:21 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Every Lie We Tell Incurs a Debt to the Truth. Sooner or Later That Debt Is Paid</title>
-      <link>https://kbs.yinyangi.in/quotes/every-lie-we-tell-incurs-a-debt-to-the-truth-sooner-or-later-that-debt-is-paid/</link>
+      <link>https://kbs.murarisumit.in/quotes/every-lie-we-tell-incurs-a-debt-to-the-truth-sooner-or-later-that-debt-is-paid/</link>
       <pubDate>Sun, 07 Jun 2020 00:31:04 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/quotes/every-lie-we-tell-incurs-a-debt-to-the-truth-sooner-or-later-that-debt-is-paid/</guid>
+      <guid>https://kbs.murarisumit.in/quotes/every-lie-we-tell-incurs-a-debt-to-the-truth-sooner-or-later-that-debt-is-paid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abrahamic History, Lengend and Mythology</title>
-      <link>https://kbs.yinyangi.in/tils/abrahamic-history-lengend-mythology/</link>
+      <link>https://kbs.murarisumit.in/tils/abrahamic-history-lengend-mythology/</link>
       <pubDate>Fri, 05 Jun 2020 02:37:08 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/tils/abrahamic-history-lengend-mythology/</guid>
+      <guid>https://kbs.murarisumit.in/tils/abrahamic-history-lengend-mythology/</guid>
       <description>There is set of religions that come from Abrahim. I was trying to understand how they all are related.
 There are three abrahamic religions
  Judaism Christanity Islam  Q: Who is Abrahim(Ibrahim in quran) ?
@@ -208,10 +208,10 @@ There are three abrahamic religions
     
     <item>
       <title>CSS id vs class</title>
-      <link>https://kbs.yinyangi.in/tils/css-id-vs-class/</link>
+      <link>https://kbs.murarisumit.in/tils/css-id-vs-class/</link>
       <pubDate>Mon, 01 Jun 2020 13:42:43 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/tils/css-id-vs-class/</guid>
+      <guid>https://kbs.murarisumit.in/tils/css-id-vs-class/</guid>
       <description>Simple CSS question while working on resume project, is when to use id and when to use class.
 First thing to know about IDs:
  IDs are unique
@@ -221,10 +221,10 @@ For css it doesn&amp;rsquo;t matter it applies stying if you ask by #id_name or 
     
     <item>
       <title>What Is Not Love</title>
-      <link>https://kbs.yinyangi.in/bookmarks/what-is-not-love/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/what-is-not-love/</link>
       <pubDate>Mon, 01 Jun 2020 10:12:30 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/what-is-not-love/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/what-is-not-love/</guid>
       <description>External-love is what I&amp;rsquo;m going to give, not what I&amp;rsquo;m going to get. (This line is bit vague)
 I good line that i need to keep in check is:
  &amp;ldquo;People make serious mistake in thinking, that you give to those who you love, and the answer is you love to those whom you give&amp;rdquo; His point is, if I give something to you, I have invested myself in you, since self-love is given everybody loves themselves, now that part of me has become in you, there is part of me in you that I love.</description>
@@ -232,19 +232,19 @@ I good line that i need to keep in check is:
     
     <item>
       <title>Ctfs Are Awesome</title>
-      <link>https://kbs.yinyangi.in/bookmarks/ctfs-are-awesome/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/ctfs-are-awesome/</link>
       <pubDate>Mon, 01 Jun 2020 07:01:13 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/ctfs-are-awesome/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/ctfs-are-awesome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why Stopping Vim Now</title>
-      <link>https://kbs.yinyangi.in/decisions/why-stopping-vim-now/</link>
+      <link>https://kbs.murarisumit.in/decisions/why-stopping-vim-now/</link>
       <pubDate>Sun, 31 May 2020 15:15:50 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/decisions/why-stopping-vim-now/</guid>
+      <guid>https://kbs.murarisumit.in/decisions/why-stopping-vim-now/</guid>
       <description>While learning more about tools for the trade, vim was the tool that was thrown at me a lot. This tool took a long time, because I went the wrong route and was trying to use it as IDE not how it was intended.
 The way I started was at first, moved to config and plugin, instead of getting comfortable with vim-help, docs or core-vim without any setting.
 I learnt a few things here like vim-fugitive, it&amp;rsquo;s a great plugin, and alone it makes vim a treat to use.</description>
@@ -252,28 +252,28 @@ I learnt a few things here like vim-fugitive, it&amp;rsquo;s a great plugin, and
     
     <item>
       <title>Pi Nfs Server</title>
-      <link>https://kbs.yinyangi.in/bookmarks/pi-nfs-server/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/pi-nfs-server/</link>
       <pubDate>Sat, 30 May 2020 01:50:59 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/pi-nfs-server/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/pi-nfs-server/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IPv4 Link Local</title>
-      <link>https://kbs.yinyangi.in/tils/ipv4-link-local/</link>
+      <link>https://kbs.murarisumit.in/tils/ipv4-link-local/</link>
       <pubDate>Mon, 25 May 2020 09:24:33 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/tils/ipv4-link-local/</guid>
+      <guid>https://kbs.murarisumit.in/tils/ipv4-link-local/</guid>
       <description>To participate in wide-area IP networking, a host needs to be configured with IP addresses for its interfaces, either manually by the user or automatically from a source on the network such as a Dynamic Host Configuration Protocol (DHCP) server. Unfortunately, such address configuration information may not always be available. It is therefore beneficial for a host to be able to depend on a useful subset of IP networking functions even when no address configuration is available.</description>
     </item>
     
     <item>
       <title>Why Normalize CSS</title>
-      <link>https://kbs.yinyangi.in/bookmarks/why-normalize/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/why-normalize/</link>
       <pubDate>Sun, 24 May 2020 23:23:53 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/why-normalize/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/why-normalize/</guid>
       <description>Normalize.css is a small CSS file that provides better cross-browser consistency in the default styling of HTML elements. It’s a modern, HTML5-ready, alternative to the traditional CSS reset.
 The aims of normalize.css are as follows:
  Preserve useful browser defaults rather than erasing them. Normalize styles for a wide range of HTML elements. Correct bugs and common browser inconsistencies. Improve usability with subtle improvements. Explain the code using comments and detailed documentation.</description>
@@ -281,29 +281,29 @@ The aims of normalize.css are as follows:
     
     <item>
       <title>K8s Node Local Dns Cache</title>
-      <link>https://kbs.yinyangi.in/bookmarks/k8s-node-local-dns-cache/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/k8s-node-local-dns-cache/</link>
       <pubDate>Sun, 24 May 2020 21:41:57 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/k8s-node-local-dns-cache/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/k8s-node-local-dns-cache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning to Write With Confidencce</title>
-      <link>https://kbs.yinyangi.in/bookmarks/learning-to-write-with-confidence/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/learning-to-write-with-confidence/</link>
       <pubDate>Thu, 21 May 2020 20:42:29 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/learning-to-write-with-confidence/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/learning-to-write-with-confidence/</guid>
       <description>Some notes Writing is Thinking  &amp;ldquo;Self-doubt can be an ally. This is because it serves as an indicator of aspiration. It reflects love, love of something we dream of doing, and desire, desire to do it. If you find yourself asking yourself (and your friends), &amp;ldquo;Am I really a writer? Am I really an artist?&amp;rdquo; chances are you are.&amp;rdquo; - The War of Art
   &amp;ldquo;Each time you write a page, you are a writer.</description>
     </item>
     
     <item>
       <title>KISS</title>
-      <link>https://kbs.yinyangi.in/tils/kiss/</link>
+      <link>https://kbs.murarisumit.in/tils/kiss/</link>
       <pubDate>Thu, 21 May 2020 19:18:04 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/tils/kiss/</guid>
+      <guid>https://kbs.murarisumit.in/tils/kiss/</guid>
       <description>KISS is an acronym for &amp;ldquo;Keep it simple stupid&amp;rdquo; (notice no comma).
 Stupid does not refer to the user. To quote Wikipedia:
  The principle is best exemplified by the story of Johnson handing a team of design engineers a handful of tools, with the challenge that the jet aircraft they were designing must be repairable by
@@ -312,56 +312,56 @@ an average mechanic in the field under combat conditions with only these tools.<
     
     <item>
       <title>Sell Yourself, Sell Your Work</title>
-      <link>https://kbs.yinyangi.in/bookmarks/sell-yourself-sell-your-work/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/sell-yourself-sell-your-work/</link>
       <pubDate>Thu, 21 May 2020 08:39:21 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/sell-yourself-sell-your-work/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/sell-yourself-sell-your-work/</guid>
       <description>Few notes Doing technically brilliant work may be enough for your personal gratification, but you should never think it&amp;rsquo;s enough. If you lock yourself in a room and do the most marvellous work but don&amp;rsquo;t tell anyone, then no one will know, no one will benefit, and the work will be lost. You may as well not have bothered. For the world to benefit from your work, and therefore for you to benefit fully from your work, you have to make it known.</description>
     </item>
     
     <item>
       <title>EKS Best Practices</title>
-      <link>https://kbs.yinyangi.in/bookmarks/eks-best-practices/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/eks-best-practices/</link>
       <pubDate>Wed, 20 May 2020 22:16:17 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/eks-best-practices/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/eks-best-practices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Promql cheatsheet</title>
-      <link>https://kbs.yinyangi.in/bookmarks/promql/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/promql/</link>
       <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/promql/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/promql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo the Scope the Context and the Dot</title>
-      <link>https://kbs.yinyangi.in/bookmarks/hugo-the-scope-the-context-and-the-dot/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/hugo-the-scope-the-context-and-the-dot/</link>
       <pubDate>Sun, 17 May 2020 18:54:04 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/hugo-the-scope-the-context-and-the-dot/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/hugo-the-scope-the-context-and-the-dot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo Tags List</title>
-      <link>https://kbs.yinyangi.in/snippets/hugo-tags-list/</link>
+      <link>https://kbs.murarisumit.in/snippets/hugo-tags-list/</link>
       <pubDate>Sun, 17 May 2020 18:09:46 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/snippets/hugo-tags-list/</guid>
+      <guid>https://kbs.murarisumit.in/snippets/hugo-tags-list/</guid>
       <description>A simple snippet i found to fetch all tags, and still to read it up
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32  {{ if ne .Site.Params.TagsInHome 0 }} {{ $randTags := (slice)}} {{ range $name, $taxonomy := .Site.Taxonomies.tags }} {{ $randTags = $randTags | append $name }} {{ end }} {{ $randTags = sort (first .</description>
     </item>
     
     <item>
       <title>Change Orientation of an Image</title>
-      <link>https://kbs.yinyangi.in/tils/change-orientation-of-an-image/</link>
+      <link>https://kbs.murarisumit.in/tils/change-orientation-of-an-image/</link>
       <pubDate>Sun, 17 May 2020 17:30:23 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/tils/change-orientation-of-an-image/</guid>
+      <guid>https://kbs.murarisumit.in/tils/change-orientation-of-an-image/</guid>
       <description>A single-line CSS transform is all it takes to change the orientation of an image (or any DOM element, really).
 For instance, if I have an image that is on its side, I can use the following rotate transform to orient it correctly.
 1 2 3  img { transform: rotate(90deg); }   Testing you babay

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kubectl on knowledge base</title>
-    <link>https://kbs.yinyangi.in/tags/kubectl/</link>
+    <link>https://kbs.murarisumit.in/tags/kubectl/</link>
     <description>Recent content in kubectl on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jul 2020 08:56:18 +0530</lastBuildDate>
     
-	<atom:link href="https://kbs.yinyangi.in/tags/kubectl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.murarisumit.in/tags/kubectl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kubectl Seledom Used Snippet</title>
-      <link>https://kbs.yinyangi.in/snippets/kubectl-seledom-used-snippet/</link>
+      <link>https://kbs.murarisumit.in/snippets/kubectl-seledom-used-snippet/</link>
       <pubDate>Tue, 07 Jul 2020 08:56:18 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/snippets/kubectl-seledom-used-snippet/</guid>
+      <guid>https://kbs.murarisumit.in/snippets/kubectl-seledom-used-snippet/</guid>
       <description> Seldom used kubectl get command, listing here for reference Nodes  List all taints in node. 1  kubectl get nodes -o custom-columns=NAME:.metadata.name,ARCH:.status.nodeInfo.architecture,KERNEL:.status.nodeInfo.kernelVersion,KUBLET:.status.nodeInfo.kubeletVersion,CPU:.status.capacity.cpu,RAM:.status.capacity.memory,TAINTS:.spec.taints     Pods   Get all pods in specific node.
 1  kubectl get pods --all-namespaces -o wide --field-selector spec.nodeName=&amp;lt;node-name&amp;gt;     List pods by age
 1  kubectl get po --sort-by=.status.startTime     References:

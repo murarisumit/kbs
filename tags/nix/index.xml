@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nix on knowledge base</title>
-    <link>https://kbs.yinyangi.in/tags/nix/</link>
+    <link>https://kbs.murarisumit.in/tags/nix/</link>
     <description>Recent content in nix on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Jun 2020 04:06:21 +0530</lastBuildDate>
     
-	<atom:link href="https://kbs.yinyangi.in/tags/nix/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.murarisumit.in/tags/nix/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Understanding the /bin, /sbin, /usr/sbin Split</title>
-      <link>https://kbs.yinyangi.in/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</link>
       <pubDate>Sun, 07 Jun 2020 04:06:21 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</guid>
       <description></description>
     </item>
     

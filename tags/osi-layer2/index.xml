@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>osi-layer2 on knowledge base</title>
-    <link>https://kbs.yinyangi.in/tags/osi-layer2/</link>
+    <link>https://kbs.murarisumit.in/tags/osi-layer2/</link>
     <description>Recent content in osi-layer2 on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 May 2020 09:24:33 +0530</lastBuildDate>
     
-	<atom:link href="https://kbs.yinyangi.in/tags/osi-layer2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.murarisumit.in/tags/osi-layer2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>IPv4 Link Local</title>
-      <link>https://kbs.yinyangi.in/tils/ipv4-link-local/</link>
+      <link>https://kbs.murarisumit.in/tils/ipv4-link-local/</link>
       <pubDate>Mon, 25 May 2020 09:24:33 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/tils/ipv4-link-local/</guid>
+      <guid>https://kbs.murarisumit.in/tils/ipv4-link-local/</guid>
       <description>To participate in wide-area IP networking, a host needs to be configured with IP addresses for its interfaces, either manually by the user or automatically from a source on the network such as a Dynamic Host Configuration Protocol (DHCP) server. Unfortunately, such address configuration information may not always be available. It is therefore beneficial for a host to be able to depend on a useful subset of IP networking functions even when no address configuration is available.</description>
     </item>
     

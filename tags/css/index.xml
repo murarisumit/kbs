@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>css on knowledge base</title>
-    <link>https://kbs.yinyangi.in/tags/css/</link>
+    <link>https://kbs.murarisumit.in/tags/css/</link>
     <description>Recent content in css on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jun 2020 13:42:43 +0530</lastBuildDate>
     
-	<atom:link href="https://kbs.yinyangi.in/tags/css/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.murarisumit.in/tags/css/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CSS id vs class</title>
-      <link>https://kbs.yinyangi.in/tils/css-id-vs-class/</link>
+      <link>https://kbs.murarisumit.in/tils/css-id-vs-class/</link>
       <pubDate>Mon, 01 Jun 2020 13:42:43 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/tils/css-id-vs-class/</guid>
+      <guid>https://kbs.murarisumit.in/tils/css-id-vs-class/</guid>
       <description>Simple CSS question while working on resume project, is when to use id and when to use class.
 First thing to know about IDs:
  IDs are unique
@@ -26,10 +26,10 @@ For css it doesn&amp;rsquo;t matter it applies stying if you ask by #id_name or 
     
     <item>
       <title>Why Normalize CSS</title>
-      <link>https://kbs.yinyangi.in/bookmarks/why-normalize/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/why-normalize/</link>
       <pubDate>Sun, 24 May 2020 23:23:53 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/why-normalize/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/why-normalize/</guid>
       <description>Normalize.css is a small CSS file that provides better cross-browser consistency in the default styling of HTML elements. It’s a modern, HTML5-ready, alternative to the traditional CSS reset.
 The aims of normalize.css are as follows:
  Preserve useful browser defaults rather than erasing them. Normalize styles for a wide range of HTML elements. Correct bugs and common browser inconsistencies. Improve usability with subtle improvements. Explain the code using comments and detailed documentation.</description>
@@ -37,10 +37,10 @@ The aims of normalize.css are as follows:
     
     <item>
       <title>Change Orientation of an Image</title>
-      <link>https://kbs.yinyangi.in/tils/change-orientation-of-an-image/</link>
+      <link>https://kbs.murarisumit.in/tils/change-orientation-of-an-image/</link>
       <pubDate>Sun, 17 May 2020 17:30:23 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/tils/change-orientation-of-an-image/</guid>
+      <guid>https://kbs.murarisumit.in/tils/change-orientation-of-an-image/</guid>
       <description>A single-line CSS transform is all it takes to change the orientation of an image (or any DOM element, really).
 For instance, if I have an image that is on its side, I can use the following rotate transform to orient it correctly.
 1 2 3  img { transform: rotate(90deg); }   Testing you babay

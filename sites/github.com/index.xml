@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>github.com on knowledge base</title>
-    <link>https://kbs.yinyangi.in/sites/github.com/</link>
+    <link>https://kbs.murarisumit.in/sites/github.com/</link>
     <description>Recent content in github.com on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jun 2020 14:19:12 +0530</lastBuildDate>
     
-	<atom:link href="https://kbs.yinyangi.in/sites/github.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.murarisumit.in/sites/github.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Beautiful Static Site in haskell</title>
-      <link>https://kbs.yinyangi.in/bookmarks/beautiful-static-site/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/beautiful-static-site/</link>
       <pubDate>Fri, 12 Jun 2020 14:19:12 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/beautiful-static-site/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/beautiful-static-site/</guid>
       <description>He has made beautiful and optimized site, exactly how work should be like.</description>
     </item>
     
     <item>
       <title>Promql cheatsheet</title>
-      <link>https://kbs.yinyangi.in/bookmarks/promql/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/promql/</link>
       <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/promql/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/promql/</guid>
       <description></description>
     </item>
     

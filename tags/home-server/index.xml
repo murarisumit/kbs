@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>home-server on knowledge base</title>
-    <link>https://kbs.yinyangi.in/tags/home-server/</link>
+    <link>https://kbs.murarisumit.in/tags/home-server/</link>
     <description>Recent content in home-server on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 May 2020 01:50:59 +0530</lastBuildDate>
     
-	<atom:link href="https://kbs.yinyangi.in/tags/home-server/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbs.murarisumit.in/tags/home-server/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pi Nfs Server</title>
-      <link>https://kbs.yinyangi.in/bookmarks/pi-nfs-server/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/pi-nfs-server/</link>
       <pubDate>Sat, 30 May 2020 01:50:59 +0530</pubDate>
       
-      <guid>https://kbs.yinyangi.in/bookmarks/pi-nfs-server/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/pi-nfs-server/</guid>
       <description></description>
     </item>
     
