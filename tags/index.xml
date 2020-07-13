@@ -6,10 +6,28 @@
     <description>Recent content in Tags on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2020 08:56:18 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 09:41:06 +0530</lastBuildDate>
     
 	<atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>leadership</title>
+      <link>https://kbs.murarisumit.in/tags/leadership/</link>
+      <pubDate>Mon, 13 Jul 2020 09:41:06 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life-lessons</title>
+      <link>https://kbs.murarisumit.in/tags/life-lessons/</link>
+      <pubDate>Mon, 13 Jul 2020 09:41:06 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/life-lessons/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>k8s</title>
