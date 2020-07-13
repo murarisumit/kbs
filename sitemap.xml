@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kbs.murarisumit.in/bookmark/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/</loc>
+    <lastmod>2020-07-13T09:41:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kbs.murarisumit.in/category/bookmarks/</loc>
+    <lastmod>2020-07-13T09:41:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kbs.murarisumit.in/category/</loc>
     <lastmod>2020-07-13T09:41:06+05:30</lastmod>
   </url>
   
@@ -18,7 +28,7 @@
   </url>
   
   <url>
-    <loc>https://kbs.murarisumit.in/bookmark/leadership-lecture-sam-manekshaw/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/leadership-lecture-sam-manekshaw/</loc>
     <lastmod>2020-07-13T09:41:06+05:30</lastmod>
   </url>
   
@@ -40,11 +50,6 @@
   <url>
     <loc>https://kbs.murarisumit.in/sites/www.youtube.com/</loc>
     <lastmod>2020-07-13T09:41:06+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kbs.murarisumit.in/category/</loc>
-    <lastmod>2020-07-07T08:56:18+05:30</lastmod>
   </url>
   
   <url>
@@ -114,16 +119,6 @@
   
   <url>
     <loc>https://kbs.murarisumit.in/sites/awesome-prometheus-alerts.grep.to/</loc>
-    <lastmod>2020-06-23T16:53:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kbs.murarisumit.in/bookmarks/</loc>
-    <lastmod>2020-06-23T16:53:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kbs.murarisumit.in/category/bookmarks/</loc>
     <lastmod>2020-06-23T16:53:01+05:30</lastmod>
   </url>
   
