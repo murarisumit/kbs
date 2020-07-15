@@ -6,10 +6,19 @@
     <description>Recent content in Bookmarks on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2020 16:24:45 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2020 22:26:21 +0530</lastBuildDate>
     
 	<atom:link href="https://kbs.murarisumit.in/bookmarks/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How Lithium-ion Battery Work</title>
+      <link>https://kbs.murarisumit.in/bookmarks/how-litihium-ion-battery-work/</link>
+      <pubDate>Wed, 15 Jul 2020 22:26:21 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/bookmarks/how-litihium-ion-battery-work/</guid>
+      <description>He says that it&amp;rsquo;s better not to discarge battery completely, better to charge when it&amp;rsquo;s at 30-40%.</description>
+    </item>
     
     <item>
       <title>How SSD Work</title>
