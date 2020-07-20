@@ -3,17 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kbs.murarisumit.in/category/</loc>
+    <lastmod>2020-07-20T08:20:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kbs.murarisumit.in/tags/dac/</loc>
+    <lastmod>2020-07-20T08:20:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kbs.murarisumit.in/tils/intro-to-dac/</loc>
+    <lastmod>2020-07-20T08:20:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kbs.murarisumit.in/</loc>
+    <lastmod>2020-07-20T08:20:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kbs.murarisumit.in/tags/</loc>
+    <lastmod>2020-07-20T08:20:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kbs.murarisumit.in/tils/</loc>
+    <lastmod>2020-07-20T08:20:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kbs.murarisumit.in/category/tils/</loc>
+    <lastmod>2020-07-20T08:20:54+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kbs.murarisumit.in/bookmarks/</loc>
     <lastmod>2020-07-15T22:26:21+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://kbs.murarisumit.in/category/bookmarks/</loc>
-    <lastmod>2020-07-15T22:26:21+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kbs.murarisumit.in/category/</loc>
     <lastmod>2020-07-15T22:26:21+05:30</lastmod>
   </url>
   
@@ -28,17 +58,7 @@
   </url>
   
   <url>
-    <loc>https://kbs.murarisumit.in/</loc>
-    <lastmod>2020-07-15T22:26:21+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kbs.murarisumit.in/sites/</loc>
-    <lastmod>2020-07-15T22:26:21+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kbs.murarisumit.in/tags/</loc>
     <lastmod>2020-07-15T22:26:21+05:30</lastmod>
   </url>
   
@@ -109,16 +129,6 @@
   
   <url>
     <loc>https://kbs.murarisumit.in/tils/moments-breakfast-with-champions/</loc>
-    <lastmod>2020-06-24T12:17:11+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kbs.murarisumit.in/tils/</loc>
-    <lastmod>2020-06-24T12:17:11+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kbs.murarisumit.in/category/tils/</loc>
     <lastmod>2020-06-24T12:17:11+05:30</lastmod>
   </url>
   
