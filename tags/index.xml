@@ -6,10 +6,28 @@
     <description>Recent content in Tags on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2020 08:20:54 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2020 05:06:45 +0530</lastBuildDate>
     
 	<atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>https</title>
+      <link>https://kbs.murarisumit.in/tags/https/</link>
+      <pubDate>Tue, 21 Jul 2020 05:06:45 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/https/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssl-certificates</title>
+      <link>https://kbs.murarisumit.in/tags/ssl-certificates/</link>
+      <pubDate>Tue, 21 Jul 2020 05:06:45 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/ssl-certificates/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>dac</title>

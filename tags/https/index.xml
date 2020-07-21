@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>https on knowledge base</title>
+    <link>https://kbs.murarisumit.in/tags/https/</link>
+    <description>Recent content in https on knowledge base</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jul 2020 05:06:45 +0530</lastBuildDate>
+    
+	<atom:link href="https://kbs.murarisumit.in/tags/https/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Certificate Signing Works</title>
+      <link>https://kbs.murarisumit.in/tils/how-certificate-signing-works/</link>
+      <pubDate>Tue, 21 Jul 2020 05:06:45 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tils/how-certificate-signing-works/</guid>
+      <description>Reference: https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/
+Steps for signing certificate by CA  The Subscriber (the person asking a CA to issue them a certificate) sends a Certificate Signing Request (CSR) to the CA which contains all of their details like name, domain name etc. The CA will then take a blank certificate and begins to fill in the details of the Subscriber, validating ownership of the domain along the way, until they have completed all of the fields in the certificate.</description>
+    </item>
+    
+  </channel>
+</rss>

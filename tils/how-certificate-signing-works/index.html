@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+
+    <title>knowledge base</title>
+    <script src="/js/utils/age.js"> </script>
+    
+<title itemprop="name">How Certificate Signing Works | knowledge base</title>
+<meta property="og:title" content="How Certificate Signing Works | knowledge base" />
+<meta name="twitter:title" content="How Certificate Signing Works | knowledge base" />
+<meta itemprop="name" content="How Certificate Signing Works | knowledge base" />
+<meta name="application-name" content="How Certificate Signing Works | knowledge base" />
+<meta property="og:site_name" content="" />
+
+
+<meta name="description" content="" />
+<meta itemprop="description" content="" />
+<meta property="og:description" content="" />
+<meta name="twitter:description" content="" />
+
+
+<base href="https://kbs.murarisumit.in/tils/how-certificate-signing-works/">
+<link rel="canonical" href="https://kbs.murarisumit.in/tils/how-certificate-signing-works/" itemprop="url" /> 
+<meta name="url" content="https://kbs.murarisumit.in/tils/how-certificate-signing-works/" />
+<meta name="twitter:url" content="https://kbs.murarisumit.in/tils/how-certificate-signing-works/" /> 
+<meta property="og:url" content="https://kbs.murarisumit.in/tils/how-certificate-signing-works/" />
+
+
+<meta property="og:locale" content="en">
+<meta name="language" content="">
+
+
+
+<meta property="og:updated_time" content=2020-07-21T05:06:45&#43;0530 />
+
+
+<link rel="sitemap" type="application/xml" title="Sitemap" href="https://kbs.murarisumit.in/sitemap.xml" /> 
+
+
+
+
+<meta name="google-site-verification" content="vMDgOhLZPfcUkSeRsE8eaC34ESeVXglclKEN7F0us78" />
+</head>
+
+<body onload="update_post_age()">
+    <header id="header">
+        <h1><a href="https://kbs.murarisumit.in/">knowledge base</a></h1>
+        <nav>
+            <ul>
+                <li><a href="/tags">tags</a></li>
+                <li><a href="/category">sections</a></li>
+                <li><a href="https://stackoverflow.com/users/story/2735833" target="_blank">me</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main id="main">
+<article class="single">
+    <h2> How Certificate Signing Works </h2>
+    <strong>Tags: </strong>
+    
+    <button disabled="disabled"> https</button>
+    
+    <button disabled="disabled"> ssl-certificates</button>
+    
+    
+    <p>Reference: <a href="https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/">https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/</a></p>
+<h4 id="steps-for-signing-certificate-by-ca">Steps for signing certificate by CA</h4>
+<ol>
+<li>The Subscriber (the person asking a CA to issue them a certificate) sends a Certificate Signing Request (CSR) to the CA which contains all of their details like name, domain name etc.</li>
+<li>The CA will then take a blank certificate and begins to fill in the details of the Subscriber, validating ownership of the domain along the way, until they have completed all of the fields in the certificate.</li>
+<li>At this stage we have what we call the Pre-Certificate, it&rsquo;s basically a finished certificate ready to issue but the only thing that&rsquo;s missing is the CAs signature on the bottom of the certificate to make it official</li>
+</ol>
+<h4 id="signing-of-certificate">Signing of certificate</h4>
+<ol start="4">
+<li>CA takes Pre-Certificate and running it through a hash function, currently SHA256, to obtain the digest.</li>
+<li>The second step is the CA then taking that digest and encrypting it with their private key.</li>
+<li>This encrypted digest is the signature and once appended to the end of the file we now have a signed certificate that can be issued to the Subscriber.</li>
+</ol>
+<p><strong>Rules public key encryption</strong></p>
+<ol>
+<li>For every private key, there is only one corresponding public key.</li>
+<li>Also Data encrypted with the public key can only be decrypted with it&rsquo;s corresponding private key, and data encrypted with the private key can only be decrypted with it&rsquo;s corresponding public key.</li>
+<li>More rules and info at: <a href="https://www.cloudflare.com/learning/ssl/how-does-public-key-encryption-work/">https://www.cloudflare.com/learning/ssl/how-does-public-key-encryption-work/</a></li>
+</ol>
+<hr>
+<p>Q: How does adding the <strong>encrypted digest</strong> i.e. signature makes it signed certificate ?</p>
+<p>A: It can better be explained by putting browser in picture and looking at what it does while requesting https website.</p>
+<hr>
+<h4 id="what-browser-does">What browser does</h4>
+<ol>
+<li>During tls handshake with https endpoint, it fetches associate intermediate certificate and root certificate.
+<ul>
+<li>We need to upload intermediate certificate(public key of CA) and root certificate while uploading ssl certificate.</li>
+</ul>
+</li>
+<li>Browser now decrypts the digest using intermediate certificates, if it is able to decrypt using intermediate key, it means that above certificate is signed by private-key of CA(data encrypted with the private key can only be decrypted with it&rsquo;s corresponding public key)</li>
+<li>Browser itself also calculate hash of pre-certificate to compare with hash it got in step 2 after decrypting digest.</li>
+<li>If both are correct means,
+<ul>
+<li>The signature definitely came from the CA. (Authenticity) - Step 2</li>
+<li>The certificate has not been tampered with. (Integrity)  - Step 3</li>
+</ul>
+</li>
+</ol>
+<p>Above is over-simplified explanation of what happens, above all is taken from 1st half of post at : <a href="https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/">https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/</a></p>
+<p>If you want to read further, continue reading at : <a href="https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/">https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/</a></p>
+
+    
+</article>
+<center> For feedback reach me at <a href="mailto: email@murarisumit.in?subject=https://kbs.murarisumit.in/ : How%20Certificate%20Signing%20Works"> email@murarisumit.in</a> </center>
+</main>
+
+</body>
+<link rel="stylesheet" href="/css/normalize.css" media="none" onload="if(media!='all')media='all'" />
+<link rel="stylesheet" href="/css/syntax.css" media="none" onload="if(media!='all')media='all'" />
+<link rel="stylesheet" href="/css/style.css" />
+<link rel="shortcut icon" href="/favicon.ico" />
+</html>

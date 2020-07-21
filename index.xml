@@ -6,10 +6,20 @@
     <description>Recent content on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2020 08:20:54 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2020 05:06:45 +0530</lastBuildDate>
     
 	<atom:link href="https://kbs.murarisumit.in/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How Certificate Signing Works</title>
+      <link>https://kbs.murarisumit.in/tils/how-certificate-signing-works/</link>
+      <pubDate>Tue, 21 Jul 2020 05:06:45 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tils/how-certificate-signing-works/</guid>
+      <description>Reference: https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/
+Steps for signing certificate by CA  The Subscriber (the person asking a CA to issue them a certificate) sends a Certificate Signing Request (CSR) to the CA which contains all of their details like name, domain name etc. The CA will then take a blank certificate and begins to fill in the details of the Subscriber, validating ownership of the domain along the way, until they have completed all of the fields in the certificate.</description>
+    </item>
     
     <item>
       <title>Intro to DAC</title>
