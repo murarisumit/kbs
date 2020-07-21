@@ -3,17 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kbs.murarisumit.in/category/</loc>
-    <lastmod>2020-07-21T05:06:45+05:30</lastmod>
+    <loc>https://kbs.murarisumit.in/bookmarks/</loc>
+    <lastmod>2020-07-21T06:17:03+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://kbs.murarisumit.in/tags/https/</loc>
-    <lastmod>2020-07-21T05:06:45+05:30</lastmod>
+    <loc>https://kbs.murarisumit.in/category/bookmarks/</loc>
+    <lastmod>2020-07-21T06:17:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kbs.murarisumit.in/category/</loc>
+    <lastmod>2020-07-21T06:17:03+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://kbs.murarisumit.in/</loc>
+    <lastmod>2020-07-21T06:17:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kbs.murarisumit.in/bookmarks/please-use-plain-text-for-email/</loc>
+    <lastmod>2020-07-21T06:17:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kbs.murarisumit.in/tags/https/</loc>
     <lastmod>2020-07-21T05:06:45+05:30</lastmod>
   </url>
   
@@ -55,16 +70,6 @@
   <url>
     <loc>https://kbs.murarisumit.in/tags/music/</loc>
     <lastmod>2020-07-20T08:20:54+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kbs.murarisumit.in/bookmarks/</loc>
-    <lastmod>2020-07-15T22:26:21+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kbs.murarisumit.in/category/bookmarks/</loc>
-    <lastmod>2020-07-15T22:26:21+05:30</lastmod>
   </url>
   
   <url>
