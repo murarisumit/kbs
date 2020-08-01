@@ -24,6 +24,18 @@ A patch file is created, for me it was patches/0001-second.sh.patch, below is a 
     </item>
     
     <item>
+      <title>Strace Command Snippets</title>
+      <link>https://kbs.murarisumit.in/tils/strace-command-snippets/</link>
+      <pubDate>Wed, 29 Jul 2020 20:22:24 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tils/strace-command-snippets/</guid>
+      <description>Strace is really nice command to see what system calls are being used, it&amp;rsquo;s primary used as debugging tools for linux system calls
+Q: What is a &amp;ldquo;system call&amp;rdquo; ?
+A: System calls are interface via which user-space program interact with system using linux kernel.
+So kernel is core that manages the system and talks and knows about hardware. Application don&amp;rsquo;t directly talk to hardware, they talk to kernel via some exposed interfaces(open, exec etc.</description>
+    </item>
+    
+    <item>
       <title>Please Use Plain Text for Email</title>
       <link>https://kbs.murarisumit.in/bookmarks/please-use-plain-text-for-email/</link>
       <pubDate>Tue, 21 Jul 2020 06:17:03 +0530</pubDate>

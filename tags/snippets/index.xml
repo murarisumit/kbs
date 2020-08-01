@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>snippets on knowledge base</title>
+    <link>https://kbs.murarisumit.in/tags/snippets/</link>
+    <description>Recent content in snippets on knowledge base</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Jul 2020 20:22:24 +0530</lastBuildDate>
+    
+	<atom:link href="https://kbs.murarisumit.in/tags/snippets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Strace Command Snippets</title>
+      <link>https://kbs.murarisumit.in/tils/strace-command-snippets/</link>
+      <pubDate>Wed, 29 Jul 2020 20:22:24 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tils/strace-command-snippets/</guid>
+      <description>Strace is really nice command to see what system calls are being used, it&amp;rsquo;s primary used as debugging tools for linux system calls
+Q: What is a &amp;ldquo;system call&amp;rdquo; ?
+A: System calls are interface via which user-space program interact with system using linux kernel.
+So kernel is core that manages the system and talks and knows about hardware. Application don&amp;rsquo;t directly talk to hardware, they talk to kernel via some exposed interfaces(open, exec etc.</description>
+    </item>
+    
+  </channel>
+</rss>
