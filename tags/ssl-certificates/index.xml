@@ -6,11 +6,7 @@
     <description>Recent content in ssl-certificates on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2020 05:06:45 +0530</lastBuildDate>
-    
-	<atom:link href="https://kbs.murarisumit.in/tags/ssl-certificates/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 21 Jul 2020 05:06:45 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/ssl-certificates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Simplified view on How Certificate Signing works</title>
       <link>https://kbs.murarisumit.in/tils/how-certificate-signing-works/</link>

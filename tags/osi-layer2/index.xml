@@ -6,11 +6,7 @@
     <description>Recent content in osi-layer2 on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2020 09:24:33 +0530</lastBuildDate>
-    
-	<atom:link href="https://kbs.murarisumit.in/tags/osi-layer2/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 25 May 2020 09:24:33 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/osi-layer2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IPv4 Link Local</title>
       <link>https://kbs.murarisumit.in/tils/ipv4-link-local/</link>

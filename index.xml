@@ -6,11 +6,7 @@
     <description>Recent content on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2020 03:01:28 +0530</lastBuildDate>
-    
-	<atom:link href="https://kbs.murarisumit.in/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 01 Aug 2020 03:01:28 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git via Email Getting Started</title>
       <link>https://kbs.murarisumit.in/tils/git-via-email-getting-started/</link>
@@ -452,6 +448,24 @@ For instance, if I have an image that is on its side, I can use the following ro
 1 2 3  img { transform: rotate(90deg); }   Testing you babay
 1 2  import os os.path.join()    Go hello world
 1 2 3 4 5 6 7  import ( &amp;#34;fmt&amp;#34; ) func main() { fmt.</description>
+    </item>
+    
+    <item>
+      <title>Categories</title>
+      <link>https://kbs.murarisumit.in/categories.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/categories.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://kbs.murarisumit.in/tags.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags.html</guid>
+      <description></description>
     </item>
     
   </channel>
