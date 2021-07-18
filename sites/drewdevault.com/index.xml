@@ -6,11 +6,15 @@
     <description>Recent content in drewdevault.com on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Tue, 21 Jul 2020 06:17:03 +0530</lastBuildDate>
     
 	<atom:link href="https://kbs.murarisumit.in/sites/drewdevault.com/index.xml" rel="self" type="application/rss+xml" />
     
     
+=======
+    <lastBuildDate>Tue, 21 Jul 2020 06:17:03 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/drewdevault.com/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 6d5190a (Lots of build changes due to hugo version upgrade)
     <item>
       <title>Please Use Plain Text for Email</title>
       <link>https://kbs.murarisumit.in/bookmarks/please-use-plain-text-for-email/</link>
@@ -21,4 +25,8 @@
     </item>
     
   </channel>
+<<<<<<< HEAD
 </rss>
+=======
+</rss>
+>>>>>>> 6d5190a (Lots of build changes due to hugo version upgrade)
