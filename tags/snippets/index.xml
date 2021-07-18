@@ -6,15 +6,7 @@
     <description>Recent content in snippets on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-<<<<<<< HEAD
-    <lastBuildDate>Wed, 29 Jul 2020 20:22:24 +0530</lastBuildDate>
-    
-	<atom:link href="https://kbs.murarisumit.in/tags/snippets/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-=======
     <lastBuildDate>Wed, 29 Jul 2020 20:22:24 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/snippets/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 6d5190a (Lots of build changes due to hugo version upgrade)
     <item>
       <title>Strace Command Snippets</title>
       <link>https://kbs.murarisumit.in/tils/strace-command-snippets/</link>
@@ -28,8 +20,4 @@ So kernel is core that manages the system and talks and knows about hardware. Ap
     </item>
     
   </channel>
-<<<<<<< HEAD
 </rss>
-=======
-</rss>
->>>>>>> 6d5190a (Lots of build changes due to hugo version upgrade)

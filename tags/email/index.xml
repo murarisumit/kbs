@@ -6,15 +6,7 @@
     <description>Recent content in email on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-<<<<<<< HEAD
-    <lastBuildDate>Sat, 01 Aug 2020 03:01:28 +0530</lastBuildDate>
-    
-	<atom:link href="https://kbs.murarisumit.in/tags/email/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-=======
     <lastBuildDate>Sat, 01 Aug 2020 03:01:28 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/email/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 6d5190a (Lots of build changes due to hugo version upgrade)
     <item>
       <title>Git via Email Getting Started</title>
       <link>https://kbs.murarisumit.in/tils/git-via-email-getting-started/</link>
@@ -37,8 +29,4 @@ A patch file is created, for me it was patches/0001-second.sh.patch, below is a 
     </item>
     
   </channel>
-<<<<<<< HEAD
 </rss>
-=======
-</rss>
->>>>>>> 6d5190a (Lots of build changes due to hugo version upgrade)

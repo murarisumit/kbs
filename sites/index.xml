@@ -6,23 +6,7 @@
     <description>Recent content in Sites on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-<<<<<<< HEAD
-    <lastBuildDate>Tue, 21 Jul 2020 06:17:03 +0530</lastBuildDate>
-    
-	<atom:link href="https://kbs.murarisumit.in/sites/index.xml" rel="self" type="application/rss+xml" />
-    
-=======
     <lastBuildDate>Tue, 21 Jul 2020 06:17:03 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>drewdevault.com</title>
-      <link>https://kbs.murarisumit.in/sites/drewdevault.com/</link>
-      <pubDate>Tue, 21 Jul 2020 06:17:03 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/sites/drewdevault.com/</guid>
-      <description></description>
-    </item>
->>>>>>> 6d5190a (Lots of build changes due to hugo version upgrade)
-    
     <item>
       <title>drewdevault.com</title>
       <link>https://kbs.murarisumit.in/sites/drewdevault.com/</link>
