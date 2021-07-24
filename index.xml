@@ -451,20 +451,29 @@ For instance, if I have an image that is on its side, I can use the following ro
     </item>
     
     <item>
-      <title>Categories</title>
-      <link>https://kbs.murarisumit.in/categories.html</link>
+      <title></title>
+      <link>https://kbs.murarisumit.in/general/simple-to-think-hard-to-imbibe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kbs.murarisumit.in/categories.html</guid>
+      <guid>https://kbs.murarisumit.in/general/simple-to-think-hard-to-imbibe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Categories</title>
+      <link>https://kbs.murarisumit.in/categories-list.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/categories-list.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://kbs.murarisumit.in/tags.html</link>
+      <link>https://kbs.murarisumit.in/tags-list.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tags.html</guid>
+      <guid>https://kbs.murarisumit.in/tags-list.html</guid>
       <description></description>
     </item>
     
