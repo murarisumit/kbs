@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kbs.murarisumit.in/bookmarks/</loc>
+    <lastmod>2021-07-26T22:35:37+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/category/bookmarks/</loc>
+    <lastmod>2021-07-26T22:35:37+05:30</lastmod>
+  </url><url>
     <loc>https://kbs.murarisumit.in/category/</loc>
-    <lastmod>2021-07-24T13:17:26+05:30</lastmod>
+    <lastmod>2021-07-26T22:35:37+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/iterm/</loc>
+    <lastmod>2021-07-26T22:35:37+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/bookmarks/iterm-auto-theme-switch/</loc>
+    <lastmod>2021-07-26T22:35:37+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/</loc>
-    <lastmod>2021-07-24T13:17:26+05:30</lastmod>
+    <lastmod>2021-07-26T22:35:37+05:30</lastmod>
   </url><url>
-    <loc>https://kbs.murarisumit.in/tags/life-lessons/</loc>
-    <lastmod>2021-07-24T13:17:26+05:30</lastmod>
+    <loc>https://kbs.murarisumit.in/tags/macos/</loc>
+    <lastmod>2021-07-26T22:35:37+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/</loc>
-    <lastmod>2021-07-24T13:17:26+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tils/</loc>
-    <lastmod>2021-07-24T13:17:26+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/category/tils/</loc>
-    <lastmod>2021-07-24T13:17:26+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tils/when-time-is-right/</loc>
-    <lastmod>2021-07-24T13:17:26+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tags/when-you-are-ready/</loc>
-    <lastmod>2021-07-24T13:17:26+05:30</lastmod>
+    <lastmod>2021-07-26T22:35:37+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/decentralized/</loc>
     <lastmod>2020-08-01T03:01:28+05:30</lastmod>
@@ -38,6 +38,12 @@
     <loc>https://kbs.murarisumit.in/tils/git-via-email-getting-started/</loc>
     <lastmod>2020-08-01T03:01:28+05:30</lastmod>
   </url><url>
+    <loc>https://kbs.murarisumit.in/tils/</loc>
+    <lastmod>2020-08-01T03:01:28+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/category/tils/</loc>
+    <lastmod>2020-08-01T03:01:28+05:30</lastmod>
+  </url><url>
     <loc>https://kbs.murarisumit.in/tags/linux/</loc>
     <lastmod>2020-07-29T20:22:24+05:30</lastmod>
   </url><url>
@@ -49,12 +55,6 @@
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/utils/</loc>
     <lastmod>2020-07-29T20:22:24+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/bookmarks/</loc>
-    <lastmod>2020-07-21T06:17:03+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/category/bookmarks/</loc>
-    <lastmod>2020-07-21T06:17:03+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/sites/drewdevault.com/</loc>
     <lastmod>2020-07-21T06:17:03+05:30</lastmod>
@@ -102,6 +102,9 @@
     <lastmod>2020-07-13T09:41:06+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/leadership-lecture-sam-manekshaw/</loc>
+    <lastmod>2020-07-13T09:41:06+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/life-lessons/</loc>
     <lastmod>2020-07-13T09:41:06+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/k8s/</loc>
@@ -505,7 +508,8 @@
   </url><url>
     <loc>https://kbs.murarisumit.in/clist.html</loc>
   </url><url>
+    <loc>https://kbs.murarisumit.in/sites/https/gist.github.com/</loc>
+  </url><url>
     <loc>https://kbs.murarisumit.in/tlist.html</loc>
-
   </url>
 </urlset>

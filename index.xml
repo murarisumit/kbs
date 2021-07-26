@@ -6,15 +6,14 @@
     <description>Recent content on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jul 2021 13:17:26 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jul 2021 22:35:37 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>When Time Is Right</title>
-      <link>https://kbs.murarisumit.in/tils/when-time-is-right/</link>
-      <pubDate>Sat, 24 Jul 2021 13:17:26 +0530</pubDate>
+      <title>Iterm Auto Theme Switch</title>
+      <link>https://kbs.murarisumit.in/bookmarks/iterm-auto-theme-switch/</link>
+      <pubDate>Mon, 26 Jul 2021 22:35:37 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tils/when-time-is-right/</guid>
-      <description>Sometimes I get very important things from very weird place. I have this habit of wandering at odd place, without reason. One such place in digital world is youtube, my time-killer
-While randomly watching youtube video, this You need to focus on giving your 100%, it doesn&amp;rsquo;t matter you reach on top or not, but you should give your 100 advice came in a video. It such a simple advice and probably would have listened to it 1000 times, but this time it actually made me think.</description>
+      <guid>https://kbs.murarisumit.in/bookmarks/iterm-auto-theme-switch/</guid>
+      <description>It should be native feature in iterm, so hoping same someday. Till then here you are.</description>
     </item>
     
     <item>
@@ -461,21 +460,11 @@ For instance, if I have an image that is on its side, I can use the following ro
     </item>
     
     <item>
-      <title></title>
-      <link>https://kbs.murarisumit.in/general/simple-to-think-hard-to-imbibe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/general/simple-to-think-hard-to-imbibe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Categories</title>
       <link>https://kbs.murarisumit.in/clist.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kbs.murarisumit.in/clist.html</guid>
-
       <description></description>
     </item>
     
@@ -485,7 +474,6 @@ For instance, if I have an image that is on its side, I can use the following ro
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kbs.murarisumit.in/tlist.html</guid>
-
       <description></description>
     </item>
     
