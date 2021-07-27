@@ -3,13 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kbs.murarisumit.in/bookmarks/</loc>
-    <lastmod>2021-07-26T22:35:37+05:30</lastmod>
+    <lastmod>2021-07-27T15:56:55+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/category/bookmarks/</loc>
-    <lastmod>2021-07-26T22:35:37+05:30</lastmod>
+    <lastmod>2021-07-27T15:56:55+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/category/</loc>
-    <lastmod>2021-07-26T22:35:37+05:30</lastmod>
+    <lastmod>2021-07-27T15:56:55+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/container/</loc>
+    <lastmod>2021-07-27T15:56:55+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/bookmarks/cryptjacking-docker-container/</loc>
+    <lastmod>2021-07-27T15:56:55+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/crytojacking/</loc>
+    <lastmod>2021-07-27T15:56:55+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/docker/</loc>
+    <lastmod>2021-07-27T15:56:55+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/</loc>
+    <lastmod>2021-07-27T15:56:55+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/security/</loc>
+    <lastmod>2021-07-27T15:56:55+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/</loc>
+    <lastmod>2021-07-27T15:56:55+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/iterm/</loc>
     <lastmod>2021-07-26T22:35:37+05:30</lastmod>
@@ -17,13 +38,7 @@
     <loc>https://kbs.murarisumit.in/bookmarks/iterm-auto-theme-switch/</loc>
     <lastmod>2021-07-26T22:35:37+05:30</lastmod>
   </url><url>
-    <loc>https://kbs.murarisumit.in/</loc>
-    <lastmod>2021-07-26T22:35:37+05:30</lastmod>
-  </url><url>
     <loc>https://kbs.murarisumit.in/tags/macos/</loc>
-    <lastmod>2021-07-26T22:35:37+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tags/</loc>
     <lastmod>2021-07-26T22:35:37+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/decentralized/</loc>
@@ -509,6 +524,8 @@
     <loc>https://kbs.murarisumit.in/clist.html</loc>
   </url><url>
     <loc>https://kbs.murarisumit.in/sites/https/gist.github.com/</loc>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/sites/https/unit42.paloaltonetworks.com/</loc>
   </url><url>
     <loc>https://kbs.murarisumit.in/tlist.html</loc>
   </url>
