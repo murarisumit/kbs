@@ -6,22 +6,49 @@
     <description>Recent content in Sites on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2020 06:17:03 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jul 2021 23:44:26 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>www.youtube.com</title>
+      <link>https://kbs.murarisumit.in/sites/www.youtube.com/</link>
+      <pubDate>Fri, 30 Jul 2021 23:44:26 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/sites/www.youtube.com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloudsecdocs.com</title>
+      <link>https://kbs.murarisumit.in/sites/cloudsecdocs.com/</link>
+      <pubDate>Fri, 30 Jul 2021 07:34:43 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/sites/cloudsecdocs.com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github.com</title>
+      <link>https://kbs.murarisumit.in/sites/github.com/</link>
+      <pubDate>Fri, 30 Jul 2021 06:35:12 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/sites/github.com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ankurwarikoo.com</title>
+      <link>https://kbs.murarisumit.in/sites/ankurwarikoo.com/</link>
+      <pubDate>Wed, 28 Jul 2021 12:22:20 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/sites/ankurwarikoo.com/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>drewdevault.com</title>
       <link>https://kbs.murarisumit.in/sites/drewdevault.com/</link>
       <pubDate>Tue, 21 Jul 2020 06:17:03 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/sites/drewdevault.com/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>www.youtube.com</title>
-      <link>https://kbs.murarisumit.in/sites/www.youtube.com/</link>
-      <pubDate>Wed, 15 Jul 2020 22:26:21 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/sites/www.youtube.com/</guid>
       <description></description>
     </item>
     
@@ -76,15 +103,6 @@
       <pubDate>Fri, 12 Jun 2020 14:31:26 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/sites/ruudvanasseldonk.com/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>github.com</title>
-      <link>https://kbs.murarisumit.in/sites/github.com/</link>
-      <pubDate>Fri, 12 Jun 2020 14:19:12 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/sites/github.com/</guid>
       <description></description>
     </item>
     
@@ -193,6 +211,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kbs.murarisumit.in/sites/https/gist.github.com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>https://unit42.paloaltonetworks.com</title>
+      <link>https://kbs.murarisumit.in/sites/https/unit42.paloaltonetworks.com/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/sites/https/unit42.paloaltonetworks.com/</guid>
       <description></description>
     </item>
     
