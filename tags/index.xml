@@ -6,7 +6,25 @@
     <description>Recent content in Tags on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Aug 2021 02:29:18 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Aug 2021 08:29:34 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>golang</title>
+      <link>https://kbs.murarisumit.in/tags/golang/</link>
+      <pubDate>Wed, 04 Aug 2021 08:29:34 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://kbs.murarisumit.in/tags/programming/</link>
+      <pubDate>Wed, 04 Aug 2021 08:29:34 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/programming/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>azure</title>
       <link>https://kbs.murarisumit.in/tags/azure/</link>
@@ -670,15 +688,6 @@
       <pubDate>Sun, 07 Jun 2020 04:13:47 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/federation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://kbs.murarisumit.in/tags/golang/</link>
-      <pubDate>Sun, 07 Jun 2020 04:09:38 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/golang/</guid>
       <description></description>
     </item>
     

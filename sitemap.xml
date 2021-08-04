@@ -2,34 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kbs.murarisumit.in/bookmarks/</loc>
+    <lastmod>2021-08-04T08:29:34+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/category/bookmarks/</loc>
+    <lastmod>2021-08-04T08:29:34+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/category/</loc>
+    <lastmod>2021-08-04T08:29:34+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/sites/github.com/</loc>
+    <lastmod>2021-08-04T08:29:34+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/golang/</loc>
+    <lastmod>2021-08-04T08:29:34+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/bookmarks/golang-slice-tricks/</loc>
+    <lastmod>2021-08-04T08:29:34+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/</loc>
+    <lastmod>2021-08-04T08:29:34+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/programming/</loc>
+    <lastmod>2021-08-04T08:29:34+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/sites/</loc>
+    <lastmod>2021-08-04T08:29:34+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/</loc>
+    <lastmod>2021-08-04T08:29:34+05:30</lastmod>
+  </url><url>
     <loc>https://kbs.murarisumit.in/tags/azure/</loc>
     <lastmod>2021-08-02T02:29:18+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/azure-enterprise-scale/</loc>
     <lastmod>2021-08-02T02:29:18+05:30</lastmod>
   </url><url>
-    <loc>https://kbs.murarisumit.in/bookmarks/</loc>
-    <lastmod>2021-08-02T02:29:18+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/category/bookmarks/</loc>
-    <lastmod>2021-08-02T02:29:18+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/category/</loc>
-    <lastmod>2021-08-02T02:29:18+05:30</lastmod>
-  </url><url>
     <loc>https://kbs.murarisumit.in/tags/cloud-security/</loc>
     <lastmod>2021-08-02T02:29:18+05:30</lastmod>
   </url><url>
-    <loc>https://kbs.murarisumit.in/</loc>
-    <lastmod>2021-08-02T02:29:18+05:30</lastmod>
-  </url><url>
     <loc>https://kbs.murarisumit.in/tags/security/</loc>
-    <lastmod>2021-08-02T02:29:18+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/sites/</loc>
-    <lastmod>2021-08-02T02:29:18+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tags/</loc>
     <lastmod>2021-08-02T02:29:18+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/sites/techcommunity.microsoft.com/</loc>
@@ -96,9 +108,6 @@
     <lastmod>2021-07-30T07:34:43+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/career/</loc>
-    <lastmod>2021-07-30T06:35:12+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/sites/github.com/</loc>
     <lastmod>2021-07-30T06:35:12+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/profiles-to-look-upto/</loc>
@@ -421,9 +430,6 @@
   </url><url>
     <loc>https://kbs.murarisumit.in/sites/fieldnotes.resistant.tech/</loc>
     <lastmod>2020-06-07T04:13:47+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tags/golang/</loc>
-    <lastmod>2020-06-07T04:09:38+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/learn-go-with-tests/</loc>
     <lastmod>2020-06-07T04:09:38+05:30</lastmod>
