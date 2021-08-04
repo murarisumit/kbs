@@ -13,7 +13,8 @@
       <pubDate>Wed, 04 Aug 2021 08:29:34 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/golang-slice-tricks/</guid>
-      <description></description>
+      <description>Filtering with allocating This trick uses the fact that a slice shares the same backing array and capacity as the original, so the storage is reused for the filtered slice. Of course, the original contents are modified.
+1 2 3 4 5 6  b := a[:0] for _, x := range a { if f(x) { b = append(b, x) } }   </description>
     </item>
     
     <item>

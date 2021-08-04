@@ -70,8 +70,30 @@
     
     <button disabled="disabled"> <a href="/tags/programming">programming</a></button>
     
+    <button disabled="disabled"> <a href="/tags/tricks">tricks</a></button>
     
-    <p>have not written any notes for this article.</p>
+    
+    <h3 id="filtering-with-allocating">Filtering with allocating</h3>
+<p>This trick uses the fact that a slice shares the same backing array and capacity as the original, so the storage is reused for the filtered slice. Of course, the original contents are modified.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-golang" data-lang="golang"><span class="nx">b</span> <span class="o">:=</span> <span class="nx">a</span><span class="p">[:</span><span class="mi">0</span><span class="p">]</span>
+<span class="k">for</span> <span class="nx">_</span><span class="p">,</span> <span class="nx">x</span> <span class="o">:=</span> <span class="k">range</span> <span class="nx">a</span> <span class="p">{</span>
+	<span class="k">if</span> <span class="nf">f</span><span class="p">(</span><span class="nx">x</span><span class="p">)</span> <span class="p">{</span>
+		<span class="nx">b</span> <span class="p">=</span> <span class="nb">append</span><span class="p">(</span><span class="nx">b</span><span class="p">,</span> <span class="nx">x</span><span class="p">)</span>
+	<span class="p">}</span>
+<span class="p">}</span>
+</code></pre></td></tr></table>
+</div>
+</div>
     
 </article>
 <center> For feedback reach me at <a href="mailto: email@murarisumit.in?subject=https://kbs.murarisumit.in/ : Golang%20Slice%20Tricks"> email@murarisumit.in</a> </center>
