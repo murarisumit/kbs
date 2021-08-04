@@ -6,7 +6,34 @@
     <description>Recent content in Tags on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Aug 2021 08:29:34 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Aug 2021 15:31:55 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>container</title>
+      <link>https://kbs.murarisumit.in/tags/container/</link>
+      <pubDate>Wed, 04 Aug 2021 15:31:55 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/container/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k8s</title>
+      <link>https://kbs.murarisumit.in/tags/k8s/</link>
+      <pubDate>Wed, 04 Aug 2021 15:31:55 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/k8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://kbs.murarisumit.in/tags/security/</link>
+      <pubDate>Wed, 04 Aug 2021 15:31:55 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/security/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>golang</title>
       <link>https://kbs.murarisumit.in/tags/golang/</link>
@@ -89,15 +116,6 @@
     </item>
     
     <item>
-      <title>security</title>
-      <link>https://kbs.murarisumit.in/tags/security/</link>
-      <pubDate>Mon, 02 Aug 2021 02:29:18 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>dceu</title>
       <link>https://kbs.murarisumit.in/tags/dceu/</link>
       <pubDate>Sun, 01 Aug 2021 01:05:26 +0530</pubDate>
@@ -175,15 +193,6 @@
       <pubDate>Fri, 30 Jul 2021 09:35:32 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/silver-lining/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>container</title>
-      <link>https://kbs.murarisumit.in/tags/container/</link>
-      <pubDate>Fri, 30 Jul 2021 07:34:43 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/container/</guid>
       <description></description>
     </item>
     
@@ -427,15 +436,6 @@
       <pubDate>Mon, 13 Jul 2020 09:41:06 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/life-lessons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>k8s</title>
-      <link>https://kbs.murarisumit.in/tags/k8s/</link>
-      <pubDate>Tue, 07 Jul 2020 08:56:18 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/k8s/</guid>
       <description></description>
     </item>
     

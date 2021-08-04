@@ -6,7 +6,21 @@
     <description>Recent content in k8s on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2020 08:56:18 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Aug 2021 15:31:55 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NASA K8s Hardening Guide</title>
+      <link>https://kbs.murarisumit.in/bookmarks/nasa-k8s-hardening-guide/</link>
+      <pubDate>Wed, 04 Aug 2021 15:31:55 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/bookmarks/nasa-k8s-hardening-guide/</guid>
+      <description>Main highlights as mentioned by top commentator
+  Scan containers and Pods for vulnerabilities or misconfigurations.
+  Run containers and Pods with the least privileges possible.
+  Use network separation to control the amount of damage a compromise can cause.
+  Use firewalls to limit unneeded network connectivity and encryption to protect confidentiality.
+  Use strong authentication and authorization to limit user and administrator access as well as to limit the attack surface.</description>
+    </item>
+    
     <item>
       <title>Kubectl Seledom Used Snippet</title>
       <link>https://kbs.murarisumit.in/snippets/kubectl-seledom-used-snippet/</link>
