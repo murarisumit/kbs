@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
+    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -46,39 +45,38 @@
 
 <meta name="google-site-verification" content="vMDgOhLZPfcUkSeRsE8eaC34ESeVXglclKEN7F0us78" />
 </head>
-
-<body onload="update_post_age()">
-    <header id="header">
-        <h1><a href="https://kbs.murarisumit.in/">knowledge base</a></h1>
-        <nav>
-            <ul>
-                <li><a href="/tags">tags</a></li>
-                <li><a href="/category">sections</a></li>
-                <li><a href="https://stackoverflow.com/users/story/2735833" target="_blank">me</a></li>
-            </ul>
-        </nav>
-    </header>
-    <main id="main">
-<article class="single">
-    <h2> Kubectl Seledom Used Snippet </h2>
-    <strong>Tags: </strong>
-    
-    <button disabled="disabled"> <a href="/tags/k8s">k8s</a></button>
-    
-    <button disabled="disabled"> <a href="/tags/kubectl">kubectl</a></button>
-    
-    
-    <hr>
+    <body onload="update_post_age()">
+        <header id="header">
+    <h1><a href="https://kbs.murarisumit.in/">knowledge base</a></h1>
+    <nav>
+        <ul>
+            <li><a href="/tags">tags</a></li>
+            <li><a href="/category">sections</a></li>
+            <li><a href="https://stackoverflow.com/users/story/2735833" target="_blank">me</a></li>
+        </ul>
+    </nav>
+</header>
+        <main id="main">
+            <article class="single">
+                <h2> Kubectl Seledom Used Snippet </h2>
+                <strong>Tags: </strong>
+                
+                <button disabled="disabled"> <a href="/tags/k8s">k8s</a></button>
+                
+                <button disabled="disabled"> <a href="/tags/kubectl">kubectl</a></button>
+                
+                
+                <hr>
 <h4 id="seldom-used-kubectl-get-command-listing-here-for-reference">Seldom used kubectl get command, listing here for reference</h4>
 <h3 id="nodes">Nodes</h3>
 <ul>
 <li>List all taints in node.
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">kubectl get nodes -o custom-columns=NAME:.metadata.name,ARCH:.status.nodeInfo.architecture,KERNEL:.status.nodeInfo.kernelVersion,KUBLET:.status.nodeInfo.kubeletVersion,CPU:.status.capacity.cpu,RAM:.status.capacity.memory,TAINTS:.spec.taints
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">kubectl get nodes -o custom-columns=NAME:.metadata.name,ARCH:.status.nodeInfo.architecture,KERNEL:.status.nodeInfo.kernelVersion,KUBLET:.status.nodeInfo.kubeletVersion,CPU:.status.capacity.cpu,RAM:.status.capacity.memory,TAINTS:.spec.taints
 </code></pre></td></tr></table>
 </div>
 </div></li>
@@ -89,10 +87,10 @@
 <p>Get all pods in specific node.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">kubectl get pods --all-namespaces -o wide --field-selector spec.nodeName=&lt;node-name&gt;
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">kubectl get pods --all-namespaces -o wide --field-selector spec.nodeName=&lt;node-name&gt;
 </code></pre></td></tr></table>
 </div>
 </div></li>
@@ -100,10 +98,10 @@
 <p>List pods by age</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">kubectl get po --sort-by=.status.startTime
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">kubectl get po --sort-by=.status.startTime
 </code></pre></td></tr></table>
 </div>
 </div></li>
@@ -115,16 +113,24 @@
 <li><a href="https://stackoverflow.com/questions/45310287/kubernetes-sort-pods-by-age">https://stackoverflow.com/questions/45310287/kubernetes-sort-pods-by-age</a></li>
 </ul>
 
-    
-</article>
-<center> For feedback reach me at <a href="mailto: email@murarisumit.in?subject=https://kbs.murarisumit.in/ : Kubectl%20Seledom%20Used%20Snippet"> email@murarisumit.in</a> </center>
-</main>
+                
+            </article>
+            <div>
+    <center><a href="https://kbs.murarisumit.in/tils/moments-breakfast-with-champions/"> &lt; Prev</a>  &nbsp;&nbsp;Further Reading  &nbsp;&nbsp;<a href="https://kbs.murarisumit.in/bookmarks/leadership-lecture-sam-manekshaw/">Next > </a></center>
+</div>
+ <br/>
+            <div>
+    <center> For feedback mail me at: <a href="mailto: email@murarisumit.in?subject=https://kbs.murarisumit.in/ : Kubectl%20Seledom%20Used%20Snippet"> email@murarisumit.in</a> </center>
+</div> <br/>
 
-</body>
-<link rel="stylesheet" href="/css/normalize.css" media="none" onload="if(media!='all')media='all'" />
+            <footer> 
+                <link rel="stylesheet" href="/css/normalize.css" media="none" onload="if(media!='all')media='all'" />
 <link rel="stylesheet" href="/css/syntax.css" media="none" onload="if(media!='all')media='all'" />
 <link rel="stylesheet" href="/css/style.css" />
 
 <link rel="stylesheet" href="/css/override.css">
 <link rel="shortcut icon" href="/favicon.ico" />
+            </footer>
+        </main>
+    </body>
 </html>
