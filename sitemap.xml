@@ -2,22 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kbs.murarisumit.in/year/2021/</loc>
+    <lastmod>2021-08-05T09:48:58+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/month/2021-08/</loc>
+    <lastmod>2021-08-05T09:48:58+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/author/</loc>
+    <lastmod>2021-08-05T09:48:58+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/bookmarks/bigger-impact-for-distraction-more-than-just-time-lost/</loc>
+    <lastmod>2021-08-05T09:48:58+05:30</lastmod>
+  </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/</loc>
-    <lastmod>2021-08-04T15:31:55+05:30</lastmod>
+    <lastmod>2021-08-05T09:48:58+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/category/bookmarks/</loc>
-    <lastmod>2021-08-04T15:31:55+05:30</lastmod>
+    <lastmod>2021-08-05T09:48:58+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/category/</loc>
-    <lastmod>2021-08-04T15:31:55+05:30</lastmod>
+    <lastmod>2021-08-05T09:48:58+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/distractions/</loc>
+    <lastmod>2021-08-05T09:48:58+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/</loc>
+    <lastmod>2021-08-05T09:48:58+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/month/</loc>
+    <lastmod>2021-08-05T09:48:58+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/author/murarisumit/</loc>
+    <lastmod>2021-08-05T09:48:58+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/pomodoro/</loc>
+    <lastmod>2021-08-05T09:48:58+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/productivity/</loc>
+    <lastmod>2021-08-05T09:48:58+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/sites/</loc>
+    <lastmod>2021-08-05T09:48:58+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/smartphones/</loc>
+    <lastmod>2021-08-05T09:48:58+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/</loc>
+    <lastmod>2021-08-05T09:48:58+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/sites/www.youtube.com/</loc>
+    <lastmod>2021-08-05T09:48:58+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/year/</loc>
+    <lastmod>2021-08-05T09:48:58+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/youtube/</loc>
+    <lastmod>2021-08-05T09:48:58+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/bookmarks/finally-some-sense-in-laptops/</loc>
+    <lastmod>2021-08-05T09:44:42+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/laptops/</loc>
+    <lastmod>2021-08-05T09:44:42+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/repairability/</loc>
+    <lastmod>2021-08-05T09:44:42+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/container/</loc>
     <lastmod>2021-08-04T15:31:55+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/k8s/</loc>
-    <lastmod>2021-08-04T15:31:55+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/</loc>
     <lastmod>2021-08-04T15:31:55+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/nasa-k8s-hardening-guide/</loc>
@@ -27,12 +81,6 @@
     <lastmod>2021-08-04T15:31:55+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/security/</loc>
-    <lastmod>2021-08-04T15:31:55+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/sites/</loc>
-    <lastmod>2021-08-04T15:31:55+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tags/</loc>
     <lastmod>2021-08-04T15:31:55+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/sites/github.com/</loc>
@@ -60,12 +108,6 @@
     <lastmod>2021-08-03T10:12:30+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/what-is-not-love/</loc>
-    <lastmod>2021-08-03T10:12:30+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/sites/www.youtube.com/</loc>
-    <lastmod>2021-08-03T10:12:30+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tags/youtube/</loc>
     <lastmod>2021-08-03T10:12:30+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/azure/</loc>
@@ -638,18 +680,12 @@
     <loc>https://kbs.murarisumit.in/tils/change-orientation-of-an-image/</loc>
     <lastmod>2020-05-17T17:30:23+05:30</lastmod>
   </url><url>
-    <loc>https://kbs.murarisumit.in/authors/</loc>
-  </url><url>
     <loc>https://kbs.murarisumit.in/clist.html</loc>
   </url><url>
     <loc>https://kbs.murarisumit.in/sites/https/gist.github.com/</loc>
   </url><url>
     <loc>https://kbs.murarisumit.in/sites/https/unit42.paloaltonetworks.com/</loc>
   </url><url>
-    <loc>https://kbs.murarisumit.in/month/</loc>
-  </url><url>
     <loc>https://kbs.murarisumit.in/tlist.html</loc>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/year/</loc>
   </url>
 </urlset>
