@@ -3,22 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kbs.murarisumit.in/year/2021/</loc>
-    <lastmod>2021-08-07T13:33:47+05:30</lastmod>
+    <lastmod>2021-08-07T18:40:36+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/month/2021-08/</loc>
-    <lastmod>2021-08-07T13:33:47+05:30</lastmod>
+    <lastmod>2021-08-07T18:40:36+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/author/</loc>
-    <lastmod>2021-08-07T13:33:47+05:30</lastmod>
+    <lastmod>2021-08-07T18:40:36+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/</loc>
-    <lastmod>2021-08-07T13:33:47+05:30</lastmod>
+    <lastmod>2021-08-07T18:40:36+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/category/bookmarks/</loc>
-    <lastmod>2021-08-07T13:33:47+05:30</lastmod>
+    <lastmod>2021-08-07T18:40:36+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/category/</loc>
-    <lastmod>2021-08-07T13:33:47+05:30</lastmod>
+    <lastmod>2021-08-07T18:40:36+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/electricity/</loc>
+    <lastmod>2021-08-07T18:40:36+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/electromagnetism/</loc>
+    <lastmod>2021-08-07T18:40:36+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/</loc>
+    <lastmod>2021-08-07T18:40:36+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/month/</loc>
+    <lastmod>2021-08-07T18:40:36+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/author/murarisumit/</loc>
+    <lastmod>2021-08-07T18:40:36+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/physics/</loc>
+    <lastmod>2021-08-07T18:40:36+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/sites/</loc>
+    <lastmod>2021-08-07T18:40:36+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/</loc>
+    <lastmod>2021-08-07T18:40:36+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/bookmarks/understand-electricity-generation/</loc>
+    <lastmod>2021-08-07T18:40:36+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/sites/www.youtube.com/</loc>
+    <lastmod>2021-08-07T18:40:36+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/year/</loc>
+    <lastmod>2021-08-07T18:40:36+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/youtube/</loc>
+    <lastmod>2021-08-07T18:40:36+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/github/</loc>
     <lastmod>2021-08-07T13:33:47+05:30</lastmod>
@@ -32,25 +68,7 @@
     <loc>https://kbs.murarisumit.in/tags/k8s/</loc>
     <lastmod>2021-08-07T13:33:47+05:30</lastmod>
   </url><url>
-    <loc>https://kbs.murarisumit.in/</loc>
-    <lastmod>2021-08-07T13:33:47+05:30</lastmod>
-  </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/kuberentes-kbrew/</loc>
-    <lastmod>2021-08-07T13:33:47+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/month/</loc>
-    <lastmod>2021-08-07T13:33:47+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/author/murarisumit/</loc>
-    <lastmod>2021-08-07T13:33:47+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/sites/</loc>
-    <lastmod>2021-08-07T13:33:47+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tags/</loc>
-    <lastmod>2021-08-07T13:33:47+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/year/</loc>
     <lastmod>2021-08-07T13:33:47+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</loc>
@@ -150,12 +168,6 @@
     <lastmod>2021-08-06T23:44:26+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/motivation/</loc>
-    <lastmod>2021-08-06T23:44:26+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/sites/www.youtube.com/</loc>
-    <lastmod>2021-08-06T23:44:26+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tags/youtube/</loc>
     <lastmod>2021-08-06T23:44:26+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/defence/</loc>
@@ -490,9 +502,6 @@
   </url><url>
     <loc>https://kbs.murarisumit.in/sites/youtube.coom/</loc>
     <lastmod>2020-06-21T13:27:25+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tags/electricity/</loc>
-    <lastmod>2020-06-19T07:28:58+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/lessons-in-electric-circuits/</loc>
     <lastmod>2020-06-19T07:28:58+05:30</lastmod>
