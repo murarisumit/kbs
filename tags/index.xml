@@ -6,7 +6,34 @@
     <description>Recent content in Tags on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Aug 2021 09:39:45 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Aug 2021 12:50:34 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>awesome-lists</title>
+      <link>https://kbs.murarisumit.in/tags/awesome-lists/</link>
+      <pubDate>Sat, 07 Aug 2021 12:50:34 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/awesome-lists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k8s</title>
+      <link>https://kbs.murarisumit.in/tags/k8s/</link>
+      <pubDate>Sat, 07 Aug 2021 12:50:34 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/k8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://kbs.murarisumit.in/tags/security/</link>
+      <pubDate>Sat, 07 Aug 2021 12:50:34 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/security/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>hugo</title>
       <link>https://kbs.murarisumit.in/tags/hugo/</link>
@@ -310,24 +337,6 @@
       <pubDate>Wed, 04 Aug 2021 15:31:55 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/container/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>k8s</title>
-      <link>https://kbs.murarisumit.in/tags/k8s/</link>
-      <pubDate>Wed, 04 Aug 2021 15:31:55 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/k8s/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>security</title>
-      <link>https://kbs.murarisumit.in/tags/security/</link>
-      <pubDate>Wed, 04 Aug 2021 15:31:55 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/security/</guid>
       <description></description>
     </item>
     
@@ -724,15 +733,6 @@
       <pubDate>Wed, 24 Jun 2020 12:17:11 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/cricket/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>awesome-lists</title>
-      <link>https://kbs.murarisumit.in/tags/awesome-lists/</link>
-      <pubDate>Tue, 23 Jun 2020 16:53:01 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/awesome-lists/</guid>
       <description></description>
     </item>
     

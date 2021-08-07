@@ -6,7 +6,16 @@
     <description>Recent content on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Aug 2021 09:39:45 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Aug 2021 12:50:34 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome K8s Security</title>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</link>
+      <pubDate>Sat, 07 Aug 2021 12:50:34 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</guid>
+      <description>A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.</description>
+    </item>
+    
     <item>
       <title>Hugo Good Archive Page</title>
       <link>https://kbs.murarisumit.in/bookmarks/hugo-good-archive-page/</link>
