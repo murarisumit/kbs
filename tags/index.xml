@@ -6,7 +6,25 @@
     <description>Recent content in Tags on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Aug 2021 08:54:42 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Aug 2021 09:39:45 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>https://kbs.murarisumit.in/tags/hugo/</link>
+      <pubDate>Sat, 07 Aug 2021 09:39:45 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>website</title>
+      <link>https://kbs.murarisumit.in/tags/website/</link>
+      <pubDate>Sat, 07 Aug 2021 09:39:45 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/website/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>bayes rule</title>
       <link>https://kbs.murarisumit.in/tags/bayes-rule/</link>
@@ -1228,15 +1246,6 @@
       <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/promql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://kbs.murarisumit.in/tags/hugo/</link>
-      <pubDate>Sun, 17 May 2020 18:54:04 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/hugo/</guid>
       <description></description>
     </item>
     
