@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>medical-tests on knowledge base</title>
+    <link>https://kbs.murarisumit.in/tags/medical-tests/</link>
+    <description>Recent content in medical-tests on knowledge base</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Aug 2021 08:54:42 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/medical-tests/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bayes Rule and Medical Tests</title>
+      <link>https://kbs.murarisumit.in/bookmarks/bayes-rule-medical-tests/</link>
+      <pubDate>Sat, 07 Aug 2021 08:54:42 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/bookmarks/bayes-rule-medical-tests/</guid>
+      <description>All medical tests do is update their probability of having disease, and not telling if we have disease or not.
+There are three things
+ Prevalence : How commen is that disease around here. What chance of having it without tests. Senstivity : If even disease is present, how good is test at detecting it. Specificity : If test taken, there can be other issues that result. Clot in pancrease, can be because of lot many things.</description>
+    </item>
+    
+  </channel>
+</rss>

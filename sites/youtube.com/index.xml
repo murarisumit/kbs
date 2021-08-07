@@ -6,7 +6,18 @@
     <description>Recent content in youtube.com on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2020 12:17:11 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/youtube.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Aug 2021 08:54:42 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/youtube.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bayes Rule and Medical Tests</title>
+      <link>https://kbs.murarisumit.in/bookmarks/bayes-rule-medical-tests/</link>
+      <pubDate>Sat, 07 Aug 2021 08:54:42 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/bookmarks/bayes-rule-medical-tests/</guid>
+      <description>All medical tests do is update their probability of having disease, and not telling if we have disease or not.
+There are three things
+ Prevalence : How commen is that disease around here. What chance of having it without tests. Senstivity : If even disease is present, how good is test at detecting it. Specificity : If test taken, there can be other issues that result. Clot in pancrease, can be because of lot many things.</description>
+    </item>
+    
     <item>
       <title>Moments: Breakfast With Champions</title>
       <link>https://kbs.murarisumit.in/tils/moments-breakfast-with-champions/</link>
