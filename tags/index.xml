@@ -6,22 +6,40 @@
     <description>Recent content in Tags on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Aug 2021 12:50:34 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Aug 2021 13:33:47 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>awesome-lists</title>
-      <link>https://kbs.murarisumit.in/tags/awesome-lists/</link>
-      <pubDate>Sat, 07 Aug 2021 12:50:34 +0530</pubDate>
+      <title>github</title>
+      <link>https://kbs.murarisumit.in/tags/github/</link>
+      <pubDate>Sat, 07 Aug 2021 13:33:47 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tags/awesome-lists/</guid>
+      <guid>https://kbs.murarisumit.in/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>homebrew</title>
+      <link>https://kbs.murarisumit.in/tags/homebrew/</link>
+      <pubDate>Sat, 07 Aug 2021 13:33:47 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/homebrew/</guid>
       <description></description>
     </item>
     
     <item>
       <title>k8s</title>
       <link>https://kbs.murarisumit.in/tags/k8s/</link>
-      <pubDate>Sat, 07 Aug 2021 12:50:34 +0530</pubDate>
+      <pubDate>Sat, 07 Aug 2021 13:33:47 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/k8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>awesome-lists</title>
+      <link>https://kbs.murarisumit.in/tags/awesome-lists/</link>
+      <pubDate>Sat, 07 Aug 2021 12:50:34 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/awesome-lists/</guid>
       <description></description>
     </item>
     
