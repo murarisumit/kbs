@@ -86,12 +86,12 @@
 </div>
 
                 
-                    <p>All medical tests do is update their probability of having disease, and not telling if we have disease or not.</p>
+                    <p>All medical tests do is update their probability of having disease, and not tell if we have disease or not.</p>
 <p>There are three things</p>
 <ul>
-<li>Prevalence  : How commen is that disease around here. What chance of having it without tests.</li>
-<li>Senstivity : If even disease is present, how good is test at detecting it.</li>
-<li>Specificity : If test taken, there can be other issues that result. Clot in pancrease, can be because of lot many things. How specific is test for that specific disease.</li>
+<li>Prevalence  : How common is that disease around here? What chance of having it without tests?</li>
+<li>Sensitivity : If even disease is present, how good is the test at detecting it.</li>
+<li>Specificity : If a test is taken, there can be other issues that result. Clots in the pancreas can be because of a lot many things. How specific is test for that specific disease.</li>
 </ul>
 <p>For example which he told</p>
 <ul>
@@ -100,9 +100,9 @@
 <li>Specificity : 91%</li>
 </ul>
 <ol>
-<li>So even if you haven&rsquo;t taken test, there is <strong>1%</strong> chance of you having that disease. So taking test based on test&rsquo;s Sensitivity and Specificity would increase and decrease that probability.</li>
+<li>So even if you haven&rsquo;t taken test, there is <strong>1%</strong> chance of you having that disease. So taking a test based on the test&rsquo;s Sensitivity and Specificity would increase and decrease that probability.</li>
 </ol>
-<p>To calculate your probability faster is to get bayes factor.</p>
+<p>To calculate your probability faster is to get the Bayes factor.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -110,8 +110,8 @@
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">Bayes factor = Sensitivity / False positive 
-Bayes factor =  (Probability of having cancer after test is positive) / (Probablility of not having cancer after test is positive) 
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">Bayes factor = Sensitivity / False positive
+Bayes factor =  (Probability of having cancer after test is positive) / (Probability of not having cancer after test is positive)
 
 </code></pre></td></tr></table>
 </div>
@@ -119,12 +119,12 @@ Bayes factor =  (Probability of having cancer after test is positive) / (Probabl
 <p>For above values :</p>
 <ul>
 <li>Probability of having cancer after test is positive : 90 in 100 (90%)</li>
-<li>Probablility of test is false positive (100 - specificity) i.e 9</li>
-<li>So likelihoood ratio is : 90 / 0 i.e. 10</li>
+<li>Probability of test is false positive (100 - specificity) i.e 9</li>
+<li>So likelihood ratio is : 90 / 0 i.e. 10</li>
 </ul>
-<p>So at first case without test, there was 1% i.e. 1 in 100 that you&rsquo;ve cancer without test. After test, you chances just get updated. After test is positive your chances are:  1/100 * 10 ~ 1/10. So that is also not 100% sure now.</p>
-<p>So for tests your symptoms, contacts, genetics all come up to increase the chance, but still not 100%, we need to remember. <strong>&ldquo;All tests do is update the chances of having it, but not sure shot thing. Untill tests is bullet proof.&quot;</strong></p>
-<h3 id="better-to-watch-whole-video-above-are-just-notes-taken-from-there">Better to watch whole video, above are just notes taken from there.</h3>
+<p>So in the first case without test, there was 1% i.e. 1 in 100 that you&rsquo;ve cancer without test. After the test, your chances just get updated. After test is positive your chances are:  1/100 * 10 ~ 1/10. So that is also not 100% sure now.</p>
+<p>So for tests your symptoms, contacts, genetics all come up to increase the chance, but still not 100%, we need to remember. <strong>&ldquo;All tests do is update the chances of having it, but not sure shot thing. Until tests are bulletproof.&quot;</strong></p>
+<h3 id="better-to-watch-the-whole-video-above-are-just-notes-taken-from-there">Better to watch the whole video, above are just notes taken from there.</h3>
 <p>One of top comments for youtube channel</p>
 <blockquote>
 <p>As a doctor I&rsquo;m so happy you&rsquo;re using your platform to get this information out. Let me tell you though&hellip; it gets way more complicated! Unfortunately prevalence estimates aren&rsquo;t always known and are constantly changing (especially in pandemics). Another thing to consider is the gold standard. If your test looks for breast cancer you can cut out the lump and look at it under a microscope. Some diseases aren&rsquo;t as easily clarified. For instance, since we don&rsquo;t have a highly accurate, easy test for pancreatic cancer we rely on imaging, demographics, blood markers, symptoms (or lack thereof) as multiple things that form a conglomerate test to increase our Bayes factor. Despite all these things we can&rsquo;t always get a great prediction on whether that scar in your bile duct is cancer or just a residual scar from pancreatitis you had 10 years ago. So we offer the patient a huge surgery to remove the head of their pancreas and duodenum only to find that it wasn&rsquo;t cancer. You can imagine the patient is happy it&rsquo;s not cancer but not so happy they don&rsquo;t have half their pancreas and have abdominal pain and maybe diabetes. Medicine is a tricky thing. Another tricky thing is operator error. Some tests depend on the skill of the lab tech, radiologist, or surgeon. The complexity of the human body and the uniqueness of each individual also plays a role. Your test may be false positive in a particular patient 100% of the time because they have some strange protein mutation. It&rsquo;s tough!</p>
@@ -155,7 +155,7 @@ Bayes factor =  (Probability of having cancer after test is positive) / (Probabl
 
         
         
-        <a class="resp-sharing-button__link" href="mailto:?subject=Bayes%20Rule%20and%20Medical%20Tests&amp;body=All%20medical%20tests%20do%20is%20update%20their%20probability%20of%20having%20disease%2c%20and%20not%20telling%20if%20we%20have%20disease%20or%20not.%0aThere%20are%20three%20things%0a%20Prevalence%20%3a%20How%20commen%20is%20that%20disease%20around%20here.%20What%20chance%20of%20having%20it%20without%20tests.%20Senstivity%20%3a%20If%20even%20disease%20is%20present%2c%20how%20good%20is%20test%20at%20detecting%20it.%20Specificity%20%3a%20If%20test%20taken%2c%20there%20can%20be%20other%20issues%20that%20result.%20Clot%20in%20pancrease%2c%20can%20be%20because%20of%20lot%20many%20things." target="_self" rel="noopener" aria-label="Share by E-Mail">
+        <a class="resp-sharing-button__link" href="mailto:?subject=Bayes%20Rule%20and%20Medical%20Tests&amp;body=All%20medical%20tests%20do%20is%20update%20their%20probability%20of%20having%20disease%2c%20and%20not%20tell%20if%20we%20have%20disease%20or%20not.%0aThere%20are%20three%20things%0a%20Prevalence%20%3a%20How%20common%20is%20that%20disease%20around%20here%3f%20What%20chance%20of%20having%20it%20without%20tests%3f%20Sensitivity%20%3a%20If%20even%20disease%20is%20present%2c%20how%20good%20is%20the%20test%20at%20detecting%20it.%20Specificity%20%3a%20If%20a%20test%20is%20taken%2c%20there%20can%20be%20other%20issues%20that%20result.%20Clots%20in%20the%20pancreas%20can%20be%20because%20of%20a%20lot%20many%20things." target="_self" rel="noopener" aria-label="Share by E-Mail">
             <div class="resp-sharing-button resp-sharing-button--email resp-sharing-button--large"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 4H2C.9 4 0 4.9 0 6v12c0 1.1.9 2 2 2h20c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zM7.25 14.43l-3.5 2c-.08.05-.17.07-.25.07-.17 0-.34-.1-.43-.25-.14-.24-.06-.55.18-.68l3.5-2c.24-.14.55-.06.68.18.14.24.06.55-.18.68zm4.75.07c-.1 0-.2-.03-.27-.08l-8.5-5.5c-.23-.15-.3-.46-.15-.7.15-.22.46-.3.7-.14L12 13.4l8.23-5.32c.23-.15.54-.08.7.15.14.23.07.54-.16.7l-8.5 5.5c-.08.04-.17.07-.27.07zm8.93 1.75c-.1.16-.26.25-.43.25-.08 0-.17-.02-.25-.07l-3.5-2c-.24-.13-.32-.44-.18-.68s.44-.32.68-.18l3.5 2c.24.13.32.44.18.68z"/></svg></div>Share by E-Mail</div>
         </a>
