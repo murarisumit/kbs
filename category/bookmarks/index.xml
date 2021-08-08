@@ -6,7 +6,43 @@
     <description>Recent content in bookmarks on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Aug 2021 23:50:34 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/category/bookmarks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Aug 2021 00:38:45 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/category/bookmarks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Load Avgs</title>
+      <link>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</link>
+      <pubDate>Mon, 09 Aug 2021 00:38:45 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K8s Failure Stories</title>
+      <link>https://kbs.murarisumit.in/bookmarks/k8s-failure-stories/</link>
+      <pubDate>Mon, 09 Aug 2021 00:37:09 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/bookmarks/k8s-failure-stories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awesome Kubernetes</title>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</link>
+      <pubDate>Mon, 09 Aug 2021 00:16:59 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awesome Docker Compose</title>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-docker-compose/</link>
+      <pubDate>Mon, 09 Aug 2021 00:16:18 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-docker-compose/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Solar System if Moon Was Only One Pixel</title>
       <link>https://kbs.murarisumit.in/bookmarks/solar-system-if-moon-was-only-one-pixel/</link>
@@ -28,10 +64,10 @@ When studies electricity for first time, never understood where does frequency m
     
     <item>
       <title>Kuberentes Kbrew</title>
-      <link>https://kbs.murarisumit.in/bookmarks/kuberentes-kbrew/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/k8s-kbrew/</link>
       <pubDate>Sat, 07 Aug 2021 13:33:47 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/kuberentes-kbrew/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/k8s-kbrew/</guid>
       <description>This tool looks good, and love the ease of this. It&amp;rsquo;s easy way to deploy the applications over cluster.</description>
     </item>
     

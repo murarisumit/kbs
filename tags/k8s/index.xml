@@ -6,13 +6,31 @@
     <description>Recent content in k8s on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Aug 2021 13:33:47 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Aug 2021 00:37:09 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>K8s Failure Stories</title>
+      <link>https://kbs.murarisumit.in/bookmarks/k8s-failure-stories/</link>
+      <pubDate>Mon, 09 Aug 2021 00:37:09 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/bookmarks/k8s-failure-stories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awesome Kubernetes</title>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</link>
+      <pubDate>Mon, 09 Aug 2021 00:16:59 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Kuberentes Kbrew</title>
-      <link>https://kbs.murarisumit.in/bookmarks/kuberentes-kbrew/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/k8s-kbrew/</link>
       <pubDate>Sat, 07 Aug 2021 13:33:47 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/kuberentes-kbrew/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/k8s-kbrew/</guid>
       <description>This tool looks good, and love the ease of this. It&amp;rsquo;s easy way to deploy the applications over cluster.</description>
     </item>
     

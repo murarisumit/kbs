@@ -6,7 +6,25 @@
     <description>Recent content in container on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Aug 2021 15:31:55 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/container/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Aug 2021 00:16:59 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/container/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome Kubernetes</title>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</link>
+      <pubDate>Mon, 09 Aug 2021 00:16:59 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awesome Docker Compose</title>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-docker-compose/</link>
+      <pubDate>Mon, 09 Aug 2021 00:16:18 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-docker-compose/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>NASA K8s Hardening Guide</title>
       <link>https://kbs.murarisumit.in/bookmarks/nasa-k8s-hardening-guide/</link>

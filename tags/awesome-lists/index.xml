@@ -6,7 +6,34 @@
     <description>Recent content in awesome-lists on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Aug 2021 12:50:34 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/awesome-lists/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Aug 2021 00:37:09 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/awesome-lists/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>K8s Failure Stories</title>
+      <link>https://kbs.murarisumit.in/bookmarks/k8s-failure-stories/</link>
+      <pubDate>Mon, 09 Aug 2021 00:37:09 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/bookmarks/k8s-failure-stories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awesome Kubernetes</title>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</link>
+      <pubDate>Mon, 09 Aug 2021 00:16:59 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awesome Docker Compose</title>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-docker-compose/</link>
+      <pubDate>Mon, 09 Aug 2021 00:16:18 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-docker-compose/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Awesome K8s Security</title>
       <link>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</link>
