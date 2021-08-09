@@ -6,14 +6,16 @@
     <description>Recent content in load-averages on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Aug 2021 00:38:45 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/load-averages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Aug 2021 09:25:45 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/load-averages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux Load Avgs</title>
       <link>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</link>
-      <pubDate>Mon, 09 Aug 2021 00:38:45 +0530</pubDate>
+      <pubDate>Mon, 09 Aug 2021 09:25:45 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</guid>
-      <description></description>
+      <description>Excerpt from blog post Linux load averages are &amp;ldquo;system load averages&amp;rdquo; that show the running thread (task) demand on the system as an average number of running plus waiting threads. This measures demand, which can be greater than what the system is currently processing. Most tools show three averages, for 1, 5, and 15 minutes:
+Some interpretations:
+ If the averages are 0.0, then your system is idle. If the 1 minute average is higher than the 5 or 15 minute averages, then load is increasing.</description>
     </item>
     
   </channel>
