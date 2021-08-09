@@ -3,30 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kbs.murarisumit.in/year/2021/</loc>
-    <lastmod>2021-08-09T09:25:45+05:30</lastmod>
+    <lastmod>2021-08-09T10:17:05+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/month/2021-08/</loc>
-    <lastmod>2021-08-09T09:25:45+05:30</lastmod>
+    <lastmod>2021-08-09T10:17:05+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/author/</loc>
-    <lastmod>2021-08-09T09:25:45+05:30</lastmod>
+    <lastmod>2021-08-09T10:17:05+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/</loc>
-    <lastmod>2021-08-09T09:25:45+05:30</lastmod>
+    <lastmod>2021-08-09T10:17:05+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/category/bookmarks/</loc>
-    <lastmod>2021-08-09T09:25:45+05:30</lastmod>
+    <lastmod>2021-08-09T10:17:05+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/category/</loc>
+    <lastmod>2021-08-09T10:17:05+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/container/</loc>
+    <lastmod>2021-08-09T10:17:05+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/bookmarks/container-security-nist-800-190/</loc>
+    <lastmod>2021-08-09T10:17:05+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/container-security/</loc>
+    <lastmod>2021-08-09T10:17:05+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/</loc>
+    <lastmod>2021-08-09T10:17:05+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/month/</loc>
+    <lastmod>2021-08-09T10:17:05+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/author/murarisumit/</loc>
+    <lastmod>2021-08-09T10:17:05+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/nist/</loc>
+    <lastmod>2021-08-09T10:17:05+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/sites/nvlpubs.nist.gov/</loc>
+    <lastmod>2021-08-09T10:17:05+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/security/</loc>
+    <lastmod>2021-08-09T10:17:05+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/sites/</loc>
+    <lastmod>2021-08-09T10:17:05+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/</loc>
+    <lastmod>2021-08-09T10:17:05+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/year/</loc>
+    <lastmod>2021-08-09T10:17:05+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/sites/brendangregg.com/</loc>
     <lastmod>2021-08-09T09:25:45+05:30</lastmod>
   </url><url>
-    <loc>https://kbs.murarisumit.in/category/</loc>
-    <lastmod>2021-08-09T09:25:45+05:30</lastmod>
-  </url><url>
     <loc>https://kbs.murarisumit.in/tags/devops/</loc>
-    <lastmod>2021-08-09T09:25:45+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/</loc>
     <lastmod>2021-08-09T09:25:45+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/linux/</loc>
@@ -36,21 +69,6 @@
     <lastmod>2021-08-09T09:25:45+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/load-averages/</loc>
-    <lastmod>2021-08-09T09:25:45+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/month/</loc>
-    <lastmod>2021-08-09T09:25:45+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/author/murarisumit/</loc>
-    <lastmod>2021-08-09T09:25:45+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/sites/</loc>
-    <lastmod>2021-08-09T09:25:45+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tags/</loc>
-    <lastmod>2021-08-09T09:25:45+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/year/</loc>
     <lastmod>2021-08-09T09:25:45+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/awesome-lists/</loc>
@@ -69,9 +87,6 @@
     <lastmod>2021-08-09T00:37:09+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</loc>
-    <lastmod>2021-08-09T00:16:59+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tags/container/</loc>
     <lastmod>2021-08-09T00:16:59+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/awesome-docker-compose/</loc>
@@ -123,9 +138,6 @@
     <lastmod>2021-08-07T13:33:47+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</loc>
-    <lastmod>2021-08-07T12:50:34+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tags/security/</loc>
     <lastmod>2021-08-07T12:50:34+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/internet/</loc>

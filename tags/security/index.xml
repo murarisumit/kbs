@@ -6,7 +6,16 @@
     <description>Recent content in security on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Aug 2021 12:50:34 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Aug 2021 10:17:05 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Container Security Nist 800 190</title>
+      <link>https://kbs.murarisumit.in/bookmarks/container-security-nist-800-190/</link>
+      <pubDate>Mon, 09 Aug 2021 10:17:05 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/bookmarks/container-security-nist-800-190/</guid>
+      <description>About link takes you to NIST(National Institute of Standards and Technology) guide for container security @ https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf</description>
+    </item>
+    
     <item>
       <title>Awesome K8s Security</title>
       <link>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</link>
