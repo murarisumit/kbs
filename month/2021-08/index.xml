@@ -6,7 +6,35 @@
     <description>Recent content in 2021-08 on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Aug 2021 04:33:09 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/month/2021-08/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Aug 2021 04:57:32 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/month/2021-08/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Kubectl Logs Work</title>
+      <link>https://kbs.murarisumit.in/d19e8438d682f3f5a897296206ca9828/</link>
+      <pubDate>Fri, 13 Aug 2021 04:57:32 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/d19e8438d682f3f5a897296206ca9828/</guid>
+      <description>Links to notion page, as it had diagram and it was easier to put post like these on notion.</description>
+    </item>
+    
+    <item>
+      <title>Hard Drive Failure Report Backblaze</title>
+      <link>https://kbs.murarisumit.in/332d6b43914e2eeba6333c1a057f9f15/</link>
+      <pubDate>Fri, 13 Aug 2021 04:45:22 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/332d6b43914e2eeba6333c1a057f9f15/</guid>
+      <description>It gives us of which hard drive to buy and which not as they are one of the biggest buyer of hard-driver and see those working at scale.
+As they mentioned Seagate ST16000NM001G has quite a high failure rate of 6.72% with backblaze so it would be wise to not buy that hard-drive.</description>
+    </item>
+    
+    <item>
+      <title>Fake Reviews in Amazon</title>
+      <link>https://kbs.murarisumit.in/203914e598a6b162307c47a51eb79378/</link>
+      <pubDate>Fri, 13 Aug 2021 04:41:18 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/203914e598a6b162307c47a51eb79378/</guid>
+      <description>OP post from reddit thread  First of all my background - I&#39;ve been working on Amazon for years and know all the tricks of getting ranked. I do not engage in black hat tactics and I did the review game when it wasnt against TOS. As soon as they changed everything, I did not engage. However because of all my contacts I&#39;m in the know for a lot of things.</description>
+    </item>
+    
     <item>
       <title>How Engine Works</title>
       <link>https://kbs.murarisumit.in/1125b6a1a9edde68c82b00c6e62a2f2e/</link>

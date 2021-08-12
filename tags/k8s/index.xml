@@ -6,7 +6,16 @@
     <description>Recent content in k8s on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Aug 2021 10:17:05 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Aug 2021 04:57:32 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Kubectl Logs Work</title>
+      <link>https://kbs.murarisumit.in/d19e8438d682f3f5a897296206ca9828/</link>
+      <pubDate>Fri, 13 Aug 2021 04:57:32 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/d19e8438d682f3f5a897296206ca9828/</guid>
+      <description>Links to notion page, as it had diagram and it was easier to put post like these on notion.</description>
+    </item>
+    
     <item>
       <title>Container Security Nist 800 190</title>
       <link>https://kbs.murarisumit.in/bookmarks/container-security-nist-800-190/</link>
@@ -64,18 +73,6 @@
   Use network separation to control the amount of damage a compromise can cause.
   Use firewalls to limit unneeded network connectivity and encryption to protect confidentiality.
   Use strong authentication and authorization to limit user and administrator access as well as to limit the attack surface.</description>
-    </item>
-    
-    <item>
-      <title>Kubectl Seledom Used Snippet</title>
-      <link>https://kbs.murarisumit.in/snippets/kubectl-seledom-used-snippet/</link>
-      <pubDate>Tue, 07 Jul 2020 08:56:18 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/snippets/kubectl-seledom-used-snippet/</guid>
-      <description> Seldom used kubectl get command, listing here for reference Nodes  List all taints in node. 1  kubectl get nodes -o custom-columns=NAME:.metadata.name,ARCH:.status.nodeInfo.architecture,KERNEL:.status.nodeInfo.kernelVersion,KUBLET:.status.nodeInfo.kubeletVersion,CPU:.status.capacity.cpu,RAM:.status.capacity.memory,TAINTS:.spec.taints     Pods   Get all pods in specific node.
-1  kubectl get pods --all-namespaces -o wide --field-selector spec.nodeName=&amp;lt;node-name&amp;gt;     List pods by age
-1  kubectl get po --sort-by=.status.startTime     References:
- https://stackoverflow.com/questions/39231880/kubernetes-api-gets-pods-on-specific-nodes https://stackoverflow.com/questions/43379415/how-can-i-list-the-taints-on-kubernetes-nodes/59494876#59494876 https://stackoverflow.com/questions/45310287/kubernetes-sort-pods-by-age  </description>
     </item>
     
     <item>

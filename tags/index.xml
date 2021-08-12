@@ -6,7 +6,79 @@
     <description>Recent content in Tags on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Aug 2021 04:33:09 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Aug 2021 04:57:32 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>how-does-x-work</title>
+      <link>https://kbs.murarisumit.in/tags/how-does-x-work/</link>
+      <pubDate>Fri, 13 Aug 2021 04:57:32 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/how-does-x-work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k8s</title>
+      <link>https://kbs.murarisumit.in/tags/k8s/</link>
+      <pubDate>Fri, 13 Aug 2021 04:57:32 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/k8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubectl</title>
+      <link>https://kbs.murarisumit.in/tags/kubectl/</link>
+      <pubDate>Fri, 13 Aug 2021 04:57:32 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/kubectl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>backblaze</title>
+      <link>https://kbs.murarisumit.in/tags/backblaze/</link>
+      <pubDate>Fri, 13 Aug 2021 04:45:22 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/backblaze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>buyingGuide</title>
+      <link>https://kbs.murarisumit.in/tags/buyingguide/</link>
+      <pubDate>Fri, 13 Aug 2021 04:45:22 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/buyingguide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardDrives</title>
+      <link>https://kbs.murarisumit.in/tags/harddrives/</link>
+      <pubDate>Fri, 13 Aug 2021 04:45:22 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/harddrives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amazon</title>
+      <link>https://kbs.murarisumit.in/tags/amazon/</link>
+      <pubDate>Fri, 13 Aug 2021 04:41:18 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fake-reviews</title>
+      <link>https://kbs.murarisumit.in/tags/fake-reviews/</link>
+      <pubDate>Fri, 13 Aug 2021 04:41:18 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/fake-reviews/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>engine</title>
       <link>https://kbs.murarisumit.in/tags/engine/</link>
@@ -22,15 +94,6 @@
       <pubDate>Fri, 13 Aug 2021 04:33:09 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/engineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>how-does-x-work</title>
-      <link>https://kbs.murarisumit.in/tags/how-does-x-work/</link>
-      <pubDate>Fri, 13 Aug 2021 04:33:09 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/how-does-x-work/</guid>
       <description></description>
     </item>
     
@@ -139,15 +202,6 @@
       <pubDate>Mon, 09 Aug 2021 10:17:05 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/container-security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>k8s</title>
-      <link>https://kbs.murarisumit.in/tags/k8s/</link>
-      <pubDate>Mon, 09 Aug 2021 10:17:05 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/k8s/</guid>
       <description></description>
     </item>
     
@@ -904,15 +958,6 @@
       <pubDate>Mon, 20 Jul 2020 08:20:54 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/dac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kubectl</title>
-      <link>https://kbs.murarisumit.in/tags/kubectl/</link>
-      <pubDate>Tue, 07 Jul 2020 08:56:18 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/kubectl/</guid>
       <description></description>
     </item>
     
