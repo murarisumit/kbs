@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>decisions on knowledge base</title>
-    <link>https://kbs.murarisumit.in/category/decisions/</link>
-    <description>Recent content in decisions on knowledge base</description>
+    <title>migration on knowledge base</title>
+    <link>https://kbs.murarisumit.in/tags/migration/</link>
+    <description>Recent content in migration on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Aug 2021 17:29:07 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/category/decisions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Aug 2021 17:29:07 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/migration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Moving From Human Friendly Urls to Ugly Uuid</title>
       <link>https://kbs.murarisumit.in/c0e91193f16d7899b44017706767cfb1/</link>
@@ -17,17 +17,6 @@
 Advantage:
  Easy for human to read(obivious) Probably better for search engines to get results(who know anyways, it would make sense having URL as params to search result imo)  Disadvantage:
  Values have to fixed, not modification(important for me).  Still structure are not fixed for me, so don&amp;rsquo;t want to tie myself with title or path or director.   Cross-referencing become difficult  Cross referencing is important to me, and with keeping other param than UUID would be difficult to maintain, as it might break URL on this website(which is last thing I want), hence opting to machine generated unique ID from hugo i.</description>
-    </item>
-    
-    <item>
-      <title>Why Stopping Vim Now</title>
-      <link>https://kbs.murarisumit.in/decisions/why-stopping-vim-now/</link>
-      <pubDate>Sun, 31 May 2020 15:15:50 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/decisions/why-stopping-vim-now/</guid>
-      <description>While learning more about tools for the trade, vim was the tool that was thrown at me a lot. This tool took a long time, because I went the wrong route and was trying to use it as IDE not how it was intended.
-The way I started was at first, moved to config and plugin, instead of getting comfortable with vim-help, docs or core-vim without any setting.
-I learnt a few things here like vim-fugitive, it&amp;rsquo;s a great plugin, and alone it makes vim a treat to use.</description>
     </item>
     
   </channel>

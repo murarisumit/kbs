@@ -6,7 +6,19 @@
     <description>Recent content in 2021-08 on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Aug 2021 10:17:05 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/month/2021-08/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Aug 2021 17:29:07 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/month/2021-08/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moving From Human Friendly Urls to Ugly Uuid</title>
+      <link>https://kbs.murarisumit.in/c0e91193f16d7899b44017706767cfb1/</link>
+      <pubDate>Thu, 12 Aug 2021 17:29:07 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/c0e91193f16d7899b44017706767cfb1/</guid>
+      <description>Human friendly url
+Advantage:
+ Easy for human to read(obivious) Probably better for search engines to get results(who know anyways, it would make sense having URL as params to search result imo)  Disadvantage:
+ Values have to fixed, not modification(important for me).  Still structure are not fixed for me, so don&amp;rsquo;t want to tie myself with title or path or director.   Cross-referencing become difficult  Cross referencing is important to me, and with keeping other param than UUID would be difficult to maintain, as it might break URL on this website(which is last thing I want), hence opting to machine generated unique ID from hugo i.</description>
+    </item>
+    
     <item>
       <title>Container Security Nist 800 190</title>
       <link>https://kbs.murarisumit.in/bookmarks/container-security-nist-800-190/</link>
