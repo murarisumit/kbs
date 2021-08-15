@@ -6,7 +6,19 @@
     <description>Recent content in hugo on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Aug 2021 09:39:45 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Aug 2021 07:21:07 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cross Referencing Hugo</title>
+      <link>https://kbs.murarisumit.in/a8aa80afb3e281cf2246df975fef9aa8/</link>
+      <pubDate>Sun, 15 Aug 2021 07:21:07 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/a8aa80afb3e281cf2246df975fef9aa8/</guid>
+      <description>In my blog, have started to cross-refernce now. Hugo has got support for this and designed in such a way that really make sense to me.
+Documentation for this is here: https://gohugo.io/content-management/cross-references/
+So to reference some post, you need to know about file path of that post. Proper reading would have made it easier but spent around 2hrs for this stupid things.
+ The ref and relref shortcodes require a single parameter: the path to a content document, with or without a file extension, with or without an anchor.</description>
+    </item>
+    
     <item>
       <title>Hugo Good Archive Page</title>
       <link>https://kbs.murarisumit.in/bookmarks/hugo-good-archive-page/</link>
