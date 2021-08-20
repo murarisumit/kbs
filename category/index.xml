@@ -6,7 +6,16 @@
     <description>Recent content in Category on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Aug 2021 03:35:52 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/category/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Aug 2021 00:31:04 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/category/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>quotes</title>
+      <link>https://kbs.murarisumit.in/category/quotes/</link>
+      <pubDate>Sat, 21 Aug 2021 00:31:04 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/category/quotes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>bookmarks</title>
       <link>https://kbs.murarisumit.in/category/bookmarks/</link>
@@ -40,15 +49,6 @@
       <pubDate>Sun, 01 Aug 2021 01:05:26 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/category/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>quotes</title>
-      <link>https://kbs.murarisumit.in/category/quotes/</link>
-      <pubDate>Fri, 30 Jul 2021 09:35:32 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/category/quotes/</guid>
       <description></description>
     </item>
     
