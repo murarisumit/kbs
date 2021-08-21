@@ -6,7 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     
 
-    <title>knowledge base</title>
     <script src="/js/utils/age.js"> </script>
     
 <title itemprop="name">Hugo Tags List | knowledge base</title>
@@ -17,16 +16,18 @@
 <meta property="og:site_name" content="" />
 
 
-<meta name="description" content="" />
-<meta itemprop="description" content="" />
-<meta property="og:description" content="" />
-<meta name="twitter:description" content="" />
+
+<meta name="description" content="A simple snippet i found to fetch all tags, and still to read it up
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32  {{ if ne .Site.Params.TagsInHome 0 }} {{ $randTags := (slice)}} {{ range $name, $taxonomy := .Site.Taxonomies.tags }} {{ $randTags = $randTags | append $name }} {{ end }} {{ $randTags = sort (first ." />
+<meta itemprop="description" content="A simple snippet i found to fetch all tags, and still to read it up
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32  {{ if ne .Site.Params.TagsInHome 0 }} {{ $randTags := (slice)}} {{ range $name, $taxonomy := .Site.Taxonomies.tags }} {{ $randTags = $randTags | append $name }} {{ end }} {{ $randTags = sort (first ." />
+<meta property="og:description" content="A simple snippet i found to fetch all tags, and still to read it up
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32  {{ if ne .Site.Params.TagsInHome 0 }} {{ $randTags := (slice)}} {{ range $name, $taxonomy := .Site.Taxonomies.tags }} {{ $randTags = $randTags | append $name }} {{ end }} {{ $randTags = sort (first ." />
 
 
 <base href="https://kbs.murarisumit.in/snippets/hugo-tags-list/">
 <link rel="canonical" href="https://kbs.murarisumit.in/snippets/hugo-tags-list/" itemprop="url" /> 
 <meta name="url" content="https://kbs.murarisumit.in/snippets/hugo-tags-list/" />
-<meta name="twitter:url" content="https://kbs.murarisumit.in/snippets/hugo-tags-list/" /> 
 <meta property="og:url" content="https://kbs.murarisumit.in/snippets/hugo-tags-list/" />
 
 
