@@ -6,7 +6,19 @@
     <description>Recent content on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Aug 2021 06:31:43 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Aug 2021 10:05:32 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firefox Address Bar Tricks</title>
+      <link>https://kbs.murarisumit.in/1ba60d8b37da60f549c99f54313330a3/</link>
+      <pubDate>Thu, 26 Aug 2021 10:05:32 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/1ba60d8b37da60f549c99f54313330a3/</guid>
+      <description>Firefox provides easy way for searching the bookmarking, history or open tabs using the address bar.
+For searching bookmarks only
+ Press Cmd/Ctrl + L Press * the search would come only for bookmarks.  Similarly we can search for history, open tags or title using special character mentioned below
+1 2 3 4 5 6 7  Add ^ to show only matches in your browsing history. Add * to show only matches in your bookmarks.</description>
+    </item>
+    
     <item>
       <title>NatureIsMetal: Beautiful Tree</title>
       <link>https://kbs.murarisumit.in/5adc315e1db28c575e6791654e93428a/</link>

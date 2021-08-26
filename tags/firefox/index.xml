@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tricks on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/tricks/</link>
-    <description>Recent content in tricks on knowledge base</description>
+    <title>firefox on knowledge base</title>
+    <link>https://kbs.murarisumit.in/tags/firefox/</link>
+    <description>Recent content in firefox on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Aug 2021 10:05:32 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/tricks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Aug 2021 10:05:32 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firefox Address Bar Tricks</title>
       <link>https://kbs.murarisumit.in/1ba60d8b37da60f549c99f54313330a3/</link>
@@ -17,16 +17,6 @@
 For searching bookmarks only
  Press Cmd/Ctrl + L Press * the search would come only for bookmarks.  Similarly we can search for history, open tags or title using special character mentioned below
 1 2 3 4 5 6 7  Add ^ to show only matches in your browsing history. Add * to show only matches in your bookmarks.</description>
-    </item>
-    
-    <item>
-      <title>Golang Slice Tricks</title>
-      <link>https://kbs.murarisumit.in/bookmarks/golang-slice-tricks/</link>
-      <pubDate>Wed, 04 Aug 2021 08:29:34 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/bookmarks/golang-slice-tricks/</guid>
-      <description>Filtering with allocating This trick uses the fact that a slice shares the same backing array and capacity as the original, so the storage is reused for the filtered slice. Of course, the original contents are modified.
-1 2 3 4 5 6  b := a[:0] for _, x := range a { if f(x) { b = append(b, x) } }   </description>
     </item>
     
   </channel>
