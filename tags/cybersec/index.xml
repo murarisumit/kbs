@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cybersec on knowledge base</title>
+    <link>https://kbs.murarisumit.in/tags/cybersec/</link>
+    <description>Recent content in cybersec on knowledge base</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Sep 2021 22:11:57 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/cybersec/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Totp Format</title>
+      <link>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</link>
+      <pubDate>Fri, 03 Sep 2021 22:11:57 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</guid>
+      <description>Gist for TOTP is
+  Secure share of shared-secret b/w parties via QR code,
+ QR code is mostly and information in this url format: otpauth://totp/ACME%20Co:john.doe@email.com?secret=HXDMVJECJJWSRB3HWIZR4IFUGFTMXBOZ&amp;amp;issuer=ACME%20Co&amp;amp;algorithm=SHA1&amp;amp;digits=6&amp;amp;period=30    OTP = hash (shared secret + time)
+  For deep dive, please go via bookmark reference mentioned on top</description>
+    </item>
+    
+  </channel>
+</rss>
