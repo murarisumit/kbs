@@ -6,7 +6,52 @@
     <description>Recent content in Tags on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Sep 2021 22:11:57 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 10:21:50 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>github</title>
+      <link>https://kbs.murarisumit.in/tags/github/</link>
+      <pubDate>Wed, 20 Oct 2021 10:21:50 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>profiles</title>
+      <link>https://kbs.murarisumit.in/tags/profiles/</link>
+      <pubDate>Wed, 20 Oct 2021 10:21:50 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/profiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssh</title>
+      <link>https://kbs.murarisumit.in/tags/ssh/</link>
+      <pubDate>Wed, 20 Oct 2021 10:21:50 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/ssh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>awesome-lists</title>
+      <link>https://kbs.murarisumit.in/tags/awesome-lists/</link>
+      <pubDate>Wed, 20 Oct 2021 08:25:31 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/awesome-lists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>startup</title>
+      <link>https://kbs.murarisumit.in/tags/startup/</link>
+      <pubDate>Wed, 20 Oct 2021 08:25:31 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/startup/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>cybersec</title>
       <link>https://kbs.murarisumit.in/tags/cybersec/</link>
@@ -206,20 +251,20 @@
     </item>
     
     <item>
-      <title>awesome-lists</title>
-      <link>https://kbs.murarisumit.in/tags/awesome-lists/</link>
-      <pubDate>Sat, 21 Aug 2021 05:44:50 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/awesome-lists/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>competitive-programming</title>
       <link>https://kbs.murarisumit.in/tags/competitive-programming/</link>
       <pubDate>Sat, 21 Aug 2021 05:44:50 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/competitive-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://kbs.murarisumit.in/tags/programming/</link>
+      <pubDate>Sat, 21 Aug 2021 05:44:50 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/programming/</guid>
       <description></description>
     </item>
     
@@ -620,15 +665,6 @@
     </item>
     
     <item>
-      <title>github</title>
-      <link>https://kbs.murarisumit.in/tags/github/</link>
-      <pubDate>Mon, 09 Aug 2021 00:37:09 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>docker</title>
       <link>https://kbs.murarisumit.in/tags/docker/</link>
       <pubDate>Mon, 09 Aug 2021 00:16:18 +0530</pubDate>
@@ -958,15 +994,6 @@
       <pubDate>Wed, 04 Aug 2021 08:29:34 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>programming</title>
-      <link>https://kbs.murarisumit.in/tags/programming/</link>
-      <pubDate>Wed, 04 Aug 2021 08:29:34 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/programming/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dev.to on knowledge base</title>
+    <link>https://kbs.murarisumit.in/sites/dev.to/</link>
+    <description>Recent content in dev.to on knowledge base</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Oct 2021 10:21:50 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/dev.to/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multiple Git Ssh Config Single Machine</title>
+      <link>https://kbs.murarisumit.in/d881fb4640d6de032e6221c9eabe0e39/</link>
+      <pubDate>Wed, 20 Oct 2021 10:21:50 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/d881fb4640d6de032e6221c9eabe0e39/</guid>
+      <description>To use multiple github account on same hosts, and using ssh to push and pull the repo. We have multiple tricks
+ Using ssh config tricks with hosts: https://gist.github.com/JoaquimLey/e6049a12c8fd2923611802384cd2fb4a  Used host trick before, but while setting up again and looking for documentation found this neat way using gitconfig.
+We can have to first set .gitconfig file in home directory.
+1 2 3 4 5 6  [includeIf &amp;#34;gitdir:~/workspace/work/&amp;#34;] path = .</description>
+    </item>
+    
+  </channel>
+</rss>
