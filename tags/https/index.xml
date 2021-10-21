@@ -13,9 +13,50 @@
       <pubDate>Tue, 21 Jul 2020 05:06:45 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tils/how-certificate-signing-works/</guid>
-      <description>Reference: https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/
-Steps for signing certificate by CA  The Subscriber (the person asking a CA to issue them a certificate) sends a Certificate Signing Request (CSR) to the CA which contains all of their details like name, domain name etc. The CA will then take a blank certificate and begins to fill in the details of the Subscriber, validating ownership of the domain along the way, until they have completed all of the fields in the certificate.</description>
+      <description>&lt;p&gt;Reference: &lt;a href=&#34;https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/&#34;&gt;https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;steps-for-signing-certificate-by-ca&#34;&gt;Steps for signing certificate by CA&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;The Subscriber (the person asking a CA to issue them a certificate) sends a Certificate Signing Request (CSR) to the CA which contains all of their details like name, domain name etc.&lt;/li&gt;
+&lt;li&gt;The CA will then take a blank certificate and begins to fill in the details of the Subscriber, validating ownership of the domain along the way, until they have completed all of the fields in the certificate.&lt;/li&gt;
+&lt;li&gt;At this stage we have what we call the Pre-Certificate, it&amp;rsquo;s basically a finished certificate ready to issue but the only thing that&amp;rsquo;s missing is the CAs signature on the bottom of the certificate to make it official&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;signing-of-certificate&#34;&gt;Signing of certificate&lt;/h4&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;CA takes Pre-Certificate and running it through a hash function, currently SHA256, to obtain the digest.&lt;/li&gt;
+&lt;li&gt;The second step is the CA then taking that digest and encrypting it with their private key.&lt;/li&gt;
+&lt;li&gt;This encrypted digest is the signature and once appended to the end of the file we now have a signed certificate that can be issued to the Subscriber.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Rules public key encryption&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;For every private key, there is only one corresponding public key.&lt;/li&gt;
+&lt;li&gt;Also Data encrypted with the public key can only be decrypted with it&amp;rsquo;s corresponding private key, and data encrypted with the private key can only be decrypted with it&amp;rsquo;s corresponding public key.&lt;/li&gt;
+&lt;li&gt;More rules and info at: &lt;a href=&#34;https://www.cloudflare.com/learning/ssl/how-does-public-key-encryption-work/&#34;&gt;https://www.cloudflare.com/learning/ssl/how-does-public-key-encryption-work/&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;Q: How does adding the &lt;strong&gt;encrypted digest&lt;/strong&gt; i.e. signature makes it signed certificate ?&lt;/p&gt;
+&lt;p&gt;A: It can better be explained by putting browser in picture and looking at what it does while requesting https website.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;what-browser-does&#34;&gt;What browser does&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;During tls handshake with https endpoint, it fetches associate intermediate certificate and root certificate.
+&lt;ul&gt;
+&lt;li&gt;We need to upload intermediate certificate(public key of CA) and root certificate while uploading ssl certificate.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Browser now decrypts the digest using intermediate certificates, if it is able to decrypt using intermediate key, it means that above certificate is signed by private-key of CA(data encrypted with the private key can only be decrypted with it&amp;rsquo;s corresponding public key)&lt;/li&gt;
+&lt;li&gt;Browser itself also calculate hash of pre-certificate to compare with hash it got in step 2 after decrypting digest.&lt;/li&gt;
+&lt;li&gt;If both are correct means,
+&lt;ul&gt;
+&lt;li&gt;The signature definitely came from the CA. (Authenticity) - Step 2&lt;/li&gt;
+&lt;li&gt;The certificate has not been tampered with. (Integrity)  - Step 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Above is over-simplified explanation of what happens, above all is taken from 1st half of post at : &lt;a href=&#34;https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/&#34;&gt;https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you want to read further, continue reading at : &lt;a href=&#34;https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/&#34;&gt;https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
 </rss>
+

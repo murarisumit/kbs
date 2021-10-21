@@ -13,10 +13,65 @@
       <pubDate>Wed, 20 Oct 2021 10:21:50 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/d881fb4640d6de032e6221c9eabe0e39/</guid>
-      <description>To use multiple github account on same hosts, and using ssh to push and pull the repo. We have multiple tricks
- Using ssh config tricks with hosts: https://gist.github.com/JoaquimLey/e6049a12c8fd2923611802384cd2fb4a  Used host trick before, but while setting up again and looking for documentation found this neat way using gitconfig.
-We can have to first set .gitconfig file in home directory.
-1 2 3 4 5 6  [includeIf &amp;#34;gitdir:~/workspace/work/&amp;#34;] path = .</description>
+      <description>&lt;p&gt;To use multiple github account on same hosts, and using ssh to push and pull the repo. We have multiple tricks&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Using ssh config tricks with hosts: &lt;a href=&#34;https://gist.github.com/JoaquimLey/e6049a12c8fd2923611802384cd2fb4a&#34;&gt;https://gist.github.com/JoaquimLey/e6049a12c8fd2923611802384cd2fb4a&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Used host trick before, but while setting up again and looking for documentation found this neat way using &lt;code&gt;gitconfig&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;We can have to first set &lt;code&gt;.gitconfig&lt;/code&gt; file in home directory.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;[includeIf &amp;#34;gitdir:~/workspace/work/&amp;#34;]
+    path = ./.gitconfig-work
+
+[includeIf &amp;#34;gitdir:~/workspace/personal/&amp;#34;]
+    path = ./.gitconfig-personal
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;.gitconfig-work&lt;/code&gt; file&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;[user]
+	email = &amp;#34;sumit.murari@work.com&amp;#34;
+[core]
+	sshCommand = &amp;#34;ssh -i ~/.ssh/id_rsa&amp;#34;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;.gitconfig-personal&lt;/code&gt; file&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;[user]
+	email = &amp;#34;murari.sumit@fastmail.com&amp;#34;
+[core]
+	sshCommand = &amp;#34;ssh -i ~/.ssh/personal-ecdsa&amp;#34;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -25,7 +80,8 @@ We can have to first set .gitconfig file in home directory.
       <pubDate>Wed, 20 Oct 2021 08:25:31 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/492e142b3d2566623e4ba229d743b355/</guid>
-      <description>Compiled list of links from &amp;lsquo;Ask HN: Where can I post my startup to get beta users?&amp;rsquo;</description>
+      <description>&lt;p&gt;Place where we can post about startup, found this list. Keeping here for reference as tags are easy to track now for me.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -34,10 +90,20 @@ We can have to first set .gitconfig file in home directory.
       <pubDate>Fri, 03 Sep 2021 22:11:57 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</guid>
-      <description>Gist for TOTP is
-  Secure share of shared-secret b/w parties via QR code,
- QR code is mostly and information in this url format: otpauth://totp/ACME%20Co:john.doe@email.com?secret=HXDMVJECJJWSRB3HWIZR4IFUGFTMXBOZ&amp;amp;issuer=ACME%20Co&amp;amp;algorithm=SHA1&amp;amp;digits=6&amp;amp;period=30    OTP = hash (shared secret + time)
-  For deep dive, please go via bookmark reference mentioned on top</description>
+      <description>&lt;p&gt;Gist for TOTP is&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Secure share of shared-secret b/w parties via QR code,&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;QR code is mostly and information in this &lt;a href=&#34;https://github.com/google/google-authenticator/wiki/Key-Uri-Format&#34;&gt;url format&lt;/a&gt;: &lt;code&gt;otpauth://totp/ACME%20Co:john.doe@email.com?secret=HXDMVJECJJWSRB3HWIZR4IFUGFTMXBOZ&amp;amp;issuer=ACME%20Co&amp;amp;algorithm=SHA1&amp;amp;digits=6&amp;amp;period=30&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;OTP = hash (shared secret + time)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;For deep dive, please go via bookmark reference mentioned on top&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -46,9 +112,14 @@ We can have to first set .gitconfig file in home directory.
       <pubDate>Wed, 01 Sep 2021 23:33:57 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/3f0f98b1a3c3258c2a2f705d58bb3595/</guid>
-      <description>If you have enough to get basic life go by(for needs not for greed), extra money should be used to buy time. Initially you need t sell your time to make money, once there, basic needs taken care of start using money to buy time.
-Tweet was inspired was
- Take every opportunity you get to use money to buy time, and then proceed to “waste” that extra time in doing things that cannot be bought for money.</description>
+      <description>&lt;p&gt;If you have enough to get basic life go by(for needs not for greed), extra money should be used to buy time. Initially you need t sell your time to make money, once there, basic needs taken care of start using money to buy time.&lt;/p&gt;
+&lt;p&gt;Tweet was inspired was&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Take every opportunity you get to use money to buy time, and then proceed to “waste” that extra time in doing things that cannot be bought for money.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;There are few things money can&amp;rsquo;t buy for me like health, family, friendship, trust etc.&lt;/p&gt;
+&lt;p&gt;Simply enjoy life to fullest to whatever be your defination. Money if very important part of life, but shouldn&amp;rsquo;t become life. Life is much more than that.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -57,7 +128,52 @@ Tweet was inspired was
       <pubDate>Mon, 30 Aug 2021 16:56:43 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/1e0b24f24f6a5963366cc66d84ad098f/</guid>
-      <description>He turned 41 last week. Here are 41 reflections about his life, which he remain immensely grateful for.</description>
+      <description>&lt;p&gt;Read it somewhere, you can&amp;rsquo;t make mistakes. You&amp;rsquo;ve to learn from others&#39; mistakes/experiences. Read this post from &lt;a href=&#34;https://ankurwarikoo.com/contact/&#34;&gt;ankur warikoo&lt;/a&gt;, so thought of writing about it, to internalize it.&lt;/p&gt;
+&lt;p&gt;Funny one.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The only success for a company is when it raises money from customers. Congratulations when raising from money from founder is like, congratulating chef on buying vegetables&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Useful&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;When you share your failure openly, you instantly take away all the power    that the world had over you.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It&amp;rsquo;s similar to 8 mile &lt;a href=&#34;https://www.youtube.com/watch?v=xh1ROLEDyP4&amp;amp;t=170s&#34;&gt;last rap battle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Managing your time is about managing your energy, managing your energy is about managing your attention.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For me also, it is all about your focus and this is especially relevant in time where there are all fun and good youtube videos around to take your time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Take criticism seriously but not personally&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This has been my journey, has been detached from surroundings but still not taking unwarranted criticism(which you don&amp;rsquo;t agree to) personally should be part of my journey. Understanding it&amp;rsquo;s their opinion and still choice is with me how I take it up.&lt;/li&gt;
+&lt;li&gt;Also need to internalise response vs react. Always respond not react. You should not give anyone power over you, on how you response, that should only be yours and yours only.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;World doesn&amp;rsquo;t need one more template, world need one more rebel&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It&amp;rsquo;s a good food for thought #food-for-thought&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Never complain&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Remember this, have learnt it the hard way. Whatever it is, just don&amp;rsquo;t complain. It would never fix things, just aggravate them. Learn to handle them.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The decision that will hurt you the most is not making one while waiting to take the right one.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;FOr waiting for the right time, has hurt more.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -66,7 +182,89 @@ Tweet was inspired was
       <pubDate>Fri, 27 Aug 2021 10:59:21 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/f2bc54ae2871f124a8777721f4ab3446/</guid>
-      <description>Most beautiful part of day for me</description>
+      <description>&lt;p&gt;His blog post, keeping here for my reference:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;One of the most frequently asked questions to me is: “How do you manage to wake up early?”
+
+Logic says several answers to it:
+
+    Keep your workout gear next to your bed
+    Alarm clock in another room
+    Burpees on waking up, etc.
+
+All of these work, until they don’t.
+
+The true question to address is “How to sleep on time?”
+
+If you’re sleeping at 11 and want to wake up at 4, the motivation will certainly stop on Day 4.
+
+What if we get a night-time schedule, that makes it impossible to sleep late? Something like:
+
+    Having dinner 2-3 hours prior to planned bed time
+    Spending time doing activities that relax you
+    Planning for the next day
+
+It turns out, if we turn to twist the outputs without changing the inputs, the motivation won’t lasts.
+The more we strive to get the inputs right, the more the outputs automatically take care of themselves.
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Can attest to it, this has been the only thing working for me. If I sleep late, then its better to assume that mornings are gone now, nothing can be done, take it as holiday tomorrow. This also cements the idea in me that &lt;code&gt;my today defines my tomorrow&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Mornings are the most beautiful and productive part of the day, and following is my routine, it might help you.&lt;/p&gt;
+&lt;p&gt;Yesterday night&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Have dinner by 6:30-7:00 and if it&amp;rsquo;s late go for a fruit diet.&lt;/li&gt;
+&lt;li&gt;Read books, listen to music, enjoy time with family, and basically spend time doing activities that relax you (as ankur mentioned).&lt;/li&gt;
+&lt;li&gt;Having milk before sleeping with turmeric is good. Somehow flavour is good to me, also a &lt;a href=&#34;https://en.wikipedia.org/wiki/Dosha&#34;&gt;khapa guy&lt;/a&gt;, so that works for me, might now work for you.&lt;/li&gt;
+&lt;li&gt;Plan things for tomorrow.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mornings&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wake up by 3:30/4/4:30, pick tasks you&amp;rsquo;ve planned and chop them off. You get beautiful those feel-good feelings.&lt;/li&gt;
+&lt;li&gt;Go and see the sun rise, for me it&amp;rsquo;s beautiful and other &lt;a href=&#34;https://www.thesaurus.com/browse/beautiful&#34;&gt;adjectives&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Exercise after saying &lt;strong&gt;hi&lt;/strong&gt; to the sun.&lt;/li&gt;
+&lt;li&gt;Cook food and be happy as you are so lucky to have that.&lt;/li&gt;
+&lt;li&gt;Before eating, take a bath and freshen up.&lt;/li&gt;
+&lt;li&gt;Eat food and now the day starts for me.&lt;/li&gt;
+&lt;li&gt;Plan is to add morning prayers into this, but don&amp;rsquo;t have a pooja room in the house(have to do something for it.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Afternoon&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This time is sold to someone else for money(sad but that&amp;rsquo;s case for now[27-Aug-2021])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If I sleep late,&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;No fun mornings, admitting I have missed all of that for today.&lt;/li&gt;
+&lt;li&gt;No alarm, but body sleep is important to me, no alarm to disturb it. Have done my deeds. It&amp;rsquo;s fine, let this morning go. Nothing can be done about it.&lt;/li&gt;
+&lt;li&gt;If you can try to do something meaningful during the day, do that and remember most importantly sleep on time to enjoy your next morning.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -75,10 +273,44 @@ Tweet was inspired was
       <pubDate>Thu, 26 Aug 2021 10:05:32 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/1ba60d8b37da60f549c99f54313330a3/</guid>
-      <description>Firefox provides easy way for searching the bookmarking, history or open tabs using the address bar.
-For searching bookmarks only
- Press Cmd/Ctrl + L Press * the search would come only for bookmarks.  Similarly we can search for history, open tags or title using special character mentioned below
-1 2 3 4 5 6 7  Add ^ to show only matches in your browsing history. Add * to show only matches in your bookmarks.</description>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Firefox provides easy way for searching the bookmarking, history or open tabs using the address bar.&lt;/p&gt;
+&lt;p&gt;For searching bookmarks only&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Press &lt;code&gt;Cmd/Ctrl + L&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;*&lt;/code&gt; the search would come only for bookmarks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Similarly we can search for history, open tags or title using special character mentioned below&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;Add ^ to show only matches in your browsing history.
+Add * to show only matches in your bookmarks.
+Add + to show only matches in bookmarks you&amp;#39;ve tagged.
+Add % to show only matches in your currently open tabs.
+Add # to show only matches where every search term is part of the title or part of a tag.
+Add $ to show only matches where every search term is part of the web address (URL). The text &amp;#34;https://&amp;#34; or &amp;#34;http://&amp;#34; in the URL is ignored but not &amp;#34;file:///&amp;#34;.
+Add ? to show only search suggestions. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -87,9 +319,14 @@ For searching bookmarks only
       <pubDate>Sat, 21 Aug 2021 06:31:43 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/5adc315e1db28c575e6791654e93428a/</guid>
-      <description>Daytime photo of same tree: https://imgur.com/gallery/vQBic8k
-Meanwhile watched one more on reddit:
- https://www.reddit.com/r/natureismetal/comments/p8btpi/lace_monitor_attacks_a_mother_possums_nest/ https://www.reddit.com/r/natureismetal/comments/p6h11h/crazy_image_captured_on_indian_trail_cam/  Nature is truely metal.</description>
+      <description>&lt;p&gt;Daytime photo of same tree: &lt;a href=&#34;https://imgur.com/gallery/vQBic8k&#34;&gt;https://imgur.com/gallery/vQBic8k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Meanwhile watched one more on reddit:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/natureismetal/comments/p8btpi/lace_monitor_attacks_a_mother_possums_nest/&#34;&gt;https://www.reddit.com/r/natureismetal/comments/p8btpi/lace_monitor_attacks_a_mother_possums_nest/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/natureismetal/comments/p6h11h/crazy_image_captured_on_indian_trail_cam/&#34;&gt;https://www.reddit.com/r/natureismetal/comments/p6h11h/crazy_image_captured_on_indian_trail_cam/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nature is truely metal.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -98,10 +335,23 @@ Meanwhile watched one more on reddit:
       <pubDate>Sat, 21 Aug 2021 06:04:14 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/b4623554b68ff4565baac8390eee35e5/</guid>
-      <description>Was writing a few posts on being a man of actions, not being scared of the future and remembering only action matters.
- Not scared of future It&amp;rsquo;s Not What I Am Underneath it&amp;rsquo;s What I Do Defines Me  Excerpts from notion kbs
- Confidence is the key, if you believe in you the world will believe in you.
-  Perception is reality, how people perceive you is how they behave around you and that is real, it doesn&amp;rsquo;t matter if their perception is an accurate depiction of you or not because it doesn&amp;rsquo;t matter.</description>
+      <description>&lt;p&gt;Was writing a few posts on being a man of actions, not being scared of the future and remembering only action matters.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;%7B%7B/586a1c7bfad52e25a95e1d7d9654157a/&#34;&gt;Not scared of future&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kbs.murarisumit.in/9aed16443012e51a38b0c189b58f95ab&#34;&gt;It&amp;rsquo;s Not What I Am Underneath it&amp;rsquo;s What I Do Defines Me&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Excerpts from notion kbs&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Confidence is the key, if you believe in you the world will believe in you.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Perception is reality, how people perceive you is how they behave around you and that is real, it doesn&amp;rsquo;t matter if their perception is an accurate depiction of you or not because it doesn&amp;rsquo;t matter. People do action, real world action based on it. Hence the &lt;strong&gt;Perception is reality or Perception becomes the reality.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I learnt it the hard way, when people perceive you in a certain way and action, real actions are taken because of it.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;What people perceive of you are from your actions, at least this is the case with me. Your thoughts are not visible out there, only your actions. You can speak of your intention, and some people may buy it but not for long. Actions are more powerful than words.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -110,7 +360,8 @@ Meanwhile watched one more on reddit:
       <pubDate>Sat, 21 Aug 2021 05:44:50 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/3654465ae54a20816f5b8cc307dabaa3/</guid>
-      <description>Moving it from notion kbs to store here.</description>
+      <description>&lt;p&gt;Moving it from notion kbs to store here.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -119,7 +370,14 @@ Meanwhile watched one more on reddit:
       <pubDate>Wed, 18 Aug 2021 03:35:52 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/82f13670d5d8ce84febcb23889eea474/</guid>
-      <description>It ain&amp;rsquo;t not how hard you can hit; It&amp;rsquo;s about how hard you can get hit and keep moving forward.</description>
+      <description>&lt;p&gt;One more youtube video, batman this time. This scene might have given goose bumps to Roger Federer too, you may fall but it&amp;rsquo;s what you choose afterwards that matters the most.&lt;/p&gt;
+&lt;p&gt;Also the dialogue from rocky comes to my mind.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It ain&amp;rsquo;t about how hard you hit; It&amp;rsquo;s about how hard you can get hit and keep moving forward.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;American nationalism had brought beautiful movies out there and something to learn from. Deserters/Refugees coming from every parts of world and joining together and making a &lt;strong&gt;great&lt;/strong&gt; nation. Nation making is huge task, India still isn&amp;rsquo;t a nation yet despite such commonality, history and culture, but American built nation from deserters, some refugees true but most deserters.&lt;/p&gt;
+&lt;p&gt;Always in awe to see to see American might and what they have achieved. They really are a nation to look upto.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -128,7 +386,8 @@ Meanwhile watched one more on reddit:
       <pubDate>Tue, 17 Aug 2021 02:02:39 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/cf319bbe3527ea414ff169110c93221f/</guid>
-      <description>Beautiful videography done and soothing music and voice. These video make me appreciate the country I live in.</description>
+      <description>&lt;p&gt;Beautiful videography done and soothing music and voice. These video make me appreciate the country I live in.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -137,7 +396,8 @@ Meanwhile watched one more on reddit:
       <pubDate>Mon, 16 Aug 2021 10:55:23 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/49a1162eb90beacee617cdce3de7bbaf/</guid>
-      <description>This is beautiful, how crafted the nature is and amazed at human intelligence who think they know more that nature itself and try to change it.</description>
+      <description>&lt;p&gt;This is beautiful, how crafted the nature is and amazed at human intelligence who think they know more that nature itself and try to change it.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -146,8 +406,10 @@ Meanwhile watched one more on reddit:
       <pubDate>Sun, 15 Aug 2021 03:02:45 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/6347fd23beb0ba39c9b52a4dfd7c7ca5/</guid>
-      <description>Wrote a note on Jordan-Peterson-Successful-Men-Are-Insane-And-Work-All-The-Time yesterday, and found similar video on the same topic. So youtube recommendation is smart, and I&amp;rsquo;m not the only one who made to stupid( like it though) conclusion.
-I&amp;rsquo;m ready to give that price, and become exceptional. Family do matter to me, friends to matter to me, but would keep the circle small and would focus on the goals that I have. Ready to give 80 hours work-week.</description>
+      <description>&lt;p&gt;Wrote a note on &lt;a href=&#34;https://kbs.murarisumit.in/ce39966c39f2ea7d1a55946669a84685/&#34;&gt;Jordan-Peterson-Successful-Men-Are-Insane-And-Work-All-The-Time&lt;/a&gt; yesterday, and found similar video on the same topic. So youtube recommendation is smart, and I&amp;rsquo;m not the only one who made to stupid( like it though) conclusion.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m ready to give that price, and become exceptional. Family do matter to me, friends to matter to me, but would keep the circle small and would focus on the goals that I have. Ready to give 80 hours work-week.&lt;/p&gt;
+&lt;p&gt;Goals are private for now, but for my reference are kept at: &lt;a href=&#34;https://www.notion.so/yinyangi/a-lifetime-11c407f3b4034e14805328f1c7bd5ffa&#34;&gt;https://www.notion.so/yinyangi/a-lifetime-11c407f3b4034e14805328f1c7bd5ffa&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -156,7 +418,8 @@ I&amp;rsquo;m ready to give that price, and become exceptional. Family do matter
       <pubDate>Sat, 14 Aug 2021 04:57:43 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/3eea4986a87740003aa7e5b40354ce03/</guid>
-      <description>One more djo&amp;rsquo;s match, but was looking at federer who showed his metal at 36 yrs of age.</description>
+      <description>&lt;p&gt;One more djo&amp;rsquo;s match, but was looking at federer who showed his metal at 36 yrs of age.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -165,8 +428,32 @@ I&amp;rsquo;m ready to give that price, and become exceptional. Family do matter
       <pubDate>Sat, 14 Aug 2021 01:51:32 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/ce39966c39f2ea7d1a55946669a84685/</guid>
-      <description>He said in one of his interviews that men wrote to him and told that he changed his life. I&amp;rsquo;m one of such characters. Here also a lot of thanks goes to people who made the internet happen, so I could watch his lessons/lectures or speeches.
-To achieve to be highly successful in corporate world i.e. reach at high position in social order one has to put insane amount of work, he mentioned 80 hours work week, translates to ~ 12 hours every day without breaks for years and with focus and determination.</description>
+      <description>&lt;p&gt;He said in one of his interviews that men wrote to him and told that he changed his life. I&amp;rsquo;m one of such characters. Here also a lot of thanks goes to people who made the internet happen, so I could watch his lessons/lectures or speeches.&lt;/p&gt;
+&lt;p&gt;To achieve to be highly successful in corporate world i.e. reach at high position in social order one has to put insane amount of work, he mentioned 80 hours work week, translates to ~ 12 hours every day without breaks for years and with &lt;strong&gt;focus&lt;/strong&gt; and &lt;strong&gt;determination&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;~hello~&lt;/p&gt;
+&lt;p&gt;It isn&amp;rsquo;t like when kids go to work to the library to study for 6 hours.&lt;/p&gt;
+&lt;p&gt;High social order always means different from different cultures. India had a weird culture once, people who left the material world and lived for pursuit of knowledge were treated on high pecking order, but that is for a very evolved state of culture. Mostly it would refer to high financial or political position.
+Disclaimer: Today India is in a very sad state w.r.t its culture and the same system has become the biggest baggage.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Will Mahatma Gandhi be treated in a higher social order than Bill Gates or Sir Albert Einstein ?
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;One needs to make decision,&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Either earn good enough money to enjoy life and then learn music, take care of body, tap-dancing, beautiful literature, learning physics, getting close to oneself/god&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Be insane and work like crazy and get up in pecking order&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Or third he didn&amp;rsquo;t mention having a middle ground, keep working your whole life because you enjoy it and reach in high pecking order. While taking care of your body, mind, being calm and happy all along in life. Is this route possible ?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLCE9046E85D3918D8&#34;&gt;Happiness Unlimited&lt;/a&gt; had a very huge impact on me, during my college years, but is this route possible? &lt;strong&gt;This would good exploration in my life&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;pre&gt;&lt;code&gt;    So goal of life is to explore this third route&lt;/code&gt;&lt;/pre&gt;
+</description>
     </item>
     
     <item>
@@ -175,7 +462,8 @@ To achieve to be highly successful in corporate world i.e. reach at high positio
       <pubDate>Sat, 14 Aug 2021 01:48:05 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/dba141a324349154865a7bdf421eee15/</guid>
-      <description>If this can&amp;rsquo;t inspire anyone, not sure what could. These guys played for around ~ 6 hours, and that&amp;rsquo;s an incredible feat of achievement.</description>
+      <description>&lt;p&gt;If this can&amp;rsquo;t inspire anyone, not sure what could. These guys played for around ~ 6 hours, and that&amp;rsquo;s an incredible feat of achievement.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -184,8 +472,10 @@ To achieve to be highly successful in corporate world i.e. reach at high positio
       <pubDate>Fri, 13 Aug 2021 23:41:17 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/60cdd644ced2abd406c37a892f8386e3/</guid>
-      <description>This guy is simple to understand, no out of the world quotations. Can relate to him, seems like a neighbourhood elder brother(bhaiya) who you can talk to.
-What he mentioned was, spend on skills. More like one message in a 3-idiot movie. Run after excellence, success will come to you. He isn&amp;rsquo;t sadhu and adds on to say to buy material assets like cars or houses. If a house gives peace of mind, improves quality of life, go buy a house.</description>
+      <description>&lt;p&gt;This guy is simple to understand, no out of the world quotations. Can relate to him, seems like a neighbourhood elder brother(bhaiya) who you can talk to.&lt;/p&gt;
+&lt;p&gt;What he mentioned was, spend on skills. More like one message in a 3-idiot movie. Run after excellence, success will come to you. He isn&amp;rsquo;t sadhu and adds on to say to buy material assets like cars or houses. If a house gives peace of mind, improves quality of life, go buy a house. If cars make your life easy, use it.&lt;/p&gt;
+&lt;p&gt;Another important thing he mentioned is, we have to make money work for us to be financially independent and financial freedom is about being content. There are endless materialistic traps.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -194,7 +484,8 @@ What he mentioned was, spend on skills. More like one message in a 3-idiot movie
       <pubDate>Fri, 13 Aug 2021 04:57:32 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/d19e8438d682f3f5a897296206ca9828/</guid>
-      <description>Links to notion page, as it had diagram and it was easier to put post like these on notion.</description>
+      <description>&lt;p&gt;Links to notion page, as it had diagram and it was easier to put post like these on notion.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -203,8 +494,9 @@ What he mentioned was, spend on skills. More like one message in a 3-idiot movie
       <pubDate>Fri, 13 Aug 2021 04:45:22 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/332d6b43914e2eeba6333c1a057f9f15/</guid>
-      <description>It gives us of which hard drive to buy and which not as they are one of the biggest buyer of hard-driver and see those working at scale.
-As they mentioned Seagate ST16000NM001G has quite a high failure rate of 6.72% with backblaze so it would be wise to not buy that hard-drive.</description>
+      <description>&lt;p&gt;It gives us of which hard drive to buy and which not as they are one of the biggest buyer of hard-driver and see those working at scale.&lt;/p&gt;
+&lt;p&gt;As they mentioned Seagate ST16000NM001G has quite a high failure rate of 6.72% with backblaze so it would be wise to not buy that hard-drive.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -213,7 +505,29 @@ As they mentioned Seagate ST16000NM001G has quite a high failure rate of 6.72% w
       <pubDate>Fri, 13 Aug 2021 04:41:18 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/203914e598a6b162307c47a51eb79378/</guid>
-      <description>OP post from reddit thread  First of all my background - I&#39;ve been working on Amazon for years and know all the tricks of getting ranked. I do not engage in black hat tactics and I did the review game when it wasnt against TOS. As soon as they changed everything, I did not engage. However because of all my contacts I&#39;m in the know for a lot of things.</description>
+      <description>&lt;h3 id=&#34;op-post-from-reddit-threadhttpswwwredditcomrsupplementscommentsg19a1wheres_a_brand_thats_building_its_reviews_steadily&#34;&gt;OP post from &lt;a href=&#34;https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/&#34;&gt;reddit thread&lt;/a&gt;&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;    First of all my background - I&#39;ve been working on Amazon for years and know all the tricks of getting ranked. I do not engage in black hat tactics and I did the review game when it wasnt against TOS. As soon as they changed everything, I did not engage. However because of all my contacts I&#39;m in the know for a lot of things. Getting reviews and the strategies used is one of those things.
+
+
+	I noticed this brand popping up in searches a while back when it had only 5 reviews. I went into search mode after reading reviews and tried to figure out where this company came from.
+
+
+	Their website lists no address but says that they adhere to standards in BC, Canada. I searched more and found an office address in Chinatown in Vancouver. I kept searching and found the business is registered to a &#39;investment group&#39;.
+
+
+	The suspicious thing was how all the first reviews were worded. People saying it&#39;s the best they ever tried and they looked for a long time and found this brand... but if the brand is only on Amazon and they searched... how did they find it? It wasnt ranked organically where you could find it until it had a ton of reviews.
+
+
+	The reviews are also spaced out perfectly. There&#39;s 1-3 reviews a day and all 5 star reviews. I can tell you from working on Amazon for years that different categories have different review rates. For CPG products, the review rate is extremely small. You might get 1 review for every 1000 products sold. So seeing a brand with no history getting so many daily reviews that are all around the same length and push the same BS... these are all paid for reviews.
+
+
+	Finally, the kicker is that I responded to a handful of these reviews in the comments, only for them all to disappear within a week. Usually when Amazon removes something, they&#39;ll send you a notification. There was no notification... and this is how it&#39;s done. There&#39;s shady Amazon employees that will remove comments and sellers for a fee. I know this because I know someone in China that offers this service. Chances are, these Hong Kong people that own this company also have made the same contacts I have and are using that have them taken down.
+
+
+
+	So wait and watch over the next month as the reviews keep piling in, unless of course they find this thread and stop.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
     </item>
     
     <item>
@@ -222,7 +536,8 @@ As they mentioned Seagate ST16000NM001G has quite a high failure rate of 6.72% w
       <pubDate>Fri, 13 Aug 2021 04:33:09 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/1125b6a1a9edde68c82b00c6e62a2f2e/</guid>
-      <description>Beautiful things, always read 4 strokes work, but seeing this video(click title to go to video) gave so much more clarity and satisfaction. Now would be comfortable to say that, i have good theoretical understanding of how engines work.</description>
+      <description>&lt;p&gt;Beautiful things, always read 4 strokes work, but seeing this video(click title to go to video) gave so much more clarity and satisfaction. Now would be comfortable to say that,  i have good theoretical understanding of how engines work.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -231,7 +546,8 @@ As they mentioned Seagate ST16000NM001G has quite a high failure rate of 6.72% w
       <pubDate>Thu, 12 Aug 2021 21:53:06 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/15a46dccb293a270265ac2a53d3fd332/</guid>
-      <description>3D printing is in nascent stages India, but seeing rocket being made out of this tech is so motivating and makes you look in future about possibility and how would it look like. Also thoughts come to mind, that why aren&amp;rsquo;t thing like electric 2-wheelers, drones, houses in India are using it, but then answer comes even more quickly, that people like are in jobs instead of innovating out there, so how would the change happen.</description>
+      <description>&lt;p&gt;3D printing is in nascent stages India, but seeing rocket being made out of this tech is so motivating and makes you look in future about possibility and how would it look like. Also thoughts come to mind, that why aren&amp;rsquo;t thing like electric 2-wheelers, drones, houses in India are using it, but then answer comes even more quickly, that people like are in jobs instead of innovating out there, so how would the change happen.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -240,9 +556,74 @@ As they mentioned Seagate ST16000NM001G has quite a high failure rate of 6.72% w
       <pubDate>Thu, 12 Aug 2021 09:41:06 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/leadership-lecture-field-marshall-sam-mannekshaw/</guid>
-      <description>He believes leaders are not born, you can make a leaders out of man with reasonable common-sense and decency and rest of portion he then mentions attributes of leadership.
-Most of part is taken from summarized transcript by fellow youtuber at video with little changes from my side.
-According to manekshaw sir qualities of leader   Professional competence : He provided example of Defence Minister who had no idea about howitzer, motor etc how can he lead the army officers !</description>
+      <description>&lt;p&gt;He believes leaders are not born, you can make a leaders out of man with reasonable common-sense and decency and rest of portion he then mentions attributes of leadership.&lt;/p&gt;
+&lt;p&gt;Most of part is taken from summarized transcript by fellow youtuber at video with little changes from my side.&lt;/p&gt;
+&lt;h5 id=&#34;according-to-manekshaw-sir-qualities-of-leader&#34;&gt;According to manekshaw sir qualities of leader&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Professional competence&lt;/strong&gt; :
+He provided example of Defence Minister who had no idea about howitzer, motor etc how can he lead the army officers !!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ability to take a decision and take a full responsibility for it&lt;/strong&gt; :
+👉🏻 act of omission is much worse than act of commission of wrong.
+👉🏻 why a person don&amp;rsquo;t take decision?? because he lacks confidence!! why?  because he lacks professional knowledge !
+👉🏻 if you must be a bloody fool be must quickly - manekshawism&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Absolute justice and impartiality&lt;/strong&gt;
+By this way you may not be liked by all but be respected.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Courage&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;👉🏻 moral courage:  ability to distinguish right from wrong and standby it irrespective of what others think.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;👉🏻 yes man, is horrible man, he may rise very high, but will never become leader, he will be used by superior and disliked by colleagues.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;👉🏻(he mentioned story, when he was summoned, during east Pakistan crisis, by Indira Gandhi and other cabinet minister who expected him to be agree to intervene in april month, which was not prudent and he boldly put forward his dissent about choice of time rather than being yesman )&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;👉🏻 physical courage:
+Everyone is scared, he tells he was scared too. To be a leader, one to have to physical courageous in face of adversity.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;He mentioned a story, where his subordinate threatened that he would kill him, that chap was big but he despite being scared. He made him santri for night and asked him to bring tea and hot water to him in morning. He had option to have more security around him, but he showed he has courage and also showing trust in his men. Funnily he goes on to say, don&amp;rsquo;t be fool-hardy like he was but we need to understand the idea.&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Loyalty&lt;/strong&gt;
+Its two way thing, one can rightfully demand it from subordinate if he is also loyal to them.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Management of men and sources&lt;/strong&gt;
+He mostly conveyed about role of emotional intelligence, that human have problems so being stern should be combined with human touch and sense of humour play a great role in it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Discipline and Character&lt;/strong&gt;
+No amount leadership would put things right, the two other important aspect(that we usually lack)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;👉🏻Discipline&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Discipline is code of conduct for decent living in society one with the other
+This code of conduct has come from generation to generation, it&amp;rsquo;s come from holy books and refined on as cultures change&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Example: Non-punctuality is an act of ill-discipline. Very harmful for society and nation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;👉🏻 Character&lt;/p&gt;
+&lt;p&gt;You should be honest, truthful etc. The big picture is, &lt;strong&gt;knowing what you are&lt;/strong&gt;, not let fans or hangers-on put you on pedestals.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Do watch the video, if you have time. You can learn lessons on how to communicates and sweet little jokes he cracks, which make it far insightful then above mentioned transcript&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -251,7 +632,8 @@ According to manekshaw sir qualities of leader   Professional competence : He pr
       <pubDate>Mon, 09 Aug 2021 10:17:05 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/container-security-nist-800-190/</guid>
-      <description>About link takes you to NIST(National Institute of Standards and Technology) guide for container security @ https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf</description>
+      <description>&lt;p&gt;About link takes you to NIST(National Institute of Standards and Technology) guide for container security @ &lt;a href=&#34;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf&#34;&gt;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -260,9 +642,31 @@ According to manekshaw sir qualities of leader   Professional competence : He pr
       <pubDate>Mon, 09 Aug 2021 09:25:45 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</guid>
-      <description>Excerpt from blog post Linux load averages are &amp;ldquo;system load averages&amp;rdquo; that show the running thread (task) demand on the system as an average number of running plus waiting threads. This measures demand, which can be greater than what the system is currently processing. Most tools show three averages, for 1, 5, and 15 minutes:
-Some interpretations:
- If the averages are 0.0, then your system is idle. If the 1 minute average is higher than the 5 or 15 minute averages, then load is increasing.</description>
+      <description>&lt;h1 id=&#34;excerpt-from-blog-post&#34;&gt;Excerpt from blog post&lt;/h1&gt;
+&lt;p&gt;Linux load averages are &amp;ldquo;system load averages&amp;rdquo; that show the running thread (task) demand on the system as an average number of running plus waiting threads. This measures demand, which can be greater than what the system is currently processing. Most tools show three averages, for 1, 5, and 15 minutes:&lt;/p&gt;
+&lt;p&gt;Some interpretations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If the averages are 0.0, then your system is idle.&lt;/li&gt;
+&lt;li&gt;If the 1 minute average is higher than the 5 or 15 minute averages, then load is increasing.&lt;/li&gt;
+&lt;li&gt;If the 1 minute average is lower than the 5 or 15 minute averages, then load is decreasing.&lt;/li&gt;
+&lt;li&gt;If they are higher than your CPU count, then you might have a performance problem (it depends).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;making-sense-of-linux-load-averages&#34;&gt;Making sense of Linux load averages&lt;/h2&gt;
+&lt;p&gt;I grew up with OSes where load averages meant CPU load averages, so the Linux version has always bothered me. Perhaps the real problem all along is that the words &amp;ldquo;load averages&amp;rdquo; are about as ambiguous as &amp;ldquo;I/O&amp;rdquo;. Which type of I/O? Disk I/O? File system I/O? Network I/O? &amp;hellip; Likewise, which load averages? CPU load averages? System load averages? Clarifying it this way lets me make sense of it like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;On Linux, load averages are (or try to be) &amp;quot;system load averages&amp;quot;, for the system as a whole, measuring the number of threads that are working and waiting to work (CPU, disk, uninterruptible locks). Put differently, it measures the number of threads that aren&#39;t completely idle. Advantage: includes demand for different resources.
+On other OSes, load averages are &amp;quot;CPU load averages&amp;quot;, measuring the number of CPU running + CPU runnable threads. Advantage: can be easier to understand and reason about (for CPUs only).
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Note that there&amp;rsquo;s another possible type: &amp;ldquo;physical resource load averages&amp;rdquo;, which would include load for physical resources only (CPU + disk).&lt;/p&gt;
+&lt;p&gt;Perhaps one day we&amp;rsquo;ll add additional load averages to Linux, and let the user choose what they want to use: a separate &amp;ldquo;CPU load averages&amp;rdquo;, &amp;ldquo;disk load averages&amp;rdquo;, &amp;ldquo;network load averages&amp;rdquo;, etc. Or just use different metrics altogether.&lt;/p&gt;
+&lt;h2 id=&#34;better-metrics&#34;&gt;Better Metrics&lt;/h2&gt;
+&lt;p&gt;When Linux load averages increase, you know you have higher demand for resources (CPUs, disks, and some locks), but you aren&amp;rsquo;t sure which. You can use other metrics for clarification. For example, for CPUs:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;per-CPU utilization: eg, using mpstat -P ALL 1
+per-process CPU utilization: eg, top, pidstat 1, etc.
+per-thread run queue (scheduler) latency: eg, in /proc/PID/schedstats, delaystats, perf sched
+CPU run queue latency: eg, in /proc/schedstat, perf sched, my runqlat bcc tool.
+CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runqlen bcc tool.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
     </item>
     
     <item>
@@ -298,7 +702,8 @@ Some interpretations:
       <pubDate>Sun, 08 Aug 2021 23:50:34 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/solar-system-if-moon-was-only-one-pixel/</guid>
-      <description>Saw this visualization long-back and was storing things up here(https://www.murarisumit.in/bookmarks/), now moving them up here now. Yes, there is lot of empty space in universe.</description>
+      <description>&lt;p&gt;Saw this visualization long-back and was storing things up here(&lt;a href=&#34;https://www.murarisumit.in/bookmarks/),&#34;&gt;https://www.murarisumit.in/bookmarks/),&lt;/a&gt; now moving them up here now. Yes, there is lot of empty space in universe.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -307,8 +712,9 @@ Some interpretations:
       <pubDate>Sat, 07 Aug 2021 18:40:36 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/understand-electricity-generation/</guid>
-      <description>This video actually helps us understand how electricity is generated by using magnets.
-When studies electricity for first time, never understood where does frequency mean, what current is, what does voltage mean and simple things like this and whole electrical energy didn&amp;rsquo;t made sense to me. Now most of it does, probably if I go for advanced study would really make sense.</description>
+      <description>&lt;p&gt;This video actually helps us understand how electricity is generated by using magnets.&lt;/p&gt;
+&lt;p&gt;When studies electricity for first time, never understood where does frequency mean, what current is, what does voltage mean and simple things like this and whole electrical energy didn&amp;rsquo;t made sense to me. Now most of it does, probably if I go for advanced study would really make sense.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -317,7 +723,8 @@ When studies electricity for first time, never understood where does frequency m
       <pubDate>Sat, 07 Aug 2021 13:33:47 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/k8s-kbrew/</guid>
-      <description>This tool looks good, and love the ease of this. It&amp;rsquo;s easy way to deploy the applications over cluster.</description>
+      <description>&lt;p&gt;This tool looks good, and love the ease of this. It&amp;rsquo;s easy way to deploy the applications over cluster.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -326,7 +733,8 @@ When studies electricity for first time, never understood where does frequency m
       <pubDate>Sat, 07 Aug 2021 12:50:34 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</guid>
-      <description>A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.</description>
+      <description>&lt;p&gt;A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -335,8 +743,11 @@ When studies electricity for first time, never understood where does frequency m
       <pubDate>Sat, 07 Aug 2021 11:50:41 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/sharingbuttons.io/</guid>
-      <description>Not sure how reached here, wasn&amp;rsquo;t actively looking for it but glad found it. Not a fan of bulky tracking websites, so this social little privacy-centric media buttons for reader and myself make ton of sense to me.
-Not a fan of twitter, but using twitter to reach out to people get feedback, improve ourselves, make myself better and this note is to remind myself why enabled this feature of social sharing in this site.</description>
+      <description>&lt;p&gt;Not sure how reached here, wasn&amp;rsquo;t actively looking for it but glad found it. Not a fan of bulky tracking websites, so this social little privacy-centric media buttons for reader and myself make ton of sense to me.&lt;/p&gt;
+&lt;p&gt;Not a fan of twitter, but using twitter to reach out to people get feedback, improve ourselves, make myself better and this note is to remind myself why enabled this feature of social sharing in this site.&lt;/p&gt;
+&lt;p&gt;This also gives me flexibility to adding supporting for any other platform that come in future, but still having website as a central source of truth of what I do.&lt;/p&gt;
+&lt;p&gt;Thanks to Sharingbuttons developer for creating them.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -345,7 +756,8 @@ Not a fan of twitter, but using twitter to reach out to people get feedback, imp
       <pubDate>Sat, 07 Aug 2021 09:39:45 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/hugo-good-archive-page/</guid>
-      <description>It&amp;rsquo;s good archive page style, save time and easy navigation for website. Intent is to make archive page like this.</description>
+      <description>&lt;p&gt;It&amp;rsquo;s good archive page style, save time and easy navigation for website. Intent is to make archive page like this.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -354,9 +766,50 @@ Not a fan of twitter, but using twitter to reach out to people get feedback, imp
       <pubDate>Sat, 07 Aug 2021 08:54:42 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/bayes-rule-medical-tests/</guid>
-      <description>All medical tests do is update their probability of having disease, and not tell if we have disease or not.
-There are three things
- Prevalence : How common is that disease around here? What chance of having it without tests? Sensitivity : If even disease is present, how good is the test at detecting it. Specificity : If a test is taken, there can be other issues that result. Clots in the pancreas can be because of a lot many things.</description>
+      <description>&lt;p&gt;All medical tests do is update their probability of having disease, and not tell if we have disease or not.&lt;/p&gt;
+&lt;p&gt;There are three things&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prevalence  : How common is that disease around here? What chance of having it without tests?&lt;/li&gt;
+&lt;li&gt;Sensitivity : If even disease is present, how good is the test at detecting it.&lt;/li&gt;
+&lt;li&gt;Specificity : If a test is taken, there can be other issues that result. Clots in the pancreas can be because of a lot many things. How specific is test for that specific disease.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For example which he told&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prevalence : 1%&lt;/li&gt;
+&lt;li&gt;Sensitivity : 90%&lt;/li&gt;
+&lt;li&gt;Specificity : 91%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;So even if you haven&amp;rsquo;t taken test, there is &lt;strong&gt;1%&lt;/strong&gt; chance of you having that disease. So taking a test based on the test&amp;rsquo;s Sensitivity and Specificity would increase and decrease that probability.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;To calculate your probability faster is to get the Bayes factor.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;Bayes factor = Sensitivity / False positive
+Bayes factor =  (Probability of having cancer after test is positive) / (Probability of not having cancer after test is positive)
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Bayes factor is also called likelihood ratio.&lt;/p&gt;
+&lt;p&gt;For above values :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Probability of having cancer after test is positive : 90 in 100 (90%)&lt;/li&gt;
+&lt;li&gt;Probability of test is false positive (100 - specificity) i.e 9&lt;/li&gt;
+&lt;li&gt;So likelihood ratio is : 90 / 0 i.e. 10&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So in the first case without test, there was 1% i.e. 1 in 100 that you&amp;rsquo;ve cancer without test. After the test, your chances just get updated. After test is positive your chances are:  1/100 * 10 ~ 1/10. So that is also not 100% sure now.&lt;/p&gt;
+&lt;p&gt;So for tests your symptoms, contacts, genetics all come up to increase the chance, but still not 100%, we need to remember. &lt;strong&gt;&amp;ldquo;All tests do is update the chances of having it, but not sure shot thing. Until tests are bulletproof.&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;better-to-watch-the-whole-video-above-are-just-notes-taken-from-there&#34;&gt;Better to watch the whole video, above are just notes taken from there.&lt;/h3&gt;
+&lt;p&gt;One of top comments for youtube channel&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As a doctor I&amp;rsquo;m so happy you&amp;rsquo;re using your platform to get this information out. Let me tell you though&amp;hellip; it gets way more complicated! Unfortunately prevalence estimates aren&amp;rsquo;t always known and are constantly changing (especially in pandemics). Another thing to consider is the gold standard. If your test looks for breast cancer you can cut out the lump and look at it under a microscope. Some diseases aren&amp;rsquo;t as easily clarified. For instance, since we don&amp;rsquo;t have a highly accurate, easy test for pancreatic cancer we rely on imaging, demographics, blood markers, symptoms (or lack thereof) as multiple things that form a conglomerate test to increase our Bayes factor. Despite all these things we can&amp;rsquo;t always get a great prediction on whether that scar in your bile duct is cancer or just a residual scar from pancreatitis you had 10 years ago. So we offer the patient a huge surgery to remove the head of their pancreas and duodenum only to find that it wasn&amp;rsquo;t cancer. You can imagine the patient is happy it&amp;rsquo;s not cancer but not so happy they don&amp;rsquo;t have half their pancreas and have abdominal pain and maybe diabetes. Medicine is a tricky thing. Another tricky thing is operator error. Some tests depend on the skill of the lab tech, radiologist, or surgeon. The complexity of the human body and the uniqueness of each individual also plays a role. Your test may be false positive in a particular patient 100% of the time because they have some strange protein mutation. It&amp;rsquo;s tough!&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
     </item>
     
     <item>
@@ -365,8 +818,9 @@ There are three things
       <pubDate>Fri, 06 Aug 2021 23:44:26 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/lindan-vs-leechongwei/</guid>
-      <description>Seeing them together, playing with such skills is so beautiful. Love their game.
-Great video compilation too.</description>
+      <description>&lt;p&gt;Seeing them together, playing with such skills is so beautiful. Love their game.&lt;/p&gt;
+&lt;p&gt;Great video compilation too.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -375,7 +829,8 @@ Great video compilation too.</description>
       <pubDate>Thu, 05 Aug 2021 22:48:36 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/india-maiden-indigenous-aircraft-carrier/</guid>
-      <description>It&amp;rsquo;s is good to see fellow country man are working are making things are aircraft carrier, weighing 40000 tonnes in itself looks like huge engineering and manufacturing feat.</description>
+      <description>&lt;p&gt;It&amp;rsquo;s is good to see fellow country man are working are making things are aircraft carrier, weighing 40000 tonnes in itself looks like huge engineering and manufacturing feat.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -384,7 +839,8 @@ Great video compilation too.</description>
       <pubDate>Thu, 05 Aug 2021 22:24:23 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/homelabs-setup/</guid>
-      <description>For sometime having ideas of using homelabs, found this guide useful but have other important priorities right now. Hence parking it here for future referece.</description>
+      <description>&lt;p&gt;For sometime having ideas of using homelabs, found this guide useful but have other important priorities right now. Hence parking it here for future referece.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -393,8 +849,41 @@ Great video compilation too.</description>
       <pubDate>Thu, 05 Aug 2021 09:48:58 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/bigger-impact-for-distraction-more-than-just-time-lost/</guid>
-      <description>Somehow reached to this tacky/clickbaity title &amp;ldquo;How the smartphone is destroying you from inside&amp;rdquo; https://www.youtube.com/watch?v=4HjC245ugW8. Probably from the past few days, putting my head to these distractions. They seem to me like modern day alcoholic drinks. You enjoy it and forget your problems, similar promises made by alcoholic drinks.
-So the point video makes is, the time we invest in these addictive systems(there whole KPI is to make stay people on their website) is anyways gone, but there are more far reaching impact because of it.</description>
+      <description>&lt;p&gt;Somehow reached to this tacky/clickbaity title &amp;ldquo;How the smartphone is destroying you from inside&amp;rdquo; &lt;a href=&#34;https://www.youtube.com/watch?v=4HjC245ugW8&#34;&gt;https://www.youtube.com/watch?v=4HjC245ugW8&lt;/a&gt;. Probably from the past few days, putting my head to these distractions. They seem to me like modern day alcoholic drinks. You enjoy it and forget your problems, similar promises made by alcoholic drinks.&lt;/p&gt;
+&lt;p&gt;So the point video makes is, the time we invest in these addictive systems(there whole KPI is to make stay people on their website) is anyways gone, but there are more far reaching impact because of it.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Because of distraction, you actually context switch from one task to other, which lower your focus on work you&amp;rsquo;re doing or we can say one is not able to deliver to our fullest potential.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;When we aren&amp;rsquo;t able to deliver our fullest potential, psychological effect like anxiety, distress chip in, which are far more disastrous for short and long term.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It also starts a vicious cycle, the more anxiety and distress we feel the more we go for these distractions. In the short-term we don&amp;rsquo;t see problems, we play games, enjoy movies, adore photos, but the problem doesn&amp;rsquo;t go away. Problems are still there, and we have even less time to solve them than before. This is a far more powerful/dangerous enemy than smoke ever was, because we don&amp;rsquo;t even need to go shop for this, it&amp;rsquo;s at our smartphone, just next to us.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This continuous loop, then reduces our ability to focus and concentrate.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;solution&#34;&gt;Solution&lt;/h3&gt;
+&lt;p&gt;So the problem is defined and  most of us are aware of it and we need solutions. One such technique if you have lower focus time is to use pomodoro technique, created by Francesco Cirillo in the late 1980s.&lt;/p&gt;
+&lt;p&gt;Short note on pomodoro technique which helps me&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Fix tasks you want to work on.&lt;/li&gt;
+&lt;li&gt;Work in done is this timebox manner: &lt;strong&gt;loop(25 - 5 - 25 - 5 - 25 - 5 - 25 - 15 )&lt;/strong&gt; OR &lt;strong&gt;loop(25 - 5 - 25 - 5 - 25 - 15-)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Focus work for 25 mins&lt;/li&gt;
+&lt;li&gt;Take 5 mins break, no phones here, usually a little walk, sometimes water and relax at times&lt;/li&gt;
+&lt;li&gt;Continue this for 3 times.&lt;/li&gt;
+&lt;li&gt;Take a longer break for the 4th time. Continue and repeat.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Reference&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pomodoro_Technique&#34;&gt;https://en.wikipedia.org/wiki/Pomodoro_Technique&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scientificamerican.com/article/small-distractions-can-have-big-consequences/&#34;&gt;https://www.scientificamerican.com/article/small-distractions-can-have-big-consequences/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00841/full&#34;&gt;https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00841/full&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00439/full&#34;&gt;https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00439/full&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -403,8 +892,9 @@ So the point video makes is, the time we invest in these addictive systems(there
       <pubDate>Thu, 05 Aug 2021 09:44:42 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/finally-some-sense-in-laptops/</guid>
-      <description>It was good to see nice laptops coming in now. Which have this repairability in mind. This laptop specially looks with it&amp;rsquo;s modularity. As iFixit says, this is slippery slope, we have seen many such initiatives come and go. So hoping this company works and changes consumer electronics industry for good.
-Kudos to https://frame.work/ team.</description>
+      <description>&lt;p&gt;It was good to see nice laptops coming in now. Which have this repairability in mind. This laptop specially looks with it&amp;rsquo;s modularity. As iFixit says, this is slippery slope, we have seen many such initiatives come and go. So hoping this company works and changes consumer electronics industry for good.&lt;/p&gt;
+&lt;p&gt;Kudos to &lt;a href=&#34;https://frame.work/&#34;&gt;https://frame.work/&lt;/a&gt; team.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -413,12 +903,32 @@ Kudos to https://frame.work/ team.</description>
       <pubDate>Wed, 04 Aug 2021 15:31:55 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/nasa-k8s-hardening-guide/</guid>
-      <description>Main highlights as mentioned by top commentator
-  Scan containers and Pods for vulnerabilities or misconfigurations.
-  Run containers and Pods with the least privileges possible.
-  Use network separation to control the amount of damage a compromise can cause.
-  Use firewalls to limit unneeded network connectivity and encryption to protect confidentiality.
-  Use strong authentication and authorization to limit user and administrator access as well as to limit the attack surface.</description>
+      <description>&lt;p&gt;Main highlights as mentioned by top commentator&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Scan containers and Pods for vulnerabilities or misconfigurations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Run containers and Pods with the least privileges possible.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use network separation to control the amount of damage a compromise can cause.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use firewalls to limit unneeded network connectivity and encryption to protect confidentiality.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use strong authentication and authorization to limit user and administrator access as well as to limit the attack surface.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use log auditing so that administrators can monitor activity and be alerted to potential malicious activity.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Periodically review all Kubernetes settings and use vulnerability scans to help ensure risks are appropriately accounted for and security patches are applied.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For me encryption is the key, mTLS feature should be must for any secure environment.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -427,8 +937,27 @@ Kudos to https://frame.work/ team.</description>
       <pubDate>Wed, 04 Aug 2021 08:29:34 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/golang-slice-tricks/</guid>
-      <description>Filtering with allocating This trick uses the fact that a slice shares the same backing array and capacity as the original, so the storage is reused for the filtered slice. Of course, the original contents are modified.
-1 2 3 4 5 6  b := a[:0] for _, x := range a { if f(x) { b = append(b, x) } }   </description>
+      <description>&lt;h3 id=&#34;filtering-with-allocating&#34;&gt;Filtering with allocating&lt;/h3&gt;
+&lt;p&gt;This trick uses the fact that a slice shares the same backing array and capacity as the original, so the storage is reused for the filtered slice. Of course, the original contents are modified.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-golang&#34; data-lang=&#34;golang&#34;&gt;&lt;span class=&#34;nx&#34;&gt;b&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;:=&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[:&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;_&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;x&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;:=&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;range&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+	&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+		&lt;span class=&#34;nx&#34;&gt;b&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;append&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;b&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+	&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -437,10 +966,24 @@ Kudos to https://frame.work/ team.</description>
       <pubDate>Tue, 03 Aug 2021 10:12:30 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/what-is-not-love/</guid>
-      <description>This youtube video(click the title, that is how bookmarks are arranged for all posts), is of Abraham Joshua Heshel Twerski, an Israeli-American Hasidic rabbi, a scion of the Chernobyl Hasidic dynasty, and a psychiatrist specializing in substance abuse.
-External-love is what I&amp;rsquo;m going to give, not what I&amp;rsquo;m going to get. (This line is bit vague)
-I good line that i need to keep in check is:
- &amp;ldquo;People make serious mistake in thinking, that you give to those who you love, and the answer is you love to those whom you give&amp;rdquo; His point is, if I give something to you, I have invested myself in you, since self-love is given everybody loves themselves, now that part of me has become in you, there is part of me in you that I love.</description>
+      <description>&lt;p&gt;This youtube video(click the title, that is how bookmarks are arranged for all posts), is of Abraham Joshua Heshel Twerski, an Israeli-American Hasidic rabbi, a scion of the Chernobyl Hasidic dynasty, and a psychiatrist specializing in substance abuse.&lt;/p&gt;
+&lt;p&gt;External-love is what I&amp;rsquo;m going to give, not what I&amp;rsquo;m going to get. (This line is bit vague)&lt;/p&gt;
+&lt;p&gt;I good line that i need to keep in check is:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;People make serious mistake in thinking, that you give to those who you love, and the answer is  you love to those whom you give&amp;rdquo;
+His point is, if I give something to you, I have invested myself in you, since self-love is given everybody loves themselves, now that part of me has become in you, there is part of me in you that I love.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;One thing that i read long back was:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you want someone to be open to you, go ask for some favour, once people have done favor they are more open to talk to you.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Not sure if above is good advice, never understood it properly, so please try at your own risk, but that goes by the same theory mentioned in first quote.&lt;/p&gt;
+&lt;p&gt;Not in alignment with his ideas, sounds good though. Got similar thoughts with brahma kumaris(&lt;a href=&#34;https://www.youtube.com/watch?v=7dNPNtdaMWY&amp;amp;list=PLCE9046E85D3918D8),&#34;&gt;https://www.youtube.com/watch?v=7dNPNtdaMWY&amp;amp;list=PLCE9046E85D3918D8),&lt;/a&gt; still not in agreement with it. Love if feeling(people say), which I don&amp;rsquo;t understand and not sure what this work exactly mean. Care I understand, responsibility I comprehend, but not sure of Love.&lt;/p&gt;
+&lt;p&gt;Reference:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Abraham_J._Twerski&#34;&gt;https://en.wikipedia.org/wiki/Abraham_J._Twerski&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -458,7 +1001,8 @@ I good line that i need to keep in check is:
       <pubDate>Fri, 30 Jul 2021 07:34:43 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/cloudsecdocs.com/</guid>
-      <description>Good website lot of work, already done up here</description>
+      <description>&lt;p&gt;Good website lot of work, already done up here&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -467,9 +1011,10 @@ I good line that i need to keep in check is:
       <pubDate>Fri, 30 Jul 2021 06:35:12 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/profiles-to-look-upto/</guid>
-      <description>Time to time, few profiles come across to me, which I see and admire of, the amount of work they have done. The position they are in, the impact they are making. Seeing their profiles motivates me.
-These profile answer age old interview question for me: Where do you see youself in 3-5 years ?
-His readme is beautiful, simple and succint. His github is clean. Motivated me also collect those badges(certifications), never a certification guy, but those badges are looking cool.</description>
+      <description>&lt;p&gt;Time to time, few profiles come across to me, which I see and admire of, the amount of work they have done. The position they are in, the impact they are making. Seeing their profiles motivates me.&lt;/p&gt;
+&lt;p&gt;These profile answer age old interview question for me: Where do you see youself in 3-5 years ?&lt;/p&gt;
+&lt;p&gt;His readme is beautiful, simple and succint. His github is clean. Motivated me also collect those badges(certifications), never a certification guy, but those badges are looking cool.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -478,8 +1023,9 @@ His readme is beautiful, simple and succint. His github is clean. Motivated me a
       <pubDate>Thu, 29 Jul 2021 14:57:34 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/flamenco-street-music/</guid>
-      <description>Was listening to thismusic in college, today there was discussion and flamenco again came up. It was sweet memory lane to go and also happy to see this video is still there in youtube.
-How intrusive youtube-ads are, but is does provide value of society. Not sure if we have any way to store music forever like we have books for text.</description>
+      <description>&lt;p&gt;Was listening to thismusic in college, today there was discussion and flamenco again came up. It was sweet memory lane to go and also happy to see this video is still there in youtube.&lt;/p&gt;
+&lt;p&gt;How intrusive youtube-ads are, but is does provide value of society. Not sure if we have any way to store music forever like we have books for text.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -488,15 +1034,22 @@ How intrusive youtube-ads are, but is does provide value of society. Not sure if
       <pubDate>Wed, 28 Jul 2021 12:22:20 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/people-do-not-care/</guid>
-      <description>You get up every morning.
-You show up.
-You do the right things.
-You work really really hard.
-Don’t cheat, don’t steal, don’t beg, don’t lie.
-  Here is the honest truth – People don’t care!
-People don’t care if you are doing the right thing.
-They only care if you are doing the right thing for them.
- tldr : If they care they care, if they don&amp;rsquo;t they don&amp;rsquo;t and that shouldn&amp;rsquo;t be once concern.</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;You get up every morning.&lt;br&gt;
+You show up.&lt;br&gt;
+You do the right things.&lt;br&gt;
+You work really really hard.&lt;br&gt;
+Don’t cheat, don’t steal, don’t beg, don’t lie.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Here is the honest truth – People don’t care!&lt;br&gt;
+People don’t care if you are doing the right thing.&lt;br&gt;
+They only care if you are doing the right thing for them.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;tldr : If they care they care, if they don&amp;rsquo;t they don&amp;rsquo;t and that shouldn&amp;rsquo;t be once concern.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Truely, it makes sense people would only care if you do right thing for them&lt;/strong&gt;, but that shouldn&amp;rsquo;t concern us. It is not in our control, so why worry in the first place.&lt;/p&gt;
+&lt;p&gt;Reason for doing sometime should be because &lt;strong&gt;you care&lt;/strong&gt; not because someone else does. Personally learnt it hard way that people pleasing or doing because someone else wants/cares is stupid idea. For me personally, it was because I had low self-respect for myself.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -505,10 +1058,12 @@ They only care if you are doing the right thing for them.
       <pubDate>Tue, 27 Jul 2021 17:05:47 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/linus-interview-linuxcon-north-america-2016/</guid>
-      <description>Linus interviews are always fun to watch. One of favorite past-time activity for me. Loved watching it. Keeping them here.
-One good comment mentioned one simple/funny thing in interview
- in early MVP version of linux the disk sectors were hard coded
- </description>
+      <description>&lt;p&gt;Linus interviews are always fun to watch. One of favorite past-time activity for me. Loved watching it. Keeping them here.&lt;/p&gt;
+&lt;p&gt;One good comment mentioned one simple/funny thing in interview&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;in early MVP version of linux the disk sectors were hard coded&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
     </item>
     
     <item>
@@ -517,8 +1072,9 @@ One good comment mentioned one simple/funny thing in interview
       <pubDate>Tue, 27 Jul 2021 15:56:55 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/cryptjacking-docker-container/</guid>
-      <description>Came across this while doing threat modelling for container, i&amp;rsquo;m missing theses news not good for me. Need to be up-to-date to these kind of threats.
-Smart guy, simple yet smart.</description>
+      <description>&lt;p&gt;Came across this while doing threat modelling for container, i&amp;rsquo;m missing theses news not good for me. Need to be up-to-date to these kind of threats.&lt;/p&gt;
+&lt;p&gt;Smart guy, simple yet smart.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -527,7 +1083,8 @@ Smart guy, simple yet smart.</description>
       <pubDate>Mon, 26 Jul 2021 22:35:37 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/iterm-auto-theme-switch/</guid>
-      <description>It should be native feature in iterm, so hoping same someday. Till then here you are.</description>
+      <description>&lt;p&gt;It should be native feature in iterm, so hoping same someday. Till then here you are.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -554,8 +1111,9 @@ Smart guy, simple yet smart.</description>
       <pubDate>Wed, 15 Jul 2020 22:26:21 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/how-litihium-ion-battery-work/</guid>
-      <description>He says that it&amp;rsquo;s better not to discarge battery completely, better to charge when it&amp;rsquo;s at 30-40%.
-Additional youtube video how batteries are manufactured</description>
+      <description>&lt;p&gt;He says that it&amp;rsquo;s better not to discarge battery completely, better to charge when it&amp;rsquo;s at 30-40%.&lt;/p&gt;
+&lt;p&gt;Additional youtube video how batteries are manufactured&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -618,8 +1176,9 @@ Additional youtube video how batteries are manufactured</description>
       <pubDate>Thu, 18 Jun 2020 09:22:59 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/projector-optics-internals/</guid>
-      <description>Projector and optics personally is very facinating like astrology to me. Playing with light, was never fun and understanding when i was in school, but now I just love it, and also understanding how things work at the same time.
-Here Matt beautifully shows internals of optics in projector.</description>
+      <description>&lt;p&gt;Projector and optics personally is very facinating like astrology to me. Playing with light, was never fun and understanding when i was in school, but now I just love it, and also understanding how things work at the same time.&lt;/p&gt;
+&lt;p&gt;Here Matt beautifully shows internals of optics in projector.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -628,9 +1187,10 @@ Here Matt beautifully shows internals of optics in projector.</description>
       <pubDate>Sun, 14 Jun 2020 20:18:01 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/video-a-glimpse-into-ancient-indian-astronomy/</guid>
-      <description>Astrology has always intrigued me, specifically indian style of astrology, have heard a lot about it. Lunar calendar and rituals and traditions around it always facinate me a lot. I have some longing for it.
-Haven&amp;rsquo;t worked on it much, but this video again brings those question back to me.
-Path for me is language first, will have to learn sanskrit first, then i would have lot of venues open to me.</description>
+      <description>&lt;p&gt;Astrology has always intrigued me, specifically indian style of astrology, have heard a lot about it. Lunar calendar and rituals and traditions around it always facinate me a lot. I have some longing for it.&lt;/p&gt;
+&lt;p&gt;Haven&amp;rsquo;t worked on it much, but this video again brings those question back to me.&lt;/p&gt;
+&lt;p&gt;Path for me is language first, will have to learn sanskrit first, then i would have lot of venues open to me.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -648,7 +1208,8 @@ Path for me is language first, will have to learn sanskrit first, then i would h
       <pubDate>Fri, 12 Jun 2020 14:19:12 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/beautiful-static-site/</guid>
-      <description>He has made beautiful and optimized site, exactly how work should be like.</description>
+      <description>&lt;p&gt;He has made beautiful and optimized site, exactly how work should be like.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -720,9 +1281,20 @@ Path for me is language first, will have to learn sanskrit first, then i would h
       <pubDate>Sun, 24 May 2020 23:23:53 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/why-normalize/</guid>
-      <description>Normalize.css is a small CSS file that provides better cross-browser consistency in the default styling of HTML elements. It’s a modern, HTML5-ready, alternative to the traditional CSS reset.
-The aims of normalize.css are as follows:
- Preserve useful browser defaults rather than erasing them. Normalize styles for a wide range of HTML elements. Correct bugs and common browser inconsistencies. Improve usability with subtle improvements. Explain the code using comments and detailed documentation.</description>
+      <description>&lt;p&gt;Normalize.css is a small CSS file that provides better cross-browser consistency in the default styling of HTML elements. It’s a modern, HTML5-ready, alternative to the traditional CSS reset.&lt;/p&gt;
+&lt;p&gt;The aims of normalize.css are as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Preserve useful browser defaults rather than erasing them.&lt;/li&gt;
+&lt;li&gt;Normalize styles for a wide range of HTML elements.&lt;/li&gt;
+&lt;li&gt;Correct bugs and common browser inconsistencies.&lt;/li&gt;
+&lt;li&gt;Improve usability with subtle improvements.&lt;/li&gt;
+&lt;li&gt;Explain the code using comments and detailed documentation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;how-to-use-normalizecss&#34;&gt;How to use normalize.css&lt;/h3&gt;
+&lt;p&gt;First, install or download &lt;a href=&#34;http://necolas.github.io/normalize.css/&#34;&gt;http://necolas.github.io/normalize.css/&lt;/a&gt; from GitHub. There are then 2 main ways to make use of it.&lt;/p&gt;
+&lt;p&gt;Approach 1: use normalize.css as a starting point for your own project’s base CSS, customising the values to match the design’s requirements.&lt;/p&gt;
+&lt;p&gt;Approach 2: include normalize.css untouched and build upon it, overriding the defaults later in your CSS if necessary.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -740,8 +1312,21 @@ The aims of normalize.css are as follows:
       <pubDate>Thu, 21 May 2020 20:42:29 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/learning-to-write-with-confidence/</guid>
-      <description>Some notes Writing is Thinking  &amp;ldquo;Self-doubt can be an ally. This is because it serves as an indicator of aspiration. It reflects love, love of something we dream of doing, and desire, desire to do it. If you find yourself asking yourself (and your friends), &amp;ldquo;Am I really a writer? Am I really an artist?&amp;rdquo; chances are you are.&amp;rdquo; - The War of Art
-  &amp;ldquo;Each time you write a page, you are a writer.</description>
+      <description>&lt;h2 id=&#34;some-notes&#34;&gt;Some notes&lt;/h2&gt;
+&lt;h3 id=&#34;writing-is-thinking&#34;&gt;Writing is Thinking&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Self-doubt can be an ally. This is because it serves as an indicator of aspiration. It reflects love, love of something we dream of doing, and desire, desire to do it. If you find yourself asking yourself (and your friends), &amp;ldquo;Am I really a writer? Am I really an artist?&amp;rdquo; chances are you are.&amp;rdquo; - The War of Art&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Each time you write a page, you are a writer. Each time you practice the violin, you are a musician. Each time you start a workout, you are an athlete. Each time you encourage your employees, you are a leader.&amp;rdquo; - Atomic Habits&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;It’s through writing that we exercise our ability to think; they’re not mutually exclusive tasks.&amp;rdquo; - Grammarly&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;optimizing-for-one-variable&#34;&gt;Optimizing for One Variable&lt;/h3&gt;
+&lt;p&gt;This clearly isn’t always to my advantage, but it gives me something to orient around. If I tried to optimize completely across quality, speed, SEO-potential, among other variables, I would get paralyzed. So instead, I focus on one thing: quality.&lt;/p&gt;
+&lt;h3 id=&#34;heading&#34;&gt;&lt;/h3&gt;
+</description>
     </item>
     
     <item>
@@ -750,7 +1335,27 @@ The aims of normalize.css are as follows:
       <pubDate>Thu, 21 May 2020 08:39:21 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/sell-yourself-sell-your-work/</guid>
-      <description>Few notes Doing technically brilliant work may be enough for your personal gratification, but you should never think it&amp;rsquo;s enough. If you lock yourself in a room and do the most marvellous work but don&amp;rsquo;t tell anyone, then no one will know, no one will benefit, and the work will be lost. You may as well not have bothered. For the world to benefit from your work, and therefore for you to benefit fully from your work, you have to make it known.</description>
+      <description>&lt;h1 id=&#34;few-notes&#34;&gt;Few notes&lt;/h1&gt;
+&lt;p&gt;Doing technically brilliant work may be enough for your personal gratification, but you should never think it&amp;rsquo;s enough. If you lock yourself in a room and do the most marvellous work but don&amp;rsquo;t tell anyone, then no one will know, no one will benefit, and the work will be lost. You may as well not have bothered. For the world to benefit from your work, and therefore for you to benefit fully from your work, you have to make it known.&lt;/p&gt;
+&lt;h1 id=&#34;commentry&#34;&gt;Commentry&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Peter Thiel has an interesting take on sales in his book Zero to One. He makes the case that good selling and good teaching are pretty much the same thing. The best teachers know how to sell the topic they teach&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;personal-opinion&#34;&gt;Personal opinion&lt;/h1&gt;
+&lt;p&gt;The way i take it is, here it&amp;rsquo;s more about communicating well and and informing people about work you do, which is important imo too.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Something like Dropbox YC post: &lt;a href=&#34;https://news.ycombinator.com/item?id=8863&#34;&gt;https://news.ycombinator.com/item?id=8863&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Linus post on usenet for his little kernel that he created.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I&amp;rsquo;m doing a (free) operating system (just a hobby, won&amp;rsquo;t be big and professional like gnu) for 386(486) AT clones. This has been brewing since April, and is starting to get ready. I&amp;rsquo;d like any feedback on things people like/dislike in minix, as my OS resembles it somewhat (same physical layout of the file-system (due to practical reasons) among other things). I&amp;rsquo;ve currently ported bash(1.08) and gcc(1.40), and things seem to work. This implies that I&amp;rsquo;ll get something practical within a few months [&amp;hellip;] Yes - it&amp;rsquo;s free of any minix code, and it has a multi-threaded fs. It is NOT portable (uses 386 task switching etc), and it probably never will support anything other than AT-harddisks, as that&amp;rsquo;s all I have :-(.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For good work, one should communicate and inform it with people around him.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -782,3 +1387,4 @@ The aims of normalize.css are as follows:
     
   </channel>
 </rss>
+

@@ -13,7 +13,8 @@
       <pubDate>Fri, 13 Aug 2021 04:57:32 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/d19e8438d682f3f5a897296206ca9828/</guid>
-      <description>Links to notion page, as it had diagram and it was easier to put post like these on notion.</description>
+      <description>&lt;p&gt;Links to notion page, as it had diagram and it was easier to put post like these on notion.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -22,7 +23,8 @@
       <pubDate>Mon, 09 Aug 2021 10:17:05 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/container-security-nist-800-190/</guid>
-      <description>About link takes you to NIST(National Institute of Standards and Technology) guide for container security @ https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf</description>
+      <description>&lt;p&gt;About link takes you to NIST(National Institute of Standards and Technology) guide for container security @ &lt;a href=&#34;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf&#34;&gt;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -49,7 +51,8 @@
       <pubDate>Sat, 07 Aug 2021 13:33:47 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/k8s-kbrew/</guid>
-      <description>This tool looks good, and love the ease of this. It&amp;rsquo;s easy way to deploy the applications over cluster.</description>
+      <description>&lt;p&gt;This tool looks good, and love the ease of this. It&amp;rsquo;s easy way to deploy the applications over cluster.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -58,7 +61,8 @@
       <pubDate>Sat, 07 Aug 2021 12:50:34 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</guid>
-      <description>A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.</description>
+      <description>&lt;p&gt;A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -67,12 +71,32 @@
       <pubDate>Wed, 04 Aug 2021 15:31:55 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/nasa-k8s-hardening-guide/</guid>
-      <description>Main highlights as mentioned by top commentator
-  Scan containers and Pods for vulnerabilities or misconfigurations.
-  Run containers and Pods with the least privileges possible.
-  Use network separation to control the amount of damage a compromise can cause.
-  Use firewalls to limit unneeded network connectivity and encryption to protect confidentiality.
-  Use strong authentication and authorization to limit user and administrator access as well as to limit the attack surface.</description>
+      <description>&lt;p&gt;Main highlights as mentioned by top commentator&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Scan containers and Pods for vulnerabilities or misconfigurations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Run containers and Pods with the least privileges possible.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use network separation to control the amount of damage a compromise can cause.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use firewalls to limit unneeded network connectivity and encryption to protect confidentiality.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use strong authentication and authorization to limit user and administrator access as well as to limit the attack surface.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use log auditing so that administrators can monitor activity and be alerted to potential malicious activity.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Periodically review all Kubernetes settings and use vulnerability scans to help ensure risks are appropriately accounted for and security patches are applied.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For me encryption is the key, mTLS feature should be must for any secure environment.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -86,3 +110,4 @@
     
   </channel>
 </rss>
+

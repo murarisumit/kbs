@@ -13,7 +13,8 @@
       <pubDate>Mon, 09 Aug 2021 10:17:05 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/container-security-nist-800-190/</guid>
-      <description>About link takes you to NIST(National Institute of Standards and Technology) guide for container security @ https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf</description>
+      <description>&lt;p&gt;About link takes you to NIST(National Institute of Standards and Technology) guide for container security @ &lt;a href=&#34;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf&#34;&gt;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -40,12 +41,32 @@
       <pubDate>Wed, 04 Aug 2021 15:31:55 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/nasa-k8s-hardening-guide/</guid>
-      <description>Main highlights as mentioned by top commentator
-  Scan containers and Pods for vulnerabilities or misconfigurations.
-  Run containers and Pods with the least privileges possible.
-  Use network separation to control the amount of damage a compromise can cause.
-  Use firewalls to limit unneeded network connectivity and encryption to protect confidentiality.
-  Use strong authentication and authorization to limit user and administrator access as well as to limit the attack surface.</description>
+      <description>&lt;p&gt;Main highlights as mentioned by top commentator&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Scan containers and Pods for vulnerabilities or misconfigurations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Run containers and Pods with the least privileges possible.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use network separation to control the amount of damage a compromise can cause.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use firewalls to limit unneeded network connectivity and encryption to protect confidentiality.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use strong authentication and authorization to limit user and administrator access as well as to limit the attack surface.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use log auditing so that administrators can monitor activity and be alerted to potential malicious activity.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Periodically review all Kubernetes settings and use vulnerability scans to help ensure risks are appropriately accounted for and security patches are applied.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For me encryption is the key, mTLS feature should be must for any secure environment.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -54,7 +75,8 @@
       <pubDate>Fri, 30 Jul 2021 07:34:43 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/cloudsecdocs.com/</guid>
-      <description>Good website lot of work, already done up here</description>
+      <description>&lt;p&gt;Good website lot of work, already done up here&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -63,9 +85,11 @@
       <pubDate>Tue, 27 Jul 2021 15:56:55 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/cryptjacking-docker-container/</guid>
-      <description>Came across this while doing threat modelling for container, i&amp;rsquo;m missing theses news not good for me. Need to be up-to-date to these kind of threats.
-Smart guy, simple yet smart.</description>
+      <description>&lt;p&gt;Came across this while doing threat modelling for container, i&amp;rsquo;m missing theses news not good for me. Need to be up-to-date to these kind of threats.&lt;/p&gt;
+&lt;p&gt;Smart guy, simple yet smart.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
 </rss>
+

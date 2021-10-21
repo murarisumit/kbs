@@ -13,11 +13,26 @@
       <pubDate>Thu, 12 Aug 2021 17:29:07 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/c0e91193f16d7899b44017706767cfb1/</guid>
-      <description>Human friendly url
-Advantage:
- Easy for human to read(obivious) Probably better for search engines to get results(who know anyways, it would make sense having URL as params to search result imo)  Disadvantage:
- Values have to fixed, not modification(important for me).  Still structure are not fixed for me, so don&amp;rsquo;t want to tie myself with title or path or director.   Cross-referencing become difficult  Cross referencing is important to me, and with keeping other param than UUID would be difficult to maintain, as it might break URL on this website(which is last thing I want), hence opting to machine generated unique ID from hugo i.</description>
+      <description>&lt;p&gt;Human friendly url&lt;/p&gt;
+&lt;p&gt;Advantage:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Easy for human to read(obivious)&lt;/li&gt;
+&lt;li&gt;Probably better for search engines to get results(who know anyways, it would make sense having URL as params to search result imo)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Disadvantage:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Values have to fixed, not modification(important for me).
+&lt;ul&gt;
+&lt;li&gt;Still structure are not fixed for me, so don&amp;rsquo;t want to tie myself with title or path or director.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Cross-referencing become difficult&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cross referencing is important to me, and with keeping other param than UUID would be difficult to maintain, as it might break URL on this website(which is last thing I want), hence opting to machine generated &lt;a href=&#34;https://discourse.gohugo.io/t/generating-a-unique-number-or-string/7930/6&#34;&gt;unique ID from hugo&lt;/a&gt; i.e. &lt;code&gt;{{ .File.UniqueID }}&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Personally for me &lt;a href=&#34;https://kbs.murarisumit.in/tags/&#34;&gt;tags&lt;/a&gt; are preferred way to find similar topics, if anyone else other than me is looking at this website.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
 </rss>
+

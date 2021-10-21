@@ -13,11 +13,67 @@
       <pubDate>Sat, 01 Aug 2020 03:01:28 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tils/git-via-email-getting-started/</guid>
-      <description>Simple way to that is via:
-  To create a patch: git format-patch &amp;lt;branch-you-want-to-send-patch-to&amp;gt; -o &amp;lt;patches-folder&amp;gt;
-A patch file is created, for me it was patches/0001-second.sh.patch, below is a sample patch.
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19  From d84a8864289616c462827fead5351fb66b86cc3f Mon Sep 17 00:00:00 2001 From: Sumit Murari &amp;lt;sumit.murari@emailaddr.com&amp;gt; Date: Fri, 31 Jul 2020 23:15:12 +0530 Subject: [PATCH] second.</description>
+      <description>&lt;p&gt;Simple way to that is via:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;To create a patch:  &lt;code&gt;git format-patch &amp;lt;branch-you-want-to-send-patch-to&amp;gt; -o &amp;lt;patches-folder&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;A patch file is created, for me it was &lt;code&gt;patches/0001-second.sh.patch&lt;/code&gt;, below is a sample patch.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;From d84a8864289616c462827fead5351fb66b86cc3f Mon Sep 17 00:00:00 2001
+From: Sumit Murari &amp;lt;sumit.murari@emailaddr.com&amp;gt;
+Date: Fri, 31 Jul 2020 23:15:12 +0530
+Subject: [PATCH] second.sh
+
+---
+second.sh | 1 +
+1 file changed, 1 insertion(+)
+create mode 100644 second.sh
+
+diff --git a/second.sh b/second.sh
+new file mode 100644
+index 0000000..e019be0
+--- /dev/null
++++ b/second.sh
+@@ -0,0 +1 @@
++second
+--
+2.24.0
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To apply a patch: &lt;code&gt;git am&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;am&lt;/code&gt; is for apply mailbox or &lt;strong&gt;Apply a series of patches from a mailbox&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;References: &lt;a href=&#34;https://www.youtube.com/watch?v=QtXj9tt-RUE&#34;&gt;https://www.youtube.com/watch?v=QtXj9tt-RUE&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
 </rss>
+

@@ -40,7 +40,8 @@
       <pubDate>Sat, 07 Aug 2021 13:33:47 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/k8s-kbrew/</guid>
-      <description>This tool looks good, and love the ease of this. It&amp;rsquo;s easy way to deploy the applications over cluster.</description>
+      <description>&lt;p&gt;This tool looks good, and love the ease of this. It&amp;rsquo;s easy way to deploy the applications over cluster.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -49,7 +50,8 @@
       <pubDate>Sat, 07 Aug 2021 12:50:34 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</guid>
-      <description>A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.</description>
+      <description>&lt;p&gt;A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -58,8 +60,27 @@
       <pubDate>Wed, 04 Aug 2021 08:29:34 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/golang-slice-tricks/</guid>
-      <description>Filtering with allocating This trick uses the fact that a slice shares the same backing array and capacity as the original, so the storage is reused for the filtered slice. Of course, the original contents are modified.
-1 2 3 4 5 6  b := a[:0] for _, x := range a { if f(x) { b = append(b, x) } }   </description>
+      <description>&lt;h3 id=&#34;filtering-with-allocating&#34;&gt;Filtering with allocating&lt;/h3&gt;
+&lt;p&gt;This trick uses the fact that a slice shares the same backing array and capacity as the original, so the storage is reused for the filtered slice. Of course, the original contents are modified.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-golang&#34; data-lang=&#34;golang&#34;&gt;&lt;span class=&#34;nx&#34;&gt;b&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;:=&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[:&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;_&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;x&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;:=&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;range&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+	&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+		&lt;span class=&#34;nx&#34;&gt;b&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;append&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;b&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+	&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -68,9 +89,10 @@
       <pubDate>Fri, 30 Jul 2021 06:35:12 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/profiles-to-look-upto/</guid>
-      <description>Time to time, few profiles come across to me, which I see and admire of, the amount of work they have done. The position they are in, the impact they are making. Seeing their profiles motivates me.
-These profile answer age old interview question for me: Where do you see youself in 3-5 years ?
-His readme is beautiful, simple and succint. His github is clean. Motivated me also collect those badges(certifications), never a certification guy, but those badges are looking cool.</description>
+      <description>&lt;p&gt;Time to time, few profiles come across to me, which I see and admire of, the amount of work they have done. The position they are in, the impact they are making. Seeing their profiles motivates me.&lt;/p&gt;
+&lt;p&gt;These profile answer age old interview question for me: Where do you see youself in 3-5 years ?&lt;/p&gt;
+&lt;p&gt;His readme is beautiful, simple and succint. His github is clean. Motivated me also collect those badges(certifications), never a certification guy, but those badges are looking cool.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -88,7 +110,8 @@ His readme is beautiful, simple and succint. His github is clean. Motivated me a
       <pubDate>Fri, 12 Jun 2020 14:19:12 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/beautiful-static-site/</guid>
-      <description>He has made beautiful and optimized site, exactly how work should be like.</description>
+      <description>&lt;p&gt;He has made beautiful and optimized site, exactly how work should be like.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -102,3 +125,4 @@ His readme is beautiful, simple and succint. His github is clean. Motivated me a
     
   </channel>
 </rss>
+

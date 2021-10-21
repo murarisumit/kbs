@@ -13,8 +13,45 @@
       <pubDate>Mon, 25 May 2020 09:24:33 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tils/ipv4-link-local/</guid>
-      <description>To participate in wide-area IP networking, a host needs to be configured with IP addresses for its interfaces, either manually by the user or automatically from a source on the network such as a Dynamic Host Configuration Protocol (DHCP) server. Unfortunately, such address configuration information may not always be available. It is therefore beneficial for a host to be able to depend on a useful subset of IP networking functions even when no address configuration is available.</description>
+      <description>&lt;p&gt;To participate in wide-area IP networking, a host needs to be
+configured with IP addresses for its interfaces, either manually by
+the user or automatically from a source on the network such as a
+Dynamic Host Configuration Protocol (DHCP) server.  Unfortunately,
+such address configuration information may not always be available.
+It is therefore beneficial for a host to be able to depend on a
+useful subset of IP networking functions even when no address
+configuration is available.&lt;/p&gt;
+&lt;p&gt;It means link-local address are used when host is not able to get any network configuration from&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Manual Configuration&lt;/li&gt;
+&lt;li&gt;DHCP (DHCPv4 or DHCPv6)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;then it automatically take IP from pool of &lt;code&gt;169.254.0.0/16 (169.254.0.0 – 169.254.255.255)&lt;/code&gt;
+mentioned in RFC &lt;a href=&#34;https://tools.ietf.org/html/rfc3927&#34;&gt;3927&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Process:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Take any random IP from above pool&lt;/li&gt;
+&lt;li&gt;Check if IP is not taken by others using broadcast via ARP&lt;/li&gt;
+&lt;li&gt;If IP is taken then go back to step 1&lt;/li&gt;
+&lt;li&gt;If IP is not taken, then assign the IP to yourself and be ready for networking.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Important points to be noted&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;These address are not routable by router
+&lt;ul&gt;
+&lt;li&gt;Why : Because it&amp;rsquo;s in RFC, our rulebook for internet and also rule makes sense too.&lt;/li&gt;
+&lt;li&gt;In step2, we only check in our ARP domain i.e. layer 2, it makes sense not to get these routed by layer3, since there is bright chance other machines in their layer 2 would&amp;rsquo;ve done the same and IP would conflict.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Reference:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;RFC &lt;a href=&#34;https://tools.ietf.org/html/rfc3927&#34;&gt;3927&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
 </rss>
+
