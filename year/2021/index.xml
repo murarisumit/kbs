@@ -6,7 +6,17 @@
     <description>Recent content in 2021 on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Oct 2021 10:21:50 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/year/2021/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Oct 2021 10:52:47 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/year/2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terraform Best Practices</title>
+      <link>https://kbs.murarisumit.in/e730b5f8cf640bb6823be168475994d9/</link>
+      <pubDate>Fri, 22 Oct 2021 10:52:47 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/e730b5f8cf640bb6823be168475994d9/</guid>
+      <description>&lt;p&gt;Some convetion for best practices, it would be better use lint to enforce them, still good to reference once in a while.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Multiple Git Ssh Config Single Machine</title>
       <link>https://kbs.murarisumit.in/d881fb4640d6de032e6221c9eabe0e39/</link>
