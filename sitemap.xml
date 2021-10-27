@@ -3,39 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kbs.murarisumit.in/year/2021/</loc>
-    <lastmod>2021-10-22T10:52:47+05:30</lastmod>
+    <lastmod>2021-10-27T16:32:43+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/month/2021-10/</loc>
-    <lastmod>2021-10-22T10:52:47+05:30</lastmod>
+    <lastmod>2021-10-27T16:32:43+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/author/</loc>
-    <lastmod>2021-10-22T10:52:47+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tags/best-practices/</loc>
-    <lastmod>2021-10-22T10:52:47+05:30</lastmod>
+    <lastmod>2021-10-27T16:32:43+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/</loc>
-    <lastmod>2021-10-22T10:52:47+05:30</lastmod>
+    <lastmod>2021-10-27T16:32:43+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/category/bookmarks/</loc>
-    <lastmod>2021-10-22T10:52:47+05:30</lastmod>
+    <lastmod>2021-10-27T16:32:43+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/category/</loc>
-    <lastmod>2021-10-22T10:52:47+05:30</lastmod>
+    <lastmod>2021-10-27T16:32:43+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/codereview/</loc>
+    <lastmod>2021-10-27T16:32:43+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/github/</loc>
+    <lastmod>2021-10-27T16:32:43+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/sites/github.com/</loc>
+    <lastmod>2021-10-27T16:32:43+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/golang/</loc>
+    <lastmod>2021-10-27T16:32:43+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/c0ab4091d733d85471515c2cd581fd67/</loc>
+    <lastmod>2021-10-27T16:32:43+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/</loc>
-    <lastmod>2021-10-22T10:52:47+05:30</lastmod>
+    <lastmod>2021-10-27T16:32:43+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/month/</loc>
-    <lastmod>2021-10-22T10:52:47+05:30</lastmod>
+    <lastmod>2021-10-27T16:32:43+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/author/murarisumit/</loc>
-    <lastmod>2021-10-22T10:52:47+05:30</lastmod>
+    <lastmod>2021-10-27T16:32:43+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/sites/</loc>
-    <lastmod>2021-10-22T10:52:47+05:30</lastmod>
+    <lastmod>2021-10-27T16:32:43+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/</loc>
+    <lastmod>2021-10-27T16:32:43+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/year/</loc>
+    <lastmod>2021-10-27T16:32:43+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/best-practices/</loc>
     <lastmod>2021-10-22T10:52:47+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/terraform/</loc>
@@ -47,13 +65,7 @@
     <loc>https://kbs.murarisumit.in/sites/www.terraform-best-practices.com/</loc>
     <lastmod>2021-10-22T10:52:47+05:30</lastmod>
   </url><url>
-    <loc>https://kbs.murarisumit.in/year/</loc>
-    <lastmod>2021-10-22T10:52:47+05:30</lastmod>
-  </url><url>
     <loc>https://kbs.murarisumit.in/sites/dev.to/</loc>
-    <lastmod>2021-10-20T10:21:50+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tags/github/</loc>
     <lastmod>2021-10-20T10:21:50+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/d881fb4640d6de032e6221c9eabe0e39/</loc>
@@ -434,9 +446,6 @@
     <loc>https://kbs.murarisumit.in/tags/load-averages/</loc>
     <lastmod>2021-08-09T09:25:45+05:30</lastmod>
   </url><url>
-    <loc>https://kbs.murarisumit.in/sites/github.com/</loc>
-    <lastmod>2021-08-09T00:37:09+05:30</lastmod>
-  </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/k8s-failure-stories/</loc>
     <lastmod>2021-08-09T00:37:09+05:30</lastmod>
   </url><url>
@@ -604,9 +613,6 @@
   </url><url>
     <loc>https://kbs.murarisumit.in/sites/news.ycombinator.com/</loc>
     <lastmod>2021-08-04T15:31:55+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tags/golang/</loc>
-    <lastmod>2021-08-04T08:29:34+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/golang-slice-tricks/</loc>
     <lastmod>2021-08-04T08:29:34+05:30</lastmod>
