@@ -6,7 +6,30 @@
     <description>Recent content in murarisumit on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Oct 2021 16:32:43 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/author/murarisumit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Nov 2021 22:00:04 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/author/murarisumit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solid Principle in Simple Way</title>
+      <link>https://kbs.murarisumit.in/5df1af1a7c595eb1c55b78bc2086c772/</link>
+      <pubDate>Tue, 02 Nov 2021 22:00:04 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/5df1af1a7c595eb1c55b78bc2086c772/</guid>
+      <description>&lt;p&gt;Summary:&lt;/p&gt;
+&lt;h4 id=&#34;single-responsibility-principle-&#34;&gt;Single Responsibility principle :&lt;/h4&gt;
+&lt;p&gt;Don’t surprise the people who read your code.&lt;/p&gt;
+&lt;p&gt;There should never be more than one reason for a class to change. You should be able to use and add to a module without rewriting it.&lt;/p&gt;
+&lt;h4 id=&#34;open-close-principle&#34;&gt;Open-Close principle&lt;/h4&gt;
+&lt;p&gt;Don’t surprise the people who use your code. Your code should be close for modification and open for extension&lt;/p&gt;
+&lt;h4 id=&#34;liskov-substitution-principle&#34;&gt;Liskov substitution principle&lt;/h4&gt;
+&lt;p&gt;Don’t overwhelm the people who read your code.
+If S is a subtype of T, then objects of type T may be replaced with objects of type S without altering any of the desirable properties of the program. &lt;em&gt;You should be able to substitute one thing for another if those things are declared to behave the same way&lt;/em&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;interface-segregation-principle-use-sane-boundaries-for-your-code&#34;&gt;Interface segregation principle: Use sane boundaries for your code.&lt;/h4&gt;
+&lt;p&gt;Many client-specific interfaces are better than one general-purpose interface. Don’t show your clients more than they need to see&lt;/p&gt;
+&lt;h4 id=&#34;dependency-inversion-principle-use-the-right-level-of-couplingkeep-things-together-that-belong-together-and-keep-them-apart-if-they-belong-apart&#34;&gt;Dependency inversion principle: Use the right level of coupling—keep things together that belong together, and keep them apart if they belong apart.&lt;/h4&gt;
+&lt;p&gt;Depend upon abstractions, not concretions.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
     <item>
       <title>Golang Codereview Comments</title>
       <link>https://kbs.murarisumit.in/c0ab4091d733d85471515c2cd581fd67/</link>
