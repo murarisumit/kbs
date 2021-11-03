@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2021-11 on knowledge base</title>
-    <link>https://kbs.murarisumit.in/month/2021-11/</link>
-    <description>Recent content in 2021-11 on knowledge base</description>
+    <title>latency on knowledge base</title>
+    <link>https://kbs.murarisumit.in/tags/latency/</link>
+    <description>Recent content in latency on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Nov 2021 15:12:43 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/month/2021-11/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Nov 2021 15:12:43 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/latency/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Latency Number for Every Programmer</title>
       <link>https://kbs.murarisumit.in/5891e85354985d957586b9556a8e0551/</link>
@@ -89,29 +89,6 @@ Visual comparison chart: http://i.imgur.com/k0t1e.png
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>Solid Principle in Simple Way</title>
-      <link>https://kbs.murarisumit.in/5df1af1a7c595eb1c55b78bc2086c772/</link>
-      <pubDate>Tue, 02 Nov 2021 22:00:04 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/5df1af1a7c595eb1c55b78bc2086c772/</guid>
-      <description>&lt;p&gt;Summary:&lt;/p&gt;
-&lt;h4 id=&#34;single-responsibility-principle-&#34;&gt;Single Responsibility principle :&lt;/h4&gt;
-&lt;p&gt;Don’t surprise the people who read your code.&lt;/p&gt;
-&lt;p&gt;There should never be more than one reason for a class to change. You should be able to use and add to a module without rewriting it.&lt;/p&gt;
-&lt;h4 id=&#34;open-close-principle&#34;&gt;Open-Close principle&lt;/h4&gt;
-&lt;p&gt;Don’t surprise the people who use your code. Your code should be close for modification and open for extension&lt;/p&gt;
-&lt;h4 id=&#34;liskov-substitution-principle&#34;&gt;Liskov substitution principle&lt;/h4&gt;
-&lt;p&gt;Don’t overwhelm the people who read your code.
-If S is a subtype of T, then objects of type T may be replaced with objects of type S without altering any of the desirable properties of the program. &lt;em&gt;You should be able to substitute one thing for another if those things are declared to behave the same way&lt;/em&gt;.&lt;/p&gt;
-&lt;h4 id=&#34;interface-segregation-principle-use-sane-boundaries-for-your-code&#34;&gt;Interface segregation principle: Use sane boundaries for your code.&lt;/h4&gt;
-&lt;p&gt;Many client-specific interfaces are better than one general-purpose interface. Don’t show your clients more than they need to see&lt;/p&gt;
-&lt;h4 id=&#34;dependency-inversion-principle-use-the-right-level-of-couplingkeep-things-together-that-belong-together-and-keep-them-apart-if-they-belong-apart&#34;&gt;Dependency inversion principle: Use the right level of coupling—keep things together that belong together, and keep them apart if they belong apart.&lt;/h4&gt;
-&lt;p&gt;Depend upon abstractions, not concretions.&lt;/p&gt;
-&lt;hr&gt;
-</description>
     </item>
     
   </channel>
