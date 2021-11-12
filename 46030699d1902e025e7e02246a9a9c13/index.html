@@ -8,11 +8,11 @@
 
     <script src="/js/utils/age.js"> </script>
     
-<title itemprop="name">Understanding Aws Cli Output Text | knowledge base</title>
-<meta property="og:title" content="Understanding Aws Cli Output Text | knowledge base" />
-<meta name="twitter:title" content="Understanding Aws Cli Output Text | knowledge base" />
-<meta itemprop="name" content="Understanding Aws Cli Output Text | knowledge base" />
-<meta name="application-name" content="Understanding Aws Cli Output Text | knowledge base" />
+<title itemprop="name">Xargs Command Snippets | knowledge base</title>
+<meta property="og:title" content="Xargs Command Snippets | knowledge base" />
+<meta name="twitter:title" content="Xargs Command Snippets | knowledge base" />
+<meta itemprop="name" content="Xargs Command Snippets | knowledge base" />
+<meta name="application-name" content="Xargs Command Snippets | knowledge base" />
 <meta property="og:site_name" content="" />
 
 
@@ -22,11 +22,11 @@
 <meta name="twitter:description" content="" />
 
 
-<base href="https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/">
-<link rel="canonical" href="https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/" itemprop="url" /> 
-<meta name="url" content="https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/" />
-<meta name="twitter:url" content="https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/" /> 
-<meta property="og:url" content="https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/" />
+<base href="https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/">
+<link rel="canonical" href="https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/" itemprop="url" /> 
+<meta name="url" content="https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/" />
+<meta name="twitter:url" content="https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/" /> 
+<meta property="og:url" content="https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/" />
 
 
 <meta property="og:locale" content="en">
@@ -34,7 +34,7 @@
 
 
 
-<meta property="og:updated_time" content=2021-11-12T08:58:40&#43;0530 />
+<meta property="og:updated_time" content=2021-11-12T10:24:27&#43;0530 />
 
 
 <link rel="sitemap" type="application/xml" title="Sitemap" href="https://kbs.murarisumit.in/sitemap.xml" /> 
@@ -62,7 +62,7 @@
     
     <h2>
         <p class="item__urls">
-            <a href="https://web.archive.org/web/20211112032254/https://carriagereturn.nl/aws/cli/scripting/2018/07/17/aws-cli-output.html">Understanding Aws Cli Output Text</a> 
+            <a href="https://web.archive.org/web/20211112045447/https://flaviocopes.com/linux-command-xargs/">Xargs Command Snippets</a> 
             <span class="item__siteurl">
                 (<a href='#'>web.archive.org</a>)
             </span> 
@@ -77,38 +77,44 @@
     <i> Tags:</i> 
     <button disabled="disabled"> <a href="/tags/linux">linux</a></button>
     
-    <button disabled="disabled"> <a href="/tags/aws">aws</a></button>
-    
     <button disabled="disabled"> <a href="/tags/cli">cli</a></button>
+    
+    <button disabled="disabled"> <a href="/tags/snippets">snippets</a></button>
+    
+    <button disabled="disabled"> <a href="/tags/gnu-utils">gnu-utils</a></button>
     
     <hr>
 </div>
 
     
     
-    Reference: <a href="https://web.archive.org/web/20211112032254/https://carriagereturn.nl/aws/cli/scripting/2018/07/17/aws-cli-output.html">https://web.archive.org/web/20211112032254/https://carriagereturn.nl/aws/cli/scripting/2018/07/17/aws-cli-output.html</a>
+    Reference: <a href="https://web.archive.org/web/20211112045447/https://flaviocopes.com/linux-command-xargs/">https://web.archive.org/web/20211112045447/https://flaviocopes.com/linux-command-xargs/</a>
     
 
     
-    <p>The reference post is already short and concise, but still core is <strong>&ndash;output=text will print everything within innermost [] brackets on single line.</strong>.</p>
-<p>To see it in action see the difference between</p>
+    <p>Simple command snippet that most likely be used imo would be.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
+</span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">aws iam list-users --query Users<span class="o">[</span>*<span class="o">]</span>.<span class="o">[</span>UserName<span class="o">]</span>
-aws iam list-users --query <span class="o">[</span>Users<span class="o">[</span>*<span class="o">]</span>.UserName<span class="o">]</span>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">ls -f <span class="p">|</span> xargs -I % -p <span class="nb">echo</span> <span class="s2">&#34;testxargs-%&#34;</span>
+ls -f <span class="p">|</span> xargs -I <span class="o">{}</span> /bin/bash -c <span class="s1">&#39;echo test1-{}; echo test2-{}&#39;</span>
+ls -f <span class="p">|</span> xargs -I % /bin/bash -c <span class="s1">&#39;echo test1-%; echo test2-%&#39;</span>
 </code></pre></td></tr></table>
 </div>
-</div>
+</div><p><code>ls -f</code>: List all files
+<code>-I</code> allows you to get the output into a placeholder.
+<code>-p</code> print a confirmation prompt with the action it’s going to take:</p>
+
     
     <div class="social"> 
     <center>
         
         
-        <a class="resp-sharing-button__link" href="https://twitter.com/intent/tweet/?text=Understanding%20Aws%20Cli%20Output%20Text&amp;url=https%3a%2f%2fkbs.murarisumit.in%2fcb09c8a3463c51091177eff829bd82d8%2f&amp;hashtags=linux%2caws%2ccli" target="_blank" rel="noopener" aria-label="">
+        <a class="resp-sharing-button__link" href="https://twitter.com/intent/tweet/?text=Xargs%20Command%20Snippets&amp;url=https%3a%2f%2fkbs.murarisumit.in%2f46030699d1902e025e7e02246a9a9c13%2f&amp;hashtags=linux%2ccli%2csnippets%2cgnu-utils" target="_blank" rel="noopener" aria-label="">
             <div class="resp-sharing-button resp-sharing-button--twitter resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 0C5.38 0 0 5.38 0 12s5.38 12 12 12 12-5.38 12-12S18.62 0 12 0zm5.26 9.38v.34c0 3.48-2.64 7.5-7.48 7.5-1.48 0-2.87-.44-4.03-1.2 1.37.17 2.77-.2 3.9-1.08-1.16-.02-2.13-.78-2.46-1.83.38.1.8.07 1.17-.03-1.2-.24-2.1-1.3-2.1-2.58v-.05c.35.2.75.32 1.18.33-.7-.47-1.17-1.28-1.17-2.2 0-.47.13-.92.36-1.3C7.94 8.85 9.88 9.9 12.06 10c-.04-.2-.06-.4-.06-.6 0-1.46 1.18-2.63 2.63-2.63.76 0 1.44.3 1.92.82.6-.12 1.95-.27 1.95-.27-.35.53-.72 1.66-1.24 2.04z"/></svg>
             </div>
@@ -118,7 +124,7 @@ aws iam list-users --query <span class="o">[</span>Users<span class="o">[</span>
         
         
         
-        <a class="resp-sharing-button__link" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fkbs.murarisumit.in%2fcb09c8a3463c51091177eff829bd82d8%2f&amp;t=Understanding%20Aws%20Cli%20Output%20Text" target="_blank" rel="noopener" aria-label="">
+        <a class="resp-sharing-button__link" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fkbs.murarisumit.in%2f46030699d1902e025e7e02246a9a9c13%2f&amp;t=Xargs%20Command%20Snippets" target="_blank" rel="noopener" aria-label="">
         <div class="resp-sharing-button resp-sharing-button--hackernews resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><path fill-rule="evenodd" d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"/></svg>
             </div>
@@ -128,7 +134,7 @@ aws iam list-users --query <span class="o">[</span>Users<span class="o">[</span>
 
         
         
-        <a class="resp-sharing-button__link" href="mailto:?subject=Understanding%20Aws%20Cli%20Output%20Text&amp;body=The%20reference%20post%20is%20already%20short%20and%20concise%2c%20but%20still%20core%20is%20%26ndash%3boutput%3dtext%20will%20print%20everything%20within%20innermost%20%5b%5d%20brackets%20on%20single%20line..%0aTo%20see%20it%20in%20action%20see%20the%20difference%20between%0a1%202%20%20aws%20iam%20list-users%20--query%20Users%5b%2a%5d.%5bUserName%5d%20aws%20iam%20list-users%20--query%20%5bUsers%5b%2a%5d.UserName%5d%20%20%20" target="_self" rel="noopener" aria-label="Share by E-Mail">
+        <a class="resp-sharing-button__link" href="mailto:?subject=Xargs%20Command%20Snippets&amp;body=Simple%20command%20snippet%20that%20most%20likely%20be%20used%20imo%20would%20be.%0a1%202%203%20%20ls%20-f%20%7c%20xargs%20-I%20%25%20-p%20echo%20%26%2334%3btestxargs-%25%26%2334%3b%20ls%20-f%20%7c%20xargs%20-I%20%7b%7d%20%2fbin%2fbash%20-c%20%26%2339%3becho%20test1-%7b%7d%3b%20echo%20test2-%7b%7d%26%2339%3b%20ls%20-f%20%7c%20xargs%20-I%20%25%20%2fbin%2fbash%20-c%20%26%2339%3becho%20test1-%25%3b%20echo%20test2-%25%26%2339%3b%20%20%20ls%20-f%3a%20List%20all%20files%20-I%20allows%20you%20to%20get%20the%20output%20into%20a%20placeholder.%20-p%20print%20a%20confirmation%20prompt%20with%20the%20action%20it%e2%80%99s%20going%20to%20take%3a" target="_self" rel="noopener" aria-label="Share by E-Mail">
             <div class="resp-sharing-button resp-sharing-button--email resp-sharing-button--large"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 4H2C.9 4 0 4.9 0 6v12c0 1.1.9 2 2 2h20c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zM7.25 14.43l-3.5 2c-.08.05-.17.07-.25.07-.17 0-.34-.1-.43-.25-.14-.24-.06-.55.18-.68l3.5-2c.24-.14.55-.06.68.18.14.24.06.55-.18.68zm4.75.07c-.1 0-.2-.03-.27-.08l-8.5-5.5c-.23-.15-.3-.46-.15-.7.15-.22.46-.3.7-.14L12 13.4l8.23-5.32c.23-.15.54-.08.7.15.14.23.07.54-.16.7l-8.5 5.5c-.08.04-.17.07-.27.07zm8.93 1.75c-.1.16-.26.25-.43.25-.08 0-.17-.02-.25-.07l-3.5-2c-.24-.13-.32-.44-.18-.68s.44-.32.68-.18l3.5 2c.24.13.32.44.18.68z"/></svg></div>Share by E-Mail</div>
         </a>
@@ -140,11 +146,11 @@ aws iam list-users --query <span class="o">[</span>Users<span class="o">[</span>
  <br />
 </article>
 <div>
-    <center><a href="https://kbs.murarisumit.in/5891e85354985d957586b9556a8e0551/"> &lt; Prev</a>  &nbsp;&nbsp;Further Reading  &nbsp;&nbsp;<a href="https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/">Next > </a></center>
+    <center><a href="https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/"> &lt; Prev</a>  &nbsp;&nbsp;Further Reading  &nbsp;&nbsp;<a href="">Next > </a></center>
 </div>
  <br />
 <div>
-    <center> For feedback mail me at: <a href="mailto: email@murarisumit.in?subject=https://kbs.murarisumit.in/ : Understanding%20Aws%20Cli%20Output%20Text"> email@murarisumit.in</a> </center>
+    <center> For feedback mail me at: <a href="mailto: email@murarisumit.in?subject=https://kbs.murarisumit.in/ : Xargs%20Command%20Snippets"> email@murarisumit.in</a> </center>
 </div> <br />
 
           
