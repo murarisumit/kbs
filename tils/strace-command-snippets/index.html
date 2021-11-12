@@ -84,9 +84,14 @@
 <p>Q: <strong>What is a &ldquo;system call&rdquo;</strong> ?</p>
 <p>A: System calls are interface via which user-space program interact with system using linux kernel.</p>
 <p>So kernel is core that manages the system and talks and knows about hardware. Application don&rsquo;t directly talk to hardware, they talk to kernel via some exposed interfaces(open, exec etc.).</p>
-<p>Q: <strong>What is kernel-space and user-space</strong> ?</p>
-<p>A: For simple answer, you can assume kernel space where only kernel is privileged access memory or perform operation is similar is for userspace, are where user is allowed to access memory or perform operation, for longer and more accurate answer <a href="https://unix.stackexchange.com/a/368313">https://unix.stackexchange.com/a/368313</a></p>
-<p>Below are some samples</p>
+<p>Q: <strong>What is user-space and are there any other spaces</strong> ?</p>
+<p>A: Yes we have user-space and kernel-space</p>
+<ul>
+<li>Kernel-space where only kernel is privileged to access memory or perform operation similarly</li>
+<li>User-space where user is allowed to access memory or perform operation</li>
+</ul>
+<p>For longer and more accurate answer <a href="https://unix.stackexchange.com/a/368313">https://unix.stackexchange.com/a/368313</a></p>
+<h4 id="below-are-some-samples">Below are some samples</h4>
 <ul>
 <li>
 <p>First sample usage: <code>strace ls -l</code></p>

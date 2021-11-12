@@ -42,9 +42,14 @@ ls -f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; xargs -I % /bin/bash -c &lt;s
 &lt;p&gt;Q: &lt;strong&gt;What is a &amp;ldquo;system call&amp;rdquo;&lt;/strong&gt; ?&lt;/p&gt;
 &lt;p&gt;A: System calls are interface via which user-space program interact with system using linux kernel.&lt;/p&gt;
 &lt;p&gt;So kernel is core that manages the system and talks and knows about hardware. Application don&amp;rsquo;t directly talk to hardware, they talk to kernel via some exposed interfaces(open, exec etc.).&lt;/p&gt;
-&lt;p&gt;Q: &lt;strong&gt;What is kernel-space and user-space&lt;/strong&gt; ?&lt;/p&gt;
-&lt;p&gt;A: For simple answer, you can assume kernel space where only kernel is privileged access memory or perform operation is similar is for userspace, are where user is allowed to access memory or perform operation, for longer and more accurate answer &lt;a href=&#34;https://unix.stackexchange.com/a/368313&#34;&gt;https://unix.stackexchange.com/a/368313&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Below are some samples&lt;/p&gt;
+&lt;p&gt;Q: &lt;strong&gt;What is user-space and are there any other spaces&lt;/strong&gt; ?&lt;/p&gt;
+&lt;p&gt;A: Yes we have user-space and kernel-space&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kernel-space where only kernel is privileged to access memory or perform operation similarly&lt;/li&gt;
+&lt;li&gt;User-space where user is allowed to access memory or perform operation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For longer and more accurate answer &lt;a href=&#34;https://unix.stackexchange.com/a/368313&#34;&gt;https://unix.stackexchange.com/a/368313&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;below-are-some-samples&#34;&gt;Below are some samples&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;First sample usage: &lt;code&gt;strace ls -l&lt;/code&gt;&lt;/p&gt;
