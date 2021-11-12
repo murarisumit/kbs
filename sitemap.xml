@@ -3,27 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kbs.murarisumit.in/year/2021/</loc>
-    <lastmod>2021-11-03T15:12:43+05:30</lastmod>
+    <lastmod>2021-11-12T08:58:40+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/month/2021-11/</loc>
-    <lastmod>2021-11-03T15:12:43+05:30</lastmod>
+    <lastmod>2021-11-12T08:58:40+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/author/</loc>
-    <lastmod>2021-11-03T15:12:43+05:30</lastmod>
+    <lastmod>2021-11-12T08:58:40+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/aws/</loc>
+    <lastmod>2021-11-12T08:58:40+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/</loc>
-    <lastmod>2021-11-03T15:12:43+05:30</lastmod>
+    <lastmod>2021-11-12T08:58:40+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/category/bookmarks/</loc>
-    <lastmod>2021-11-03T15:12:43+05:30</lastmod>
+    <lastmod>2021-11-12T08:58:40+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/category/</loc>
-    <lastmod>2021-11-03T15:12:43+05:30</lastmod>
+    <lastmod>2021-11-12T08:58:40+05:30</lastmod>
   </url><url>
-    <loc>https://kbs.murarisumit.in/sites/gist.github.com/</loc>
-    <lastmod>2021-11-03T15:12:43+05:30</lastmod>
+    <loc>https://kbs.murarisumit.in/tags/cli/</loc>
+    <lastmod>2021-11-12T08:58:40+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/</loc>
+    <lastmod>2021-11-12T08:58:40+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/linux/</loc>
+    <lastmod>2021-11-12T08:58:40+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/month/</loc>
+    <lastmod>2021-11-12T08:58:40+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/author/murarisumit/</loc>
+    <lastmod>2021-11-12T08:58:40+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/</loc>
+    <lastmod>2021-11-12T08:58:40+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</loc>
+    <lastmod>2021-11-12T08:58:40+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/year/</loc>
+    <lastmod>2021-11-12T08:58:40+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/sites/gist.github.com/</loc>
     <lastmod>2021-11-03T15:12:43+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/latency/</loc>
@@ -32,22 +56,10 @@
     <loc>https://kbs.murarisumit.in/5891e85354985d957586b9556a8e0551/</loc>
     <lastmod>2021-11-03T15:12:43+05:30</lastmod>
   </url><url>
-    <loc>https://kbs.murarisumit.in/month/</loc>
-    <lastmod>2021-11-03T15:12:43+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/author/murarisumit/</loc>
-    <lastmod>2021-11-03T15:12:43+05:30</lastmod>
-  </url><url>
     <loc>https://kbs.murarisumit.in/tags/must-know/</loc>
     <lastmod>2021-11-03T15:12:43+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/sites/</loc>
-    <lastmod>2021-11-03T15:12:43+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tags/</loc>
-    <lastmod>2021-11-03T15:12:43+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/year/</loc>
     <lastmod>2021-11-03T15:12:43+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/software/</loc>
@@ -465,9 +477,6 @@
     <lastmod>2021-08-09T09:25:45+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/devops/</loc>
-    <lastmod>2021-08-09T09:25:45+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tags/linux/</loc>
     <lastmod>2021-08-09T09:25:45+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</loc>
@@ -1091,9 +1100,6 @@
     <loc>https://kbs.murarisumit.in/sites/www.solipsys.co.uk/</loc>
     <lastmod>2020-05-21T08:39:21+05:30</lastmod>
   </url><url>
-    <loc>https://kbs.murarisumit.in/tags/aws/</loc>
-    <lastmod>2020-05-20T22:16:17+05:30</lastmod>
-  </url><url>
     <loc>https://kbs.murarisumit.in/sites/aws.github.io/</loc>
     <lastmod>2020-05-20T22:16:17+05:30</lastmod>
   </url><url>
@@ -1131,6 +1137,8 @@
     <lastmod>2020-05-17T17:30:23+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/clist.html</loc>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/sites/https/carriagereturn.nl/</loc>
   </url><url>
     <loc>https://kbs.murarisumit.in/sites/https/gist.github.com/</loc>
   </url><url>

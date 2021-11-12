@@ -6,7 +6,34 @@
     <description>Recent content in Tags on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Nov 2021 15:12:43 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Nov 2021 08:58:40 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>aws</title>
+      <link>https://kbs.murarisumit.in/tags/aws/</link>
+      <pubDate>Fri, 12 Nov 2021 08:58:40 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cli</title>
+      <link>https://kbs.murarisumit.in/tags/cli/</link>
+      <pubDate>Fri, 12 Nov 2021 08:58:40 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://kbs.murarisumit.in/tags/linux/</link>
+      <pubDate>Fri, 12 Nov 2021 08:58:40 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/linux/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>latency</title>
       <link>https://kbs.murarisumit.in/tags/latency/</link>
@@ -724,15 +751,6 @@
       <pubDate>Mon, 09 Aug 2021 09:25:45 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux</title>
-      <link>https://kbs.murarisumit.in/tags/linux/</link>
-      <pubDate>Mon, 09 Aug 2021 09:25:45 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/linux/</guid>
       <description></description>
     </item>
     
@@ -1768,15 +1786,6 @@
       <pubDate>Thu, 21 May 2020 08:39:21 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/hn-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>aws</title>
-      <link>https://kbs.murarisumit.in/tags/aws/</link>
-      <pubDate>Wed, 20 May 2020 22:16:17 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/aws/</guid>
       <description></description>
     </item>
     

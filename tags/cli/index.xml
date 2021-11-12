@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>aws on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/aws/</link>
-    <description>Recent content in aws on knowledge base</description>
+    <title>cli on knowledge base</title>
+    <link>https://kbs.murarisumit.in/tags/cli/</link>
+    <description>Recent content in cli on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Nov 2021 08:58:40 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Nov 2021 08:58:40 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/cli/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Aws Cli Output Text</title>
       <link>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</link>
@@ -26,15 +26,6 @@ aws iam list-users --query &lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;Users&lt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>EKS Best Practices</title>
-      <link>https://kbs.murarisumit.in/bookmarks/eks-best-practices/</link>
-      <pubDate>Wed, 20 May 2020 22:16:17 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/bookmarks/eks-best-practices/</guid>
-      <description></description>
     </item>
     
   </channel>
