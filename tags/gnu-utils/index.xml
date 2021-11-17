@@ -26,9 +26,11 @@ ls -f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; xargs -I &lt;span class=&#34;
 ls -f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; xargs -I % /bin/bash -c &lt;span class=&#34;s1&#34;&gt;&amp;#39;echo test1-%; echo test2-%&amp;#39;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;code&gt;ls -f&lt;/code&gt;: List all files
-&lt;code&gt;-I&lt;/code&gt; allows you to get the output into a placeholder.
-&lt;code&gt;-p&lt;/code&gt; print a confirmation prompt with the action it’s going to take:&lt;/p&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ls -f&lt;/code&gt;: List all files&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-I&lt;/code&gt; allows you to get the output into a placeholder.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-p&lt;/code&gt; print a confirmation prompt with the action it’s going to take:&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

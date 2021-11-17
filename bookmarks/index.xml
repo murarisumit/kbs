@@ -6,7 +6,36 @@
     <description>Recent content in Bookmarks on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Nov 2021 10:24:27 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/bookmarks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Nov 2021 09:25:52 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/bookmarks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diff Between Su With and Without Hyphen</title>
+      <link>https://kbs.murarisumit.in/7fa5b4e9b48dbb81c234710d25151f22/</link>
+      <pubDate>Wed, 17 Nov 2021 09:25:52 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/7fa5b4e9b48dbb81c234710d25151f22/</guid>
+      <description>&lt;p&gt;Keeping here for reference:&lt;/p&gt;
+&lt;p&gt;The difference between &amp;ldquo;-&amp;rdquo; and &amp;ldquo;no hyphen&amp;rdquo; is&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;lsquo;-&amp;rsquo; : New setting for users are loaded i.e. .bashrc&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;without-hyphen&amp;rdquo;: Keeps using my existing environment, no .bashrc is loaded&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thus, it is advisable that administrative users, as well as any other users that are authorized to use su (and it is suggested that there be very few, if any) acquire the habit of always running the su command with the -l/&amp;ndash;login option.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;https://wiki.archlinux.org/index.php/Su
+
+The hyphen has two effects:
+
+1) switches from the current directory to the home directory of the new user (e.g., to /root in the case of the root user) by logging in as that user
+
+2) changes the environmental variables to those of the new user as dictated by their ~/.bashrc. That is, if the first argument to su is a hyphen, the current directory and environment will be changed to what would be expected if the new user had actually logged on to a new session (rather than just taking over an existing session).
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;p&gt;Reference&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.archlinux.org/title/Su&#34;&gt;https://wiki.archlinux.org/title/Su&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
     <item>
       <title>Xargs Command Snippets</title>
       <link>https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/</link>
@@ -26,9 +55,11 @@ ls -f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; xargs -I &lt;span class=&#34;
 ls -f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; xargs -I % /bin/bash -c &lt;span class=&#34;s1&#34;&gt;&amp;#39;echo test1-%; echo test2-%&amp;#39;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;code&gt;ls -f&lt;/code&gt;: List all files
-&lt;code&gt;-I&lt;/code&gt; allows you to get the output into a placeholder.
-&lt;code&gt;-p&lt;/code&gt; print a confirmation prompt with the action it’s going to take:&lt;/p&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ls -f&lt;/code&gt;: List all files&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-I&lt;/code&gt; allows you to get the output into a placeholder.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-p&lt;/code&gt; print a confirmation prompt with the action it’s going to take:&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
