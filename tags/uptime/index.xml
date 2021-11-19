@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>uptime on knowledge base</title>
+    <link>https://kbs.murarisumit.in/tags/uptime/</link>
+    <description>Recent content in uptime on knowledge base</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Nov 2021 21:00:55 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/uptime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Does 9s Mean in Downtime</title>
+      <link>https://kbs.murarisumit.in/ec9cc6baa4890df4cb5e5dc561d60e43/</link>
+      <pubDate>Fri, 19 Nov 2021 21:00:55 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/ec9cc6baa4890df4cb5e5dc561d60e43/</guid>
+      <description>&lt;p&gt;Sometime i just forgot how much 9s means in w.r.t SLA and how much downtime can be afforded and this above reference is simple and beautiful.&lt;/p&gt;
+&lt;p&gt;Try with multiple 9s like this: &lt;a href=&#34;https://uptime.is/99.9&#34;&gt;https://uptime.is/99.9&lt;/a&gt; or &lt;a href=&#34;https://uptime.is/99.99&#34;&gt;https://uptime.is/99.99&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;To put from website.&lt;/p&gt;
+&lt;h3 id=&#34;999&#34;&gt;99.9&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;Daily: 1m 26s
+Weekly: 10m 4s
+Monthly: 43m 49s
+Quarterly: 2h 11m 29s
+Yearly: 8h 45m 56s
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;9999&#34;&gt;99.99&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;Daily: 8s
+Weekly: 1m 0s
+Monthly: 4m 22s
+Quarterly: 13m 8s
+Yearly: 52m 35s
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;99999&#34;&gt;99.999&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;Daily: 0s
+Weekly: 6s
+Monthly: 26s
+Quarterly: 1m 18s
+Yearly: 5m 15s
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;For more 9s visit &lt;a href=&#34;https://uptime.is/99.9999&#34;&gt;https://uptime.is/99.9999&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+
