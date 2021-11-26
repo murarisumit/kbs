@@ -6,11 +6,11 @@
     <description>Recent content in carriagereturn.nl on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Nov 2021 08:58:40 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/carriagereturn.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Nov 2021 08:58:40 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/carriagereturn.nl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Aws Cli Output Text</title>
       <link>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</link>
-      <pubDate>Fri, 12 Nov 2021 08:58:40 +0530</pubDate>
+      <pubDate>Fri, 26 Nov 2021 08:58:40 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</guid>
       <description>&lt;p&gt;The reference post is already short and concise, but still core is &lt;strong&gt;&amp;ndash;output=text will print everything within innermost [] brackets on single line.&lt;/strong&gt;.&lt;/p&gt;
