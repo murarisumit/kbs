@@ -3,18 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kbs.murarisumit.in/year/2021/</loc>
-    <lastmod>2021-11-23T14:43:52+05:30</lastmod>
+    <lastmod>2021-11-26T22:48:14+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/month/2021-11/</loc>
-    <lastmod>2021-11-23T14:43:52+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tags/adblock/</loc>
-    <lastmod>2021-11-23T14:43:52+05:30</lastmod>
+    <lastmod>2021-11-26T22:48:14+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/author/</loc>
-    <lastmod>2021-11-23T14:43:52+05:30</lastmod>
+    <lastmod>2021-11-26T22:48:14+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/aws/</loc>
+    <lastmod>2021-11-26T22:48:14+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/awscli/</loc>
+    <lastmod>2021-11-26T22:48:14+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/c0b28c0e8bc16283b3c9e2d099eabe63/</loc>
+    <lastmod>2021-11-26T22:48:14+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/category/</loc>
+    <lastmod>2021-11-26T22:48:14+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/</loc>
+    <lastmod>2021-11-26T22:48:14+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/month/</loc>
+    <lastmod>2021-11-26T22:48:14+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/author/murarisumit/</loc>
+    <lastmod>2021-11-26T22:48:14+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/snippets/</loc>
+    <lastmod>2021-11-26T22:48:14+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/category/snippets/</loc>
+    <lastmod>2021-11-26T22:48:14+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/</loc>
+    <lastmod>2021-11-26T22:48:14+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/year/</loc>
+    <lastmod>2021-11-26T22:48:14+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/adblock/</loc>
     <lastmod>2021-11-23T14:43:52+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/content-block/</loc>
@@ -23,31 +53,16 @@
     <loc>https://kbs.murarisumit.in/tags/firefox/</loc>
     <lastmod>2021-11-23T14:43:52+05:30</lastmod>
   </url><url>
-    <loc>https://kbs.murarisumit.in/</loc>
-    <lastmod>2021-11-23T14:43:52+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/month/</loc>
-    <lastmod>2021-11-23T14:43:52+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/author/murarisumit/</loc>
-    <lastmod>2021-11-23T14:43:52+05:30</lastmod>
-  </url><url>
     <loc>https://kbs.murarisumit.in/posts/</loc>
     <lastmod>2021-11-23T14:43:52+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/category/posts/</loc>
     <lastmod>2021-11-23T14:43:52+05:30</lastmod>
   </url><url>
-    <loc>https://kbs.murarisumit.in/tags/</loc>
-    <lastmod>2021-11-23T14:43:52+05:30</lastmod>
-  </url><url>
     <loc>https://kbs.murarisumit.in/6e225c364f36afa1b5766490db9e7229/</loc>
     <lastmod>2021-11-23T14:43:52+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/ublock-origin/</loc>
-    <lastmod>2021-11-23T14:43:52+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/year/</loc>
     <lastmod>2021-11-23T14:43:52+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/ankurwarikoo/</loc>
@@ -142,9 +157,6 @@
   </url><url>
     <loc>https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/</loc>
     <lastmod>2021-11-12T10:24:27+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tags/aws/</loc>
-    <lastmod>2021-11-12T08:58:40+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/sites/carriagereturn.nl/</loc>
     <lastmod>2021-11-12T08:58:40+05:30</lastmod>
@@ -1185,12 +1197,6 @@
     <lastmod>2020-05-17T18:54:04+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/snippets/hugo-tags-list/</loc>
-    <lastmod>2020-05-17T18:09:46+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/snippets/</loc>
-    <lastmod>2020-05-17T18:09:46+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/category/snippets/</loc>
     <lastmod>2020-05-17T18:09:46+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tils/change-orientation-of-an-image/</loc>
