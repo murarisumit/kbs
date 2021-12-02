@@ -6,7 +6,18 @@
     <description>Recent content in murarisumit on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Nov 2021 22:48:14 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/author/murarisumit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Dec 2021 10:07:05 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/author/murarisumit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shamir Secret Sharing</title>
+      <link>https://kbs.murarisumit.in/b21e7d844c3b536261f757f5a735dc8a/</link>
+      <pubDate>Thu, 02 Dec 2021 10:07:05 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/b21e7d844c3b536261f757f5a735dc8a/</guid>
+      <description>&lt;p&gt;Haven&amp;rsquo;t studied this algorithm, but safe it is. But idea is really elegant and to see it work beautiful.&lt;/p&gt;
+&lt;p&gt;Keeping it here for reference.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Awscli List Tag Name With Ip Addr</title>
       <link>https://kbs.murarisumit.in/c0b28c0e8bc16283b3c9e2d099eabe63/</link>
@@ -23,7 +34,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;Linked post:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/&#34;&gt;https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/&#34;&gt;Understanding text output for awscli&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Reference:&lt;/p&gt;
 &lt;ul&gt;

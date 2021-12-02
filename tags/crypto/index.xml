@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crypto on knowledge base</title>
+    <link>https://kbs.murarisumit.in/tags/crypto/</link>
+    <description>Recent content in crypto on knowledge base</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Dec 2021 10:07:05 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shamir Secret Sharing</title>
+      <link>https://kbs.murarisumit.in/b21e7d844c3b536261f757f5a735dc8a/</link>
+      <pubDate>Thu, 02 Dec 2021 10:07:05 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/b21e7d844c3b536261f757f5a735dc8a/</guid>
+      <description>&lt;p&gt;Haven&amp;rsquo;t studied this algorithm, but safe it is. But idea is really elegant and to see it work beautiful.&lt;/p&gt;
+&lt;p&gt;Keeping it here for reference.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+
