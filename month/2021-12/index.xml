@@ -6,14 +6,37 @@
     <description>Recent content in 2021-12 on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Dec 2021 10:07:05 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/month/2021-12/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Dec 2021 13:35:31 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/month/2021-12/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can Every Devices Be Hacked</title>
+      <link>https://kbs.murarisumit.in/92a571b39b7be2d430f2391c21c79018/</link>
+      <pubDate>Mon, 06 Dec 2021 13:35:31 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/92a571b39b7be2d430f2391c21c79018/</guid>
+      <description>&lt;p&gt;So yes, if someone is really persistant about it. The prices for these weaponised exploit start from 100K USD from from 2.5Million dollars.&lt;/p&gt;
+&lt;p&gt;There is high cost to it, so usually used by state actor or for&lt;/p&gt;
+&lt;p&gt;Don&amp;rsquo;t live in fear of getting hacked, it should be in your threat model. There are lot more important people our there with more information is their hands so you&amp;rsquo;re very less likely are a target, but remember if someone wants to he can.&lt;/p&gt;
+&lt;p&gt;There is pure economics involved, will it bring enough ROI(Return of investment on it). Are you a person of interest.&lt;/p&gt;
+&lt;p&gt;What all you can do ?&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Browser has huge attack surface. If you can disable JS, probably disabling javascript, but that seems difficult. Use umatrix can make it easy.&lt;/li&gt;
+&lt;li&gt;Disable just-in time compiler, or webassembly or browser if you can.&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t click stupid links.&lt;/li&gt;
+&lt;li&gt;Use multi-factor auth&lt;/li&gt;
+&lt;li&gt;Password managers.&lt;/li&gt;
+&lt;li&gt;Attack persistance is hard, but just restart it every now and then. It might help you.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Most simpler tricks are &lt;a href=&#34;https://www.youtube.com/watch?v=NWtm4X6L_Cs&#34;&gt;Phishing&lt;/a&gt; you should be worry about.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Shamir Secret Sharing</title>
       <link>https://kbs.murarisumit.in/b21e7d844c3b536261f757f5a735dc8a/</link>
       <pubDate>Thu, 02 Dec 2021 10:07:05 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/b21e7d844c3b536261f757f5a735dc8a/</guid>
-      <description>&lt;p&gt;Haven&amp;rsquo;t studied this algorithm, but safe it is. But idea is really elegant and to see it work beautiful.&lt;/p&gt;
+      <description>&lt;p&gt;This idea is really elegant to me and seeing it work is beautiful&lt;/p&gt;
 &lt;p&gt;Keeping it here for reference.&lt;/p&gt;
 </description>
     </item>
