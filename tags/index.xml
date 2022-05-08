@@ -6,7 +6,34 @@
     <description>Recent content in Tags on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Feb 2022 10:01:50 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 May 2022 01:58:48 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>macos</title>
+      <link>https://kbs.murarisumit.in/tags/macos/</link>
+      <pubDate>Mon, 09 May 2022 01:58:48 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/macos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>awscli</title>
+      <link>https://kbs.murarisumit.in/tags/awscli/</link>
+      <pubDate>Mon, 09 May 2022 01:42:17 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/awscli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bash</title>
+      <link>https://kbs.murarisumit.in/tags/bash/</link>
+      <pubDate>Mon, 09 May 2022 01:42:17 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/bash/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>decisions</title>
       <link>https://kbs.murarisumit.in/tags/decisions/</link>
@@ -202,15 +229,6 @@
       <pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/aws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>awscli</title>
-      <link>https://kbs.murarisumit.in/tags/awscli/</link>
-      <pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/awscli/</guid>
       <description></description>
     </item>
     
@@ -1466,15 +1484,6 @@
     </item>
     
     <item>
-      <title>macos</title>
-      <link>https://kbs.murarisumit.in/tags/macos/</link>
-      <pubDate>Mon, 26 Jul 2021 22:35:37 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/macos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>caf</title>
       <link>https://kbs.murarisumit.in/tags/caf/</link>
       <pubDate>Fri, 12 Feb 2021 17:21:31 +0530</pubDate>
@@ -1993,6 +2002,15 @@
       <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/promql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gnu/linux</title>
+      <link>https://kbs.murarisumit.in/tags/gnu/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/gnu/linux/</guid>
       <description></description>
     </item>
     

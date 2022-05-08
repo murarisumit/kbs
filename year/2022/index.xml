@@ -6,7 +6,58 @@
     <description>Recent content in 2022 on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Feb 2022 10:01:50 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/year/2022/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 May 2022 01:58:48 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/year/2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linuxify</title>
+      <link>https://kbs.murarisumit.in/en/96b18098f374caabc54fa7d41fdfcecc/</link>
+      <pubDate>Mon, 09 May 2022 01:58:48 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/en/96b18098f374caabc54fa7d41fdfcecc/</guid>
+      <description>&lt;p&gt;Smart scripts to setup the system and eliminating overhead of maintaining scripts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bash My Aws</title>
+      <link>https://kbs.murarisumit.in/en/1b90c167d2d85130fc5372245ed523e9/</link>
+      <pubDate>Mon, 09 May 2022 01:42:17 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/en/1b90c167d2d85130fc5372245ed523e9/</guid>
+      <description>&lt;p&gt;Nice utility to work with awscli faster.&lt;/p&gt;
+&lt;p&gt;If you work with Ip address, ddd this function to bashrc and reload(&lt;code&gt;source ~/.bashrc&lt;/code&gt;) to get instance-id&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;k&#34;&gt;function&lt;/span&gt; get-instance-id&lt;span class=&#34;o&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
+        aws ec2 describe-instances --filters &lt;span class=&#34;nv&#34;&gt;Name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;private-ip-address,Values&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;$1&lt;/span&gt; --query Reservations&lt;span class=&#34;o&#34;&gt;[]&lt;/span&gt;.Instances&lt;span class=&#34;o&#34;&gt;[]&lt;/span&gt;.InstanceId --output text
+&lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;To get instance id&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;get-instance-id 192.168.1.1
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;To fetch instance tags&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;instance-tags i-0fd5c4df38353cd0
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
     <item>
       <title>Decision Making Tricks</title>
       <link>https://kbs.murarisumit.in/71cf6d3f5df8908b988630bd57c2541e/</link>
