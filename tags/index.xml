@@ -6,22 +6,76 @@
     <description>Recent content in Tags on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 May 2022 01:58:48 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 May 2022 08:58:40 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>macos</title>
-      <link>https://kbs.murarisumit.in/tags/macos/</link>
-      <pubDate>Mon, 09 May 2022 01:58:48 +0530</pubDate>
+      <title>aws</title>
+      <link>https://kbs.murarisumit.in/tags/aws/</link>
+      <pubDate>Mon, 16 May 2022 08:58:40 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tags/macos/</guid>
+      <guid>https://kbs.murarisumit.in/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>awscli</title>
       <link>https://kbs.murarisumit.in/tags/awscli/</link>
-      <pubDate>Mon, 09 May 2022 01:42:17 +0530</pubDate>
+      <pubDate>Mon, 16 May 2022 08:58:40 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/awscli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>financial-freedom</title>
+      <link>https://kbs.murarisumit.in/tags/financial-freedom/</link>
+      <pubDate>Sun, 15 May 2022 23:41:17 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/financial-freedom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>investing</title>
+      <link>https://kbs.murarisumit.in/tags/investing/</link>
+      <pubDate>Sun, 15 May 2022 23:41:17 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/investing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skills</title>
+      <link>https://kbs.murarisumit.in/tags/skills/</link>
+      <pubDate>Sun, 15 May 2022 23:41:17 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>success-story</title>
+      <link>https://kbs.murarisumit.in/tags/success-story/</link>
+      <pubDate>Sun, 15 May 2022 23:41:17 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/success-story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youtube</title>
+      <link>https://kbs.murarisumit.in/tags/youtube/</link>
+      <pubDate>Sun, 15 May 2022 23:41:17 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>macos</title>
+      <link>https://kbs.murarisumit.in/tags/macos/</link>
+      <pubDate>Mon, 09 May 2022 01:58:48 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/macos/</guid>
       <description></description>
     </item>
     
@@ -40,15 +94,6 @@
       <pubDate>Tue, 01 Feb 2022 10:01:50 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/decisions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>investing</title>
-      <link>https://kbs.murarisumit.in/tags/investing/</link>
-      <pubDate>Tue, 01 Feb 2022 10:01:50 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/investing/</guid>
       <description></description>
     </item>
     
@@ -85,15 +130,6 @@
       <pubDate>Sat, 18 Dec 2021 09:41:06 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/life-lessons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>youtube</title>
-      <link>https://kbs.murarisumit.in/tags/youtube/</link>
-      <pubDate>Sat, 18 Dec 2021 09:41:06 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/youtube/</guid>
       <description></description>
     </item>
     
@@ -224,24 +260,6 @@
     </item>
     
     <item>
-      <title>aws</title>
-      <link>https://kbs.murarisumit.in/tags/aws/</link>
-      <pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/aws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux</title>
-      <link>https://kbs.murarisumit.in/tags/linux/</link>
-      <pubDate>Fri, 26 Nov 2021 08:58:40 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>adblock</title>
       <link>https://kbs.murarisumit.in/tags/adblock/</link>
       <pubDate>Tue, 23 Nov 2021 14:43:52 +0530</pubDate>
@@ -364,6 +382,15 @@
       <pubDate>Fri, 19 Nov 2021 13:05:44 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/how-is-x-made/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://kbs.murarisumit.in/tags/linux/</link>
+      <pubDate>Wed, 17 Nov 2021 09:25:52 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/linux/</guid>
       <description></description>
     </item>
     
@@ -751,33 +778,6 @@
       <pubDate>Sat, 14 Aug 2021 01:48:05 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/sports/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>financial-freedom</title>
-      <link>https://kbs.murarisumit.in/tags/financial-freedom/</link>
-      <pubDate>Fri, 13 Aug 2021 23:41:17 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/financial-freedom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>skills</title>
-      <link>https://kbs.murarisumit.in/tags/skills/</link>
-      <pubDate>Fri, 13 Aug 2021 23:41:17 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>success-story</title>
-      <link>https://kbs.murarisumit.in/tags/success-story/</link>
-      <pubDate>Fri, 13 Aug 2021 23:41:17 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/success-story/</guid>
       <description></description>
     </item>
     

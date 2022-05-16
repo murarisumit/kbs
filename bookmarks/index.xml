@@ -6,7 +6,65 @@
     <description>Recent content in Bookmarks on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 May 2022 01:58:48 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/bookmarks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 May 2022 08:58:40 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/bookmarks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Aws Cli Output Text</title>
+      <link>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</link>
+      <pubDate>Mon, 16 May 2022 08:58:40 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&amp;ndash;output=text will print everything within innermost [] brackets on single line.&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;To see it in action see the difference between&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;aws iam list-users --query Users&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;*&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;.&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;UserName&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;
+aws iam list-users --query &lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;Users&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;*&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;.UserName&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;For nested &lt;strong&gt;list&lt;/strong&gt; object, instead of &lt;code&gt;[*]&lt;/code&gt; use &lt;code&gt;[0]&lt;/code&gt;(individual item) for single line output.  Like here for &lt;code&gt;CacheClusters[].CacheNodes&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;To see it in action see the difference between&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;aws elasticache describe-cache-clusters   --show-cache-node-info --query CacheClusters&lt;span class=&#34;o&#34;&gt;[]&lt;/span&gt;.&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;CacheClusterId,CacheNodes&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;0&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;.Endpoint.Address&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; --output table
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;aws elasticache describe-cache-clusters   --show-cache-node-info --query CacheClusters&lt;span class=&#34;o&#34;&gt;[]&lt;/span&gt;.&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;CacheClusterId,CacheNodes&lt;span class=&#34;o&#34;&gt;[]&lt;/span&gt;.Endpoint.Address&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; --output table
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nithin Kamath of Zerodha Says True Financial Freedom Is About Acquiring Skills First Than Money</title>
+      <link>https://kbs.murarisumit.in/60cdd644ced2abd406c37a892f8386e3/</link>
+      <pubDate>Sun, 15 May 2022 23:41:17 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/60cdd644ced2abd406c37a892f8386e3/</guid>
+      <description>&lt;p&gt;This guy is simple to understand, no out of the world quotations. Can relate to him, seems like a neighbourhood elder brother(bhaiya) who you can talk to.&lt;/p&gt;
+&lt;p&gt;What he mentioned was, spend on skills. More like one message in a 3-idiot movie. Run after excellence, success will come to you. He isn&amp;rsquo;t sadhu and adds on to say to buy material assets like cars or houses. If a house gives peace of mind, improves quality of life, go buy a house. If cars make your life easy, use it.&lt;/p&gt;
+&lt;p&gt;Another important thing he mentioned is, we have to make money work for us to be financially independent and financial freedom is about being content. There are endless materialistic traps.&lt;/p&gt;
+&lt;p&gt;Just to few more bits to the post. &lt;a href=&#34;https://www.youtube.com/watch?v=kvBZjKXVyP8&amp;amp;t=399s&#34;&gt;There are three important assets&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Time&lt;/li&gt;
+&lt;li&gt;Money&lt;/li&gt;
+&lt;li&gt;Skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We need to optimise on these three bits.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Linuxify</title>
       <link>https://kbs.murarisumit.in/en/96b18098f374caabc54fa7d41fdfcecc/</link>
@@ -270,27 +328,6 @@ https://github.com/:user.atom
       <description>&lt;p&gt;This idea is really elegant to me and seeing it work is beautiful&lt;/p&gt;
 &lt;p&gt;Keeping it here for reference.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Understanding Aws Cli Output Text</title>
-      <link>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</link>
-      <pubDate>Fri, 26 Nov 2021 08:58:40 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</guid>
-      <description>&lt;p&gt;The reference post is already short and concise, but still core is &lt;strong&gt;&amp;ndash;output=text will print everything within innermost [] brackets on single line.&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;To see it in action see the difference between&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;aws iam list-users --query Users&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;*&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;.&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;UserName&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;
-aws iam list-users --query &lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;Users&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;*&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;.UserName&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -962,18 +999,6 @@ Disclaimer: Today India is in a very sad state w.r.t its culture and the same sy
       
       <guid>https://kbs.murarisumit.in/dba141a324349154865a7bdf421eee15/</guid>
       <description>&lt;p&gt;If this can&amp;rsquo;t inspire anyone, not sure what could. These guys played for around ~ 6 hours, and that&amp;rsquo;s an incredible feat of achievement.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Nithin Kamath of Zerodha Says True Financial Freedom Is About Acquiring Skills First Than Money</title>
-      <link>https://kbs.murarisumit.in/60cdd644ced2abd406c37a892f8386e3/</link>
-      <pubDate>Fri, 13 Aug 2021 23:41:17 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/60cdd644ced2abd406c37a892f8386e3/</guid>
-      <description>&lt;p&gt;This guy is simple to understand, no out of the world quotations. Can relate to him, seems like a neighbourhood elder brother(bhaiya) who you can talk to.&lt;/p&gt;
-&lt;p&gt;What he mentioned was, spend on skills. More like one message in a 3-idiot movie. Run after excellence, success will come to you. He isn&amp;rsquo;t sadhu and adds on to say to buy material assets like cars or houses. If a house gives peace of mind, improves quality of life, go buy a house. If cars make your life easy, use it.&lt;/p&gt;
-&lt;p&gt;Another important thing he mentioned is, we have to make money work for us to be financially independent and financial freedom is about being content. There are endless materialistic traps.&lt;/p&gt;
 </description>
     </item>
     
