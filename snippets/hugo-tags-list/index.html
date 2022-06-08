@@ -113,39 +113,39 @@
 </span><span class="lnt">32
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-golang" data-lang="golang"><span class="p">{{</span> <span class="k">if</span> <span class="nx">ne</span> <span class="p">.</span><span class="nx">Site</span><span class="p">.</span><span class="nx">Params</span><span class="p">.</span><span class="nx">TagsInHome</span> <span class="mi">0</span> <span class="p">}}</span>
-
-<span class="p">{{</span> <span class="err">$</span><span class="nx">randTags</span> <span class="o">:=</span> <span class="p">(</span><span class="nx">slice</span><span class="p">)}}</span>
-<span class="p">{{</span> <span class="k">range</span> <span class="err">$</span><span class="nx">name</span><span class="p">,</span> <span class="err">$</span><span class="nx">taxonomy</span> <span class="o">:=</span> <span class="p">.</span><span class="nx">Site</span><span class="p">.</span><span class="nx">Taxonomies</span><span class="p">.</span><span class="nx">tags</span> <span class="p">}}</span>
-<span class="p">{{</span> <span class="err">$</span><span class="nx">randTags</span> <span class="p">=</span> <span class="err">$</span><span class="nx">randTags</span> <span class="p">|</span> <span class="nx">append</span> <span class="err">$</span><span class="nx">name</span> <span class="p">}}</span>
-<span class="p">{{</span> <span class="nx">end</span> <span class="p">}}</span>
-<span class="p">{{</span> <span class="err">$</span><span class="nx">randTags</span> <span class="p">=</span> <span class="nf">sort</span> <span class="p">(</span><span class="nx">first</span> <span class="p">.</span><span class="nx">Site</span><span class="p">.</span><span class="nx">Params</span><span class="p">.</span><span class="nf">TagsInHome</span> <span class="p">(</span><span class="nx">shuffle</span> <span class="err">$</span><span class="nx">randTags</span><span class="p">))</span> <span class="p">}}</span>
-
-<span class="p">{{</span> <span class="k">if</span> <span class="nf">gt</span> <span class="p">(</span><span class="nx">len</span> <span class="err">$</span><span class="nx">randTags</span><span class="p">)</span> <span class="mi">1</span> <span class="p">}}</span>
-
-<span class="p">&lt;</span><span class="nx">div</span> <span class="nx">class</span><span class="p">=</span><span class="s">&#34;columns is-centered has-text-centered&#34;</span><span class="p">&gt;</span>
-    <span class="p">&lt;</span><span class="nx">div</span> <span class="nx">class</span><span class="p">=</span><span class="s">&#34;column is-10&#34;</span><span class="p">&gt;</span>
-        <span class="p">&lt;</span><span class="nx">div</span> <span class="nx">class</span><span class="p">=</span><span class="s">&#34;content&#34;</span><span class="p">&gt;</span>
-            <span class="p">&lt;</span><span class="nx">a</span> <span class="nx">href</span><span class="p">=</span><span class="s">&#34;{{ &#34;</span><span class="o">/</span><span class="nx">tags</span><span class="o">/</span><span class="s">&#34; | relURL }}&#34;</span><span class="p">&gt;</span>
-                <span class="p">&lt;</span><span class="nx">h1</span><span class="p">&gt;</span><span class="nx">Read</span> <span class="nx">articles</span> <span class="nx">by</span> <span class="nx">tags</span><span class="p">&lt;</span><span class="o">/</span><span class="nx">h1</span><span class="p">&gt;</span>
-            <span class="p">&lt;</span><span class="o">/</span><span class="nx">a</span><span class="p">&gt;</span>
-            <span class="p">&lt;</span><span class="nx">p</span> <span class="nx">class</span><span class="p">=</span><span class="s">&#34;tags-summary&#34;</span><span class="p">&gt;</span>
-                <span class="p">{{</span> <span class="k">range</span> <span class="err">$</span><span class="nx">name</span> <span class="o">:=</span> <span class="err">$</span><span class="nx">randTags</span> <span class="p">}}</span>
-                <span class="p">&lt;</span><span class="nx">a</span> <span class="nx">href</span><span class="p">=</span><span class="s">&#34;{{ &#34;</span><span class="o">/</span><span class="nx">tags</span><span class="o">/</span><span class="s">&#34; | relURL }}{{ $name | urlize }}&#34;</span><span class="p">&gt;</span>
-                    <span class="p">&lt;</span><span class="nx">span</span> <span class="nx">class</span><span class="p">=</span><span class="s">&#34;tag is-dark is-large is-rounded&#34;</span><span class="p">&gt;</span>
-                        <span class="p">{{</span> <span class="nx">replace</span> <span class="err">$</span><span class="nx">name</span> <span class="s">&#34;-&#34;</span> <span class="s">&#34; &#34;</span> <span class="p">|</span> <span class="nx">title</span> <span class="p">}}</span>
-                    <span class="p">&lt;</span><span class="o">/</span><span class="nx">span</span><span class="p">&gt;</span>
-                <span class="p">&lt;</span><span class="o">/</span><span class="nx">a</span><span class="p">&gt;</span>
-                <span class="p">{{</span> <span class="nx">end</span> <span class="p">}}</span>
-            <span class="p">&lt;</span><span class="o">/</span><span class="nx">p</span><span class="p">&gt;</span>
-        <span class="p">&lt;</span><span class="o">/</span><span class="nx">div</span><span class="p">&gt;</span>
-    <span class="p">&lt;</span><span class="o">/</span><span class="nx">div</span><span class="p">&gt;</span>
-<span class="p">&lt;</span><span class="o">/</span><span class="nx">div</span><span class="p">&gt;</span>
-<span class="p">&lt;</span><span class="nx">br</span><span class="p">&gt;</span>
-
-<span class="p">{{</span> <span class="nx">end</span> <span class="p">}}</span>
-<span class="p">{{</span> <span class="nx">end</span> <span class="p">}}</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-golang" data-lang="golang"><span class="line"><span class="cl"><span class="p">{{</span> <span class="k">if</span> <span class="nx">ne</span> <span class="p">.</span><span class="nx">Site</span><span class="p">.</span><span class="nx">Params</span><span class="p">.</span><span class="nx">TagsInHome</span> <span class="mi">0</span> <span class="p">}}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">{{</span> <span class="err">$</span><span class="nx">randTags</span> <span class="o">:=</span> <span class="p">(</span><span class="nx">slice</span><span class="p">)}}</span>
+</span></span><span class="line"><span class="cl"><span class="p">{{</span> <span class="k">range</span> <span class="err">$</span><span class="nx">name</span><span class="p">,</span> <span class="err">$</span><span class="nx">taxonomy</span> <span class="o">:=</span> <span class="p">.</span><span class="nx">Site</span><span class="p">.</span><span class="nx">Taxonomies</span><span class="p">.</span><span class="nx">tags</span> <span class="p">}}</span>
+</span></span><span class="line"><span class="cl"><span class="p">{{</span> <span class="err">$</span><span class="nx">randTags</span> <span class="p">=</span> <span class="err">$</span><span class="nx">randTags</span> <span class="p">|</span> <span class="nx">append</span> <span class="err">$</span><span class="nx">name</span> <span class="p">}}</span>
+</span></span><span class="line"><span class="cl"><span class="p">{{</span> <span class="nx">end</span> <span class="p">}}</span>
+</span></span><span class="line"><span class="cl"><span class="p">{{</span> <span class="err">$</span><span class="nx">randTags</span> <span class="p">=</span> <span class="nf">sort</span> <span class="p">(</span><span class="nx">first</span> <span class="p">.</span><span class="nx">Site</span><span class="p">.</span><span class="nx">Params</span><span class="p">.</span><span class="nf">TagsInHome</span> <span class="p">(</span><span class="nx">shuffle</span> <span class="err">$</span><span class="nx">randTags</span><span class="p">))</span> <span class="p">}}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">{{</span> <span class="k">if</span> <span class="nf">gt</span> <span class="p">(</span><span class="nx">len</span> <span class="err">$</span><span class="nx">randTags</span><span class="p">)</span> <span class="mi">1</span> <span class="p">}}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nx">div</span> <span class="nx">class</span><span class="p">=</span><span class="s">&#34;columns is-centered has-text-centered&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nx">div</span> <span class="nx">class</span><span class="p">=</span><span class="s">&#34;column is-10&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">        <span class="p">&lt;</span><span class="nx">div</span> <span class="nx">class</span><span class="p">=</span><span class="s">&#34;content&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">            <span class="p">&lt;</span><span class="nx">a</span> <span class="nx">href</span><span class="p">=</span><span class="s">&#34;{{ &#34;</span><span class="o">/</span><span class="nx">tags</span><span class="o">/</span><span class="s">&#34; | relURL }}&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">                <span class="p">&lt;</span><span class="nx">h1</span><span class="p">&gt;</span><span class="nx">Read</span> <span class="nx">articles</span> <span class="nx">by</span> <span class="nx">tags</span><span class="p">&lt;</span><span class="o">/</span><span class="nx">h1</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">            <span class="p">&lt;</span><span class="o">/</span><span class="nx">a</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">            <span class="p">&lt;</span><span class="nx">p</span> <span class="nx">class</span><span class="p">=</span><span class="s">&#34;tags-summary&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">                <span class="p">{{</span> <span class="k">range</span> <span class="err">$</span><span class="nx">name</span> <span class="o">:=</span> <span class="err">$</span><span class="nx">randTags</span> <span class="p">}}</span>
+</span></span><span class="line"><span class="cl">                <span class="p">&lt;</span><span class="nx">a</span> <span class="nx">href</span><span class="p">=</span><span class="s">&#34;{{ &#34;</span><span class="o">/</span><span class="nx">tags</span><span class="o">/</span><span class="s">&#34; | relURL }}{{ $name | urlize }}&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">                    <span class="p">&lt;</span><span class="nx">span</span> <span class="nx">class</span><span class="p">=</span><span class="s">&#34;tag is-dark is-large is-rounded&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">                        <span class="p">{{</span> <span class="nx">replace</span> <span class="err">$</span><span class="nx">name</span> <span class="s">&#34;-&#34;</span> <span class="s">&#34; &#34;</span> <span class="p">|</span> <span class="nx">title</span> <span class="p">}}</span>
+</span></span><span class="line"><span class="cl">                    <span class="p">&lt;</span><span class="o">/</span><span class="nx">span</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">                <span class="p">&lt;</span><span class="o">/</span><span class="nx">a</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">                <span class="p">{{</span> <span class="nx">end</span> <span class="p">}}</span>
+</span></span><span class="line"><span class="cl">            <span class="p">&lt;</span><span class="o">/</span><span class="nx">p</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">        <span class="p">&lt;</span><span class="o">/</span><span class="nx">div</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="o">/</span><span class="nx">div</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="o">/</span><span class="nx">div</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nx">br</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">{{</span> <span class="nx">end</span> <span class="p">}}</span>
+</span></span><span class="line"><span class="cl"><span class="p">{{</span> <span class="nx">end</span> <span class="p">}}</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>References: <a href="https://github.com/rafed/ramium/blob/master/layouts/partials/index/tag-bullet.html">https://github.com/rafed/ramium/blob/master/layouts/partials/index/tag-bullet.html</a></p>
 

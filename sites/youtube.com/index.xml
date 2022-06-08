@@ -178,13 +178,11 @@ Disclaimer: Today India is in a very sad state w.r.t its culture and the same sy
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;Bayes factor = Sensitivity / False positive
-Bayes factor =  (Probability of having cancer after test is positive) / (Probability of not having cancer after test is positive)
-
-&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Bayes factor = Sensitivity / False positive
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Bayes factor =  (Probability of having cancer after test is positive) / (Probability of not having cancer after test is positive)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;Bayes factor is also called likelihood ratio.&lt;/p&gt;
 &lt;p&gt;For above values :&lt;/p&gt;
@@ -194,7 +192,7 @@ Bayes factor =  (Probability of having cancer after test is positive) / (Probabi
 &lt;li&gt;So likelihood ratio is : 90 / 0 i.e. 10&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;So in the first case without test, there was 1% i.e. 1 in 100 that you&amp;rsquo;ve cancer without test. After the test, your chances just get updated. After test is positive your chances are:  1/100 * 10 ~ 1/10. So that is also not 100% sure now.&lt;/p&gt;
-&lt;p&gt;So for tests your symptoms, contacts, genetics all come up to increase the chance, but still not 100%, we need to remember. &lt;strong&gt;&amp;ldquo;All tests do is update the chances of having it, but not sure shot thing. Until tests are bulletproof.&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;So for tests your symptoms, contacts, genetics all come up to increase the chance, but still not 100%, we need to remember. &lt;strong&gt;&amp;ldquo;All tests do is update the chances of having it, but not sure shot thing. Until tests are bulletproof.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
 &lt;h3 id=&#34;better-to-watch-the-whole-video-above-are-just-notes-taken-from-there&#34;&gt;Better to watch the whole video, above are just notes taken from there.&lt;/h3&gt;
 &lt;p&gt;One of top comments for youtube channel&lt;/p&gt;
 &lt;blockquote&gt;

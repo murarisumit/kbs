@@ -97,10 +97,10 @@
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="k">function</span> get-instance-id<span class="o">()</span> <span class="o">{</span>
-        aws ec2 describe-instances --filters <span class="nv">Name</span><span class="o">=</span>private-ip-address,Values<span class="o">=</span><span class="nv">$1</span> --query Reservations<span class="o">[]</span>.Instances<span class="o">[]</span>.InstanceId --output text
-<span class="o">}</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="k">function</span> get-instance-id<span class="o">()</span> <span class="o">{</span>
+</span></span><span class="line"><span class="cl">        aws ec2 describe-instances --filters <span class="nv">Name</span><span class="o">=</span>private-ip-address,Values<span class="o">=</span><span class="nv">$1</span> --query Reservations<span class="o">[]</span>.Instances<span class="o">[]</span>.InstanceId --output text
+</span></span><span class="line"><span class="cl"><span class="o">}</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>To get instance id</p>
 <div class="highlight"><div class="chroma">
@@ -108,8 +108,8 @@
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">get-instance-id 192.168.1.1
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">get-instance-id 192.168.1.1
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>To fetch instance tags</p>
 <div class="highlight"><div class="chroma">
@@ -117,8 +117,8 @@
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">instance-tags i-0fd5c4df38353cd0
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">instance-tags i-0fd5c4df38353cd0
+</span></span></code></pre></td></tr></table>
 </div>
 </div>
     

@@ -96,9 +96,9 @@
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">aws iam list-users --query Users<span class="o">[</span>*<span class="o">]</span>.<span class="o">[</span>UserName<span class="o">]</span>
-aws iam list-users --query <span class="o">[</span>Users<span class="o">[</span>*<span class="o">]</span>.UserName<span class="o">]</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">aws iam list-users --query Users<span class="o">[</span>*<span class="o">]</span>.<span class="o">[</span>UserName<span class="o">]</span>
+</span></span><span class="line"><span class="cl">aws iam list-users --query <span class="o">[</span>Users<span class="o">[</span>*<span class="o">]</span>.UserName<span class="o">]</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>For nested <strong>list</strong> object, instead of <code>[*]</code> use <code>[0]</code>(individual item) for single line output.  Like here for <code>CacheClusters[].CacheNodes</code></p>
 <p>To see it in action see the difference between</p>
@@ -107,16 +107,16 @@ aws iam list-users --query <span class="o">[</span>Users<span class="o">[</span>
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">aws elasticache describe-cache-clusters   --show-cache-node-info --query CacheClusters<span class="o">[]</span>.<span class="o">[</span>CacheClusterId,CacheNodes<span class="o">[</span>0<span class="o">]</span>.Endpoint.Address<span class="o">]</span> --output table
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">aws elasticache describe-cache-clusters   --show-cache-node-info --query CacheClusters<span class="o">[]</span>.<span class="o">[</span>CacheClusterId,CacheNodes<span class="o">[</span>0<span class="o">]</span>.Endpoint.Address<span class="o">]</span> --output table
+</span></span></code></pre></td></tr></table>
 </div>
 </div><div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">aws elasticache describe-cache-clusters   --show-cache-node-info --query CacheClusters<span class="o">[]</span>.<span class="o">[</span>CacheClusterId,CacheNodes<span class="o">[]</span>.Endpoint.Address<span class="o">]</span> --output table
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">aws elasticache describe-cache-clusters   --show-cache-node-info --query CacheClusters<span class="o">[]</span>.<span class="o">[</span>CacheClusterId,CacheNodes<span class="o">[]</span>.Endpoint.Address<span class="o">]</span> --output table
+</span></span></code></pre></td></tr></table>
 </div>
 </div>
     

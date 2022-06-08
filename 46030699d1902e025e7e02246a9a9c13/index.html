@@ -100,10 +100,10 @@
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">ls -f <span class="p">|</span> xargs -I % -p <span class="nb">echo</span> <span class="s2">&#34;testxargs-%&#34;</span>
-ls -f <span class="p">|</span> xargs -I <span class="o">{}</span> /bin/bash -c <span class="s1">&#39;echo test1-{}; echo test2-{}&#39;</span>
-ls -f <span class="p">|</span> xargs -I % /bin/bash -c <span class="s1">&#39;echo test1-%; echo test2-%&#39;</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">ls -f <span class="p">|</span> xargs -I % -p <span class="nb">echo</span> <span class="s2">&#34;testxargs-%&#34;</span>
+</span></span><span class="line"><span class="cl">ls -f <span class="p">|</span> xargs -I <span class="o">{}</span> /bin/bash -c <span class="s1">&#39;echo test1-{}; echo test2-{}&#39;</span>
+</span></span><span class="line"><span class="cl">ls -f <span class="p">|</span> xargs -I % /bin/bash -c <span class="s1">&#39;echo test1-%; echo test2-%&#39;</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><ul>
 <li><code>ls -f</code>: List all files</li>
