@@ -6,7 +6,37 @@
     <description>Recent content on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 May 2022 08:58:40 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jun 2022 10:24:27 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xargs Command Snippets</title>
+      <link>https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/</link>
+      <pubDate>Mon, 13 Jun 2022 10:24:27 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/</guid>
+      <description>&lt;p&gt;Simple command snippet that most likely be used imo would be.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ls -f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; xargs -I % -p &lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;testxargs-%&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ls -f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; xargs -I &lt;span class=&#34;o&#34;&gt;{}&lt;/span&gt; /bin/bash -c &lt;span class=&#34;s1&#34;&gt;&amp;#39;echo test1-{}; echo test2-{}&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ls -f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; xargs -I % /bin/bash -c &lt;span class=&#34;s1&#34;&gt;&amp;#39;echo test1-%; echo test2-%&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ls -f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; xargs -i -pt &lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;testxargs-{}&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ls -f&lt;/code&gt;: List all files&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-I&lt;/code&gt; allows you to get the output into a placeholder.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-p&lt;/code&gt; print a confirmation prompt with the action it’s going to take:&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-t&lt;/code&gt; print command line on the stderr before executing it.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
     <item>
       <title>Understanding Aws Cli Output Text</title>
       <link>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</link>
@@ -531,33 +561,6 @@ The hyphen has two effects:
 &lt;p&gt;Reference&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://wiki.archlinux.org/title/Su&#34;&gt;https://wiki.archlinux.org/title/Su&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Xargs Command Snippets</title>
-      <link>https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/</link>
-      <pubDate>Fri, 12 Nov 2021 10:24:27 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/</guid>
-      <description>&lt;p&gt;Simple command snippet that most likely be used imo would be.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ls -f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; xargs -I % -p &lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;testxargs-%&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ls -f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; xargs -I &lt;span class=&#34;o&#34;&gt;{}&lt;/span&gt; /bin/bash -c &lt;span class=&#34;s1&#34;&gt;&amp;#39;echo test1-{}; echo test2-{}&amp;#39;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ls -f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; xargs -I % /bin/bash -c &lt;span class=&#34;s1&#34;&gt;&amp;#39;echo test1-%; echo test2-%&amp;#39;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;ls -f&lt;/code&gt;: List all files&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;-I&lt;/code&gt; allows you to get the output into a placeholder.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;-p&lt;/code&gt; print a confirmation prompt with the action it’s going to take:&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

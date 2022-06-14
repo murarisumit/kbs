@@ -6,7 +6,43 @@
     <description>Recent content in Tags on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 May 2022 08:58:40 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jun 2022 10:24:27 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cli</title>
+      <link>https://kbs.murarisumit.in/tags/cli/</link>
+      <pubDate>Mon, 13 Jun 2022 10:24:27 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gnu-utils</title>
+      <link>https://kbs.murarisumit.in/tags/gnu-utils/</link>
+      <pubDate>Mon, 13 Jun 2022 10:24:27 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/gnu-utils/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://kbs.murarisumit.in/tags/linux/</link>
+      <pubDate>Mon, 13 Jun 2022 10:24:27 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>snippets</title>
+      <link>https://kbs.murarisumit.in/tags/snippets/</link>
+      <pubDate>Mon, 13 Jun 2022 10:24:27 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/snippets/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>aws</title>
       <link>https://kbs.murarisumit.in/tags/aws/</link>
@@ -386,47 +422,11 @@
     </item>
     
     <item>
-      <title>linux</title>
-      <link>https://kbs.murarisumit.in/tags/linux/</link>
-      <pubDate>Wed, 17 Nov 2021 09:25:52 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>tips-and-tricks</title>
       <link>https://kbs.murarisumit.in/tags/tips-and-tricks/</link>
       <pubDate>Wed, 17 Nov 2021 09:25:52 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/tips-and-tricks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cli</title>
-      <link>https://kbs.murarisumit.in/tags/cli/</link>
-      <pubDate>Fri, 12 Nov 2021 10:24:27 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/cli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gnu-utils</title>
-      <link>https://kbs.murarisumit.in/tags/gnu-utils/</link>
-      <pubDate>Fri, 12 Nov 2021 10:24:27 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/gnu-utils/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>snippets</title>
-      <link>https://kbs.murarisumit.in/tags/snippets/</link>
-      <pubDate>Fri, 12 Nov 2021 10:24:27 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/snippets/</guid>
       <description></description>
     </item>
     
