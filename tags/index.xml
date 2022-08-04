@@ -6,7 +6,43 @@
     <description>Recent content in Tags on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jun 2022 10:24:27 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Aug 2022 15:22:02 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>macos</title>
+      <link>https://kbs.murarisumit.in/tags/macos/</link>
+      <pubDate>Thu, 04 Aug 2022 15:22:02 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/macos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>free</title>
+      <link>https://kbs.murarisumit.in/tags/free/</link>
+      <pubDate>Sun, 03 Jul 2022 00:47:21 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/free/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS</title>
+      <link>https://kbs.murarisumit.in/tags/ios/</link>
+      <pubDate>Sun, 03 Jul 2022 00:47:21 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rss-feeds</title>
+      <link>https://kbs.murarisumit.in/tags/rss-feeds/</link>
+      <pubDate>Sun, 03 Jul 2022 00:47:21 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/tags/rss-feeds/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>cli</title>
       <link>https://kbs.murarisumit.in/tags/cli/</link>
@@ -107,15 +143,6 @@
     </item>
     
     <item>
-      <title>macos</title>
-      <link>https://kbs.murarisumit.in/tags/macos/</link>
-      <pubDate>Mon, 09 May 2022 01:58:48 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/macos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>bash</title>
       <link>https://kbs.murarisumit.in/tags/bash/</link>
       <pubDate>Mon, 09 May 2022 01:42:17 +0530</pubDate>
@@ -193,15 +220,6 @@
       <pubDate>Mon, 13 Dec 2021 22:00:12 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rss-feeds</title>
-      <link>https://kbs.murarisumit.in/tags/rss-feeds/</link>
-      <pubDate>Mon, 13 Dec 2021 22:00:12 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tags/rss-feeds/</guid>
       <description></description>
     </item>
     

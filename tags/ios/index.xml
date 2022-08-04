@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iOS on knowledge base</title>
+    <link>https://kbs.murarisumit.in/tags/ios/</link>
+    <description>Recent content in iOS on knowledge base</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jul 2022 00:47:21 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rss Reader</title>
+      <link>https://kbs.murarisumit.in/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</link>
+      <pubDate>Sun, 03 Jul 2022 00:47:21 +0530</pubDate>
+      
+      <guid>https://kbs.murarisumit.in/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</guid>
+      <description>&lt;p&gt;Open Sourcs RSS Reader that works on iOS ecosystem.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+
