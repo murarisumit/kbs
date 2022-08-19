@@ -7,6 +7,8 @@
     
 
     <script src="/js/utils/age.js"> </script>
+    <link disabled id="dark-mode-theme" rel="stylesheet" href="/css/dark.css">
+
     
 <title itemprop="name">2022 | knowledge base</title>
 <meta property="og:title" content="2022 | knowledge base" />
@@ -47,17 +49,19 @@
 
 <meta name="google-site-verification" content="vMDgOhLZPfcUkSeRsE8eaC34ESeVXglclKEN7F0us78" />
 </head>
+
     <body onload="update_post_age()">
         <header id="header">
     <h1><a href="https://kbs.murarisumit.in/">knowledge base</a></h1>
     <nav>
         <ul>
+	    <li><a id="dark-mode-toggle" class="fal fa-moon-o">&#9775</a> </li>
             <li><a href="/tags">tags</a></li>
             <li><a href="/archives.html">archives</a></li>
-            <li><a href="https://stackoverflow.com/users/story/2735833" target="_blank">me</a></li>
         </ul>
     </nav>
 </header>
+
         <main id="main">
           
   
@@ -198,8 +202,10 @@
 
 <link rel="stylesheet" href="/css/sharingbuttons.css" />
 
+<script src="/js/utils/darkmode.js"> </script>
 <link rel="stylesheet" href="/css/override.css">
 <link rel="shortcut icon" href="/favicon.ico" />
+
           </footer>
         </main>
     </body>
