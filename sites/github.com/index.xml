@@ -5,7 +5,7 @@
     <link>https://kbs.murarisumit.in/sites/github.com/</link>
     <description>Recent content in github.com on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 04 Aug 2022 15:22:02 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/github.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Macos App Switcher</title>
@@ -43,7 +43,8 @@
       <pubDate>Sun, 03 Jul 2022 00:47:21 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</guid>
-      <description>&lt;p&gt;Open Sourcs RSS Reader that works on iOS ecosystem.&lt;/p&gt;
+      <description>&lt;p&gt;Personally I prefer &lt;a href=&#34;https://www.reederapp.com&#34;&gt;reederapp&lt;/a&gt;. It has built-in RSS feeds, beautiful interface and sync across devices.&lt;/p&gt;
+&lt;p&gt;But if someone is looking for Open Sourcs RSS Reader that works on iOS ecosystem, then &lt;a href=&#34;https://netnewswire.com&#34;&gt;netnewswire&lt;/a&gt; is good option without putting lot of money before locking into RSS.&lt;/p&gt;
 </description>
     </item>
     
@@ -151,6 +152,7 @@
       
       <guid>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</guid>
       <description>&lt;p&gt;A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.&lt;/p&gt;
+&lt;p&gt;Not only for security professionals, but also for developers, operators, and architects who are interested in learning about K8s security.&lt;/p&gt;
 </description>
     </item>
     

@@ -143,7 +143,7 @@
 
         
         
-        <a class="resp-sharing-button__link" href="mailto:?subject=Awscli%20snippets&amp;body=Fetch%20running%20instance%20with%20their%20private%20IP%201%20%20aws%20ec2%20describe-instances%20--query%20%26%2339%3bReservations%5b%2a%5d.Instances%5b%2a%5d.%5bNetworkInterfaces%5b0%5d.PrivateIpAddresses%5b0%5d.PrivateIpAddress%2cTags%5b%3fKey%3d%3d%60Name%60%5d.Value%7c%20%5b0%5d%5d%26%2339%3b%20--filters%20%26%2334%3bName%3dinstance-state-name%2cValues%3drunning%26%2334%3b%20%26%2334%3bName%3dtag%3aenvironment%2cValues%3dproduction%26%2334%3b%20--output%20text%20%20%20Fetch%20running%20instance%20for%20given%20tag%201%20%20aws%20ec2%20describe-instances%20--output%20table%20--query%20%26%2339%3bReservations%5b%5d.Instances%5b%5d.%5bTags%5b%3fKey%3d%3d%60Name%60%5d%20%7c%20%5b0%5d.Value%2c%20State.Name%5d%26%2339%3b%20--filters%20Name%3dinstance-state-name%2cValues%3drunning%20Name%3dtag%3abilling%2cValues%3ddevops%20%20%20Fetch%20AMI-ID%20and%20Name%20start%20with%20given%20Name%201%20%20aws%20ec2%20describe-images%20--query%20%26%2339%3bImages%5b%5d.%5bTags%5b%3fKey%3d%3d%60Name%60%5d%20%7c%20%5b0%5d.Value%2cImageId%5d%26%2339%3b%20--filters%20%26%2339%3bName%3dtag%3aName%2cValues%3dfunky-name-%2a%26%2339%3b%20--output%20text%20%20%20Linked%20post%3a" target="_self" rel="noopener" aria-label="Share by E-Mail">
+        <a class="resp-sharing-button__link" href="mailto:?subject=Awscli%20snippets&amp;body=Fetch%20running%20instance%20with%20their%20private%20IP%201%20aws%20ec2%20describe-instances%20--query%20%26%2339%3bReservations%5b%2a%5d.Instances%5b%2a%5d.%5bNetworkInterfaces%5b0%5d.PrivateIpAddresses%5b0%5d.PrivateIpAddress%2cTags%5b%3fKey%3d%3d%60Name%60%5d.Value%7c%20%5b0%5d%5d%26%2339%3b%20--filters%20%26%2334%3bName%3dinstance-state-name%2cValues%3drunning%26%2334%3b%20%26%2334%3bName%3dtag%3aenvironment%2cValues%3dproduction%26%2334%3b%20--output%20text%20Fetch%20running%20instance%20for%20given%20tag%201%20aws%20ec2%20describe-instances%20--output%20table%20--query%20%26%2339%3bReservations%5b%5d.Instances%5b%5d.%5bTags%5b%3fKey%3d%3d%60Name%60%5d%20%7c%20%5b0%5d.Value%2c%20State.Name%5d%26%2339%3b%20--filters%20Name%3dinstance-state-name%2cValues%3drunning%20Name%3dtag%3abilling%2cValues%3ddevops%20Fetch%20AMI-ID%20and%20Name%20start%20with%20given%20Name%201%20aws%20ec2%20describe-images%20--query%20%26%2339%3bImages%5b%5d.%5bTags%5b%3fKey%3d%3d%60Name%60%5d%20%7c%20%5b0%5d.Value%2cImageId%5d%26%2339%3b%20--filters%20%26%2339%3bName%3dtag%3aName%2cValues%3dfunky-name-%2a%26%2339%3b%20--output%20text%20Linked%20post%3a%0aUnderstanding%20text%20output%20for%20awscli%20Reference%3a%0ahttps%3a%2f%2fstackoverflow.com%2fquestions%2f23936216%2fhow-can-i-get-list-of-only-running-instances-when-using-ec2-describe-tags%20" target="_self" rel="noopener" aria-label="Share by E-Mail">
             <div class="resp-sharing-button resp-sharing-button--email resp-sharing-button--large"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 4H2C.9 4 0 4.9 0 6v12c0 1.1.9 2 2 2h20c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zM7.25 14.43l-3.5 2c-.08.05-.17.07-.25.07-.17 0-.34-.1-.43-.25-.14-.24-.06-.55.18-.68l3.5-2c.24-.14.55-.06.68.18.14.24.06.55-.18.68zm4.75.07c-.1 0-.2-.03-.27-.08l-8.5-5.5c-.23-.15-.3-.46-.15-.7.15-.22.46-.3.7-.14L12 13.4l8.23-5.32c.23-.15.54-.08.7.15.14.23.07.54-.16.7l-8.5 5.5c-.08.04-.17.07-.27.07zm8.93 1.75c-.1.16-.26.25-.43.25-.08 0-.17-.02-.25-.07l-3.5-2c-.24-.13-.32-.44-.18-.68s.44-.32.68-.18l3.5 2c.24.13.32.44.18.68z"/></svg></div>Share by E-Mail</div>
         </a>
@@ -159,7 +159,23 @@
 </div>
  <br />
 <div>
-    <center>For feedbacks: <a href="mailto: email@murarisumit.in?subject=https://kbs.murarisumit.in/ : Awscli%20snippets"> email@murarisumit.in</a> </center>
+    <center>For feedbacks via email: <a href="mailto: email@murarisumit.in?subject=https%3a%2f%2fkbs.murarisumit.in%2f : Awscli%20snippets"> email@murarisumit.in</a> </center>
+    <script src="https://giscus.app/client.js"
+        data-repo="murarisumit/kbs"
+        data-repo-id="MDEwOlJlcG9zaXRvcnkyNjQ2NzYwMzI="
+        data-category="General"
+        data-category-id="DIC_kwDOD8aiwM4CdrGK"
+        data-mapping="title"
+        data-strict="1"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+    </script>
 </div> <br />
 
           

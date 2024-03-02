@@ -5,7 +5,7 @@
     <link>https://kbs.murarisumit.in/tags/awesome-lists/</link>
     <description>Recent content in awesome-lists on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Wed, 20 Oct 2021 08:25:31 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/awesome-lists/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post Your Startup</title>
@@ -61,6 +61,7 @@
       
       <guid>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</guid>
       <description>&lt;p&gt;A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.&lt;/p&gt;
+&lt;p&gt;Not only for security professionals, but also for developers, operators, and architects who are interested in learning about K8s security.&lt;/p&gt;
 </description>
     </item>
     
