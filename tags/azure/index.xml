@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>azure on knowledge base</title>
+    <title>Azure on knowledge base</title>
     <link>https://kbs.murarisumit.in/tags/azure/</link>
-    <description>Recent content in azure on knowledge base</description>
+    <description>Recent content in Azure on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 02 Aug 2021 02:29:18 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/azure/index.xml" rel="self" type="application/rss+xml" />

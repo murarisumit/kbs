@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gist.github.com on knowledge base</title>
+    <title>Gist.github.com on knowledge base</title>
     <link>https://kbs.murarisumit.in/sites/gist.github.com/</link>
-    <description>Recent content in gist.github.com on knowledge base</description>
+    <description>Recent content in Gist.github.com on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 03 Nov 2021 15:12:43 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/gist.github.com/index.xml" rel="self" type="application/rss+xml" />

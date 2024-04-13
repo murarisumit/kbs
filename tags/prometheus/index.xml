@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>prometheus on knowledge base</title>
+    <title>Prometheus on knowledge base</title>
     <link>https://kbs.murarisumit.in/tags/prometheus/</link>
-    <description>Recent content in prometheus on knowledge base</description>
+    <description>Recent content in Prometheus on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 23 Jun 2020 16:53:01 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/prometheus/index.xml" rel="self" type="application/rss+xml" />

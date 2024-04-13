@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sre/devops on knowledge base</title>
+    <title>Sre/Devops on knowledge base</title>
     <link>https://kbs.murarisumit.in/tags/sre/devops/</link>
-    <description>Recent content in sre/devops on knowledge base</description>
+    <description>Recent content in Sre/Devops on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://kbs.murarisumit.in/tags/sre/devops/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Nov 2021 21:00:55 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/sre/devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Does 9s Mean in Downtime</title>
       <link>https://kbs.murarisumit.in/ec9cc6baa4890df4cb5e5dc561d60e43/</link>

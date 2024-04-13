@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2024-03 on knowledge base</title>
-    <link>https://kbs.murarisumit.in/month/2024-03/</link>
+    <link>http://localhost:1313/month/2024-03/</link>
     <description>Recent content in 2024-03 on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Mar 2024 02:29:46 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/month/2024-03/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Mar 2024 02:29:46 +0530</lastBuildDate><atom:link href="http://localhost:1313/month/2024-03/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Bookmark2</title>
-      <link>https://kbs.murarisumit.in/en/3892b243cd867dd866a405ece525e06d/</link>
+      <link>http://localhost:1313/en/3892b243cd867dd866a405ece525e06d/</link>
       <pubDate>Sun, 03 Mar 2024 02:29:46 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/en/3892b243cd867dd866a405ece525e06d/</guid>
+      <guid>http://localhost:1313/en/3892b243cd867dd866a405ece525e06d/</guid>
       <description></description>
     </item>
     

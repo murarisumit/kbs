@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>golang on knowledge base</title>
+    <title>Golang on knowledge base</title>
     <link>https://kbs.murarisumit.in/tags/golang/</link>
-    <description>Recent content in golang on knowledge base</description>
+    <description>Recent content in Golang on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 27 Oct 2021 16:32:43 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/golang/index.xml" rel="self" type="application/rss+xml" />

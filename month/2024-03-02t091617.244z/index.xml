@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2024-03-02T09:16:17.244Z on knowledge base</title>
+    <link>http://localhost:1313/month/2024-03-02t091617.244z/</link>
+    <description>Recent content in 2024-03-02T09:16:17.244Z on knowledge base</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 Mar 2024 09:16:17 +0000</lastBuildDate><atom:link href="http://localhost:1313/month/2024-03-02t091617.244z/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test-bookmark-frontmatter</title>
+      <link>http://localhost:1313/bookmarks/2024-03-02-test-bookmark-frontmatter/</link>
+      <pubDate>Sat, 02 Mar 2024 09:16:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/bookmarks/2024-03-02-test-bookmark-frontmatter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
+
