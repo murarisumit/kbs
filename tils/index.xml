@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tils on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tils/</link>
+    <link>http://localhost:1313/tils/</link>
     <description>Recent content in Tils on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Nov 2021 13:05:44 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tils/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Nov 2021 13:05:44 +0530</lastBuildDate><atom:link href="http://localhost:1313/tils/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understand How Cloth Is Made</title>
-      <link>https://kbs.murarisumit.in/9d01b610df2e9fb18d7aa175fa879285/</link>
+      <link>http://localhost:1313/9d01b610df2e9fb18d7aa175fa879285/</link>
       <pubDate>Fri, 19 Nov 2021 13:05:44 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/9d01b610df2e9fb18d7aa175fa879285/</guid>
+      <guid>http://localhost:1313/9d01b610df2e9fb18d7aa175fa879285/</guid>
       <description>&lt;p&gt;So while shopping for my pajyamas today, was thinking how this cloth is made. After searching on youtube these few videos made it easier to understand.&lt;/p&gt;
 &lt;p&gt;First part is getting raw, either by cotton tree, or silk worm or cashmere/kashmir goats or sheeps etc.&lt;/p&gt;
 &lt;h4 id=&#34;on-simple-human-level&#34;&gt;On simple human level&lt;/h4&gt;
@@ -23,11 +23,52 @@
     </item>
     
     <item>
+      <title>How to Handle Difficult Conversations</title>
+      <link>http://localhost:1313/902781fdc500bf70b3f42eb1c2d67ae6/</link>
+      <pubDate>Tue, 31 Aug 2021 13:31:22 +0530</pubDate>
+      
+      <guid>http://localhost:1313/902781fdc500bf70b3f42eb1c2d67ae6/</guid>
+      <description>&lt;p&gt;I.AM.CALM model for handling difficult convesation, learnt it in grab, and found it helpful.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;How do you handle difficult conversations with empathy and kindness? :thinking_face: Try the I.AM.CALM model below:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I = Intent should be positive&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Phrase your intentions by sharing &lt;!-- raw HTML omitted --&gt; AND &lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;A = Assumptions&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify your bias and ask questions to know the full story&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;M = Make it safe&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Encourage a safe environment by apologizing for your mistakes (if any) and establishing a mutual purpose.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;C = Clarify the facts&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Separate fact from fiction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;A = Ask for other&amp;rsquo;s viewpoint&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ask open ended questions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;L = Listening&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Paraphrase what you think the other person meant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;M = Manage Resolution &amp;amp; Action&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Explore win-win solutions and agree on next steps&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Cross Referencing Hugo</title>
-      <link>https://kbs.murarisumit.in/a8aa80afb3e281cf2246df975fef9aa8/</link>
+      <link>http://localhost:1313/a8aa80afb3e281cf2246df975fef9aa8/</link>
       <pubDate>Sun, 15 Aug 2021 07:21:07 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/a8aa80afb3e281cf2246df975fef9aa8/</guid>
+      <guid>http://localhost:1313/a8aa80afb3e281cf2246df975fef9aa8/</guid>
       <description>&lt;p&gt;In my blog, have started to cross-refernce now. Hugo has got support for this and designed in such a way that really make sense to me.&lt;/p&gt;
 &lt;p&gt;Documentation for this is here: &lt;a href=&#34;https://gohugo.io/content-management/cross-references/&#34;&gt;https://gohugo.io/content-management/cross-references/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;So to reference some post, you need to know about &lt;strong&gt;file path of that post&lt;/strong&gt;. Proper reading would have made it easier but spent around 2hrs for this stupid things.&lt;/p&gt;
@@ -42,10 +83,10 @@
     
     <item>
       <title>Trust Your Instincts Instead of Hearsay</title>
-      <link>https://kbs.murarisumit.in/tils/trust-your-instincts-instead-of-hearsay/</link>
+      <link>http://localhost:1313/tils/trust-your-instincts-instead-of-hearsay/</link>
       <pubDate>Sat, 07 Aug 2021 02:33:04 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tils/trust-your-instincts-instead-of-hearsay/</guid>
+      <guid>http://localhost:1313/tils/trust-your-instincts-instead-of-hearsay/</guid>
       <description>&lt;p&gt;More my understanding of the world grows by reading various prophecies people have made before, makes me realize that there is no point in taking hearsay seriously, be it from news channels, be it anywhere else. No one knows the future, it&amp;rsquo;s so obvious, still people are into prediction/criticism business and  it&amp;rsquo;s working well too.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;In 1909 Washington Post wrote &amp;ldquo;There will never be such a thing as commercial aerial freighters. Freight will continue to drag it&amp;rsquo;s slow weight across the patient path&amp;rdquo;.&lt;/p&gt;
@@ -58,10 +99,10 @@
     
     <item>
       <title>Leaving current org, risk and rewards</title>
-      <link>https://kbs.murarisumit.in/tils/leaving-exising-org-risk-rewards/</link>
+      <link>http://localhost:1313/tils/leaving-exising-org-risk-rewards/</link>
       <pubDate>Thu, 29 Jul 2021 09:34:57 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tils/leaving-exising-org-risk-rewards/</guid>
+      <guid>http://localhost:1313/tils/leaving-exising-org-risk-rewards/</guid>
       <description>&lt;p&gt;Background:&lt;/p&gt;
 &lt;p&gt;There have been few things and also got new opportunities hence been planning to leave the existing org, meanwhile was having discussion my mentor(will ask him if I can put his name here) about my change and got really nice quote from him
 While changing of jobs you need to think in terms of &lt;strong&gt;risk and reward&lt;/strong&gt;, and also one side quote &lt;code&gt;the devil you know is better than one you don&#39;t.&lt;/code&gt; (don&amp;rsquo;t&amp;rsquo; mean literal &lt;code&gt;devil&lt;/code&gt; here but hope you understand meaning behind quote)&lt;/p&gt;
@@ -75,10 +116,10 @@ While changing of jobs you need to think in terms of &lt;strong&gt;risk and rewa
     
     <item>
       <title>Git via Email Getting Started</title>
-      <link>https://kbs.murarisumit.in/tils/git-via-email-getting-started/</link>
+      <link>http://localhost:1313/tils/git-via-email-getting-started/</link>
       <pubDate>Sat, 01 Aug 2020 03:01:28 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tils/git-via-email-getting-started/</guid>
+      <guid>http://localhost:1313/tils/git-via-email-getting-started/</guid>
       <description>&lt;p&gt;Simple way to that is via:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -142,10 +183,10 @@ While changing of jobs you need to think in terms of &lt;strong&gt;risk and rewa
     
     <item>
       <title>Strace Command Snippets</title>
-      <link>https://kbs.murarisumit.in/tils/strace-command-snippets/</link>
+      <link>http://localhost:1313/tils/strace-command-snippets/</link>
       <pubDate>Wed, 29 Jul 2020 20:22:24 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tils/strace-command-snippets/</guid>
+      <guid>http://localhost:1313/tils/strace-command-snippets/</guid>
       <description>&lt;p&gt;Strace is really nice command to see what system calls are being used, it&amp;rsquo;s primary used as debugging tools for linux system calls&lt;/p&gt;
 &lt;p&gt;Q: &lt;strong&gt;What is a &amp;ldquo;system call&amp;rdquo;&lt;/strong&gt; ?&lt;/p&gt;
 &lt;p&gt;A: System calls are interface via which user-space program interact with system using linux kernel.&lt;/p&gt;
@@ -185,10 +226,10 @@ While changing of jobs you need to think in terms of &lt;strong&gt;risk and rewa
     
     <item>
       <title>Simplified view on How Certificate Signing works</title>
-      <link>https://kbs.murarisumit.in/tils/how-certificate-signing-works/</link>
+      <link>http://localhost:1313/tils/how-certificate-signing-works/</link>
       <pubDate>Tue, 21 Jul 2020 05:06:45 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tils/how-certificate-signing-works/</guid>
+      <guid>http://localhost:1313/tils/how-certificate-signing-works/</guid>
       <description>&lt;p&gt;Reference: &lt;a href=&#34;https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/&#34;&gt;https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;steps-for-signing-certificate-by-ca&#34;&gt;Steps for signing certificate by CA&lt;/h4&gt;
 &lt;ol&gt;
@@ -235,10 +276,10 @@ While changing of jobs you need to think in terms of &lt;strong&gt;risk and rewa
     
     <item>
       <title>Intro to DAC</title>
-      <link>https://kbs.murarisumit.in/tils/intro-to-dac/</link>
+      <link>http://localhost:1313/tils/intro-to-dac/</link>
       <pubDate>Mon, 20 Jul 2020 08:20:54 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tils/intro-to-dac/</guid>
+      <guid>http://localhost:1313/tils/intro-to-dac/</guid>
       <description>&lt;p&gt;It all started from here and bit before, but this was final trigger for me to write: &lt;a href=&#34;https://www.youtube.com/watch?v=Dhrv-O9sivI&#34;&gt;https://www.youtube.com/watch?v=Dhrv-O9sivI&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;DAC stands for Digital to Analog convertor.&lt;/p&gt;
 &lt;p&gt;So music we store in USB or CD is stored in digital medium, and music is analog we hear, so we need some component to convert it to analog, and that&amp;rsquo;s DAC.&lt;/p&gt;
@@ -249,10 +290,10 @@ While changing of jobs you need to think in terms of &lt;strong&gt;risk and rewa
     
     <item>
       <title>Moments: Breakfast With Champions</title>
-      <link>https://kbs.murarisumit.in/tils/moments-breakfast-with-champions/</link>
+      <link>http://localhost:1313/tils/moments-breakfast-with-champions/</link>
       <pubDate>Wed, 24 Jun 2020 12:17:11 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tils/moments-breakfast-with-champions/</guid>
+      <guid>http://localhost:1313/tils/moments-breakfast-with-champions/</guid>
       <description>&lt;h3 id=&#34;hayden--httpswwwyoutubecomwatchvcfksytfzy5m&#34;&gt;Hayden:  &lt;a href=&#34;https://www.youtube.com/watch?v=cfksYTFzY5M&#34;&gt;https://www.youtube.com/watch?v=cfksYTFzY5M&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Point is made was cricket was a big threatre for him, and live broadcasted threatre. He gave his performance and fine. I didn&amp;rsquo;t saw cricket or any game on those lines before. He made it feel like art form.&lt;/p&gt;
 &lt;h3 id=&#34;brett-lee-httpswwwyoutubecomwatchvhl0wc6taokit&#34;&gt;Brett Lee: &lt;a href=&#34;https://www.youtube.com/watch?v=Hl0Wc6TaokI&amp;t&#34;&gt;https://www.youtube.com/watch?v=Hl0Wc6TaokI&amp;t&lt;/a&gt;&lt;/h3&gt;
@@ -268,10 +309,10 @@ While changing of jobs you need to think in terms of &lt;strong&gt;risk and rewa
     
     <item>
       <title>Do Work With Joy</title>
-      <link>https://kbs.murarisumit.in/tils/do-work-with-joy/</link>
+      <link>http://localhost:1313/tils/do-work-with-joy/</link>
       <pubDate>Sat, 13 Jun 2020 17:43:03 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tils/do-work-with-joy/</guid>
+      <guid>http://localhost:1313/tils/do-work-with-joy/</guid>
       <description>&lt;p&gt;Don&amp;rsquo;t give up because it&amp;rsquo;s hard, if you love it: &amp;ldquo;do it&amp;rdquo;. It has to be done with joy, there is no point of adding more misery to our little world&lt;/p&gt;
 &lt;p&gt;Work should be done because you want to do it, you like it. It would bring best from you, else whole point of living life miserably doesn&amp;rsquo;t make sense.
 No point of doing work which you don&amp;rsquo;t like in life, that life is not a full life, and life should be lived fully, joyfully.&lt;/p&gt;
@@ -281,10 +322,10 @@ No point of doing work which you don&amp;rsquo;t like in life, that life is not 
     
     <item>
       <title>Abrahamic History, Lengend and Mythology</title>
-      <link>https://kbs.murarisumit.in/tils/abrahamic-history-lengend-mythology/</link>
+      <link>http://localhost:1313/tils/abrahamic-history-lengend-mythology/</link>
       <pubDate>Fri, 05 Jun 2020 02:37:08 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tils/abrahamic-history-lengend-mythology/</guid>
+      <guid>http://localhost:1313/tils/abrahamic-history-lengend-mythology/</guid>
       <description>&lt;p&gt;There is set of religions that come from Abrahim. I was trying to understand how they all are related.&lt;/p&gt;
 &lt;p&gt;There are three abrahamic religions&lt;/p&gt;
 &lt;ul&gt;
@@ -339,10 +380,10 @@ Jacob is said to have had twelve sons by four women, his wives, Leah and Rachel,
     
     <item>
       <title>CSS id vs class</title>
-      <link>https://kbs.murarisumit.in/tils/css-id-vs-class/</link>
+      <link>http://localhost:1313/tils/css-id-vs-class/</link>
       <pubDate>Mon, 01 Jun 2020 13:42:43 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tils/css-id-vs-class/</guid>
+      <guid>http://localhost:1313/tils/css-id-vs-class/</guid>
       <description>&lt;p&gt;Simple CSS question while working on resume project, is when to use id and when to use class.&lt;/p&gt;
 &lt;p&gt;First thing to know about IDs:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -357,10 +398,10 @@ Jacob is said to have had twelve sons by four women, his wives, Leah and Rachel,
     
     <item>
       <title>IPv4 Link Local</title>
-      <link>https://kbs.murarisumit.in/tils/ipv4-link-local/</link>
+      <link>http://localhost:1313/tils/ipv4-link-local/</link>
       <pubDate>Mon, 25 May 2020 09:24:33 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tils/ipv4-link-local/</guid>
+      <guid>http://localhost:1313/tils/ipv4-link-local/</guid>
       <description>&lt;p&gt;To participate in wide-area IP networking, a host needs to be
 configured with IP addresses for its interfaces, either manually by
 the user or automatically from a source on the network such as a
@@ -402,10 +443,10 @@ mentioned in RFC &lt;a href=&#34;https://tools.ietf.org/html/rfc3927&#34;&gt;392
     
     <item>
       <title>KISS</title>
-      <link>https://kbs.murarisumit.in/tils/kiss/</link>
+      <link>http://localhost:1313/tils/kiss/</link>
       <pubDate>Thu, 21 May 2020 19:18:04 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tils/kiss/</guid>
+      <guid>http://localhost:1313/tils/kiss/</guid>
       <description>&lt;p&gt;KISS is an acronym for &amp;ldquo;Keep it simple stupid&amp;rdquo; (notice &lt;em&gt;no&lt;/em&gt; comma).&lt;/p&gt;
 &lt;p&gt;Stupid does not refer to the user. To quote Wikipedia:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -429,10 +470,10 @@ things break and the sophistication available to repair them.&lt;/p&gt;
     
     <item>
       <title>Change Orientation of an Image</title>
-      <link>https://kbs.murarisumit.in/tils/change-orientation-of-an-image/</link>
+      <link>http://localhost:1313/tils/change-orientation-of-an-image/</link>
       <pubDate>Sun, 17 May 2020 17:30:23 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tils/change-orientation-of-an-image/</guid>
+      <guid>http://localhost:1313/tils/change-orientation-of-an-image/</guid>
       <description>&lt;p&gt;A single-line CSS transform is all it takes to change the orientation of an
 image (or any DOM element, really).&lt;/p&gt;
 &lt;p&gt;For instance, if I have an image that is &lt;em&gt;on its side&lt;/em&gt;, I can use the following

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stocks on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/stocks/</link>
+    <link>http://localhost:1313/tags/stocks/</link>
     <description>Recent content in Stocks on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Feb 2022 10:01:50 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/stocks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Feb 2022 10:01:50 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/stocks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Decision Making Tricks</title>
-      <link>https://kbs.murarisumit.in/71cf6d3f5df8908b988630bd57c2541e/</link>
+      <link>http://localhost:1313/71cf6d3f5df8908b988630bd57c2541e/</link>
       <pubDate>Tue, 01 Feb 2022 10:01:50 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/71cf6d3f5df8908b988630bd57c2541e/</guid>
+      <guid>http://localhost:1313/71cf6d3f5df8908b988630bd57c2541e/</guid>
       <description>&lt;p&gt;Came to this blog from @navelism bot, which shared this &amp;ldquo;If you can&amp;rsquo;t decide, the answer is no.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;So big takeaways which made to space repitition were&lt;/p&gt;
 &lt;h4 id=&#34;naval-ravikant-if-you-cant-decide-the-answer-is-no&#34;&gt;Naval Ravikant: If You Can&amp;rsquo;t Decide, The Answer Is No.&lt;/h4&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>Stock Market Investing Strategy</title>
-      <link>https://kbs.murarisumit.in/aa68a2a28a8178304a35c8339a99d5f2/</link>
+      <link>http://localhost:1313/aa68a2a28a8178304a35c8339a99d5f2/</link>
       <pubDate>Tue, 04 Jan 2022 07:12:32 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/aa68a2a28a8178304a35c8339a99d5f2/</guid>
+      <guid>http://localhost:1313/aa68a2a28a8178304a35c8339a99d5f2/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;In the stock market, the most important organ is the stomach. It&amp;rsquo;s not the brain.&lt;/p&gt;
 &lt;/blockquote&gt;

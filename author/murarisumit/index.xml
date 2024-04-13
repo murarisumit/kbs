@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Murarisumit on knowledge base</title>
-    <link>https://kbs.murarisumit.in/author/murarisumit/</link>
+    <link>http://localhost:1313/author/murarisumit/</link>
     <description>Recent content in Murarisumit on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Aug 2022 15:22:02 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/author/murarisumit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Aug 2022 15:22:02 +0530</lastBuildDate><atom:link href="http://localhost:1313/author/murarisumit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Macos App Switcher</title>
-      <link>https://kbs.murarisumit.in/bookmarks/macos-app-switcher/</link>
+      <link>http://localhost:1313/bookmarks/macos-app-switcher/</link>
       <pubDate>Thu, 04 Aug 2022 15:22:02 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/macos-app-switcher/</guid>
+      <guid>http://localhost:1313/bookmarks/macos-app-switcher/</guid>
       <description>&lt;p&gt;This is to show macos app switcher in all the monitors connected.&lt;/p&gt;
 &lt;p&gt;Reset to default state:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>Rss Reader</title>
-      <link>https://kbs.murarisumit.in/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</link>
+      <link>http://localhost:1313/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</link>
       <pubDate>Sun, 03 Jul 2022 00:47:21 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</guid>
+      <guid>http://localhost:1313/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</guid>
       <description>&lt;p&gt;Personally I prefer &lt;a href=&#34;https://www.reederapp.com&#34;&gt;reederapp&lt;/a&gt;. It has built-in RSS feeds, beautiful interface and sync across devices.&lt;/p&gt;
 &lt;p&gt;But if someone is looking for Open Sourcs RSS Reader that works on iOS ecosystem, then &lt;a href=&#34;https://netnewswire.com&#34;&gt;netnewswire&lt;/a&gt; is good option without putting lot of money before locking into RSS.&lt;/p&gt;
 </description>
@@ -50,10 +50,10 @@
     
     <item>
       <title>Xargs Command Snippets</title>
-      <link>https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/</link>
+      <link>http://localhost:1313/46030699d1902e025e7e02246a9a9c13/</link>
       <pubDate>Mon, 13 Jun 2022 10:24:27 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/</guid>
+      <guid>http://localhost:1313/46030699d1902e025e7e02246a9a9c13/</guid>
       <description>&lt;p&gt;Simple command snippet that most likely be used imo would be.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -80,10 +80,10 @@
     
     <item>
       <title>Understanding Aws Cli Output Text</title>
-      <link>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</link>
+      <link>http://localhost:1313/cb09c8a3463c51091177eff829bd82d8/</link>
       <pubDate>Mon, 16 May 2022 08:58:40 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</guid>
+      <guid>http://localhost:1313/cb09c8a3463c51091177eff829bd82d8/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&amp;ndash;output=text will print everything within innermost [] brackets on single line.&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;To see it in action see the difference between&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -119,10 +119,10 @@
     
     <item>
       <title>Financial Freedom: Skills First Than Money</title>
-      <link>https://kbs.murarisumit.in/60cdd644ced2abd406c37a892f8386e3/</link>
+      <link>http://localhost:1313/60cdd644ced2abd406c37a892f8386e3/</link>
       <pubDate>Sun, 15 May 2022 23:41:17 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/60cdd644ced2abd406c37a892f8386e3/</guid>
+      <guid>http://localhost:1313/60cdd644ced2abd406c37a892f8386e3/</guid>
       <description>&lt;p&gt;This guy is simple to understand, no out of the world quotations. Can relate to him, seems like a neighbourhood elder brother(bhaiya) who you can talk to.&lt;/p&gt;
 &lt;p&gt;What he mentioned was, spend on skills. More like one message in a 3-idiot movie. Run after excellence, success &amp;amp; peace of mind will follow.&lt;/p&gt;
 &lt;p&gt;All for peace of mind. If a house gives peace of mind, improves quality of life, go buy a house. If cars make your life easy, use it.&lt;/p&gt;
@@ -139,20 +139,20 @@
     
     <item>
       <title>Linuxify</title>
-      <link>https://kbs.murarisumit.in/en/96b18098f374caabc54fa7d41fdfcecc/</link>
+      <link>http://localhost:1313/en/96b18098f374caabc54fa7d41fdfcecc/</link>
       <pubDate>Mon, 09 May 2022 01:58:48 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/en/96b18098f374caabc54fa7d41fdfcecc/</guid>
+      <guid>http://localhost:1313/en/96b18098f374caabc54fa7d41fdfcecc/</guid>
       <description>&lt;p&gt;Smart scripts to setup the system and eliminating overhead of maintaining scripts.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bash My Aws</title>
-      <link>https://kbs.murarisumit.in/en/1b90c167d2d85130fc5372245ed523e9/</link>
+      <link>http://localhost:1313/en/1b90c167d2d85130fc5372245ed523e9/</link>
       <pubDate>Mon, 09 May 2022 01:42:17 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/en/1b90c167d2d85130fc5372245ed523e9/</guid>
+      <guid>http://localhost:1313/en/1b90c167d2d85130fc5372245ed523e9/</guid>
       <description>&lt;p&gt;Nice utility to work with awscli faster.&lt;/p&gt;
 &lt;p&gt;If you work with Ip address, ddd this function to bashrc and reload(&lt;code&gt;source ~/.bashrc&lt;/code&gt;) to get instance-id&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -189,11 +189,680 @@
     </item>
     
     <item>
+      <title>Enable Flowlogs for Natgateways</title>
+      <link>http://localhost:1313/en/092dd7dcfd82be7877ca63d629982a9c/</link>
+      <pubDate>Thu, 31 Mar 2022 12:51:35 +0530</pubDate>
+      
+      <guid>http://localhost:1313/en/092dd7dcfd82be7877ca63d629982a9c/</guid>
+      <description>&lt;h3 id=&#34;list-nat-gateways-with-enis-and-name&#34;&gt;List Nat Gateways with ENIs and Name&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 describe-nat-gateways --query &lt;span class=&#34;s1&#34;&gt;&amp;#39;NatGateways[].[Tags[?Key==`Name`].Value| [0], NatGatewayId, NatGatewayAddresses[0].NetworkInterfaceId]&amp;#39;&lt;/span&gt; --output table
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;fetch-specific-nat-id&#34;&gt;Fetch specific NAT ID&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 describe-nat-gateways --filter &lt;span class=&#34;s1&#34;&gt;&amp;#39;Name=nat-gateway-id,Values=nat-03d0b18da7&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;create-flowlogs&#34;&gt;Create flowlogs&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 create-flow-logs &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --resource-type NetworkInterface &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --resource-ids eni-01xxxxxfc3cxx &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --traffic-type ALL &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --region ap-south-1 &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --log-group-name flowlogs-NAT &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --max-aggregation-interval &lt;span class=&#34;m&#34;&gt;60&lt;/span&gt; &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --deliver-logs-permission-arn arn:aws:iam::0352xxxxx545:role/flowlogsRole &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --log-format &lt;span class=&#34;s1&#34;&gt;&amp;#39;${version} ${account-id} ${interface-id} ${srcaddr} ${dstaddr} ${srcport} ${dstport} ${protocol} ${packets} ${bytes} ${action} ${log-status} ${tcp-flags} ${pkt-srcaddr} ${pkt-dstaddr} ${pkt-src-aws-service} ${pkt-dst-aws-service} ${flow-direction}&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 create-flow-logs &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --resource-type NetworkInterface &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --resource-ids eni-8xxxxef &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --traffic-type ALL &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --region ap-south-1 &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --log-group-name flowlogs-NAT &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --max-aggregation-interval &lt;span class=&#34;m&#34;&gt;60&lt;/span&gt; &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --deliver-logs-permission-arn arn:aws:iam::035243xxxxx45:role/flowlole &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --log-format &lt;span class=&#34;s1&#34;&gt;&amp;#39;${version} ${account-id} ${interface-id} ${srcaddr} ${dstaddr} ${srcport} ${dstport} ${protocol} ${packets} ${bytes} ${action} ${log-status} ${tcp-flags} ${pkt-srcaddr} ${pkt-dstaddr} ${pkt-src-aws-service} ${pkt-dst-aws-service} ${flow-direction}&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 create-flow-logs &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --resource-type NetworkInterface &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --resource-ids eni-xxxxxx &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --traffic-type ALL &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --region ap-south-1 &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --log-group-name flowlogs-NAT &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --max-aggregation-interval &lt;span class=&#34;m&#34;&gt;60&lt;/span&gt; &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --deliver-logs-permission-arn arn:aws:iam::035243212545:role/flowlogsRole &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --log-format &lt;span class=&#34;s1&#34;&gt;&amp;#39;${version} ${account-id} ${interface-id} ${srcaddr} ${dstaddr} ${srcport} ${dstport} ${protocol} ${packets} ${bytes} ${action} ${log-status} ${tcp-flags} ${pkt-srcaddr} ${pkt-dstaddr} ${pkt-src-aws-service} ${pkt-dst-aws-service} ${flow-direction}&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;getflowlogs&#34;&gt;GetFlowLogs&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 describe-flow-logs --filter &lt;span class=&#34;s1&#34;&gt;&amp;#39;Name=log-group-name,Values=flowlogs-NAT&amp;#39;&lt;/span&gt; --query FlowLogs&lt;span class=&#34;o&#34;&gt;[]&lt;/span&gt;.&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;ResourceId,FlowLogId&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; --output table
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Other filters to getch flow-logs are here: &lt;a href=&#34;https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-flow-logs.html#options&#34;&gt;https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-flow-logs.html#options&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;delete-flowlogs&#34;&gt;Delete flowlogs&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 delete-flow-logs --flow-log-id fl-xxxxxxxxxxxxxxxxx --region ap-south-1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 delete-flow-logs --flow-log-id fl-yyyyyyyyyyyyyyyyy --region ap-south-1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 delete-flow-logs --flow-log-id fl-zzz --region ap-south-1
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;parsing-flowlogs&#34;&gt;Parsing flowlogs&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;parse @message &amp;#39;* * * * * * * * * * * * * * * * * *&amp;#39; as  version, account_id, interface_id, srcaddr, dstaddr, srcport, dstport, protocol, packets, bytes, action, log_status, tcp_flags, pkt_srcaddr, pkt_dstaddr, pkt_src_aws_service, pkt_dst_aws_service, flow_direction
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| stats sum(bytes) as bytesTransferred by pkt-src-aws-service pkt-dst-aws-service, az
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| sort bytesTransferred desc
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| limit 30
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;parse @message &amp;#39;* * * * * * * * * * * * * * * * * *&amp;#39; as  version, account_id, interface_id, srcaddr, dstaddr, srcport, dstport, protocol, packets, bytes, action, log_status, tcp_flags, pkt_srcaddr, pkt_dstaddr, pkt_src_aws_service, pkt_dst_aws_service, flow_direction
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| stats sum(bytes) as bytesTransferred by pkt_src_aws_service, pkt_dst_aws_service, flow_direction
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| limit 30
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;downloads&#34;&gt;Downloads&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;parse @message &amp;#39;* * * * * * * * * * * * * * * * * *&amp;#39; as  version, account_id, interface_id, srcaddr, dstaddr, srcport, dstport, protocol, packets, bytes, action, log_status, tcp_flags, pkt_srcaddr, pkt_dstaddr, pkt_src_aws_service, pkt_dst_aws_service, flow_direction
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| filter (srcaddr not like /192.168./)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| display interface_id, srcaddr, dstaddr, srcport, dstport, protocol, packets, bytes, action, tcp_flags, pkt_srcaddr, pkt_dstaddr, pkt_src_aws_service, pkt_dst_aws_service, flow_direction | sort bytes desc| sort bytes desc
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| sort bytes desc
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| limit 100
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;parse @message &amp;#39;* * * * * * * * * * * * * * * * * *&amp;#39; as  version, account_id, interface_id, srcaddr, dstaddr, srcport, dstport, protocol, packets, bytes, action, log_status, tcp_flags, pkt_srcaddr, pkt_dstaddr, pkt_src_aws_service, pkt_dst_aws_service, flow_direction
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| filter (srcaddr not like /192.168./)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| display interface_id, srcaddr, dstaddr, srcport, dstport, protocol, packets, bytes, action, tcp_flags, pkt_srcaddr, pkt_dstaddr, pkt_src_aws_service, pkt_dst_aws_service, flow_direction | sort bytes desc| sort bytes desc
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| sort bytes desc
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| limit 100
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;uploads&#34;&gt;Uploads&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;parse @message &amp;#39;* * * * * * * * * * * * * * * * * *&amp;#39; as  version, account_id, interface_id, srcaddr, dstaddr, srcport, dstport, protocol, packets, bytes, action, log_status, tcp_flags, pkt_srcaddr, pkt_dstaddr, pkt_src_aws_service, pkt_dst_aws_service, flow_direction
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| filter (dstaddr not like /192.168./)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| display interface_id, srcaddr, dstaddr, srcport, dstport, protocol, packets, bytes, action, tcp_flags, pkt_srcaddr, pkt_dstaddr, pkt_src_aws_service, pkt_dst_aws_service, flow_direction | sort bytes desc| sort bytes desc
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| stats sum(bytes) as bytesTransferred by pkt_src_aws_service, pkt_dst_aws_service, flow_direction
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| limit 100
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;transfer-for-azs&#34;&gt;Transfer for AZs&lt;/h2&gt;
+&lt;h3 id=&#34;get-eni-for-instances&#34;&gt;Get ENI for instances&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 describe-network-interfaces --filter &lt;span class=&#34;s1&#34;&gt;&amp;#39;Name=network-interface-id,Values=eni-xxxxxxxx&amp;#39;&lt;/span&gt; --query NetworkInterfaces&lt;span class=&#34;o&#34;&gt;[]&lt;/span&gt;.Attachment
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 describe-network-interfaces --filter &lt;span class=&#34;s1&#34;&gt;&amp;#39;Name=private-ip-address,Values=192.168.3.129&amp;#39;&lt;/span&gt; --query NetworkInterfaces&lt;span class=&#34;o&#34;&gt;[]&lt;/span&gt;.Attachment
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 describe-network-interfaces --filter &lt;span class=&#34;s1&#34;&gt;&amp;#39;Name=association.public-ip,Values=12.2.34.5&amp;#39;&lt;/span&gt; --query NetworkInterfaces&lt;span class=&#34;o&#34;&gt;[]&lt;/span&gt;.Attachment
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;subnets&#34;&gt;Subnets&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1a: [&amp;#39;192.168.0.0/24, 192.168.1.0/24, 192.168.16.0/20]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1b: [192.168.2.0/24, 192.168.3.0/24, 192.168.32.0/20]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1c: [192.168.4.0/24, 192.168.5.0/24, 192.168.48.0/20]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1a: [&amp;#39;192.168.0.*&amp;#39;, &amp;#39;192.168.1.*&amp;#39;, 192.168.16.0/20]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1b: [&amp;#39;192.168.2.0/24, 192.168.3.0/24, 192.168.32.0/20]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1c: [&amp;#39;192.168.4.*&amp;#39;, &amp;#39;192.168.5.*&amp;#39;, 192.168.48.0/20]
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;1b-1a---1c&#34;&gt;1b, 1a &amp;lt;-&amp;gt; 1c&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;parse @message &amp;#39;* * * * * * * * * * * * * * * * * * * * * * * * * *&amp;#39; as action,az,bytes,dstAddr,dstPort, end, flow, instanceId, ifaceId, logstatus, pkts, dstAws, pktDstAddr, srcAws, pktSrcAddr, protocol, region, srcAddr, srcPort, start, sublocId, sublocType, subnetId, tcpFlags, tpath, type
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| filter (isIpv4InSubnet(srcAddr, &amp;#34;192.168.2.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.3.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.32.0/20&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.0.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.1.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.16.0/20&amp;#34;) ) and (isIpv4InSubnet(dstAddr, &amp;#34;192.168.4.0/24&amp;#34;) or isIpv4InSubnet(dstAddr, &amp;#34;192.168.5.0/24&amp;#34;) or isIpv4InSubnet(dstAddr, &amp;#34;192.168.48.0/24&amp;#34;))
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| stats sum(bytes) as bytesTransferred by dstAddr, srcAddr, az, subnetId, flow, type
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| sort bytesTransferred desc
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| limit 25
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;1b-1c---1a&#34;&gt;1b, 1c -&amp;gt; 1a&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;parse @message &amp;#39;* * * * * * * * * * * * * * * * * * * * * * * * * *&amp;#39; as action,az,bytes,dstAddr,dstPort, end, flow, instanceId, ifaceId, logstatus, pkts, dstAws, pktDstAddr, srcAws, pktSrcAddr, protocol, region, srcAddr, srcPort, start, sublocId, sublocType, subnetId, tcpFlags, tpath, type
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| filter (isIpv4InSubnet(srcAddr, &amp;#34;192.168.2.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.3.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.32.0/20&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.4.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.5.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.48.0/20&amp;#34;) ) and (isIpv4InSubnet(dstAddr, &amp;#34;192.168.0.0/24&amp;#34;) or isIpv4InSubnet(dstAddr, &amp;#34;192.168.1.0/24&amp;#34;) or isIpv4InSubnet(dstAddr, &amp;#34;192.168.16.0/24&amp;#34;))
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| stats sum(bytes) as bytesTransferred by dstAddr, srcAddr, az, subnetId, flow, type
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| sort bytesTransferred desc
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;1a-1c---1b&#34;&gt;1a, 1c -&amp;gt; 1b&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;parse @message &amp;#39;* * * * * * * * * * * * * * * * * * * * * * * * * *&amp;#39; as action,az,bytes,dstAddr,dstPort, end, flow, instanceId, ifaceId, logstatus, pkts, dstAws, pktDstAddr, srcAws, pktSrcAddr, protocol, region, srcAddr, srcPort, start, sublocId, sublocType, subnetId, tcpFlags, tpath, type
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| filter (isIpv4InSubnet(srcAddr, &amp;#34;192.168.0.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.1.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.16.0/20&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.4.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.5.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.48.0/20&amp;#34;) ) and (isIpv4InSubnet(dstAddr, &amp;#34;192.168.2.0/24&amp;#34;) or isIpv4InSubnet(dstAddr, &amp;#34;192.168.3.0/24&amp;#34;) or isIpv4InSubnet(dstAddr, &amp;#34;192.168.32.0/24&amp;#34;))
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| stats sum(bytes) as bytesTransferred by dstAddr, srcAddr, az, subnetId, flow, type
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| sort bytesTransferred desc
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;list-query-for-cloudwatch-logs&#34;&gt;List query for cloudwatch logs&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;fields @timestamp, @message
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| filter answers.0.Rdata like &amp;#34;3.7.23.108&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| sort @timestamp desc
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| limit 20
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Query logging for&lt;/p&gt;
+&lt;h2 id=&#34;k8s&#34;&gt;K8s&lt;/h2&gt;
+&lt;p&gt;Get pods from nodes with specific labels&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;for node in $(kubectl get nodes -l golden=true -ojsonpath=&amp;#39;{.items[*].metadata.name}&amp;#39;); do kubectl get pods -A  --field-selector spec.nodeName=$node; done
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Enable Flowlogs for Natgateways</title>
+      <link>http://localhost:1313/en/092dd7dcfd82be7877ca63d629982a9c/</link>
+      <pubDate>Thu, 31 Mar 2022 12:51:35 +0530</pubDate>
+      
+      <guid>http://localhost:1313/en/092dd7dcfd82be7877ca63d629982a9c/</guid>
+      <description>&lt;h3 id=&#34;NATGatewaywithENIsAndName&#34;&gt;List Nat Gateways with ENIs and Name&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 describe-nat-gateways --query &lt;span class=&#34;s1&#34;&gt;&amp;#39;NatGateways[].[Tags[?Key==`Name`].Value| [0], NatGatewayId, NatGatewayAddresses[0].NetworkInterfaceId]&amp;#39;&lt;/span&gt; --output table
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;fetch-specific-nat-id&#34;&gt;Fetch specific NAT ID&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 describe-nat-gateways --filter &lt;span class=&#34;s1&#34;&gt;&amp;#39;Name=nat-gateway-id,Values=nat-03dc6384570b18da7&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;create-flowlogs&#34;&gt;Create flowlogs&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 create-flow-logs &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --resource-type NetworkInterface &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --resource-ids eni-017b56cf5f4fc3c82 &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --traffic-type ALL &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --region ap-south-1 &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --log-group-name flowlogs-NAT &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --max-aggregation-interval &lt;span class=&#34;m&#34;&gt;60&lt;/span&gt; &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --deliver-logs-permission-arn arn:aws:iam::035243212545:role/flowlogsRole &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --log-format &lt;span class=&#34;s1&#34;&gt;&amp;#39;${version} ${account-id} ${interface-id} ${srcaddr} ${dstaddr} ${srcport} ${dstport} ${protocol} ${packets} ${bytes} ${action} ${log-status} ${tcp-flags} ${pkt-srcaddr} ${pkt-dstaddr} ${pkt-src-aws-service} ${pkt-dst-aws-service} ${flow-direction}&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 create-flow-logs &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --resource-type NetworkInterface &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --resource-ids eni-87f92def &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --traffic-type ALL &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --region ap-south-1 &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --log-group-name flowlogs-NAT &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --max-aggregation-interval &lt;span class=&#34;m&#34;&gt;60&lt;/span&gt; &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --deliver-logs-permission-arn arn:aws:iam::035243212545:role/flowlogsRole &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --log-format &lt;span class=&#34;s1&#34;&gt;&amp;#39;${version} ${account-id} ${interface-id} ${srcaddr} ${dstaddr} ${srcport} ${dstport} ${protocol} ${packets} ${bytes} ${action} ${log-status} ${tcp-flags} ${pkt-srcaddr} ${pkt-dstaddr} ${pkt-src-aws-service} ${pkt-dst-aws-service} ${flow-direction}&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 create-flow-logs &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --resource-type NetworkInterface &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --resource-ids eni-0fb3f4f4cd00ec9d8 &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --traffic-type ALL &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --region ap-south-1 &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --log-group-name flowlogs-NAT &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --max-aggregation-interval &lt;span class=&#34;m&#34;&gt;60&lt;/span&gt; &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --deliver-logs-permission-arn arn:aws:iam::035243212545:role/flowlogsRole &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;        --log-format &lt;span class=&#34;s1&#34;&gt;&amp;#39;${version} ${account-id} ${interface-id} ${srcaddr} ${dstaddr} ${srcport} ${dstport} ${protocol} ${packets} ${bytes} ${action} ${log-status} ${tcp-flags} ${pkt-srcaddr} ${pkt-dstaddr} ${pkt-src-aws-service} ${pkt-dst-aws-service} ${flow-direction}&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;getflowlogs&#34;&gt;GetFlowLogs&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 describe-flow-logs --filter &lt;span class=&#34;s1&#34;&gt;&amp;#39;Name=log-group-name,Values=flowlogs-NAT&amp;#39;&lt;/span&gt; --query FlowLogs&lt;span class=&#34;o&#34;&gt;[]&lt;/span&gt;.&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;ResourceId,FlowLogId&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; --output table
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Other filters to getch flow-logs are here: &lt;a href=&#34;https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-flow-logs.html#options&#34;&gt;https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-flow-logs.html#options&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;delete-flowlogs&#34;&gt;Delete flowlogs&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 delete-flow-logs --flow-log-id fl-03af2839de57bc3a6 --region ap-south-1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 delete-flow-logs --flow-log-id fl-093dc05236be65a0a --region ap-south-1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 delete-flow-logs --flow-log-id fl-053f6799b096fa6ca --region ap-south-1
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;parsing-flowlogs&#34;&gt;Parsing flowlogs&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;parse @message &amp;#39;* * * * * * * * * * * * * * * * * *&amp;#39; as  version, account_id, interface_id, srcaddr, dstaddr, srcport, dstport, protocol, packets, bytes, action, log_status, tcp_flags, pkt_srcaddr, pkt_dstaddr, pkt_src_aws_service, pkt_dst_aws_service, flow_direction
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| stats sum(bytes) as bytesTransferred by pkt-src-aws-service pkt-dst-aws-service, az
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| sort bytesTransferred desc
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| limit 30
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;parse @message &amp;#39;* * * * * * * * * * * * * * * * * *&amp;#39; as  version, account_id, interface_id, srcaddr, dstaddr, srcport, dstport, protocol, packets, bytes, action, log_status, tcp_flags, pkt_srcaddr, pkt_dstaddr, pkt_src_aws_service, pkt_dst_aws_service, flow_direction
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| stats sum(bytes) as bytesTransferred by pkt_src_aws_service, pkt_dst_aws_service, flow_direction
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| limit 30
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;downloads&#34;&gt;Downloads&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;parse @message &amp;#39;* * * * * * * * * * * * * * * * * *&amp;#39; as  version, account_id, interface_id, srcaddr, dstaddr, srcport, dstport, protocol, packets, bytes, action, log_status, tcp_flags, pkt_srcaddr, pkt_dstaddr, pkt_src_aws_service, pkt_dst_aws_service, flow_direction
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| filter (srcaddr not like /192.168./)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| display interface_id, srcaddr, dstaddr, srcport, dstport, protocol, packets, bytes, action, tcp_flags, pkt_srcaddr, pkt_dstaddr, pkt_src_aws_service, pkt_dst_aws_service, flow_direction | sort bytes desc
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| sort bytes desc
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| limit 100
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;parse @message &amp;#39;* * * * * * * * * * * * * * * * * *&amp;#39; as  version, account_id, interface_id, srcaddr, dstaddr, srcport, dstport, protocol, packets, bytes, action, log_status, tcp_flags, pkt_srcaddr, pkt_dstaddr, pkt_src_aws_service, pkt_dst_aws_service, flow_direction
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| filter (srcaddr not like /192.168./)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| display interface_id, srcaddr, dstaddr, srcport, dstport, protocol, packets, bytes, action, tcp_flags, pkt_srcaddr, pkt_dstaddr, pkt_src_aws_service, pkt_dst_aws_service, flow_direction | sort bytes desc| sort bytes desc
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| sort bytes desc
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| limit 100
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;uploads&#34;&gt;Uploads&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;parse @message &amp;#39;* * * * * * * * * * * * * * * * * *&amp;#39; as  version, account_id, interface_id, srcaddr, dstaddr, srcport, dstport, protocol, packets, bytes, action, log_status, tcp_flags, pkt_srcaddr, pkt_dstaddr, pkt_src_aws_service, pkt_dst_aws_service, flow_direction
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| filter (dstaddr not like /192.168./)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| display interface_id, srcaddr, dstaddr, srcport, dstport, protocol, packets, bytes, action, tcp_flags, pkt_srcaddr, pkt_dstaddr, pkt_src_aws_service, pkt_dst_aws_service, flow_direction | sort bytes desc| sort bytes desc
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| stats sum(bytes) as bytesTransferred by pkt_src_aws_service, pkt_dst_aws_service, flow_direction
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| limit 100
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;transfer-for-azs&#34;&gt;Transfer for AZs&lt;/h2&gt;
+&lt;h3 id=&#34;get-eni-for-instances&#34;&gt;Get ENI for instances&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 describe-network-interfaces --filter &lt;span class=&#34;s1&#34;&gt;&amp;#39;Name=network-interface-id,Values=eni-0fb3f4f4cd00ec9d8&amp;#39;&lt;/span&gt; --query NetworkInterfaces&lt;span class=&#34;o&#34;&gt;[]&lt;/span&gt;.Attachment
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 describe-network-interfaces --filter &lt;span class=&#34;s1&#34;&gt;&amp;#39;Name=private-ip-address,Values=192.168.3.129&amp;#39;&lt;/span&gt; --query NetworkInterfaces&lt;span class=&#34;o&#34;&gt;[]&lt;/span&gt;.Attachment
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 describe-network-interfaces --filter &lt;span class=&#34;s1&#34;&gt;&amp;#39;Name=association.public-ip,Values=13.234.210.38&amp;#39;&lt;/span&gt; --query NetworkInterfaces&lt;span class=&#34;o&#34;&gt;[]&lt;/span&gt;.Attachment
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;subnets&#34;&gt;Subnets&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1a: [&amp;#39;192.168.0.0/24, 192.168.1.0/24, 192.168.16.0/20]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1b: [192.168.2.0/24, 192.168.3.0/24, 192.168.32.0/20]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1c: [192.168.4.0/24, 192.168.5.0/24, 192.168.48.0/20]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1a: [&amp;#39;192.168.0.*&amp;#39;, &amp;#39;192.168.1.*&amp;#39;, 192.168.16.0/20]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1b: [&amp;#39;192.168.2.0/24, 192.168.3.0/24, 192.168.32.0/20]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1c: [&amp;#39;192.168.4.*&amp;#39;, &amp;#39;192.168.5.*&amp;#39;, 192.168.48.0/20]
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;1b-1a---1c&#34;&gt;1b, 1a &amp;lt;-&amp;gt; 1c&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;parse @message &amp;#39;* * * * * * * * * * * * * * * * * * * * * * * * * *&amp;#39; as action,az,bytes,dstAddr,dstPort, end, flow, instanceId, ifaceId, logstatus, pkts, dstAws, pktDstAddr, srcAws, pktSrcAddr, protocol, region, srcAddr, srcPort, start, sublocId, sublocType, subnetId, tcpFlags, tpath, type
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| filter (isIpv4InSubnet(srcAddr, &amp;#34;192.168.2.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.3.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.32.0/20&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.0.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.1.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.16.0/20&amp;#34;) ) and (isIpv4InSubnet(dstAddr, &amp;#34;192.168.4.0/24&amp;#34;) or isIpv4InSubnet(dstAddr, &amp;#34;192.168.5.0/24&amp;#34;) or isIpv4InSubnet(dstAddr, &amp;#34;192.168.48.0/24&amp;#34;))
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| stats sum(bytes) as bytesTransferred by dstAddr, srcAddr, az, subnetId, flow, type
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| sort bytesTransferred desc
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| limit 25
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;1b-1c---1a&#34;&gt;1b, 1c -&amp;gt; 1a&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;parse @message &amp;#39;* * * * * * * * * * * * * * * * * * * * * * * * * *&amp;#39; as action,az,bytes,dstAddr,dstPort, end, flow, instanceId, ifaceId, logstatus, pkts, dstAws, pktDstAddr, srcAws, pktSrcAddr, protocol, region, srcAddr, srcPort, start, sublocId, sublocType, subnetId, tcpFlags, tpath, type
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| filter (isIpv4InSubnet(srcAddr, &amp;#34;192.168.2.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.3.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.32.0/20&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.4.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.5.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.48.0/20&amp;#34;) ) and (isIpv4InSubnet(dstAddr, &amp;#34;192.168.0.0/24&amp;#34;) or isIpv4InSubnet(dstAddr, &amp;#34;192.168.1.0/24&amp;#34;) or isIpv4InSubnet(dstAddr, &amp;#34;192.168.16.0/24&amp;#34;))
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| stats sum(bytes) as bytesTransferred by dstAddr, srcAddr, az, subnetId, flow, type
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| sort bytesTransferred desc
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;1a-1c---1b&#34;&gt;1a, 1c -&amp;gt; 1b&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;parse @message &amp;#39;* * * * * * * * * * * * * * * * * * * * * * * * * *&amp;#39; as action,az,bytes,dstAddr,dstPort, end, flow, instanceId, ifaceId, logstatus, pkts, dstAws, pktDstAddr, srcAws, pktSrcAddr, protocol, region, srcAddr, srcPort, start, sublocId, sublocType, subnetId, tcpFlags, tpath, type
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| filter (isIpv4InSubnet(srcAddr, &amp;#34;192.168.0.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.1.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.16.0/20&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.4.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.5.0/24&amp;#34;) or isIpv4InSubnet(srcAddr, &amp;#34;192.168.48.0/20&amp;#34;) ) and (isIpv4InSubnet(dstAddr, &amp;#34;192.168.2.0/24&amp;#34;) or isIpv4InSubnet(dstAddr, &amp;#34;192.168.3.0/24&amp;#34;) or isIpv4InSubnet(dstAddr, &amp;#34;192.168.32.0/24&amp;#34;))
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| stats sum(bytes) as bytesTransferred by dstAddr, srcAddr, az, subnetId, flow, type
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| sort bytesTransferred desc
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;list-query-for-cloudwatch-logs&#34;&gt;List query for cloudwatch logs&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;fields @timestamp, @message
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| filter answers.0.Rdata like &amp;#34;3.7.23.108&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| sort @timestamp desc
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| limit 20
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Query logging for&lt;/p&gt;
+&lt;h2 id=&#34;k8s&#34;&gt;K8s&lt;/h2&gt;
+&lt;p&gt;Get pods from nodes with specific labels&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;for node in $(kubectl get nodes -l golden=true -ojsonpath=&amp;#39;{.items[*].metadata.name}&amp;#39;); do kubectl get pods -A  --field-selector spec.nodeName=$node; done
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;References&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lastweekinaws.com/blog/aws-cross-az-data-transfer-costs-more-than-aws-says/&#34;&gt;https://www.lastweekinaws.com/blog/aws-cross-az-data-transfer-costs-more-than-aws-says/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/privatelink/pricing/&#34;&gt;https://aws.amazon.com/privatelink/pricing/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding Quantum Field Theory</title>
+      <link>http://localhost:1313/en/8f134ded173ba1e5e37b0db694589fc4/</link>
+      <pubDate>Wed, 30 Mar 2022 10:35:21 +0530</pubDate>
+      
+      <guid>http://localhost:1313/en/8f134ded173ba1e5e37b0db694589fc4/</guid>
+      <description>&lt;p&gt;Simple video to understand&lt;/p&gt;
+&lt;h1 id=&#34;field&#34;&gt;Field&lt;/h1&gt;
+&lt;p&gt;Field is quantity or measurement assigned to all points in space.&lt;/p&gt;
+&lt;h3 id=&#34;base-assumptions-up-for-discussion&#34;&gt;Base Assumptions: Up for discussion&lt;/h3&gt;
+&lt;p&gt;Field is everywhere. When we say it&amp;rsquo;s zero field here, it means some base equilibrium field is there. Physical existence is still debated&lt;/p&gt;
+&lt;h1 id=&#34;electromagnetic-field&#34;&gt;Electromagnetic Field&lt;/h1&gt;
+&lt;p&gt;Whenever light passes through the field changes and we see change in values. Default equilibrium is always there.&lt;/p&gt;
+&lt;p&gt;There physical existence is still debated.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-scaler&#34;&gt;What is Scaler&lt;/h3&gt;
+&lt;h3 id=&#34;what-is-vector&#34;&gt;What is Vector&lt;/h3&gt;
+&lt;h3 id=&#34;what-is-quantum&#34;&gt;What is Quantum&lt;/h3&gt;
+&lt;h1 id=&#34;quantum-field&#34;&gt;Quantum Field&lt;/h1&gt;
+&lt;p&gt;Quantum field is quantum measurment assigned to every point in space like we have for&lt;/p&gt;
+&lt;h1 id=&#34;quantum-field-theory&#34;&gt;Quantum Field theory&lt;/h1&gt;
+&lt;h1 id=&#34;quantum-electrodynamics&#34;&gt;Quantum electrodynamics&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why No Aws Managed Policy</title>
+      <link>http://localhost:1313/7fcc73a58f83205a66e053339868f3a4/</link>
+      <pubDate>Fri, 25 Feb 2022 11:35:48 +0530</pubDate>
+      
+      <guid>http://localhost:1313/7fcc73a58f83205a66e053339868f3a4/</guid>
+      <description>&lt;p&gt;AWS managed policy are good to start, but have loophole and can give more access without us knowing.&lt;/p&gt;
+&lt;p&gt;The guiding principle for above is:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Accuracy &amp;gt; Speed &amp;gt; Perfection.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Decision Making Tricks</title>
-      <link>https://kbs.murarisumit.in/71cf6d3f5df8908b988630bd57c2541e/</link>
+      <link>http://localhost:1313/71cf6d3f5df8908b988630bd57c2541e/</link>
       <pubDate>Tue, 01 Feb 2022 10:01:50 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/71cf6d3f5df8908b988630bd57c2541e/</guid>
+      <guid>http://localhost:1313/71cf6d3f5df8908b988630bd57c2541e/</guid>
       <description>&lt;p&gt;Came to this blog from @navelism bot, which shared this &amp;ldquo;If you can&amp;rsquo;t decide, the answer is no.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;So big takeaways which made to space repitition were&lt;/p&gt;
 &lt;h4 id=&#34;naval-ravikant-if-you-cant-decide-the-answer-is-no&#34;&gt;Naval Ravikant: If You Can&amp;rsquo;t Decide, The Answer Is No.&lt;/h4&gt;
@@ -210,10 +879,10 @@
     
     <item>
       <title>Stock Market Investing Strategy</title>
-      <link>https://kbs.murarisumit.in/aa68a2a28a8178304a35c8339a99d5f2/</link>
+      <link>http://localhost:1313/aa68a2a28a8178304a35c8339a99d5f2/</link>
       <pubDate>Tue, 04 Jan 2022 07:12:32 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/aa68a2a28a8178304a35c8339a99d5f2/</guid>
+      <guid>http://localhost:1313/aa68a2a28a8178304a35c8339a99d5f2/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;In the stock market, the most important organ is the stomach. It&amp;rsquo;s not the brain.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -241,10 +910,10 @@ If you understand what you own, then you will have stomach for it.&lt;/p&gt;
     
     <item>
       <title>How to Treat Yourself</title>
-      <link>https://kbs.murarisumit.in/ccc19b24a5adb9a623a9f2c3383d750e/</link>
+      <link>http://localhost:1313/ccc19b24a5adb9a623a9f2c3383d750e/</link>
       <pubDate>Tue, 14 Dec 2021 07:32:05 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/ccc19b24a5adb9a623a9f2c3383d750e/</guid>
+      <guid>http://localhost:1313/ccc19b24a5adb9a623a9f2c3383d750e/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Treat yourself as If you were someone that you are responsible for helping.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -254,10 +923,10 @@ If you understand what you own, then you will have stomach for it.&lt;/p&gt;
     
     <item>
       <title>Github Rss Feeds</title>
-      <link>https://kbs.murarisumit.in/f51ad82d1abbf945597358e4d872017e/</link>
+      <link>http://localhost:1313/f51ad82d1abbf945597358e4d872017e/</link>
       <pubDate>Mon, 13 Dec 2021 22:00:12 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/f51ad82d1abbf945597358e4d872017e/</guid>
+      <guid>http://localhost:1313/f51ad82d1abbf945597358e4d872017e/</guid>
       <description>&lt;p&gt;This is simple and sweet, hope there would be some feed for issues activity as-well. For personal reference&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -308,10 +977,10 @@ If you understand what you own, then you will have stomach for it.&lt;/p&gt;
     
     <item>
       <title>Dangerous Man Are Virtuous</title>
-      <link>https://kbs.murarisumit.in/2120d4dc2552df1cb649e931019142d0/</link>
+      <link>http://localhost:1313/2120d4dc2552df1cb649e931019142d0/</link>
       <pubDate>Sat, 11 Dec 2021 21:36:49 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/2120d4dc2552df1cb649e931019142d0/</guid>
+      <guid>http://localhost:1313/2120d4dc2552df1cb649e931019142d0/</guid>
       <description>&lt;p&gt;You shouldn&amp;rsquo;t harm anyone, which it right. One should not. To add-in man should be harmless either.&lt;/p&gt;
 &lt;p&gt;You should be dangerous and monstrous but in civilised manner. All the human we look up to aren&amp;rsquo;t harmless. Shri Ram is great archer and capable to defeating whole kingdom. Shri krishna said to have single handedly changed course of mahabharata.&lt;/p&gt;
 &lt;p&gt;We have all heard stories of third eye of shiva. His ange can bring havoc. The message is harmless men are not virtuous. It&amp;rsquo;s the dangerous man under control that are virtuous and human to look upto.&lt;/p&gt;
@@ -320,10 +989,10 @@ If you understand what you own, then you will have stomach for it.&lt;/p&gt;
     
     <item>
       <title>Company Similar to East India Company</title>
-      <link>https://kbs.murarisumit.in/c5b650102aad591b71ded2fea2a20d69/</link>
+      <link>http://localhost:1313/c5b650102aad591b71ded2fea2a20d69/</link>
       <pubDate>Thu, 09 Dec 2021 19:41:27 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/c5b650102aad591b71ded2fea2a20d69/</guid>
+      <guid>http://localhost:1313/c5b650102aad591b71ded2fea2a20d69/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/United_Fruit_Company&#34;&gt;United fruit company&lt;/a&gt;. Created railroads, port, and other infra in Central American countries for plundering them. Owning the entire supply chain.&lt;/p&gt;
 &lt;p&gt;Easy to draw comparison to what &lt;a href=&#34;https://en.wikipedia.org/wiki/East_India_Company&#34;&gt;East India Company&lt;/a&gt; did in India but on the smaller scale. Not killing millions of people, but still very brutal for any human being. I see them and see Hitler and can&amp;rsquo;t differentiate between them.&lt;/p&gt;
 &lt;p&gt;Still can see how people think United fruit company and &lt;a href=&#34;https://en.wikipedia.org/wiki/East_India_Company&#34;&gt;East India Company&lt;/a&gt;  were the force of good. They did good for those countries they were plundering.&lt;/p&gt;
@@ -333,10 +1002,10 @@ If you understand what you own, then you will have stomach for it.&lt;/p&gt;
     
     <item>
       <title>Can Every Devices Be Hacked</title>
-      <link>https://kbs.murarisumit.in/92a571b39b7be2d430f2391c21c79018/</link>
+      <link>http://localhost:1313/92a571b39b7be2d430f2391c21c79018/</link>
       <pubDate>Mon, 06 Dec 2021 13:35:31 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/92a571b39b7be2d430f2391c21c79018/</guid>
+      <guid>http://localhost:1313/92a571b39b7be2d430f2391c21c79018/</guid>
       <description>&lt;p&gt;So yes, if someone is really persistant about it. The prices for these weaponised exploit start from 100K USD from from 2.5Million dollars.&lt;/p&gt;
 &lt;p&gt;There is high cost to it, so usually used by state actor or for&lt;/p&gt;
 &lt;p&gt;Don&amp;rsquo;t live in fear of getting hacked, it should be in your threat model. There are lot more important people our there with more information is their hands so you&amp;rsquo;re very less likely are a target, but remember if someone wants to he can.&lt;/p&gt;
@@ -356,10 +1025,10 @@ If you understand what you own, then you will have stomach for it.&lt;/p&gt;
     
     <item>
       <title>Shamir Secret Sharing</title>
-      <link>https://kbs.murarisumit.in/b21e7d844c3b536261f757f5a735dc8a/</link>
+      <link>http://localhost:1313/b21e7d844c3b536261f757f5a735dc8a/</link>
       <pubDate>Thu, 02 Dec 2021 10:07:05 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/b21e7d844c3b536261f757f5a735dc8a/</guid>
+      <guid>http://localhost:1313/b21e7d844c3b536261f757f5a735dc8a/</guid>
       <description>&lt;p&gt;This idea is really elegant to me and seeing it work is beautiful&lt;/p&gt;
 &lt;p&gt;Keeping it here for reference.&lt;/p&gt;
 </description>
@@ -367,10 +1036,10 @@ If you understand what you own, then you will have stomach for it.&lt;/p&gt;
     
     <item>
       <title>Awscli snippets</title>
-      <link>https://kbs.murarisumit.in/c0b28c0e8bc16283b3c9e2d099eabe63/</link>
+      <link>http://localhost:1313/c0b28c0e8bc16283b3c9e2d099eabe63/</link>
       <pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/c0b28c0e8bc16283b3c9e2d099eabe63/</guid>
+      <guid>http://localhost:1313/c0b28c0e8bc16283b3c9e2d099eabe63/</guid>
       <description>&lt;h4 id=&#34;fetch-running-instance-with-their-private-ip&#34;&gt;Fetch running instance with their private IP&lt;/h4&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -400,7 +1069,7 @@ If you understand what you own, then you will have stomach for it.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;Linked post:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/&#34;&gt;Understanding text output for awscli&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/cb09c8a3463c51091177eff829bd82d8/&#34;&gt;Understanding text output for awscli&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Reference:&lt;/p&gt;
 &lt;ul&gt;
@@ -411,10 +1080,10 @@ If you understand what you own, then you will have stomach for it.&lt;/p&gt;
     
     <item>
       <title>Ublock Origin Youtube Filter List</title>
-      <link>https://kbs.murarisumit.in/6e225c364f36afa1b5766490db9e7229/</link>
+      <link>http://localhost:1313/6e225c364f36afa1b5766490db9e7229/</link>
       <pubDate>Tue, 23 Nov 2021 14:43:52 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/6e225c364f36afa1b5766490db9e7229/</guid>
+      <guid>http://localhost:1313/6e225c364f36afa1b5766490db9e7229/</guid>
       <description>&lt;p&gt;So idea here is to reduce the distraction. One thought that was difficult for me to overcame was&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;I should have self-control, no such controls are needed.&lt;/p&gt;
@@ -462,20 +1131,20 @@ If you understand what you own, then you will have stomach for it.&lt;/p&gt;
     
     <item>
       <title>Feedback vs Criticism</title>
-      <link>https://kbs.murarisumit.in/4df1d169f631ef3acde0e9d5df34dd15/</link>
+      <link>http://localhost:1313/4df1d169f631ef3acde0e9d5df34dd15/</link>
       <pubDate>Mon, 22 Nov 2021 08:35:38 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/4df1d169f631ef3acde0e9d5df34dd15/</guid>
+      <guid>http://localhost:1313/4df1d169f631ef3acde0e9d5df34dd15/</guid>
       <description>&lt;p&gt;Your feedback should help people win. Else it is just criticism.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Loving Is Therapy for the Soul</title>
-      <link>https://kbs.murarisumit.in/f819c7d970406f3f5be56b41f3286e41/</link>
+      <link>http://localhost:1313/f819c7d970406f3f5be56b41f3286e41/</link>
       <pubDate>Fri, 19 Nov 2021 21:11:39 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/f819c7d970406f3f5be56b41f3286e41/</guid>
+      <guid>http://localhost:1313/f819c7d970406f3f5be56b41f3286e41/</guid>
       <description>&lt;p&gt;Exercising is therapy for the body.&lt;/p&gt;
 &lt;p&gt;Writing is therapy for the mind.&lt;/p&gt;
 &lt;p&gt;Loving is therapy for the soul.&lt;/p&gt;
@@ -484,10 +1153,10 @@ If you understand what you own, then you will have stomach for it.&lt;/p&gt;
     
     <item>
       <title>What Does 9s Mean in Downtime</title>
-      <link>https://kbs.murarisumit.in/ec9cc6baa4890df4cb5e5dc561d60e43/</link>
+      <link>http://localhost:1313/ec9cc6baa4890df4cb5e5dc561d60e43/</link>
       <pubDate>Fri, 19 Nov 2021 21:00:55 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/ec9cc6baa4890df4cb5e5dc561d60e43/</guid>
+      <guid>http://localhost:1313/ec9cc6baa4890df4cb5e5dc561d60e43/</guid>
       <description>&lt;p&gt;Sometime i just forgot how much 9s means in w.r.t SLA and how much downtime can be afforded and this above reference is simple and beautiful.&lt;/p&gt;
 &lt;p&gt;Try with multiple 9s like this: &lt;a href=&#34;https://uptime.is/99.9&#34;&gt;https://uptime.is/99.9&lt;/a&gt; or &lt;a href=&#34;https://uptime.is/99.99&#34;&gt;https://uptime.is/99.99&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To put from website.&lt;/p&gt;
@@ -518,10 +1187,10 @@ Yearly: 5m 15s
     
     <item>
       <title>Understand How Cloth Is Made</title>
-      <link>https://kbs.murarisumit.in/9d01b610df2e9fb18d7aa175fa879285/</link>
+      <link>http://localhost:1313/9d01b610df2e9fb18d7aa175fa879285/</link>
       <pubDate>Fri, 19 Nov 2021 13:05:44 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/9d01b610df2e9fb18d7aa175fa879285/</guid>
+      <guid>http://localhost:1313/9d01b610df2e9fb18d7aa175fa879285/</guid>
       <description>&lt;p&gt;So while shopping for my pajyamas today, was thinking how this cloth is made. After searching on youtube these few videos made it easier to understand.&lt;/p&gt;
 &lt;p&gt;First part is getting raw, either by cotton tree, or silk worm or cashmere/kashmir goats or sheeps etc.&lt;/p&gt;
 &lt;h4 id=&#34;on-simple-human-level&#34;&gt;On simple human level&lt;/h4&gt;
@@ -533,10 +1202,10 @@ Yearly: 5m 15s
     
     <item>
       <title>Diff Between &#34;su&#34; and &#34;su -&#34;</title>
-      <link>https://kbs.murarisumit.in/7fa5b4e9b48dbb81c234710d25151f22/</link>
+      <link>http://localhost:1313/7fa5b4e9b48dbb81c234710d25151f22/</link>
       <pubDate>Wed, 17 Nov 2021 09:25:52 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/7fa5b4e9b48dbb81c234710d25151f22/</guid>
+      <guid>http://localhost:1313/7fa5b4e9b48dbb81c234710d25151f22/</guid>
       <description>&lt;p&gt;Keeping here for reference:&lt;/p&gt;
 &lt;p&gt;The difference between &amp;ldquo;-&amp;rdquo; and &amp;ldquo;no hyphen&amp;rdquo; is&lt;/p&gt;
 &lt;ul&gt;
@@ -562,10 +1231,10 @@ The hyphen has two effects:
     
     <item>
       <title>Latency Number for Every Programmer</title>
-      <link>https://kbs.murarisumit.in/5891e85354985d957586b9556a8e0551/</link>
+      <link>http://localhost:1313/5891e85354985d957586b9556a8e0551/</link>
       <pubDate>Wed, 03 Nov 2021 15:12:43 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/5891e85354985d957586b9556a8e0551/</guid>
+      <guid>http://localhost:1313/5891e85354985d957586b9556a8e0551/</guid>
       <description>&lt;p&gt;Copied here for personal reference.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -646,10 +1315,10 @@ The hyphen has two effects:
     
     <item>
       <title>Solid Principle in Simple Way</title>
-      <link>https://kbs.murarisumit.in/5df1af1a7c595eb1c55b78bc2086c772/</link>
+      <link>http://localhost:1313/5df1af1a7c595eb1c55b78bc2086c772/</link>
       <pubDate>Tue, 02 Nov 2021 22:00:04 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/5df1af1a7c595eb1c55b78bc2086c772/</guid>
+      <guid>http://localhost:1313/5df1af1a7c595eb1c55b78bc2086c772/</guid>
       <description>&lt;p&gt;Summary:&lt;/p&gt;
 &lt;h4 id=&#34;single-responsibility-principle-&#34;&gt;Single Responsibility principle :&lt;/h4&gt;
 &lt;p&gt;Don’t surprise the people who read your code.&lt;/p&gt;
@@ -669,29 +1338,29 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>Golang Codereview Comments</title>
-      <link>https://kbs.murarisumit.in/c0ab4091d733d85471515c2cd581fd67/</link>
+      <link>http://localhost:1313/c0ab4091d733d85471515c2cd581fd67/</link>
       <pubDate>Wed, 27 Oct 2021 16:32:43 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/c0ab4091d733d85471515c2cd581fd67/</guid>
+      <guid>http://localhost:1313/c0ab4091d733d85471515c2cd581fd67/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Terraform Best Practices</title>
-      <link>https://kbs.murarisumit.in/e730b5f8cf640bb6823be168475994d9/</link>
+      <link>http://localhost:1313/e730b5f8cf640bb6823be168475994d9/</link>
       <pubDate>Fri, 22 Oct 2021 10:52:47 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/e730b5f8cf640bb6823be168475994d9/</guid>
+      <guid>http://localhost:1313/e730b5f8cf640bb6823be168475994d9/</guid>
       <description>&lt;p&gt;Some convetion for best practices, it would be better use lint to enforce them, still good to reference once in a while.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multiple Git Ssh Config Single Machine</title>
-      <link>https://kbs.murarisumit.in/d881fb4640d6de032e6221c9eabe0e39/</link>
+      <link>http://localhost:1313/d881fb4640d6de032e6221c9eabe0e39/</link>
       <pubDate>Wed, 20 Oct 2021 10:21:50 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/d881fb4640d6de032e6221c9eabe0e39/</guid>
+      <guid>http://localhost:1313/d881fb4640d6de032e6221c9eabe0e39/</guid>
       <description>&lt;p&gt;To use multiple github account on same hosts, and using ssh to push and pull the repo. We have multiple tricks&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Using ssh config tricks with hosts: &lt;a href=&#34;https://gist.github.com/JoaquimLey/e6049a12c8fd2923611802384cd2fb4a&#34;&gt;https://gist.github.com/JoaquimLey/e6049a12c8fd2923611802384cd2fb4a&lt;/a&gt;&lt;/li&gt;
@@ -749,20 +1418,20 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>Post Your Startup</title>
-      <link>https://kbs.murarisumit.in/492e142b3d2566623e4ba229d743b355/</link>
+      <link>http://localhost:1313/492e142b3d2566623e4ba229d743b355/</link>
       <pubDate>Wed, 20 Oct 2021 08:25:31 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/492e142b3d2566623e4ba229d743b355/</guid>
+      <guid>http://localhost:1313/492e142b3d2566623e4ba229d743b355/</guid>
       <description>&lt;p&gt;Place where we can post about startup, found this list. Keeping here for reference as tags are easy to track now for me.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Understanding Totp Format</title>
-      <link>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</link>
+      <link>http://localhost:1313/17631ba5506051a4b38a7a5f997a0140/</link>
       <pubDate>Fri, 03 Sep 2021 22:11:57 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</guid>
+      <guid>http://localhost:1313/17631ba5506051a4b38a7a5f997a0140/</guid>
       <description>&lt;p&gt;Gist for TOTP is&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -781,10 +1450,10 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>Use Money to Buy Time</title>
-      <link>https://kbs.murarisumit.in/3f0f98b1a3c3258c2a2f705d58bb3595/</link>
+      <link>http://localhost:1313/3f0f98b1a3c3258c2a2f705d58bb3595/</link>
       <pubDate>Wed, 01 Sep 2021 23:33:57 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/3f0f98b1a3c3258c2a2f705d58bb3595/</guid>
+      <guid>http://localhost:1313/3f0f98b1a3c3258c2a2f705d58bb3595/</guid>
       <description>&lt;p&gt;If you have enough to get basic life go by(for needs not for greed), extra money should be used to buy time. Initially you need t sell your time to make money, once there, basic needs taken care of start using money to buy time.&lt;/p&gt;
 &lt;p&gt;Tweet was inspired was&lt;/p&gt;
 &lt;blockquote&gt;
@@ -796,11 +1465,52 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     </item>
     
     <item>
+      <title>How to Handle Difficult Conversations</title>
+      <link>http://localhost:1313/902781fdc500bf70b3f42eb1c2d67ae6/</link>
+      <pubDate>Tue, 31 Aug 2021 13:31:22 +0530</pubDate>
+      
+      <guid>http://localhost:1313/902781fdc500bf70b3f42eb1c2d67ae6/</guid>
+      <description>&lt;p&gt;I.AM.CALM model for handling difficult convesation, learnt it in grab, and found it helpful.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;How do you handle difficult conversations with empathy and kindness? :thinking_face: Try the I.AM.CALM model below:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I = Intent should be positive&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Phrase your intentions by sharing &lt;!-- raw HTML omitted --&gt; AND &lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;A = Assumptions&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify your bias and ask questions to know the full story&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;M = Make it safe&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Encourage a safe environment by apologizing for your mistakes (if any) and establishing a mutual purpose.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;C = Clarify the facts&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Separate fact from fiction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;A = Ask for other&amp;rsquo;s viewpoint&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ask open ended questions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;L = Listening&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Paraphrase what you think the other person meant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;M = Manage Resolution &amp;amp; Action&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Explore win-win solutions and agree on next steps&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Ankurwarikoo 41 Things at 41</title>
-      <link>https://kbs.murarisumit.in/1e0b24f24f6a5963366cc66d84ad098f/</link>
+      <link>http://localhost:1313/1e0b24f24f6a5963366cc66d84ad098f/</link>
       <pubDate>Mon, 30 Aug 2021 16:56:43 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/1e0b24f24f6a5963366cc66d84ad098f/</guid>
+      <guid>http://localhost:1313/1e0b24f24f6a5963366cc66d84ad098f/</guid>
       <description>&lt;p&gt;Read it somewhere, you can&amp;rsquo;t make mistakes. You&amp;rsquo;ve to learn from others&amp;rsquo; mistakes/experiences. Read this post from &lt;a href=&#34;https://ankurwarikoo.com/contact/&#34;&gt;ankur warikoo&lt;/a&gt;, so thought of writing about it, to internalize it.&lt;/p&gt;
 &lt;p&gt;Funny one.&lt;/p&gt;
 &lt;ul&gt;
@@ -851,10 +1561,10 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>How to Wake Up Early</title>
-      <link>https://kbs.murarisumit.in/f2bc54ae2871f124a8777721f4ab3446/</link>
+      <link>http://localhost:1313/f2bc54ae2871f124a8777721f4ab3446/</link>
       <pubDate>Fri, 27 Aug 2021 10:59:21 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/f2bc54ae2871f124a8777721f4ab3446/</guid>
+      <guid>http://localhost:1313/f2bc54ae2871f124a8777721f4ab3446/</guid>
       <description>&lt;p&gt;His blog post, keeping here for my reference:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -940,10 +1650,10 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>Firefox Address Bar Tricks</title>
-      <link>https://kbs.murarisumit.in/1ba60d8b37da60f549c99f54313330a3/</link>
+      <link>http://localhost:1313/1ba60d8b37da60f549c99f54313330a3/</link>
       <pubDate>Thu, 26 Aug 2021 10:05:32 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/1ba60d8b37da60f549c99f54313330a3/</guid>
+      <guid>http://localhost:1313/1ba60d8b37da60f549c99f54313330a3/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Firefox provides easy way for searching the bookmarking, history or open tabs using the address bar.&lt;/p&gt;
@@ -980,10 +1690,10 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>NatureIsMetal: Beautiful Tree</title>
-      <link>https://kbs.murarisumit.in/5adc315e1db28c575e6791654e93428a/</link>
+      <link>http://localhost:1313/5adc315e1db28c575e6791654e93428a/</link>
       <pubDate>Sat, 21 Aug 2021 06:31:43 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/5adc315e1db28c575e6791654e93428a/</guid>
+      <guid>http://localhost:1313/5adc315e1db28c575e6791654e93428a/</guid>
       <description>&lt;p&gt;Daytime photo of same tree: &lt;a href=&#34;https://imgur.com/gallery/vQBic8k&#34;&gt;https://imgur.com/gallery/vQBic8k&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Meanwhile watched one more on reddit:&lt;/p&gt;
 &lt;ul&gt;
@@ -996,14 +1706,14 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>Perception Is Reality</title>
-      <link>https://kbs.murarisumit.in/b4623554b68ff4565baac8390eee35e5/</link>
+      <link>http://localhost:1313/b4623554b68ff4565baac8390eee35e5/</link>
       <pubDate>Sat, 21 Aug 2021 06:04:14 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/b4623554b68ff4565baac8390eee35e5/</guid>
+      <guid>http://localhost:1313/b4623554b68ff4565baac8390eee35e5/</guid>
       <description>&lt;p&gt;Was writing a few posts on being a man of actions, not being scared of the future and remembering only action matters.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;%7B%7B/586a1c7bfad52e25a95e1d7d9654157a/&#34;&gt;Not scared of future&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kbs.murarisumit.in/9aed16443012e51a38b0c189b58f95ab&#34;&gt;It&amp;rsquo;s Not What I Am Underneath it&amp;rsquo;s What I Do Defines Me&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/9aed16443012e51a38b0c189b58f95ab&#34;&gt;It&amp;rsquo;s Not What I Am Underneath it&amp;rsquo;s What I Do Defines Me&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Excerpts from notion kbs&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1021,32 +1731,32 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>Competitive Programming  to Play Around Sometimes</title>
-      <link>https://kbs.murarisumit.in/3654465ae54a20816f5b8cc307dabaa3/</link>
+      <link>http://localhost:1313/3654465ae54a20816f5b8cc307dabaa3/</link>
       <pubDate>Sat, 21 Aug 2021 05:44:50 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/3654465ae54a20816f5b8cc307dabaa3/</guid>
+      <guid>http://localhost:1313/3654465ae54a20816f5b8cc307dabaa3/</guid>
       <description>&lt;p&gt;Moving it from notion kbs to store here.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>It&#39;s Not What I Am Underneath it&#39;s What I Do Defines Me</title>
-      <link>https://kbs.murarisumit.in/9aed16443012e51a38b0c189b58f95ab/</link>
+      <link>http://localhost:1313/9aed16443012e51a38b0c189b58f95ab/</link>
       <pubDate>Sat, 21 Aug 2021 04:55:31 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/9aed16443012e51a38b0c189b58f95ab/</guid>
+      <guid>http://localhost:1313/9aed16443012e51a38b0c189b58f95ab/</guid>
       <description>&lt;p&gt;Have come to the conclusion that everyone sees a different movie in their head, even if they watch the same movie. It&amp;rsquo;s all in your state of your mind.&lt;/p&gt;
 &lt;p&gt;Used to think that what&amp;rsquo;s in head/thoughts matters but as grown up come to conclusion that &lt;strong&gt;no actions matters&lt;/strong&gt;, what you do defines you &lt;strong&gt;not just what you think&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Related quote: &lt;a href=&#34;https://kbs.murarisumit.in/586a1c7bfad52e25a95e1d7d9654157a/&#34;&gt;Never let the future disturb you&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Related quote: &lt;a href=&#34;http://localhost:1313/586a1c7bfad52e25a95e1d7d9654157a/&#34;&gt;Never let the future disturb you&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Never Let the Future Disturb You</title>
-      <link>https://kbs.murarisumit.in/586a1c7bfad52e25a95e1d7d9654157a/</link>
+      <link>http://localhost:1313/586a1c7bfad52e25a95e1d7d9654157a/</link>
       <pubDate>Fri, 20 Aug 2021 11:41:47 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/586a1c7bfad52e25a95e1d7d9654157a/</guid>
+      <guid>http://localhost:1313/586a1c7bfad52e25a95e1d7d9654157a/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Don&amp;rsquo;t let your future disturb you. You will meet if you have to, with the same weapons of reason which today arm you against present&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1064,10 +1774,10 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>The Dark Knight Rises the Climb Scene</title>
-      <link>https://kbs.murarisumit.in/82f13670d5d8ce84febcb23889eea474/</link>
+      <link>http://localhost:1313/82f13670d5d8ce84febcb23889eea474/</link>
       <pubDate>Wed, 18 Aug 2021 03:35:52 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/82f13670d5d8ce84febcb23889eea474/</guid>
+      <guid>http://localhost:1313/82f13670d5d8ce84febcb23889eea474/</guid>
       <description>&lt;p&gt;One more youtube video, batman this time. This scene might have given goose bumps to Roger Federer too, you may fall but it&amp;rsquo;s what you choose afterwards that matters the most.&lt;/p&gt;
 &lt;p&gt;Also the dialogue from rocky comes to my mind.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1080,30 +1790,30 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>Living With the Dark Winters in Sweden Midnight Sun and Polar Night</title>
-      <link>https://kbs.murarisumit.in/cf319bbe3527ea414ff169110c93221f/</link>
+      <link>http://localhost:1313/cf319bbe3527ea414ff169110c93221f/</link>
       <pubDate>Tue, 17 Aug 2021 02:02:39 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/cf319bbe3527ea414ff169110c93221f/</guid>
+      <guid>http://localhost:1313/cf319bbe3527ea414ff169110c93221f/</guid>
       <description>&lt;p&gt;Beautiful videography done and soothing music and voice. These video make me appreciate the country I live in.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pouring Molten Metal Inside a Seashell WHAT HAPPENS Experimental Metal Casting at Home DIY</title>
-      <link>https://kbs.murarisumit.in/49a1162eb90beacee617cdce3de7bbaf/</link>
+      <link>http://localhost:1313/49a1162eb90beacee617cdce3de7bbaf/</link>
       <pubDate>Mon, 16 Aug 2021 10:55:23 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/49a1162eb90beacee617cdce3de7bbaf/</guid>
+      <guid>http://localhost:1313/49a1162eb90beacee617cdce3de7bbaf/</guid>
       <description>&lt;p&gt;This is beautiful, how crafted the nature is and amazed at human intelligence who think they know more that nature itself and try to change it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cross Referencing Hugo</title>
-      <link>https://kbs.murarisumit.in/a8aa80afb3e281cf2246df975fef9aa8/</link>
+      <link>http://localhost:1313/a8aa80afb3e281cf2246df975fef9aa8/</link>
       <pubDate>Sun, 15 Aug 2021 07:21:07 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/a8aa80afb3e281cf2246df975fef9aa8/</guid>
+      <guid>http://localhost:1313/a8aa80afb3e281cf2246df975fef9aa8/</guid>
       <description>&lt;p&gt;In my blog, have started to cross-refernce now. Hugo has got support for this and designed in such a way that really make sense to me.&lt;/p&gt;
 &lt;p&gt;Documentation for this is here: &lt;a href=&#34;https://gohugo.io/content-management/cross-references/&#34;&gt;https://gohugo.io/content-management/cross-references/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;So to reference some post, you need to know about &lt;strong&gt;file path of that post&lt;/strong&gt;. Proper reading would have made it easier but spent around 2hrs for this stupid things.&lt;/p&gt;
@@ -1118,11 +1828,11 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>The Price of Becoming EXCEPTIONAL in Life Jordan Peterson Motivation</title>
-      <link>https://kbs.murarisumit.in/6347fd23beb0ba39c9b52a4dfd7c7ca5/</link>
+      <link>http://localhost:1313/6347fd23beb0ba39c9b52a4dfd7c7ca5/</link>
       <pubDate>Sun, 15 Aug 2021 03:02:45 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/6347fd23beb0ba39c9b52a4dfd7c7ca5/</guid>
-      <description>&lt;p&gt;Wrote a note on &lt;a href=&#34;https://kbs.murarisumit.in/ce39966c39f2ea7d1a55946669a84685/&#34;&gt;Jordan-Peterson-Successful-Men-Are-Insane-And-Work-All-The-Time&lt;/a&gt; yesterday, and found similar video on the same topic. So youtube recommendation is smart, and I&amp;rsquo;m not the only one who made to stupid( like it though) conclusion.&lt;/p&gt;
+      <guid>http://localhost:1313/6347fd23beb0ba39c9b52a4dfd7c7ca5/</guid>
+      <description>&lt;p&gt;Wrote a note on &lt;a href=&#34;http://localhost:1313/ce39966c39f2ea7d1a55946669a84685/&#34;&gt;Jordan-Peterson-Successful-Men-Are-Insane-And-Work-All-The-Time&lt;/a&gt; yesterday, and found similar video on the same topic. So youtube recommendation is smart, and I&amp;rsquo;m not the only one who made to stupid( like it though) conclusion.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m ready to give that price, and become exceptional. Family do matter to me, friends to matter to me, but would keep the circle small and would focus on the goals that I have. Ready to give 80 hours work-week.&lt;/p&gt;
 &lt;p&gt;Goals are private for now, but for my reference are kept at: &lt;a href=&#34;https://www.notion.so/yinyangi/a-lifetime-11c407f3b4034e14805328f1c7bd5ffa&#34;&gt;https://www.notion.so/yinyangi/a-lifetime-11c407f3b4034e14805328f1c7bd5ffa&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -1130,20 +1840,20 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>Novak Djokovic vs Roger Federer Wimbledon 2019 FullMatch</title>
-      <link>https://kbs.murarisumit.in/3eea4986a87740003aa7e5b40354ce03/</link>
+      <link>http://localhost:1313/3eea4986a87740003aa7e5b40354ce03/</link>
       <pubDate>Sat, 14 Aug 2021 04:57:43 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/3eea4986a87740003aa7e5b40354ce03/</guid>
+      <guid>http://localhost:1313/3eea4986a87740003aa7e5b40354ce03/</guid>
       <description>&lt;p&gt;One more djo&amp;rsquo;s match, but was looking at federer who showed his metal at 36 yrs of age.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Jordan Peterson Successful Men Are Insane and Work All the Time</title>
-      <link>https://kbs.murarisumit.in/ce39966c39f2ea7d1a55946669a84685/</link>
+      <link>http://localhost:1313/ce39966c39f2ea7d1a55946669a84685/</link>
       <pubDate>Sat, 14 Aug 2021 01:51:32 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/ce39966c39f2ea7d1a55946669a84685/</guid>
+      <guid>http://localhost:1313/ce39966c39f2ea7d1a55946669a84685/</guid>
       <description>&lt;p&gt;He said in one of his interviews that men wrote to him and told that he changed his life. I&amp;rsquo;m one of such characters. Here also a lot of thanks goes to people who made the internet happen, so I could watch his lessons/lectures or speeches.&lt;/p&gt;
 &lt;p&gt;To achieve to be highly successful in corporate world i.e. reach at high position in social order one has to put insane amount of work, he mentioned 80 hours work week, translates to ~ 12 hours every day without breaks for years and with &lt;strong&gt;focus&lt;/strong&gt; and &lt;strong&gt;determination&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;~hello~&lt;/p&gt;
@@ -1174,30 +1884,71 @@ Disclaimer: Today India is in a very sad state w.r.t its culture and the same sy
     
     <item>
       <title>Novak Djokovic vs Rafael Nadal in the Longest Final in Grand Slam History</title>
-      <link>https://kbs.murarisumit.in/dba141a324349154865a7bdf421eee15/</link>
+      <link>http://localhost:1313/dba141a324349154865a7bdf421eee15/</link>
       <pubDate>Sat, 14 Aug 2021 01:48:05 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/dba141a324349154865a7bdf421eee15/</guid>
+      <guid>http://localhost:1313/dba141a324349154865a7bdf421eee15/</guid>
       <description>&lt;p&gt;If this can&amp;rsquo;t inspire anyone, not sure what could. These guys played for around ~ 6 hours, and that&amp;rsquo;s an incredible feat of achievement.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>How Kubectl Logs Work</title>
-      <link>https://kbs.murarisumit.in/d19e8438d682f3f5a897296206ca9828/</link>
+      <link>http://localhost:1313/d19e8438d682f3f5a897296206ca9828/</link>
       <pubDate>Fri, 13 Aug 2021 04:57:32 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/d19e8438d682f3f5a897296206ca9828/</guid>
+      <guid>http://localhost:1313/d19e8438d682f3f5a897296206ca9828/</guid>
       <description>&lt;p&gt;Links to notion page, as it had diagram and it was easier to put post like these on notion.&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Kubectl Seldom Used Snippets</title>
+      <link>http://localhost:1313/5d8b39c56e663bef316ca5b9649b3fa5/</link>
+      <pubDate>Fri, 13 Aug 2021 04:48:40 +0530</pubDate>
+      
+      <guid>http://localhost:1313/5d8b39c56e663bef316ca5b9649b3fa5/</guid>
+      <description>&lt;p&gt;Seldom used kubectl get command, listing here for reference.&lt;/p&gt;
+&lt;h3 id=&#34;nodes&#34;&gt;Nodes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;List all taints in node.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;kubectl get nodes -o custom-columns=NAME:.metadata.name,ARCH:.status.nodeInfo.architecture,KERNEL:.status.nodeInfo.kernelVersion,KUBLET:.status.nodeInfo.kubeletVersion,CPU:.status.capacity.cpu,RAM:.status.capacity.memory,TAINTS:.spec.taints
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;pods&#34;&gt;Pods&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Get all pods in specific node.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;kubectl get pods --all-namespaces -o wide --field-selector spec.nodeName=&amp;lt;node-name&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;List pods by age&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;kubectl get po --sort-by=.status.startTime&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;References:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/39231880/kubernetes-api-gets-pods-on-specific-nodes&#34;&gt;https://stackoverflow.com/questions/39231880/kubernetes-api-gets-pods-on-specific-nodes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/43379415/how-can-i-list-the-taints-on-kubernetes-nodes/59494876#59494876&#34;&gt;https://stackoverflow.com/questions/43379415/how-can-i-list-the-taints-on-kubernetes-nodes/59494876#59494876&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/45310287/kubernetes-sort-pods-by-age&#34;&gt;https://stackoverflow.com/questions/45310287/kubernetes-sort-pods-by-age&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hard Drive Failure Report Backblaze</title>
-      <link>https://kbs.murarisumit.in/332d6b43914e2eeba6333c1a057f9f15/</link>
+      <link>http://localhost:1313/332d6b43914e2eeba6333c1a057f9f15/</link>
       <pubDate>Fri, 13 Aug 2021 04:45:22 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/332d6b43914e2eeba6333c1a057f9f15/</guid>
+      <guid>http://localhost:1313/332d6b43914e2eeba6333c1a057f9f15/</guid>
       <description>&lt;p&gt;It gives us of which hard drive to buy and which not as they are one of the biggest buyer of hard-driver and see those working at scale.&lt;/p&gt;
 &lt;p&gt;As they mentioned Seagate ST16000NM001G has quite a high failure rate of 6.72% with backblaze so it would be wise to not buy that hard-drive.&lt;/p&gt;
 </description>
@@ -1205,10 +1956,10 @@ Disclaimer: Today India is in a very sad state w.r.t its culture and the same sy
     
     <item>
       <title>Fake Reviews in Amazon</title>
-      <link>https://kbs.murarisumit.in/203914e598a6b162307c47a51eb79378/</link>
+      <link>http://localhost:1313/203914e598a6b162307c47a51eb79378/</link>
       <pubDate>Fri, 13 Aug 2021 04:41:18 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/203914e598a6b162307c47a51eb79378/</guid>
+      <guid>http://localhost:1313/203914e598a6b162307c47a51eb79378/</guid>
       <description>&lt;h3 id=&#34;op-post-from-reddit-threadhttpswwwredditcomrsupplementscommentsg19a1wheres_a_brand_thats_building_its_reviews_steadily&#34;&gt;OP post from &lt;a href=&#34;https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/&#34;&gt;reddit thread&lt;/a&gt;&lt;/h3&gt;
 &lt;pre&gt;&lt;code&gt;	First of all my background - I&#39;ve been working on Amazon for years and know all the tricks of getting ranked. I do not engage in black hat tactics and I did the review game when it wasnt against TOS. As soon as they changed everything, I did not engage. However because of all my contacts I&#39;m in the know for a lot of things. Getting reviews and the strategies used is one of those things.
 
@@ -1236,30 +1987,30 @@ Disclaimer: Today India is in a very sad state w.r.t its culture and the same sy
     
     <item>
       <title>How Engine Works</title>
-      <link>https://kbs.murarisumit.in/1125b6a1a9edde68c82b00c6e62a2f2e/</link>
+      <link>http://localhost:1313/1125b6a1a9edde68c82b00c6e62a2f2e/</link>
       <pubDate>Fri, 13 Aug 2021 04:33:09 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/1125b6a1a9edde68c82b00c6e62a2f2e/</guid>
+      <guid>http://localhost:1313/1125b6a1a9edde68c82b00c6e62a2f2e/</guid>
       <description>&lt;p&gt;Beautiful things, always read 4 strokes work, but seeing this video(click title to go to video) gave so much more clarity and satisfaction. Now would be comfortable to say that,  i have good theoretical understanding of how engines work.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Suprising Genius of 3D Printing Rockets</title>
-      <link>https://kbs.murarisumit.in/15a46dccb293a270265ac2a53d3fd332/</link>
+      <link>http://localhost:1313/15a46dccb293a270265ac2a53d3fd332/</link>
       <pubDate>Thu, 12 Aug 2021 21:53:06 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/15a46dccb293a270265ac2a53d3fd332/</guid>
+      <guid>http://localhost:1313/15a46dccb293a270265ac2a53d3fd332/</guid>
       <description>&lt;p&gt;3D printing is in nascent stages India, but seeing rocket being made out of this tech is so motivating and makes you look in future about possibility and how would it look like. Also thoughts come to mind, that why aren&amp;rsquo;t thing like electric 2-wheelers, drones, houses in India are using it, but then answer comes even more quickly, that people like are in jobs instead of innovating out there, so how would the change happen.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Moving From Human Friendly Urls to Ugly Uuid</title>
-      <link>https://kbs.murarisumit.in/c0e91193f16d7899b44017706767cfb1/</link>
+      <link>http://localhost:1313/c0e91193f16d7899b44017706767cfb1/</link>
       <pubDate>Thu, 12 Aug 2021 17:29:07 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/c0e91193f16d7899b44017706767cfb1/</guid>
+      <guid>http://localhost:1313/c0e91193f16d7899b44017706767cfb1/</guid>
       <description>&lt;p&gt;Human friendly url&lt;/p&gt;
 &lt;p&gt;Advantage:&lt;/p&gt;
 &lt;ul&gt;
@@ -1276,26 +2027,26 @@ Disclaimer: Today India is in a very sad state w.r.t its culture and the same sy
 &lt;li&gt;Cross-referencing become difficult&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Cross referencing is important to me, and with keeping other param than UUID would be difficult to maintain, as it might break URL on this website(which is last thing I want), hence opting to machine generated &lt;a href=&#34;https://discourse.gohugo.io/t/generating-a-unique-number-or-string/7930/6&#34;&gt;unique ID from hugo&lt;/a&gt; i.e. &lt;code&gt;{{ .File.UniqueID }}&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Personally for me &lt;a href=&#34;https://kbs.murarisumit.in/tags/&#34;&gt;tags&lt;/a&gt; are preferred way to find similar topics, if anyone else other than me is looking at this website.&lt;/p&gt;
+&lt;p&gt;Personally for me &lt;a href=&#34;http://localhost:1313/tags/&#34;&gt;tags&lt;/a&gt; are preferred way to find similar topics, if anyone else other than me is looking at this website.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Container Security Nist 800 190</title>
-      <link>https://kbs.murarisumit.in/bookmarks/container-security-nist-800-190/</link>
+      <link>http://localhost:1313/bookmarks/container-security-nist-800-190/</link>
       <pubDate>Mon, 09 Aug 2021 10:17:05 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/container-security-nist-800-190/</guid>
+      <guid>http://localhost:1313/bookmarks/container-security-nist-800-190/</guid>
       <description>&lt;p&gt;About link takes you to NIST(National Institute of Standards and Technology) guide for container security @ &lt;a href=&#34;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf&#34;&gt;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Linux Load Avgs</title>
-      <link>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</link>
+      <link>http://localhost:1313/bookmarks/linux-load-avgs/</link>
       <pubDate>Mon, 09 Aug 2021 09:25:45 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</guid>
+      <guid>http://localhost:1313/bookmarks/linux-load-avgs/</guid>
       <description>&lt;h1 id=&#34;excerpt-from-blog-post&#34;&gt;Excerpt from blog post&lt;/h1&gt;
 &lt;p&gt;Linux load averages are &amp;ldquo;system load averages&amp;rdquo; that show the running thread (task) demand on the system as an average number of running plus waiting threads. This measures demand, which can be greater than what the system is currently processing. Most tools show three averages, for 1, 5, and 15 minutes:&lt;/p&gt;
 &lt;p&gt;Some interpretations:&lt;/p&gt;
@@ -1325,47 +2076,47 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
     
     <item>
       <title>K8s Failure Stories</title>
-      <link>https://kbs.murarisumit.in/bookmarks/k8s-failure-stories/</link>
+      <link>http://localhost:1313/bookmarks/k8s-failure-stories/</link>
       <pubDate>Mon, 09 Aug 2021 00:37:09 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/k8s-failure-stories/</guid>
+      <guid>http://localhost:1313/bookmarks/k8s-failure-stories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Awesome Kubernetes</title>
-      <link>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</link>
+      <link>http://localhost:1313/bookmarks/awesome-kubernetes/</link>
       <pubDate>Mon, 09 Aug 2021 00:16:59 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</guid>
+      <guid>http://localhost:1313/bookmarks/awesome-kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Awesome Docker Compose</title>
-      <link>https://kbs.murarisumit.in/bookmarks/awesome-docker-compose/</link>
+      <link>http://localhost:1313/bookmarks/awesome-docker-compose/</link>
       <pubDate>Mon, 09 Aug 2021 00:16:18 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/awesome-docker-compose/</guid>
+      <guid>http://localhost:1313/bookmarks/awesome-docker-compose/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solar System if Moon Was Only One Pixel</title>
-      <link>https://kbs.murarisumit.in/bookmarks/solar-system-if-moon-was-only-one-pixel/</link>
+      <link>http://localhost:1313/bookmarks/solar-system-if-moon-was-only-one-pixel/</link>
       <pubDate>Sun, 08 Aug 2021 23:50:34 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/solar-system-if-moon-was-only-one-pixel/</guid>
+      <guid>http://localhost:1313/bookmarks/solar-system-if-moon-was-only-one-pixel/</guid>
       <description>&lt;p&gt;Saw this visualization long-back and was storing things up here(&lt;a href=&#34;https://www.murarisumit.in/bookmarks/)&#34;&gt;https://www.murarisumit.in/bookmarks/)&lt;/a&gt;, now moving them up here now. Yes, there is lot of empty space in universe.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Understand Electricity Generation</title>
-      <link>https://kbs.murarisumit.in/bookmarks/understand-electricity-generation/</link>
+      <link>http://localhost:1313/bookmarks/understand-electricity-generation/</link>
       <pubDate>Sat, 07 Aug 2021 18:40:36 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/understand-electricity-generation/</guid>
+      <guid>http://localhost:1313/bookmarks/understand-electricity-generation/</guid>
       <description>&lt;p&gt;This video actually helps us understand how electricity is generated by using magnets.&lt;/p&gt;
 &lt;p&gt;When studies electricity for first time, never understood where does frequency mean, what current is, what does voltage mean and simple things like this and whole electrical energy didn&amp;rsquo;t made sense to me. Now most of it does, probably if I go for advanced study would really make sense.&lt;/p&gt;
 </description>
@@ -1373,20 +2124,20 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
     
     <item>
       <title>Kuberentes Kbrew</title>
-      <link>https://kbs.murarisumit.in/bookmarks/k8s-kbrew/</link>
+      <link>http://localhost:1313/bookmarks/k8s-kbrew/</link>
       <pubDate>Sat, 07 Aug 2021 13:33:47 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/k8s-kbrew/</guid>
+      <guid>http://localhost:1313/bookmarks/k8s-kbrew/</guid>
       <description>&lt;p&gt;This tool looks good, and love the ease of this. It&amp;rsquo;s easy way to deploy the applications over cluster.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Awesome K8s Security</title>
-      <link>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</link>
+      <link>http://localhost:1313/bookmarks/awesome-k8s-security/</link>
       <pubDate>Sat, 07 Aug 2021 12:50:34 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</guid>
+      <guid>http://localhost:1313/bookmarks/awesome-k8s-security/</guid>
       <description>&lt;p&gt;A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.&lt;/p&gt;
 &lt;p&gt;Not only for security professionals, but also for developers, operators, and architects who are interested in learning about K8s security.&lt;/p&gt;
 </description>
@@ -1394,10 +2145,10 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
     
     <item>
       <title>Sharingbuttons</title>
-      <link>https://kbs.murarisumit.in/bookmarks/sharingbuttons.io/</link>
+      <link>http://localhost:1313/bookmarks/sharingbuttons.io/</link>
       <pubDate>Sat, 07 Aug 2021 11:50:41 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/sharingbuttons.io/</guid>
+      <guid>http://localhost:1313/bookmarks/sharingbuttons.io/</guid>
       <description>&lt;p&gt;Not sure how reached here, wasn&amp;rsquo;t actively looking for it but glad found it. Not a fan of bulky tracking websites, so this social little privacy-centric media buttons for reader and myself make ton of sense to me.&lt;/p&gt;
 &lt;p&gt;Not a fan of twitter, but using twitter to reach out to people get feedback, improve ourselves, make myself better and this note is to remind myself why enabled this feature of social sharing in this site.&lt;/p&gt;
 &lt;p&gt;This also gives me flexibility to adding supporting for any other platform that come in future, but still having website as a central source of truth of what I do.&lt;/p&gt;
@@ -1407,20 +2158,20 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
     
     <item>
       <title>Hugo Good Archive Page</title>
-      <link>https://kbs.murarisumit.in/bookmarks/hugo-good-archive-page/</link>
+      <link>http://localhost:1313/bookmarks/hugo-good-archive-page/</link>
       <pubDate>Sat, 07 Aug 2021 09:39:45 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/hugo-good-archive-page/</guid>
+      <guid>http://localhost:1313/bookmarks/hugo-good-archive-page/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s good archive page style, save time and easy navigation for website. Intent is to make archive page like this.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bayes Rule and Medical Tests</title>
-      <link>https://kbs.murarisumit.in/bookmarks/bayes-rule-medical-tests/</link>
+      <link>http://localhost:1313/bookmarks/bayes-rule-medical-tests/</link>
       <pubDate>Sat, 07 Aug 2021 08:54:42 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/bayes-rule-medical-tests/</guid>
+      <guid>http://localhost:1313/bookmarks/bayes-rule-medical-tests/</guid>
       <description>&lt;p&gt;All medical tests do is update their probability of having disease, and not tell if we have disease or not.&lt;/p&gt;
 &lt;p&gt;There are three things&lt;/p&gt;
 &lt;ul&gt;
@@ -1467,10 +2218,10 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
     
     <item>
       <title>Trust Your Instincts Instead of Hearsay</title>
-      <link>https://kbs.murarisumit.in/tils/trust-your-instincts-instead-of-hearsay/</link>
+      <link>http://localhost:1313/tils/trust-your-instincts-instead-of-hearsay/</link>
       <pubDate>Sat, 07 Aug 2021 02:33:04 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tils/trust-your-instincts-instead-of-hearsay/</guid>
+      <guid>http://localhost:1313/tils/trust-your-instincts-instead-of-hearsay/</guid>
       <description>&lt;p&gt;More my understanding of the world grows by reading various prophecies people have made before, makes me realize that there is no point in taking hearsay seriously, be it from news channels, be it anywhere else. No one knows the future, it&amp;rsquo;s so obvious, still people are into prediction/criticism business and  it&amp;rsquo;s working well too.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;In 1909 Washington Post wrote &amp;ldquo;There will never be such a thing as commercial aerial freighters. Freight will continue to drag it&amp;rsquo;s slow weight across the patient path&amp;rdquo;.&lt;/p&gt;
@@ -1483,30 +2234,30 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
     
     <item>
       <title>India&#39;s Maiden Indigenous Aircraft Carrier</title>
-      <link>https://kbs.murarisumit.in/bookmarks/india-maiden-indigenous-aircraft-carrier/</link>
+      <link>http://localhost:1313/bookmarks/india-maiden-indigenous-aircraft-carrier/</link>
       <pubDate>Thu, 05 Aug 2021 22:48:36 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/india-maiden-indigenous-aircraft-carrier/</guid>
+      <guid>http://localhost:1313/bookmarks/india-maiden-indigenous-aircraft-carrier/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s is good to see fellow country man are working are making things are aircraft carrier, weighing 40000 tonnes in itself looks like huge engineering and manufacturing feat.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Homelabs Setup</title>
-      <link>https://kbs.murarisumit.in/bookmarks/homelabs-setup/</link>
+      <link>http://localhost:1313/bookmarks/homelabs-setup/</link>
       <pubDate>Thu, 05 Aug 2021 22:24:23 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/homelabs-setup/</guid>
+      <guid>http://localhost:1313/bookmarks/homelabs-setup/</guid>
       <description>&lt;p&gt;For sometime having ideas of using homelabs, found this guide useful but have other important priorities right now. Hence parking it here for future referece.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bigger Impact of Distraction More Than Just Time Lost</title>
-      <link>https://kbs.murarisumit.in/bookmarks/bigger-impact-for-distraction-more-than-just-time-lost/</link>
+      <link>http://localhost:1313/bookmarks/bigger-impact-for-distraction-more-than-just-time-lost/</link>
       <pubDate>Thu, 05 Aug 2021 09:48:58 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/bigger-impact-for-distraction-more-than-just-time-lost/</guid>
+      <guid>http://localhost:1313/bookmarks/bigger-impact-for-distraction-more-than-just-time-lost/</guid>
       <description>&lt;p&gt;Somehow reached to this tacky/clickbaity title &amp;ldquo;How the smartphone is destroying you from inside&amp;rdquo; &lt;a href=&#34;https://www.youtube.com/watch?v=4HjC245ugW8&#34;&gt;https://www.youtube.com/watch?v=4HjC245ugW8&lt;/a&gt;. Probably from the past few days, putting my head to these distractions. They seem to me like modern day alcoholic drinks. You enjoy it and forget your problems, similar promises made by alcoholic drinks.&lt;/p&gt;
 &lt;p&gt;So the point video makes is, the time we invest in these addictive systems(there whole KPI is to make stay people on their website) is anyways gone, but there are more far reaching impact because of it.&lt;/p&gt;
 &lt;ul&gt;
@@ -1546,10 +2297,10 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
     
     <item>
       <title>Finally Some Sense in Laptops</title>
-      <link>https://kbs.murarisumit.in/bookmarks/finally-some-sense-in-laptops/</link>
+      <link>http://localhost:1313/bookmarks/finally-some-sense-in-laptops/</link>
       <pubDate>Thu, 05 Aug 2021 09:44:42 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/finally-some-sense-in-laptops/</guid>
+      <guid>http://localhost:1313/bookmarks/finally-some-sense-in-laptops/</guid>
       <description>&lt;p&gt;It was good to see nice laptops coming in now. Which have this repairability in mind. This laptop specially looks with it&amp;rsquo;s modularity. As iFixit says, this is slippery slope, we have seen many such initiatives come and go. So hoping this company works and changes consumer electronics industry for good.&lt;/p&gt;
 &lt;p&gt;Kudos to &lt;a href=&#34;https://frame.work/&#34;&gt;https://frame.work/&lt;/a&gt; team.&lt;/p&gt;
 </description>
@@ -1557,10 +2308,10 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
     
     <item>
       <title>Azure Caf Terraform Landingzones</title>
-      <link>https://kbs.murarisumit.in/df6b12d2680b2afbfc3288c0564c3af3/</link>
+      <link>http://localhost:1313/df6b12d2680b2afbfc3288c0564c3af3/</link>
       <pubDate>Fri, 12 Feb 2021 17:21:31 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/df6b12d2680b2afbfc3288c0564c3af3/</guid>
+      <guid>http://localhost:1313/df6b12d2680b2afbfc3288c0564c3af3/</guid>
       <description></description>
     </item>
     

@@ -2,26 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud-Security on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/cloud-security/</link>
+    <link>http://localhost:1313/tags/cloud-security/</link>
     <description>Recent content in Cloud-Security on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Aug 2021 02:29:18 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/cloud-security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Feb 2022 11:35:48 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/cloud-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why No Aws Managed Policy</title>
+      <link>http://localhost:1313/7fcc73a58f83205a66e053339868f3a4/</link>
+      <pubDate>Fri, 25 Feb 2022 11:35:48 +0530</pubDate>
+      
+      <guid>http://localhost:1313/7fcc73a58f83205a66e053339868f3a4/</guid>
+      <description>&lt;p&gt;AWS managed policy are good to start, but have loophole and can give more access without us knowing.&lt;/p&gt;
+&lt;p&gt;The guiding principle for above is:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Accuracy &amp;gt; Speed &amp;gt; Perfection.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Azure Enterprise Scale</title>
-      <link>https://kbs.murarisumit.in/bookmarks/azure-enterprise-scale/</link>
+      <link>http://localhost:1313/bookmarks/azure-enterprise-scale/</link>
       <pubDate>Mon, 02 Aug 2021 02:29:18 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/azure-enterprise-scale/</guid>
+      <guid>http://localhost:1313/bookmarks/azure-enterprise-scale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloudsecdocs</title>
-      <link>https://kbs.murarisumit.in/bookmarks/cloudsecdocs.com/</link>
+      <link>http://localhost:1313/bookmarks/cloudsecdocs.com/</link>
       <pubDate>Fri, 30 Jul 2021 07:34:43 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/cloudsecdocs.com/</guid>
+      <guid>http://localhost:1313/bookmarks/cloudsecdocs.com/</guid>
       <description>&lt;p&gt;Good website lot of work, already done up here&lt;/p&gt;
 </description>
     </item>

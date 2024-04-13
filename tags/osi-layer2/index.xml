@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Osi-Layer2 on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/osi-layer2/</link>
+    <link>http://localhost:1313/tags/osi-layer2/</link>
     <description>Recent content in Osi-Layer2 on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2020 09:24:33 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/osi-layer2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 May 2020 09:24:33 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/osi-layer2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IPv4 Link Local</title>
-      <link>https://kbs.murarisumit.in/tils/ipv4-link-local/</link>
+      <link>http://localhost:1313/tils/ipv4-link-local/</link>
       <pubDate>Mon, 25 May 2020 09:24:33 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tils/ipv4-link-local/</guid>
+      <guid>http://localhost:1313/tils/ipv4-link-local/</guid>
       <description>&lt;p&gt;To participate in wide-area IP networking, a host needs to be
 configured with IP addresses for its interfaces, either manually by
 the user or automatically from a source on the network such as a

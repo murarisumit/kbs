@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Utils on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/utils/</link>
+    <link>http://localhost:1313/tags/utils/</link>
     <description>Recent content in Utils on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2020 20:22:24 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/utils/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jul 2020 20:22:24 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/utils/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Strace Command Snippets</title>
-      <link>https://kbs.murarisumit.in/tils/strace-command-snippets/</link>
+      <link>http://localhost:1313/tils/strace-command-snippets/</link>
       <pubDate>Wed, 29 Jul 2020 20:22:24 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tils/strace-command-snippets/</guid>
+      <guid>http://localhost:1313/tils/strace-command-snippets/</guid>
       <description>&lt;p&gt;Strace is really nice command to see what system calls are being used, it&amp;rsquo;s primary used as debugging tools for linux system calls&lt;/p&gt;
 &lt;p&gt;Q: &lt;strong&gt;What is a &amp;ldquo;system call&amp;rdquo;&lt;/strong&gt; ?&lt;/p&gt;
 &lt;p&gt;A: System calls are interface via which user-space program interact with system using linux kernel.&lt;/p&gt;

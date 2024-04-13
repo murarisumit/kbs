@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Profiles on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/profiles/</link>
+    <link>http://localhost:1313/tags/profiles/</link>
     <description>Recent content in Profiles on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Oct 2021 10:21:50 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/profiles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 10:21:50 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/profiles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Multiple Git Ssh Config Single Machine</title>
-      <link>https://kbs.murarisumit.in/d881fb4640d6de032e6221c9eabe0e39/</link>
+      <link>http://localhost:1313/d881fb4640d6de032e6221c9eabe0e39/</link>
       <pubDate>Wed, 20 Oct 2021 10:21:50 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/d881fb4640d6de032e6221c9eabe0e39/</guid>
+      <guid>http://localhost:1313/d881fb4640d6de032e6221c9eabe0e39/</guid>
       <description>&lt;p&gt;To use multiple github account on same hosts, and using ssh to push and pull the repo. We have multiple tricks&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Using ssh config tricks with hosts: &lt;a href=&#34;https://gist.github.com/JoaquimLey/e6049a12c8fd2923611802384cd2fb4a&#34;&gt;https://gist.github.com/JoaquimLey/e6049a12c8fd2923611802384cd2fb4a&lt;/a&gt;&lt;/li&gt;

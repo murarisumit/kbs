@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Engineering on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/engineering/</link>
+    <link>http://localhost:1313/tags/engineering/</link>
     <description>Recent content in Engineering on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Aug 2021 04:33:09 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Aug 2021 04:33:09 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How Engine Works</title>
-      <link>https://kbs.murarisumit.in/1125b6a1a9edde68c82b00c6e62a2f2e/</link>
+      <link>http://localhost:1313/1125b6a1a9edde68c82b00c6e62a2f2e/</link>
       <pubDate>Fri, 13 Aug 2021 04:33:09 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/1125b6a1a9edde68c82b00c6e62a2f2e/</guid>
+      <guid>http://localhost:1313/1125b6a1a9edde68c82b00c6e62a2f2e/</guid>
       <description>&lt;p&gt;Beautiful things, always read 4 strokes work, but seeing this video(click title to go to video) gave so much more clarity and satisfaction. Now would be comfortable to say that,  i have good theoretical understanding of how engines work.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>India&#39;s Maiden Indigenous Aircraft Carrier</title>
-      <link>https://kbs.murarisumit.in/bookmarks/india-maiden-indigenous-aircraft-carrier/</link>
+      <link>http://localhost:1313/bookmarks/india-maiden-indigenous-aircraft-carrier/</link>
       <pubDate>Thu, 05 Aug 2021 22:48:36 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/india-maiden-indigenous-aircraft-carrier/</guid>
+      <guid>http://localhost:1313/bookmarks/india-maiden-indigenous-aircraft-carrier/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s is good to see fellow country man are working are making things are aircraft carrier, weighing 40000 tonnes in itself looks like huge engineering and manufacturing feat.&lt;/p&gt;
 </description>
     </item>
