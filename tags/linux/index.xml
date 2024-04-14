@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on knowledge base</title>
-    <link>http://localhost:1313/tags/linux/</link>
+    <link>https://kbs.murarisumit.in/tags/linux/</link>
     <description>Recent content in Linux on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jun 2022 10:24:27 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jun 2022 10:24:27 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Xargs Command Snippets</title>
-      <link>http://localhost:1313/46030699d1902e025e7e02246a9a9c13/</link>
+      <link>https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/</link>
       <pubDate>Mon, 13 Jun 2022 10:24:27 +0530</pubDate>
       
-      <guid>http://localhost:1313/46030699d1902e025e7e02246a9a9c13/</guid>
+      <guid>https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/</guid>
       <description>&lt;p&gt;Simple command snippet that most likely be used imo would be.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>Diff Between &#34;su&#34; and &#34;su -&#34;</title>
-      <link>http://localhost:1313/7fa5b4e9b48dbb81c234710d25151f22/</link>
+      <link>https://kbs.murarisumit.in/7fa5b4e9b48dbb81c234710d25151f22/</link>
       <pubDate>Wed, 17 Nov 2021 09:25:52 +0530</pubDate>
       
-      <guid>http://localhost:1313/7fa5b4e9b48dbb81c234710d25151f22/</guid>
+      <guid>https://kbs.murarisumit.in/7fa5b4e9b48dbb81c234710d25151f22/</guid>
       <description>&lt;p&gt;Keeping here for reference:&lt;/p&gt;
 &lt;p&gt;The difference between &amp;ldquo;-&amp;rdquo; and &amp;ldquo;no hyphen&amp;rdquo; is&lt;/p&gt;
 &lt;ul&gt;
@@ -68,10 +68,10 @@ The hyphen has two effects:
     
     <item>
       <title>Linux Load Avgs</title>
-      <link>http://localhost:1313/bookmarks/linux-load-avgs/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</link>
       <pubDate>Mon, 09 Aug 2021 09:25:45 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/linux-load-avgs/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</guid>
       <description>&lt;h1 id=&#34;excerpt-from-blog-post&#34;&gt;Excerpt from blog post&lt;/h1&gt;
 &lt;p&gt;Linux load averages are &amp;ldquo;system load averages&amp;rdquo; that show the running thread (task) demand on the system as an average number of running plus waiting threads. This measures demand, which can be greater than what the system is currently processing. Most tools show three averages, for 1, 5, and 15 minutes:&lt;/p&gt;
 &lt;p&gt;Some interpretations:&lt;/p&gt;
@@ -101,10 +101,10 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
     
     <item>
       <title>Linus Interview Linuxcon North America 2016</title>
-      <link>http://localhost:1313/bookmarks/linus-interview-linuxcon-north-america-2016/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/linus-interview-linuxcon-north-america-2016/</link>
       <pubDate>Tue, 27 Jul 2021 17:05:47 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/linus-interview-linuxcon-north-america-2016/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/linus-interview-linuxcon-north-america-2016/</guid>
       <description>&lt;p&gt;Linus interviews are always fun to watch. One of favorite past-time activity for me. Loved watching it. Keeping them here.&lt;/p&gt;
 &lt;p&gt;One good comment mentioned one simple/funny thing in interview&lt;/p&gt;
 &lt;blockquote&gt;
@@ -115,10 +115,10 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
     
     <item>
       <title>Strace Command Snippets</title>
-      <link>http://localhost:1313/tils/strace-command-snippets/</link>
+      <link>https://kbs.murarisumit.in/tils/strace-command-snippets/</link>
       <pubDate>Wed, 29 Jul 2020 20:22:24 +0530</pubDate>
       
-      <guid>http://localhost:1313/tils/strace-command-snippets/</guid>
+      <guid>https://kbs.murarisumit.in/tils/strace-command-snippets/</guid>
       <description>&lt;p&gt;Strace is really nice command to see what system calls are being used, it&amp;rsquo;s primary used as debugging tools for linux system calls&lt;/p&gt;
 &lt;p&gt;Q: &lt;strong&gt;What is a &amp;ldquo;system call&amp;rdquo;&lt;/strong&gt; ?&lt;/p&gt;
 &lt;p&gt;A: System calls are interface via which user-space program interact with system using linux kernel.&lt;/p&gt;

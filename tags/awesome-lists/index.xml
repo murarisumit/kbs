@@ -2,64 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Awesome-Lists on knowledge base</title>
-    <link>http://localhost:1313/tags/awesome-lists/</link>
+    <link>https://kbs.murarisumit.in/tags/awesome-lists/</link>
     <description>Recent content in Awesome-Lists on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Oct 2021 08:25:31 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/awesome-lists/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 08:25:31 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/awesome-lists/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post Your Startup</title>
-      <link>http://localhost:1313/492e142b3d2566623e4ba229d743b355/</link>
+      <link>https://kbs.murarisumit.in/492e142b3d2566623e4ba229d743b355/</link>
       <pubDate>Wed, 20 Oct 2021 08:25:31 +0530</pubDate>
       
-      <guid>http://localhost:1313/492e142b3d2566623e4ba229d743b355/</guid>
+      <guid>https://kbs.murarisumit.in/492e142b3d2566623e4ba229d743b355/</guid>
       <description>&lt;p&gt;Place where we can post about startup, found this list. Keeping here for reference as tags are easy to track now for me.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Competitive Programming  to Play Around Sometimes</title>
-      <link>http://localhost:1313/3654465ae54a20816f5b8cc307dabaa3/</link>
+      <link>https://kbs.murarisumit.in/3654465ae54a20816f5b8cc307dabaa3/</link>
       <pubDate>Sat, 21 Aug 2021 05:44:50 +0530</pubDate>
       
-      <guid>http://localhost:1313/3654465ae54a20816f5b8cc307dabaa3/</guid>
+      <guid>https://kbs.murarisumit.in/3654465ae54a20816f5b8cc307dabaa3/</guid>
       <description>&lt;p&gt;Moving it from notion kbs to store here.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>K8s Failure Stories</title>
-      <link>http://localhost:1313/bookmarks/k8s-failure-stories/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/k8s-failure-stories/</link>
       <pubDate>Mon, 09 Aug 2021 00:37:09 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/k8s-failure-stories/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/k8s-failure-stories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Awesome Kubernetes</title>
-      <link>http://localhost:1313/bookmarks/awesome-kubernetes/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</link>
       <pubDate>Mon, 09 Aug 2021 00:16:59 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/awesome-kubernetes/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Awesome Docker Compose</title>
-      <link>http://localhost:1313/bookmarks/awesome-docker-compose/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-docker-compose/</link>
       <pubDate>Mon, 09 Aug 2021 00:16:18 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/awesome-docker-compose/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-docker-compose/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Awesome K8s Security</title>
-      <link>http://localhost:1313/bookmarks/awesome-k8s-security/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</link>
       <pubDate>Sat, 07 Aug 2021 12:50:34 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/awesome-k8s-security/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</guid>
       <description>&lt;p&gt;A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.&lt;/p&gt;
 &lt;p&gt;Not only for security professionals, but also for developers, operators, and architects who are interested in learning about K8s security.&lt;/p&gt;
 </description>
@@ -67,10 +67,10 @@
     
     <item>
       <title>Awesome Prometheus Alerts</title>
-      <link>http://localhost:1313/bookmarks/awesome-prometheus-alerts/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-prometheus-alerts/</link>
       <pubDate>Tue, 23 Jun 2020 16:53:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/awesome-prometheus-alerts/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-prometheus-alerts/</guid>
       <description></description>
     </item>
     

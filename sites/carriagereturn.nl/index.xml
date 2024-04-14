@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carriagereturn.nl on knowledge base</title>
-    <link>http://localhost:1313/sites/carriagereturn.nl/</link>
+    <link>https://kbs.murarisumit.in/sites/carriagereturn.nl/</link>
     <description>Recent content in Carriagereturn.nl on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 May 2022 08:58:40 +0530</lastBuildDate><atom:link href="http://localhost:1313/sites/carriagereturn.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 May 2022 08:58:40 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/carriagereturn.nl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Aws Cli Output Text</title>
-      <link>http://localhost:1313/cb09c8a3463c51091177eff829bd82d8/</link>
+      <link>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</link>
       <pubDate>Mon, 16 May 2022 08:58:40 +0530</pubDate>
       
-      <guid>http://localhost:1313/cb09c8a3463c51091177eff829bd82d8/</guid>
+      <guid>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&amp;ndash;output=text will print everything within innermost [] brackets on single line.&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;To see it in action see the difference between&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;

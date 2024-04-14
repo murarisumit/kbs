@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Devops on knowledge base</title>
-    <link>http://localhost:1313/tags/devops/</link>
+    <link>https://kbs.murarisumit.in/tags/devops/</link>
     <description>Recent content in Devops on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Nov 2021 21:00:55 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Nov 2021 21:00:55 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Does 9s Mean in Downtime</title>
-      <link>http://localhost:1313/ec9cc6baa4890df4cb5e5dc561d60e43/</link>
+      <link>https://kbs.murarisumit.in/ec9cc6baa4890df4cb5e5dc561d60e43/</link>
       <pubDate>Fri, 19 Nov 2021 21:00:55 +0530</pubDate>
       
-      <guid>http://localhost:1313/ec9cc6baa4890df4cb5e5dc561d60e43/</guid>
+      <guid>https://kbs.murarisumit.in/ec9cc6baa4890df4cb5e5dc561d60e43/</guid>
       <description>&lt;p&gt;Sometime i just forgot how much 9s means in w.r.t SLA and how much downtime can be afforded and this above reference is simple and beautiful.&lt;/p&gt;
 &lt;p&gt;Try with multiple 9s like this: &lt;a href=&#34;https://uptime.is/99.9&#34;&gt;https://uptime.is/99.9&lt;/a&gt; or &lt;a href=&#34;https://uptime.is/99.99&#34;&gt;https://uptime.is/99.99&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To put from website.&lt;/p&gt;
@@ -43,10 +43,10 @@ Yearly: 5m 15s
     
     <item>
       <title>Linux Load Avgs</title>
-      <link>http://localhost:1313/bookmarks/linux-load-avgs/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</link>
       <pubDate>Mon, 09 Aug 2021 09:25:45 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/linux-load-avgs/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</guid>
       <description>&lt;h1 id=&#34;excerpt-from-blog-post&#34;&gt;Excerpt from blog post&lt;/h1&gt;
 &lt;p&gt;Linux load averages are &amp;ldquo;system load averages&amp;rdquo; that show the running thread (task) demand on the system as an average number of running plus waiting threads. This measures demand, which can be greater than what the system is currently processing. Most tools show three averages, for 1, 5, and 15 minutes:&lt;/p&gt;
 &lt;p&gt;Some interpretations:&lt;/p&gt;

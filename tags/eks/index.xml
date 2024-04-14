@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eks on knowledge base</title>
-    <link>http://localhost:1313/tags/eks/</link>
+    <link>https://kbs.murarisumit.in/tags/eks/</link>
     <description>Recent content in Eks on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2020 22:16:17 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/eks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 May 2020 22:16:17 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/eks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EKS Best Practices</title>
-      <link>http://localhost:1313/bookmarks/eks-best-practices/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/eks-best-practices/</link>
       <pubDate>Wed, 20 May 2020 22:16:17 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/eks-best-practices/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/eks-best-practices/</guid>
       <description></description>
     </item>
     

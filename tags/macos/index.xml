@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Macos on knowledge base</title>
-    <link>http://localhost:1313/tags/macos/</link>
+    <link>https://kbs.murarisumit.in/tags/macos/</link>
     <description>Recent content in Macos on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Aug 2022 15:22:02 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Aug 2022 15:22:02 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/macos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Macos App Switcher</title>
-      <link>http://localhost:1313/bookmarks/macos-app-switcher/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/macos-app-switcher/</link>
       <pubDate>Thu, 04 Aug 2022 15:22:02 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/macos-app-switcher/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/macos-app-switcher/</guid>
       <description>&lt;p&gt;This is to show macos app switcher in all the monitors connected.&lt;/p&gt;
 &lt;p&gt;Reset to default state:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>Rss Reader</title>
-      <link>http://localhost:1313/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</link>
+      <link>https://kbs.murarisumit.in/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</link>
       <pubDate>Sun, 03 Jul 2022 00:47:21 +0530</pubDate>
       
-      <guid>http://localhost:1313/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</guid>
+      <guid>https://kbs.murarisumit.in/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</guid>
       <description>&lt;p&gt;Personally I prefer &lt;a href=&#34;https://www.reederapp.com&#34;&gt;reederapp&lt;/a&gt;. It has built-in RSS feeds, beautiful interface and sync across devices.&lt;/p&gt;
 &lt;p&gt;But if someone is looking for Open Sourcs RSS Reader that works on iOS ecosystem, then &lt;a href=&#34;https://netnewswire.com&#34;&gt;netnewswire&lt;/a&gt; is good option without putting lot of money before locking into RSS.&lt;/p&gt;
 </description>
@@ -50,20 +50,20 @@
     
     <item>
       <title>Linuxify</title>
-      <link>http://localhost:1313/en/96b18098f374caabc54fa7d41fdfcecc/</link>
+      <link>https://kbs.murarisumit.in/en/96b18098f374caabc54fa7d41fdfcecc/</link>
       <pubDate>Mon, 09 May 2022 01:58:48 +0530</pubDate>
       
-      <guid>http://localhost:1313/en/96b18098f374caabc54fa7d41fdfcecc/</guid>
+      <guid>https://kbs.murarisumit.in/en/96b18098f374caabc54fa7d41fdfcecc/</guid>
       <description>&lt;p&gt;Smart scripts to setup the system and eliminating overhead of maintaining scripts.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Iterm Auto Theme Switch</title>
-      <link>http://localhost:1313/bookmarks/iterm-auto-theme-switch/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/iterm-auto-theme-switch/</link>
       <pubDate>Mon, 26 Jul 2021 22:35:37 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/iterm-auto-theme-switch/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/iterm-auto-theme-switch/</guid>
       <description>&lt;p&gt;It should be native feature in iterm, so hoping same someday. Till then here you are.&lt;/p&gt;
 </description>
     </item>

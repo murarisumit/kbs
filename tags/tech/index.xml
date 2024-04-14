@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on knowledge base</title>
-    <link>http://localhost:1313/tags/tech/</link>
+    <link>https://kbs.murarisumit.in/tags/tech/</link>
     <description>Recent content in Tech on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Nov 2021 21:00:55 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Nov 2021 21:00:55 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Does 9s Mean in Downtime</title>
-      <link>http://localhost:1313/ec9cc6baa4890df4cb5e5dc561d60e43/</link>
+      <link>https://kbs.murarisumit.in/ec9cc6baa4890df4cb5e5dc561d60e43/</link>
       <pubDate>Fri, 19 Nov 2021 21:00:55 +0530</pubDate>
       
-      <guid>http://localhost:1313/ec9cc6baa4890df4cb5e5dc561d60e43/</guid>
+      <guid>https://kbs.murarisumit.in/ec9cc6baa4890df4cb5e5dc561d60e43/</guid>
       <description>&lt;p&gt;Sometime i just forgot how much 9s means in w.r.t SLA and how much downtime can be afforded and this above reference is simple and beautiful.&lt;/p&gt;
 &lt;p&gt;Try with multiple 9s like this: &lt;a href=&#34;https://uptime.is/99.9&#34;&gt;https://uptime.is/99.9&lt;/a&gt; or &lt;a href=&#34;https://uptime.is/99.99&#34;&gt;https://uptime.is/99.99&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To put from website.&lt;/p&gt;
@@ -43,10 +43,10 @@ Yearly: 5m 15s
     
     <item>
       <title>Solid Principle in Simple Way</title>
-      <link>http://localhost:1313/5df1af1a7c595eb1c55b78bc2086c772/</link>
+      <link>https://kbs.murarisumit.in/5df1af1a7c595eb1c55b78bc2086c772/</link>
       <pubDate>Tue, 02 Nov 2021 22:00:04 +0530</pubDate>
       
-      <guid>http://localhost:1313/5df1af1a7c595eb1c55b78bc2086c772/</guid>
+      <guid>https://kbs.murarisumit.in/5df1af1a7c595eb1c55b78bc2086c772/</guid>
       <description>&lt;p&gt;Summary:&lt;/p&gt;
 &lt;h4 id=&#34;single-responsibility-principle-&#34;&gt;Single Responsibility principle :&lt;/h4&gt;
 &lt;p&gt;Don’t surprise the people who read your code.&lt;/p&gt;
@@ -66,10 +66,10 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>Understanding Totp Format</title>
-      <link>http://localhost:1313/17631ba5506051a4b38a7a5f997a0140/</link>
+      <link>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</link>
       <pubDate>Fri, 03 Sep 2021 22:11:57 +0530</pubDate>
       
-      <guid>http://localhost:1313/17631ba5506051a4b38a7a5f997a0140/</guid>
+      <guid>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</guid>
       <description>&lt;p&gt;Gist for TOTP is&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;

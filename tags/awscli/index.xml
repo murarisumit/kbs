@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Awscli on knowledge base</title>
-    <link>http://localhost:1313/tags/awscli/</link>
+    <link>https://kbs.murarisumit.in/tags/awscli/</link>
     <description>Recent content in Awscli on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 May 2022 08:58:40 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/awscli/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 May 2022 08:58:40 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/awscli/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Aws Cli Output Text</title>
-      <link>http://localhost:1313/cb09c8a3463c51091177eff829bd82d8/</link>
+      <link>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</link>
       <pubDate>Mon, 16 May 2022 08:58:40 +0530</pubDate>
       
-      <guid>http://localhost:1313/cb09c8a3463c51091177eff829bd82d8/</guid>
+      <guid>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&amp;ndash;output=text will print everything within innermost [] brackets on single line.&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;To see it in action see the difference between&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -48,10 +48,10 @@
     
     <item>
       <title>Bash My Aws</title>
-      <link>http://localhost:1313/en/1b90c167d2d85130fc5372245ed523e9/</link>
+      <link>https://kbs.murarisumit.in/en/1b90c167d2d85130fc5372245ed523e9/</link>
       <pubDate>Mon, 09 May 2022 01:42:17 +0530</pubDate>
       
-      <guid>http://localhost:1313/en/1b90c167d2d85130fc5372245ed523e9/</guid>
+      <guid>https://kbs.murarisumit.in/en/1b90c167d2d85130fc5372245ed523e9/</guid>
       <description>&lt;p&gt;Nice utility to work with awscli faster.&lt;/p&gt;
 &lt;p&gt;If you work with Ip address, ddd this function to bashrc and reload(&lt;code&gt;source ~/.bashrc&lt;/code&gt;) to get instance-id&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -89,10 +89,10 @@
     
     <item>
       <title>Awscli snippets</title>
-      <link>http://localhost:1313/c0b28c0e8bc16283b3c9e2d099eabe63/</link>
+      <link>https://kbs.murarisumit.in/c0b28c0e8bc16283b3c9e2d099eabe63/</link>
       <pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate>
       
-      <guid>http://localhost:1313/c0b28c0e8bc16283b3c9e2d099eabe63/</guid>
+      <guid>https://kbs.murarisumit.in/c0b28c0e8bc16283b3c9e2d099eabe63/</guid>
       <description>&lt;h4 id=&#34;fetch-running-instance-with-their-private-ip&#34;&gt;Fetch running instance with their private IP&lt;/h4&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -122,7 +122,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;Linked post:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/cb09c8a3463c51091177eff829bd82d8/&#34;&gt;Understanding text output for awscli&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/&#34;&gt;Understanding text output for awscli&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Reference:&lt;/p&gt;
 &lt;ul&gt;

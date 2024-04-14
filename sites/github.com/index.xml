@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Github.com on knowledge base</title>
-    <link>http://localhost:1313/sites/github.com/</link>
+    <link>https://kbs.murarisumit.in/sites/github.com/</link>
     <description>Recent content in Github.com on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Aug 2022 15:22:02 +0530</lastBuildDate><atom:link href="http://localhost:1313/sites/github.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Aug 2022 15:22:02 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/github.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Macos App Switcher</title>
-      <link>http://localhost:1313/bookmarks/macos-app-switcher/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/macos-app-switcher/</link>
       <pubDate>Thu, 04 Aug 2022 15:22:02 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/macos-app-switcher/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/macos-app-switcher/</guid>
       <description>&lt;p&gt;This is to show macos app switcher in all the monitors connected.&lt;/p&gt;
 &lt;p&gt;Reset to default state:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>Rss Reader</title>
-      <link>http://localhost:1313/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</link>
+      <link>https://kbs.murarisumit.in/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</link>
       <pubDate>Sun, 03 Jul 2022 00:47:21 +0530</pubDate>
       
-      <guid>http://localhost:1313/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</guid>
+      <guid>https://kbs.murarisumit.in/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</guid>
       <description>&lt;p&gt;Personally I prefer &lt;a href=&#34;https://www.reederapp.com&#34;&gt;reederapp&lt;/a&gt;. It has built-in RSS feeds, beautiful interface and sync across devices.&lt;/p&gt;
 &lt;p&gt;But if someone is looking for Open Sourcs RSS Reader that works on iOS ecosystem, then &lt;a href=&#34;https://netnewswire.com&#34;&gt;netnewswire&lt;/a&gt; is good option without putting lot of money before locking into RSS.&lt;/p&gt;
 </description>
@@ -50,20 +50,20 @@
     
     <item>
       <title>Linuxify</title>
-      <link>http://localhost:1313/en/96b18098f374caabc54fa7d41fdfcecc/</link>
+      <link>https://kbs.murarisumit.in/en/96b18098f374caabc54fa7d41fdfcecc/</link>
       <pubDate>Mon, 09 May 2022 01:58:48 +0530</pubDate>
       
-      <guid>http://localhost:1313/en/96b18098f374caabc54fa7d41fdfcecc/</guid>
+      <guid>https://kbs.murarisumit.in/en/96b18098f374caabc54fa7d41fdfcecc/</guid>
       <description>&lt;p&gt;Smart scripts to setup the system and eliminating overhead of maintaining scripts.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bash My Aws</title>
-      <link>http://localhost:1313/en/1b90c167d2d85130fc5372245ed523e9/</link>
+      <link>https://kbs.murarisumit.in/en/1b90c167d2d85130fc5372245ed523e9/</link>
       <pubDate>Mon, 09 May 2022 01:42:17 +0530</pubDate>
       
-      <guid>http://localhost:1313/en/1b90c167d2d85130fc5372245ed523e9/</guid>
+      <guid>https://kbs.murarisumit.in/en/1b90c167d2d85130fc5372245ed523e9/</guid>
       <description>&lt;p&gt;Nice utility to work with awscli faster.&lt;/p&gt;
 &lt;p&gt;If you work with Ip address, ddd this function to bashrc and reload(&lt;code&gt;source ~/.bashrc&lt;/code&gt;) to get instance-id&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -101,56 +101,56 @@
     
     <item>
       <title>Golang Codereview Comments</title>
-      <link>http://localhost:1313/c0ab4091d733d85471515c2cd581fd67/</link>
+      <link>https://kbs.murarisumit.in/c0ab4091d733d85471515c2cd581fd67/</link>
       <pubDate>Wed, 27 Oct 2021 16:32:43 +0530</pubDate>
       
-      <guid>http://localhost:1313/c0ab4091d733d85471515c2cd581fd67/</guid>
+      <guid>https://kbs.murarisumit.in/c0ab4091d733d85471515c2cd581fd67/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K8s Failure Stories</title>
-      <link>http://localhost:1313/bookmarks/k8s-failure-stories/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/k8s-failure-stories/</link>
       <pubDate>Mon, 09 Aug 2021 00:37:09 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/k8s-failure-stories/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/k8s-failure-stories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Awesome Kubernetes</title>
-      <link>http://localhost:1313/bookmarks/awesome-kubernetes/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</link>
       <pubDate>Mon, 09 Aug 2021 00:16:59 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/awesome-kubernetes/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Awesome Docker Compose</title>
-      <link>http://localhost:1313/bookmarks/awesome-docker-compose/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-docker-compose/</link>
       <pubDate>Mon, 09 Aug 2021 00:16:18 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/awesome-docker-compose/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-docker-compose/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kuberentes Kbrew</title>
-      <link>http://localhost:1313/bookmarks/k8s-kbrew/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/k8s-kbrew/</link>
       <pubDate>Sat, 07 Aug 2021 13:33:47 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/k8s-kbrew/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/k8s-kbrew/</guid>
       <description>&lt;p&gt;This tool looks good, and love the ease of this. It&amp;rsquo;s easy way to deploy the applications over cluster.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Awesome K8s Security</title>
-      <link>http://localhost:1313/bookmarks/awesome-k8s-security/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</link>
       <pubDate>Sat, 07 Aug 2021 12:50:34 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/awesome-k8s-security/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</guid>
       <description>&lt;p&gt;A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.&lt;/p&gt;
 &lt;p&gt;Not only for security professionals, but also for developers, operators, and architects who are interested in learning about K8s security.&lt;/p&gt;
 </description>
@@ -158,10 +158,10 @@
     
     <item>
       <title>Golang Slice Tricks</title>
-      <link>http://localhost:1313/bookmarks/golang-slice-tricks/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/golang-slice-tricks/</link>
       <pubDate>Wed, 04 Aug 2021 08:29:34 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/golang-slice-tricks/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/golang-slice-tricks/</guid>
       <description>&lt;h3 id=&#34;filtering-with-allocating&#34;&gt;Filtering with allocating&lt;/h3&gt;
 &lt;p&gt;This trick uses the fact that a slice shares the same backing array and capacity as the original, so the storage is reused for the filtered slice. Of course, the original contents are modified.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -187,10 +187,10 @@
     
     <item>
       <title>Profiles to Look Upto</title>
-      <link>http://localhost:1313/bookmarks/profiles-to-look-upto/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/profiles-to-look-upto/</link>
       <pubDate>Fri, 30 Jul 2021 06:35:12 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/profiles-to-look-upto/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/profiles-to-look-upto/</guid>
       <description>&lt;p&gt;Time to time, few profiles come across to me, which I see and admire of, the amount of work they have done. The position they are in, the impact they are making. Seeing their profiles motivates me.&lt;/p&gt;
 &lt;p&gt;These profile answer age old interview question for me: Where do you see youself in 3-5 years ?&lt;/p&gt;
 &lt;p&gt;His readme is beautiful, simple and succint. His github is clean. Motivated me also collect those badges(certifications), never a certification guy, but those badges are looking cool.&lt;/p&gt;
@@ -199,29 +199,29 @@
     
     <item>
       <title>Azure Caf Terraform Landingzones</title>
-      <link>http://localhost:1313/df6b12d2680b2afbfc3288c0564c3af3/</link>
+      <link>https://kbs.murarisumit.in/df6b12d2680b2afbfc3288c0564c3af3/</link>
       <pubDate>Fri, 12 Feb 2021 17:21:31 +0530</pubDate>
       
-      <guid>http://localhost:1313/df6b12d2680b2afbfc3288c0564c3af3/</guid>
+      <guid>https://kbs.murarisumit.in/df6b12d2680b2afbfc3288c0564c3af3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beautiful Static Site in haskell</title>
-      <link>http://localhost:1313/bookmarks/beautiful-static-site/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/beautiful-static-site/</link>
       <pubDate>Fri, 12 Jun 2020 14:19:12 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/beautiful-static-site/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/beautiful-static-site/</guid>
       <description>&lt;p&gt;He has made beautiful and optimized site, exactly how work should be like.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Promql cheatsheet</title>
-      <link>http://localhost:1313/bookmarks/promql/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/promql/</link>
       <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/promql/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/promql/</guid>
       <description></description>
     </item>
     

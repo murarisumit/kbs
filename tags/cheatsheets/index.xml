@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cheatsheets on knowledge base</title>
-    <link>http://localhost:1313/tags/cheatsheets/</link>
+    <link>https://kbs.murarisumit.in/tags/cheatsheets/</link>
     <description>Recent content in Cheatsheets on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2020 22:04:04 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/cheatsheets/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 May 2020 22:04:04 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/cheatsheets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Promql cheatsheet</title>
-      <link>http://localhost:1313/bookmarks/promql/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/promql/</link>
       <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/promql/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/promql/</guid>
       <description></description>
     </item>
     

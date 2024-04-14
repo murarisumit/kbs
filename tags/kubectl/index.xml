@@ -2,59 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kubectl on knowledge base</title>
-    <link>http://localhost:1313/tags/kubectl/</link>
+    <link>https://kbs.murarisumit.in/tags/kubectl/</link>
     <description>Recent content in Kubectl on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Aug 2021 04:57:32 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/kubectl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Aug 2021 04:57:32 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/kubectl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How Kubectl Logs Work</title>
-      <link>http://localhost:1313/d19e8438d682f3f5a897296206ca9828/</link>
+      <link>https://kbs.murarisumit.in/d19e8438d682f3f5a897296206ca9828/</link>
       <pubDate>Fri, 13 Aug 2021 04:57:32 +0530</pubDate>
       
-      <guid>http://localhost:1313/d19e8438d682f3f5a897296206ca9828/</guid>
+      <guid>https://kbs.murarisumit.in/d19e8438d682f3f5a897296206ca9828/</guid>
       <description>&lt;p&gt;Links to notion page, as it had diagram and it was easier to put post like these on notion.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kubectl Seldom Used Snippets</title>
-      <link>http://localhost:1313/5d8b39c56e663bef316ca5b9649b3fa5/</link>
-      <pubDate>Fri, 13 Aug 2021 04:48:40 +0530</pubDate>
-      
-      <guid>http://localhost:1313/5d8b39c56e663bef316ca5b9649b3fa5/</guid>
-      <description>&lt;p&gt;Seldom used kubectl get command, listing here for reference.&lt;/p&gt;
-&lt;h3 id=&#34;nodes&#34;&gt;Nodes&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;List all taints in node.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;kubectl get nodes -o custom-columns=NAME:.metadata.name,ARCH:.status.nodeInfo.architecture,KERNEL:.status.nodeInfo.kernelVersion,KUBLET:.status.nodeInfo.kubeletVersion,CPU:.status.capacity.cpu,RAM:.status.capacity.memory,TAINTS:.spec.taints
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;pods&#34;&gt;Pods&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Get all pods in specific node.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;kubectl get pods --all-namespaces -o wide --field-selector spec.nodeName=&amp;lt;node-name&amp;gt;&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;List pods by age&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;kubectl get po --sort-by=.status.startTime&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;References:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/39231880/kubernetes-api-gets-pods-on-specific-nodes&#34;&gt;https://stackoverflow.com/questions/39231880/kubernetes-api-gets-pods-on-specific-nodes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/43379415/how-can-i-list-the-taints-on-kubernetes-nodes/59494876#59494876&#34;&gt;https://stackoverflow.com/questions/43379415/how-can-i-list-the-taints-on-kubernetes-nodes/59494876#59494876&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/45310287/kubernetes-sort-pods-by-age&#34;&gt;https://stackoverflow.com/questions/45310287/kubernetes-sort-pods-by-age&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

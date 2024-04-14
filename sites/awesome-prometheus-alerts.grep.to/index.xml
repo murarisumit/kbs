@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Awesome-Prometheus-Alerts.grep.to on knowledge base</title>
-    <link>http://localhost:1313/sites/awesome-prometheus-alerts.grep.to/</link>
+    <link>https://kbs.murarisumit.in/sites/awesome-prometheus-alerts.grep.to/</link>
     <description>Recent content in Awesome-Prometheus-Alerts.grep.to on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2020 16:53:01 +0530</lastBuildDate><atom:link href="http://localhost:1313/sites/awesome-prometheus-alerts.grep.to/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jun 2020 16:53:01 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/awesome-prometheus-alerts.grep.to/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Awesome Prometheus Alerts</title>
-      <link>http://localhost:1313/bookmarks/awesome-prometheus-alerts/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-prometheus-alerts/</link>
       <pubDate>Tue, 23 Jun 2020 16:53:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/awesome-prometheus-alerts/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-prometheus-alerts/</guid>
       <description></description>
     </item>
     
