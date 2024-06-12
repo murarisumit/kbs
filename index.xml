@@ -9,10 +9,10 @@
     <lastBuildDate>Thu, 04 Aug 2022 15:22:02 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Macos App Switcher</title>
-      <link>https://kbs.murarisumit.in/bookmarks/macos-app-switcher/</link>
+      <link>https://kbs.murarisumit.in/en/39e6a85f2560b36262dd276126589bae/</link>
       <pubDate>Thu, 04 Aug 2022 15:22:02 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/macos-app-switcher/</guid>
+      <guid>https://kbs.murarisumit.in/en/39e6a85f2560b36262dd276126589bae/</guid>
       <description>&lt;p&gt;This is to show macos app switcher in all the monitors connected.&lt;/p&gt;
 &lt;p&gt;Reset to default state:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -118,14 +118,13 @@
     </item>
     
     <item>
-      <title>Financial Freedom: Skills First Than Money</title>
+      <title>Nithin Kamath of Zerodha Says True Financial Freedom Is About Acquiring Skills First Than Money</title>
       <link>https://kbs.murarisumit.in/60cdd644ced2abd406c37a892f8386e3/</link>
       <pubDate>Sun, 15 May 2022 23:41:17 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/60cdd644ced2abd406c37a892f8386e3/</guid>
       <description>&lt;p&gt;This guy is simple to understand, no out of the world quotations. Can relate to him, seems like a neighbourhood elder brother(bhaiya) who you can talk to.&lt;/p&gt;
-&lt;p&gt;What he mentioned was, spend on skills. More like one message in a 3-idiot movie. Run after excellence, success &amp;amp; peace of mind will follow.&lt;/p&gt;
-&lt;p&gt;All for peace of mind. If a house gives peace of mind, improves quality of life, go buy a house. If cars make your life easy, use it.&lt;/p&gt;
+&lt;p&gt;What he mentioned was, spend on skills. More like one message in a 3-idiot movie. Run after excellence, success will come to you. He isn&amp;rsquo;t sadhu and adds on to say to buy material assets like cars or houses. If a house gives peace of mind, improves quality of life, go buy a house. If cars make your life easy, use it.&lt;/p&gt;
 &lt;p&gt;Another important thing he mentioned is, we have to make money work for us to be financially independent and financial freedom is about being content. There are endless materialistic traps.&lt;/p&gt;
 &lt;p&gt;Just to few more bits to the post. &lt;a href=&#34;https://www.youtube.com/watch?v=kvBZjKXVyP8&amp;t=399s&#34;&gt;There are three important assets&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -1449,7 +1448,6 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
       
       <guid>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</guid>
       <description>&lt;p&gt;A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.&lt;/p&gt;
-&lt;p&gt;Not only for security professionals, but also for developers, operators, and architects who are interested in learning about K8s security.&lt;/p&gt;
 </description>
     </item>
     
@@ -2276,20 +2274,7 @@ No point of doing work which you don&amp;rsquo;t like in life, that life is not 
       <pubDate>Sun, 07 Jun 2020 04:06:21 +0530</pubDate>
       
       <guid>https://kbs.murarisumit.in/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;The /bin directory contains commands which may be used by both the system
-administrator and by users, but which are required when no other filesystems
-are mounted (e.g. in single user mode). It may also contain commands which are
-used indirectly by scripts.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The /sbin directory contains commands which are usually only needed by the
-system administrator, for system maintenance.  System administration programs
-that are required for system repair, system recovery, mounting /usr, or other
-essential functions must be placed in /sbin instead of /bin.  It may also
-contain commands which are indirectly used by scripts.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
