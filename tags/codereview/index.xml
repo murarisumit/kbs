@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Codereview on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/codereview/</link>
+    <link>http://localhost:1313/tags/codereview/</link>
     <description>Recent content in Codereview on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Oct 2021 16:32:43 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/codereview/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Oct 2021 16:32:43 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/codereview/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Golang Codereview Comments</title>
-      <link>https://kbs.murarisumit.in/c0ab4091d733d85471515c2cd581fd67/</link>
+      <link>http://localhost:1313/c0ab4091d733d85471515c2cd581fd67/</link>
       <pubDate>Wed, 27 Oct 2021 16:32:43 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/c0ab4091d733d85471515c2cd581fd67/</guid>
+      <guid>http://localhost:1313/c0ab4091d733d85471515c2cd581fd67/</guid>
       <description></description>
     </item>
     

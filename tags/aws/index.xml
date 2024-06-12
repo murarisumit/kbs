@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aws on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/aws/</link>
+    <link>http://localhost:1313/tags/aws/</link>
     <description>Recent content in Aws on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 May 2022 08:58:40 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 May 2022 08:58:40 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Aws Cli Output Text</title>
-      <link>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</link>
+      <link>http://localhost:1313/cb09c8a3463c51091177eff829bd82d8/</link>
       <pubDate>Mon, 16 May 2022 08:58:40 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</guid>
+      <guid>http://localhost:1313/cb09c8a3463c51091177eff829bd82d8/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&amp;ndash;output=text will print everything within innermost [] brackets on single line.&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;To see it in action see the difference between&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -47,11 +47,23 @@
     </item>
     
     <item>
+      <title>Why No Aws Managed Policy</title>
+      <link>http://localhost:1313/7fcc73a58f83205a66e053339868f3a4/</link>
+      <pubDate>Fri, 25 Feb 2022 11:35:48 +0530</pubDate>
+      
+      <guid>http://localhost:1313/7fcc73a58f83205a66e053339868f3a4/</guid>
+      <description>&lt;p&gt;AWS managed policy are good to start, but have loophole and can give more access without us knowing.&lt;/p&gt;
+&lt;p&gt;The guiding principle for above is:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Accuracy &amp;gt; Speed &amp;gt; Perfection.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Awscli snippets</title>
-      <link>https://kbs.murarisumit.in/c0b28c0e8bc16283b3c9e2d099eabe63/</link>
+      <link>http://localhost:1313/c0b28c0e8bc16283b3c9e2d099eabe63/</link>
       <pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/c0b28c0e8bc16283b3c9e2d099eabe63/</guid>
+      <guid>http://localhost:1313/c0b28c0e8bc16283b3c9e2d099eabe63/</guid>
       <description>&lt;h4 id=&#34;fetch-running-instance-with-their-private-ip&#34;&gt;Fetch running instance with their private IP&lt;/h4&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -81,7 +93,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;Linked post:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/&#34;&gt;Understanding text output for awscli&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/cb09c8a3463c51091177eff829bd82d8/&#34;&gt;Understanding text output for awscli&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Reference:&lt;/p&gt;
 &lt;ul&gt;
@@ -92,10 +104,10 @@
     
     <item>
       <title>EKS Best Practices</title>
-      <link>https://kbs.murarisumit.in/bookmarks/eks-best-practices/</link>
+      <link>http://localhost:1313/bookmarks/eks-best-practices/</link>
       <pubDate>Wed, 20 May 2020 22:16:17 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/eks-best-practices/</guid>
+      <guid>http://localhost:1313/bookmarks/eks-best-practices/</guid>
       <description></description>
     </item>
     

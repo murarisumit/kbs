@@ -2,17 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2022-02 on knowledge base</title>
-    <link>https://kbs.murarisumit.in/month/2022-02/</link>
+    <link>http://localhost:1313/month/2022-02/</link>
     <description>Recent content in 2022-02 on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Feb 2022 10:01:50 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/month/2022-02/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Feb 2022 11:35:48 +0530</lastBuildDate><atom:link href="http://localhost:1313/month/2022-02/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why No Aws Managed Policy</title>
+      <link>http://localhost:1313/7fcc73a58f83205a66e053339868f3a4/</link>
+      <pubDate>Fri, 25 Feb 2022 11:35:48 +0530</pubDate>
+      
+      <guid>http://localhost:1313/7fcc73a58f83205a66e053339868f3a4/</guid>
+      <description>&lt;p&gt;AWS managed policy are good to start, but have loophole and can give more access without us knowing.&lt;/p&gt;
+&lt;p&gt;The guiding principle for above is:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Accuracy &amp;gt; Speed &amp;gt; Perfection.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Decision Making Tricks</title>
-      <link>https://kbs.murarisumit.in/71cf6d3f5df8908b988630bd57c2541e/</link>
+      <link>http://localhost:1313/71cf6d3f5df8908b988630bd57c2541e/</link>
       <pubDate>Tue, 01 Feb 2022 10:01:50 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/71cf6d3f5df8908b988630bd57c2541e/</guid>
+      <guid>http://localhost:1313/71cf6d3f5df8908b988630bd57c2541e/</guid>
       <description>&lt;p&gt;Came to this blog from @navelism bot, which shared this &amp;ldquo;If you can&amp;rsquo;t decide, the answer is no.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;So big takeaways which made to space repitition were&lt;/p&gt;
 &lt;h4 id=&#34;naval-ravikant-if-you-cant-decide-the-answer-is-no&#34;&gt;Naval Ravikant: If You Can&amp;rsquo;t Decide, The Answer Is No.&lt;/h4&gt;

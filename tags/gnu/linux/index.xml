@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gnu/Linux on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/gnu/linux/</link>
+    <link>http://localhost:1313/tags/gnu/linux/</link>
     <description>Recent content in Gnu/Linux on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 May 2022 01:58:48 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/gnu/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 May 2022 01:58:48 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/gnu/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linuxify</title>
-      <link>https://kbs.murarisumit.in/en/96b18098f374caabc54fa7d41fdfcecc/</link>
+      <link>http://localhost:1313/en/96b18098f374caabc54fa7d41fdfcecc/</link>
       <pubDate>Mon, 09 May 2022 01:58:48 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/en/96b18098f374caabc54fa7d41fdfcecc/</guid>
+      <guid>http://localhost:1313/en/96b18098f374caabc54fa7d41fdfcecc/</guid>
       <description>&lt;p&gt;Smart scripts to setup the system and eliminating overhead of maintaining scripts.&lt;/p&gt;
 </description>
     </item>

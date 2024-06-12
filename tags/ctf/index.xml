@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ctf on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/ctf/</link>
+    <link>http://localhost:1313/tags/ctf/</link>
     <description>Recent content in Ctf on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2020 07:01:13 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jun 2020 07:01:13 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ctfs Are Awesome</title>
-      <link>https://kbs.murarisumit.in/bookmarks/ctfs-are-awesome/</link>
+      <link>http://localhost:1313/bookmarks/ctfs-are-awesome/</link>
       <pubDate>Mon, 01 Jun 2020 07:01:13 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/ctfs-are-awesome/</guid>
+      <guid>http://localhost:1313/bookmarks/ctfs-are-awesome/</guid>
       <description></description>
     </item>
     

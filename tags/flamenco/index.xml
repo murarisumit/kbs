@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flamenco on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/flamenco/</link>
+    <link>http://localhost:1313/tags/flamenco/</link>
     <description>Recent content in Flamenco on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Jul 2021 14:57:34 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/flamenco/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jul 2021 14:57:34 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/flamenco/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flamenco Street Music</title>
-      <link>https://kbs.murarisumit.in/bookmarks/flamenco-street-music/</link>
+      <link>http://localhost:1313/bookmarks/flamenco-street-music/</link>
       <pubDate>Thu, 29 Jul 2021 14:57:34 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/flamenco-street-music/</guid>
+      <guid>http://localhost:1313/bookmarks/flamenco-street-music/</guid>
       <description>&lt;p&gt;Was listening to thismusic in college, today there was discussion and flamenco again came up. It was sweet memory lane to go and also happy to see this video is still there in youtube.&lt;/p&gt;
 &lt;p&gt;How intrusive youtube-ads are, but is does provide value of society. Not sure if we have any way to store music forever like we have books for text.&lt;/p&gt;
 </description>

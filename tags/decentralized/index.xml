@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Decentralized on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/decentralized/</link>
+    <link>http://localhost:1313/tags/decentralized/</link>
     <description>Recent content in Decentralized on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2020 03:01:28 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/decentralized/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Aug 2020 03:01:28 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/decentralized/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git via Email Getting Started</title>
-      <link>https://kbs.murarisumit.in/tils/git-via-email-getting-started/</link>
+      <link>http://localhost:1313/tils/git-via-email-getting-started/</link>
       <pubDate>Sat, 01 Aug 2020 03:01:28 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/tils/git-via-email-getting-started/</guid>
+      <guid>http://localhost:1313/tils/git-via-email-getting-started/</guid>
       <description>&lt;p&gt;Simple way to that is via:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;

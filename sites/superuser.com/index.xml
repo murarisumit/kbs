@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Superuser.com on knowledge base</title>
-    <link>https://kbs.murarisumit.in/sites/superuser.com/</link>
+    <link>http://localhost:1313/sites/superuser.com/</link>
     <description>Recent content in Superuser.com on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Nov 2021 09:25:52 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/superuser.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Nov 2021 09:25:52 +0530</lastBuildDate><atom:link href="http://localhost:1313/sites/superuser.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diff Between &#34;su&#34; and &#34;su -&#34;</title>
-      <link>https://kbs.murarisumit.in/7fa5b4e9b48dbb81c234710d25151f22/</link>
+      <link>http://localhost:1313/7fa5b4e9b48dbb81c234710d25151f22/</link>
       <pubDate>Wed, 17 Nov 2021 09:25:52 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/7fa5b4e9b48dbb81c234710d25151f22/</guid>
+      <guid>http://localhost:1313/7fa5b4e9b48dbb81c234710d25151f22/</guid>
       <description>&lt;p&gt;Keeping here for reference:&lt;/p&gt;
 &lt;p&gt;The difference between &amp;ldquo;-&amp;rdquo; and &amp;ldquo;no hyphen&amp;rdquo; is&lt;/p&gt;
 &lt;ul&gt;

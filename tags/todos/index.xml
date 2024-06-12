@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Todos on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/todos/</link>
+    <link>http://localhost:1313/tags/todos/</link>
     <description>Recent content in Todos on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Aug 2021 22:24:23 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/todos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Aug 2021 22:24:23 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/todos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Homelabs Setup</title>
-      <link>https://kbs.murarisumit.in/bookmarks/homelabs-setup/</link>
+      <link>http://localhost:1313/bookmarks/homelabs-setup/</link>
       <pubDate>Thu, 05 Aug 2021 22:24:23 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/homelabs-setup/</guid>
+      <guid>http://localhost:1313/bookmarks/homelabs-setup/</guid>
       <description>&lt;p&gt;For sometime having ideas of using homelabs, found this guide useful but have other important priorities right now. Hence parking it here for future referece.&lt;/p&gt;
 </description>
     </item>

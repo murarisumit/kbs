@@ -2,38 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Security on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/security/</link>
+    <link>http://localhost:1313/tags/security/</link>
     <description>Recent content in Security on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Aug 2021 10:17:05 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Aug 2021 10:17:05 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Container Security Nist 800 190</title>
-      <link>https://kbs.murarisumit.in/bookmarks/container-security-nist-800-190/</link>
+      <link>http://localhost:1313/bookmarks/container-security-nist-800-190/</link>
       <pubDate>Mon, 09 Aug 2021 10:17:05 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/container-security-nist-800-190/</guid>
+      <guid>http://localhost:1313/bookmarks/container-security-nist-800-190/</guid>
       <description>&lt;p&gt;About link takes you to NIST(National Institute of Standards and Technology) guide for container security @ &lt;a href=&#34;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf&#34;&gt;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Awesome K8s Security</title>
-      <link>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</link>
+      <link>http://localhost:1313/bookmarks/awesome-k8s-security/</link>
       <pubDate>Sat, 07 Aug 2021 12:50:34 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</guid>
+      <guid>http://localhost:1313/bookmarks/awesome-k8s-security/</guid>
       <description>&lt;p&gt;A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.&lt;/p&gt;
-&lt;p&gt;Not only for security professionals, but also for developers, operators, and architects who are interested in learning about K8s security.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NASA K8s Hardening Guide</title>
-      <link>https://kbs.murarisumit.in/bookmarks/nasa-k8s-hardening-guide/</link>
+      <link>http://localhost:1313/bookmarks/nasa-k8s-hardening-guide/</link>
       <pubDate>Wed, 04 Aug 2021 15:31:55 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/nasa-k8s-hardening-guide/</guid>
+      <guid>http://localhost:1313/bookmarks/nasa-k8s-hardening-guide/</guid>
       <description>&lt;p&gt;Main highlights as mentioned by top commentator&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -64,29 +63,29 @@
     
     <item>
       <title>Azure Enterprise Scale</title>
-      <link>https://kbs.murarisumit.in/bookmarks/azure-enterprise-scale/</link>
+      <link>http://localhost:1313/bookmarks/azure-enterprise-scale/</link>
       <pubDate>Mon, 02 Aug 2021 02:29:18 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/azure-enterprise-scale/</guid>
+      <guid>http://localhost:1313/bookmarks/azure-enterprise-scale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloudsecdocs</title>
-      <link>https://kbs.murarisumit.in/bookmarks/cloudsecdocs.com/</link>
+      <link>http://localhost:1313/bookmarks/cloudsecdocs.com/</link>
       <pubDate>Fri, 30 Jul 2021 07:34:43 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/cloudsecdocs.com/</guid>
+      <guid>http://localhost:1313/bookmarks/cloudsecdocs.com/</guid>
       <description>&lt;p&gt;Good website lot of work, already done up here&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cryptjacking Docker Container</title>
-      <link>https://kbs.murarisumit.in/bookmarks/cryptjacking-docker-container/</link>
+      <link>http://localhost:1313/bookmarks/cryptjacking-docker-container/</link>
       <pubDate>Tue, 27 Jul 2021 15:56:55 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/cryptjacking-docker-container/</guid>
+      <guid>http://localhost:1313/bookmarks/cryptjacking-docker-container/</guid>
       <description>&lt;p&gt;Came across this while doing threat modelling for container, i&amp;rsquo;m missing theses news not good for me. Need to be up-to-date to these kind of threats.&lt;/p&gt;
 &lt;p&gt;Smart guy, simple yet smart.&lt;/p&gt;
 </description>

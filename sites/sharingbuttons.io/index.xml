@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sharingbuttons.io on knowledge base</title>
+    <link>http://localhost:1313/sites/sharingbuttons.io/</link>
+    <description>Recent content in Sharingbuttons.io on knowledge base</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Aug 2021 11:50:41 +0530</lastBuildDate><atom:link href="http://localhost:1313/sites/sharingbuttons.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sharingbuttons</title>
+      <link>http://localhost:1313/bookmarks/sharingbuttons.io/</link>
+      <pubDate>Sat, 07 Aug 2021 11:50:41 +0530</pubDate>
+      
+      <guid>http://localhost:1313/bookmarks/sharingbuttons.io/</guid>
+      <description>&lt;p&gt;Not sure how reached here, wasn&amp;rsquo;t actively looking for it but glad found it. Not a fan of bulky tracking websites, so this social little privacy-centric media buttons for reader and myself make ton of sense to me.&lt;/p&gt;
+&lt;p&gt;Not a fan of twitter, but using twitter to reach out to people get feedback, improve ourselves, make myself better and this note is to remind myself why enabled this feature of social sharing in this site.&lt;/p&gt;
+&lt;p&gt;This also gives me flexibility to adding supporting for any other platform that come in future, but still having website as a central source of truth of what I do.&lt;/p&gt;
+&lt;p&gt;Thanks to Sharingbuttons developer for creating them.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+

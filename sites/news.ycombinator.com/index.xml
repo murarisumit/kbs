@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News.ycombinator.com on knowledge base</title>
-    <link>https://kbs.murarisumit.in/sites/news.ycombinator.com/</link>
+    <link>http://localhost:1313/sites/news.ycombinator.com/</link>
     <description>Recent content in News.ycombinator.com on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Aug 2021 15:31:55 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/news.ycombinator.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Aug 2021 15:31:55 +0530</lastBuildDate><atom:link href="http://localhost:1313/sites/news.ycombinator.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NASA K8s Hardening Guide</title>
-      <link>https://kbs.murarisumit.in/bookmarks/nasa-k8s-hardening-guide/</link>
+      <link>http://localhost:1313/bookmarks/nasa-k8s-hardening-guide/</link>
       <pubDate>Wed, 04 Aug 2021 15:31:55 +0530</pubDate>
       
-      <guid>https://kbs.murarisumit.in/bookmarks/nasa-k8s-hardening-guide/</guid>
+      <guid>http://localhost:1313/bookmarks/nasa-k8s-hardening-guide/</guid>
       <description>&lt;p&gt;Main highlights as mentioned by top commentator&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
