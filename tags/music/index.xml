@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on knowledge base</title>
-    <link>http://localhost:1313/tags/music/</link>
+    <link>https://kbs.murarisumit.in/tags/music/</link>
     <description>Recent content in Music on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Jul 2021 14:57:34 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jul 2021 14:57:34 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flamenco Street Music</title>
-      <link>http://localhost:1313/bookmarks/flamenco-street-music/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/flamenco-street-music/</link>
       <pubDate>Thu, 29 Jul 2021 14:57:34 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/flamenco-street-music/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/flamenco-street-music/</guid>
       <description>&lt;p&gt;Was listening to thismusic in college, today there was discussion and flamenco again came up. It was sweet memory lane to go and also happy to see this video is still there in youtube.&lt;/p&gt;
 &lt;p&gt;How intrusive youtube-ads are, but is does provide value of society. Not sure if we have any way to store music forever like we have books for text.&lt;/p&gt;
 </description>
@@ -20,10 +20,10 @@
     
     <item>
       <title>Intro to DAC</title>
-      <link>http://localhost:1313/tils/intro-to-dac/</link>
+      <link>https://kbs.murarisumit.in/tils/intro-to-dac/</link>
       <pubDate>Mon, 20 Jul 2020 08:20:54 +0530</pubDate>
       
-      <guid>http://localhost:1313/tils/intro-to-dac/</guid>
+      <guid>https://kbs.murarisumit.in/tils/intro-to-dac/</guid>
       <description>&lt;p&gt;It all started from here and bit before, but this was final trigger for me to write: &lt;a href=&#34;https://www.youtube.com/watch?v=Dhrv-O9sivI&#34;&gt;https://www.youtube.com/watch?v=Dhrv-O9sivI&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;DAC stands for Digital to Analog convertor.&lt;/p&gt;
 &lt;p&gt;So music we store in USB or CD is stored in digital medium, and music is analog we hear, so we need some component to convert it to analog, and that&amp;rsquo;s DAC.&lt;/p&gt;

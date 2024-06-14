@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software-Design-Principle on knowledge base</title>
-    <link>http://localhost:1313/tags/software-design-principle/</link>
+    <link>https://kbs.murarisumit.in/tags/software-design-principle/</link>
     <description>Recent content in Software-Design-Principle on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Nov 2021 22:00:04 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/software-design-principle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Nov 2021 22:00:04 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/software-design-principle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Solid Principle in Simple Way</title>
-      <link>http://localhost:1313/5df1af1a7c595eb1c55b78bc2086c772/</link>
+      <link>https://kbs.murarisumit.in/5df1af1a7c595eb1c55b78bc2086c772/</link>
       <pubDate>Tue, 02 Nov 2021 22:00:04 +0530</pubDate>
       
-      <guid>http://localhost:1313/5df1af1a7c595eb1c55b78bc2086c772/</guid>
+      <guid>https://kbs.murarisumit.in/5df1af1a7c595eb1c55b78bc2086c772/</guid>
       <description>&lt;p&gt;Summary:&lt;/p&gt;
 &lt;h4 id=&#34;single-responsibility-principle-&#34;&gt;Single Responsibility principle :&lt;/h4&gt;
 &lt;p&gt;Don’t surprise the people who read your code.&lt;/p&gt;

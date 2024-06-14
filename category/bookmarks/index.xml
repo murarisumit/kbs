@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bookmarks on knowledge base</title>
-    <link>http://localhost:1313/category/bookmarks/</link>
+    <link>https://kbs.murarisumit.in/category/bookmarks/</link>
     <description>Recent content in Bookmarks on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Aug 2022 15:22:02 +0530</lastBuildDate><atom:link href="http://localhost:1313/category/bookmarks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Aug 2022 15:22:02 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/category/bookmarks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Macos App Switcher</title>
-      <link>http://localhost:1313/en/39e6a85f2560b36262dd276126589bae/</link>
+      <link>https://kbs.murarisumit.in/en/39e6a85f2560b36262dd276126589bae/</link>
       <pubDate>Thu, 04 Aug 2022 15:22:02 +0530</pubDate>
       
-      <guid>http://localhost:1313/en/39e6a85f2560b36262dd276126589bae/</guid>
+      <guid>https://kbs.murarisumit.in/en/39e6a85f2560b36262dd276126589bae/</guid>
       <description>&lt;p&gt;This is to show macos app switcher in all the monitors connected.&lt;/p&gt;
 &lt;p&gt;Reset to default state:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>Rss Reader</title>
-      <link>http://localhost:1313/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</link>
+      <link>https://kbs.murarisumit.in/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</link>
       <pubDate>Sun, 03 Jul 2022 00:47:21 +0530</pubDate>
       
-      <guid>http://localhost:1313/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</guid>
+      <guid>https://kbs.murarisumit.in/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</guid>
       <description>&lt;p&gt;Personally I prefer &lt;a href=&#34;https://www.reederapp.com&#34;&gt;reederapp&lt;/a&gt;. It has built-in RSS feeds, beautiful interface and sync across devices.&lt;/p&gt;
 &lt;p&gt;But if someone is looking for Open Sourcs RSS Reader that works on iOS ecosystem, then &lt;a href=&#34;https://netnewswire.com&#34;&gt;netnewswire&lt;/a&gt; is good option without putting lot of money before locking into RSS.&lt;/p&gt;
 </description>
@@ -50,10 +50,10 @@
     
     <item>
       <title>Xargs Command Snippets</title>
-      <link>http://localhost:1313/46030699d1902e025e7e02246a9a9c13/</link>
+      <link>https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/</link>
       <pubDate>Mon, 13 Jun 2022 10:24:27 +0530</pubDate>
       
-      <guid>http://localhost:1313/46030699d1902e025e7e02246a9a9c13/</guid>
+      <guid>https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/</guid>
       <description>&lt;p&gt;Simple command snippet that most likely be used imo would be.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -80,10 +80,10 @@
     
     <item>
       <title>Understanding Aws Cli Output Text</title>
-      <link>http://localhost:1313/cb09c8a3463c51091177eff829bd82d8/</link>
+      <link>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</link>
       <pubDate>Mon, 16 May 2022 08:58:40 +0530</pubDate>
       
-      <guid>http://localhost:1313/cb09c8a3463c51091177eff829bd82d8/</guid>
+      <guid>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&amp;ndash;output=text will print everything within innermost [] brackets on single line.&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;To see it in action see the difference between&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -119,10 +119,10 @@
     
     <item>
       <title>Nithin Kamath of Zerodha Says True Financial Freedom Is About Acquiring Skills First Than Money</title>
-      <link>http://localhost:1313/60cdd644ced2abd406c37a892f8386e3/</link>
+      <link>https://kbs.murarisumit.in/60cdd644ced2abd406c37a892f8386e3/</link>
       <pubDate>Sun, 15 May 2022 23:41:17 +0530</pubDate>
       
-      <guid>http://localhost:1313/60cdd644ced2abd406c37a892f8386e3/</guid>
+      <guid>https://kbs.murarisumit.in/60cdd644ced2abd406c37a892f8386e3/</guid>
       <description>&lt;p&gt;This guy is simple to understand, no out of the world quotations. Can relate to him, seems like a neighbourhood elder brother(bhaiya) who you can talk to.&lt;/p&gt;
 &lt;p&gt;What he mentioned was, spend on skills. More like one message in a 3-idiot movie. Run after excellence, success will come to you. He isn&amp;rsquo;t sadhu and adds on to say to buy material assets like cars or houses. If a house gives peace of mind, improves quality of life, go buy a house. If cars make your life easy, use it.&lt;/p&gt;
 &lt;p&gt;Another important thing he mentioned is, we have to make money work for us to be financially independent and financial freedom is about being content. There are endless materialistic traps.&lt;/p&gt;
@@ -138,20 +138,20 @@
     
     <item>
       <title>Linuxify</title>
-      <link>http://localhost:1313/en/96b18098f374caabc54fa7d41fdfcecc/</link>
+      <link>https://kbs.murarisumit.in/en/96b18098f374caabc54fa7d41fdfcecc/</link>
       <pubDate>Mon, 09 May 2022 01:58:48 +0530</pubDate>
       
-      <guid>http://localhost:1313/en/96b18098f374caabc54fa7d41fdfcecc/</guid>
+      <guid>https://kbs.murarisumit.in/en/96b18098f374caabc54fa7d41fdfcecc/</guid>
       <description>&lt;p&gt;Smart scripts to setup the system and eliminating overhead of maintaining scripts.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bash My Aws</title>
-      <link>http://localhost:1313/en/1b90c167d2d85130fc5372245ed523e9/</link>
+      <link>https://kbs.murarisumit.in/en/1b90c167d2d85130fc5372245ed523e9/</link>
       <pubDate>Mon, 09 May 2022 01:42:17 +0530</pubDate>
       
-      <guid>http://localhost:1313/en/1b90c167d2d85130fc5372245ed523e9/</guid>
+      <guid>https://kbs.murarisumit.in/en/1b90c167d2d85130fc5372245ed523e9/</guid>
       <description>&lt;p&gt;Nice utility to work with awscli faster.&lt;/p&gt;
 &lt;p&gt;If you work with Ip address, ddd this function to bashrc and reload(&lt;code&gt;source ~/.bashrc&lt;/code&gt;) to get instance-id&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -188,47 +188,11 @@
     </item>
     
     <item>
-      <title>Understanding Quantum Field Theory</title>
-      <link>http://localhost:1313/en/8f134ded173ba1e5e37b0db694589fc4/</link>
-      <pubDate>Wed, 30 Mar 2022 10:35:21 +0530</pubDate>
-      
-      <guid>http://localhost:1313/en/8f134ded173ba1e5e37b0db694589fc4/</guid>
-      <description>&lt;p&gt;Simple video to understand&lt;/p&gt;
-&lt;h1 id=&#34;field&#34;&gt;Field&lt;/h1&gt;
-&lt;p&gt;Field is quantity or measurement assigned to all points in space.&lt;/p&gt;
-&lt;h3 id=&#34;base-assumptions-up-for-discussion&#34;&gt;Base Assumptions: Up for discussion&lt;/h3&gt;
-&lt;p&gt;Field is everywhere. When we say it&amp;rsquo;s zero field here, it means some base equilibrium field is there. Physical existence is still debated&lt;/p&gt;
-&lt;h1 id=&#34;electromagnetic-field&#34;&gt;Electromagnetic Field&lt;/h1&gt;
-&lt;p&gt;Whenever light passes through the field changes and we see change in values. Default equilibrium is always there.&lt;/p&gt;
-&lt;p&gt;There physical existence is still debated.&lt;/p&gt;
-&lt;h3 id=&#34;what-is-scaler&#34;&gt;What is Scaler&lt;/h3&gt;
-&lt;h3 id=&#34;what-is-vector&#34;&gt;What is Vector&lt;/h3&gt;
-&lt;h3 id=&#34;what-is-quantum&#34;&gt;What is Quantum&lt;/h3&gt;
-&lt;h1 id=&#34;quantum-field&#34;&gt;Quantum Field&lt;/h1&gt;
-&lt;p&gt;Quantum field is quantum measurment assigned to every point in space like we have for&lt;/p&gt;
-&lt;h1 id=&#34;quantum-field-theory&#34;&gt;Quantum Field theory&lt;/h1&gt;
-&lt;h1 id=&#34;quantum-electrodynamics&#34;&gt;Quantum electrodynamics&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Why No Aws Managed Policy</title>
-      <link>http://localhost:1313/7fcc73a58f83205a66e053339868f3a4/</link>
-      <pubDate>Fri, 25 Feb 2022 11:35:48 +0530</pubDate>
-      
-      <guid>http://localhost:1313/7fcc73a58f83205a66e053339868f3a4/</guid>
-      <description>&lt;p&gt;AWS managed policy are good to start, but have loophole and can give more access without us knowing.&lt;/p&gt;
-&lt;p&gt;The guiding principle for above is:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Accuracy &amp;gt; Speed &amp;gt; Perfection.&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Decision Making Tricks</title>
-      <link>http://localhost:1313/71cf6d3f5df8908b988630bd57c2541e/</link>
+      <link>https://kbs.murarisumit.in/71cf6d3f5df8908b988630bd57c2541e/</link>
       <pubDate>Tue, 01 Feb 2022 10:01:50 +0530</pubDate>
       
-      <guid>http://localhost:1313/71cf6d3f5df8908b988630bd57c2541e/</guid>
+      <guid>https://kbs.murarisumit.in/71cf6d3f5df8908b988630bd57c2541e/</guid>
       <description>&lt;p&gt;Came to this blog from @navelism bot, which shared this &amp;ldquo;If you can&amp;rsquo;t decide, the answer is no.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;So big takeaways which made to space repitition were&lt;/p&gt;
 &lt;h4 id=&#34;naval-ravikant-if-you-cant-decide-the-answer-is-no&#34;&gt;Naval Ravikant: If You Can&amp;rsquo;t Decide, The Answer Is No.&lt;/h4&gt;
@@ -245,10 +209,10 @@
     
     <item>
       <title>Stock Market Investing Strategy</title>
-      <link>http://localhost:1313/aa68a2a28a8178304a35c8339a99d5f2/</link>
+      <link>https://kbs.murarisumit.in/aa68a2a28a8178304a35c8339a99d5f2/</link>
       <pubDate>Tue, 04 Jan 2022 07:12:32 +0530</pubDate>
       
-      <guid>http://localhost:1313/aa68a2a28a8178304a35c8339a99d5f2/</guid>
+      <guid>https://kbs.murarisumit.in/aa68a2a28a8178304a35c8339a99d5f2/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;In the stock market, the most important organ is the stomach. It&amp;rsquo;s not the brain.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -276,10 +240,10 @@ If you understand what you own, then you will have stomach for it.&lt;/p&gt;
     
     <item>
       <title>Leadership Lecture Sam Manekshaw</title>
-      <link>http://localhost:1313/bookmarks/leadership-lecture-field-marshall-sam-mannekshaw/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/leadership-lecture-field-marshall-sam-mannekshaw/</link>
       <pubDate>Sat, 18 Dec 2021 09:41:06 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/leadership-lecture-field-marshall-sam-mannekshaw/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/leadership-lecture-field-marshall-sam-mannekshaw/</guid>
       <description>&lt;p&gt;He believes leaders are not born but made. You can make a leaders out of man with reasonable common-sense and decency.&lt;/p&gt;
 &lt;p&gt;Note: Most of part is taken from summarized transcript by fellow youtuber at video with little changes from my side.&lt;/p&gt;
 &lt;p&gt;According to manekshaw sir qualities of leader&lt;/p&gt;
@@ -326,10 +290,10 @@ Absolute justice and impartiality: People may not like you but you would be resp
     
     <item>
       <title>Github Rss Feeds</title>
-      <link>http://localhost:1313/f51ad82d1abbf945597358e4d872017e/</link>
+      <link>https://kbs.murarisumit.in/f51ad82d1abbf945597358e4d872017e/</link>
       <pubDate>Mon, 13 Dec 2021 22:00:12 +0530</pubDate>
       
-      <guid>http://localhost:1313/f51ad82d1abbf945597358e4d872017e/</guid>
+      <guid>https://kbs.murarisumit.in/f51ad82d1abbf945597358e4d872017e/</guid>
       <description>&lt;p&gt;This is simple and sweet, hope there would be some feed for issues activity as-well. For personal reference&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -380,10 +344,10 @@ Absolute justice and impartiality: People may not like you but you would be resp
     
     <item>
       <title>Dangerous Man Are Virtuous</title>
-      <link>http://localhost:1313/2120d4dc2552df1cb649e931019142d0/</link>
+      <link>https://kbs.murarisumit.in/2120d4dc2552df1cb649e931019142d0/</link>
       <pubDate>Sat, 11 Dec 2021 21:36:49 +0530</pubDate>
       
-      <guid>http://localhost:1313/2120d4dc2552df1cb649e931019142d0/</guid>
+      <guid>https://kbs.murarisumit.in/2120d4dc2552df1cb649e931019142d0/</guid>
       <description>&lt;p&gt;You shouldn&amp;rsquo;t harm anyone, which it right. One should not. To add-in man should be harmless either.&lt;/p&gt;
 &lt;p&gt;You should be dangerous and monstrous but in civilised manner. All the human we look up to aren&amp;rsquo;t harmless. Shri Ram is great archer and capable to defeating whole kingdom. Shri krishna said to have single handedly changed course of mahabharata.&lt;/p&gt;
 &lt;p&gt;We have all heard stories of third eye of shiva. His ange can bring havoc. The message is harmless men are not virtuous. It&amp;rsquo;s the dangerous man under control that are virtuous and human to look upto.&lt;/p&gt;
@@ -392,10 +356,10 @@ Absolute justice and impartiality: People may not like you but you would be resp
     
     <item>
       <title>Company Similar to East India Company</title>
-      <link>http://localhost:1313/c5b650102aad591b71ded2fea2a20d69/</link>
+      <link>https://kbs.murarisumit.in/c5b650102aad591b71ded2fea2a20d69/</link>
       <pubDate>Thu, 09 Dec 2021 19:41:27 +0530</pubDate>
       
-      <guid>http://localhost:1313/c5b650102aad591b71ded2fea2a20d69/</guid>
+      <guid>https://kbs.murarisumit.in/c5b650102aad591b71ded2fea2a20d69/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/United_Fruit_Company&#34;&gt;United fruit company&lt;/a&gt;. Created railroads, port, and other infra in Central American countries for plundering them. Owning the entire supply chain.&lt;/p&gt;
 &lt;p&gt;Easy to draw comparison to what &lt;a href=&#34;https://en.wikipedia.org/wiki/East_India_Company&#34;&gt;East India Company&lt;/a&gt; did in India but on the smaller scale. Not killing millions of people, but still very brutal for any human being. I see them and see Hitler and can&amp;rsquo;t differentiate between them.&lt;/p&gt;
 &lt;p&gt;Still can see how people think United fruit company and &lt;a href=&#34;https://en.wikipedia.org/wiki/East_India_Company&#34;&gt;East India Company&lt;/a&gt;  were the force of good. They did good for those countries they were plundering.&lt;/p&gt;
@@ -405,10 +369,10 @@ Absolute justice and impartiality: People may not like you but you would be resp
     
     <item>
       <title>Can Every Devices Be Hacked</title>
-      <link>http://localhost:1313/92a571b39b7be2d430f2391c21c79018/</link>
+      <link>https://kbs.murarisumit.in/92a571b39b7be2d430f2391c21c79018/</link>
       <pubDate>Mon, 06 Dec 2021 13:35:31 +0530</pubDate>
       
-      <guid>http://localhost:1313/92a571b39b7be2d430f2391c21c79018/</guid>
+      <guid>https://kbs.murarisumit.in/92a571b39b7be2d430f2391c21c79018/</guid>
       <description>&lt;p&gt;So yes, if someone is really persistant about it. The prices for these weaponised exploit start from 100K USD from from 2.5Million dollars.&lt;/p&gt;
 &lt;p&gt;There is high cost to it, so usually used by state actor or for&lt;/p&gt;
 &lt;p&gt;Don&amp;rsquo;t live in fear of getting hacked, it should be in your threat model. There are lot more important people our there with more information is their hands so you&amp;rsquo;re very less likely are a target, but remember if someone wants to he can.&lt;/p&gt;
@@ -428,10 +392,10 @@ Absolute justice and impartiality: People may not like you but you would be resp
     
     <item>
       <title>Shamir Secret Sharing</title>
-      <link>http://localhost:1313/b21e7d844c3b536261f757f5a735dc8a/</link>
+      <link>https://kbs.murarisumit.in/b21e7d844c3b536261f757f5a735dc8a/</link>
       <pubDate>Thu, 02 Dec 2021 10:07:05 +0530</pubDate>
       
-      <guid>http://localhost:1313/b21e7d844c3b536261f757f5a735dc8a/</guid>
+      <guid>https://kbs.murarisumit.in/b21e7d844c3b536261f757f5a735dc8a/</guid>
       <description>&lt;p&gt;This idea is really elegant to me and seeing it work is beautiful&lt;/p&gt;
 &lt;p&gt;Keeping it here for reference.&lt;/p&gt;
 </description>
@@ -439,20 +403,20 @@ Absolute justice and impartiality: People may not like you but you would be resp
     
     <item>
       <title>Feedback vs Criticism</title>
-      <link>http://localhost:1313/4df1d169f631ef3acde0e9d5df34dd15/</link>
+      <link>https://kbs.murarisumit.in/4df1d169f631ef3acde0e9d5df34dd15/</link>
       <pubDate>Mon, 22 Nov 2021 08:35:38 +0530</pubDate>
       
-      <guid>http://localhost:1313/4df1d169f631ef3acde0e9d5df34dd15/</guid>
+      <guid>https://kbs.murarisumit.in/4df1d169f631ef3acde0e9d5df34dd15/</guid>
       <description>&lt;p&gt;Your feedback should help people win. Else it is just criticism.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Loving Is Therapy for the Soul</title>
-      <link>http://localhost:1313/f819c7d970406f3f5be56b41f3286e41/</link>
+      <link>https://kbs.murarisumit.in/f819c7d970406f3f5be56b41f3286e41/</link>
       <pubDate>Fri, 19 Nov 2021 21:11:39 +0530</pubDate>
       
-      <guid>http://localhost:1313/f819c7d970406f3f5be56b41f3286e41/</guid>
+      <guid>https://kbs.murarisumit.in/f819c7d970406f3f5be56b41f3286e41/</guid>
       <description>&lt;p&gt;Exercising is therapy for the body.&lt;/p&gt;
 &lt;p&gt;Writing is therapy for the mind.&lt;/p&gt;
 &lt;p&gt;Loving is therapy for the soul.&lt;/p&gt;
@@ -461,10 +425,10 @@ Absolute justice and impartiality: People may not like you but you would be resp
     
     <item>
       <title>What Does 9s Mean in Downtime</title>
-      <link>http://localhost:1313/ec9cc6baa4890df4cb5e5dc561d60e43/</link>
+      <link>https://kbs.murarisumit.in/ec9cc6baa4890df4cb5e5dc561d60e43/</link>
       <pubDate>Fri, 19 Nov 2021 21:00:55 +0530</pubDate>
       
-      <guid>http://localhost:1313/ec9cc6baa4890df4cb5e5dc561d60e43/</guid>
+      <guid>https://kbs.murarisumit.in/ec9cc6baa4890df4cb5e5dc561d60e43/</guid>
       <description>&lt;p&gt;Sometime i just forgot how much 9s means in w.r.t SLA and how much downtime can be afforded and this above reference is simple and beautiful.&lt;/p&gt;
 &lt;p&gt;Try with multiple 9s like this: &lt;a href=&#34;https://uptime.is/99.9&#34;&gt;https://uptime.is/99.9&lt;/a&gt; or &lt;a href=&#34;https://uptime.is/99.99&#34;&gt;https://uptime.is/99.99&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To put from website.&lt;/p&gt;
@@ -495,10 +459,10 @@ Yearly: 5m 15s
     
     <item>
       <title>Diff Between &#34;su&#34; and &#34;su -&#34;</title>
-      <link>http://localhost:1313/7fa5b4e9b48dbb81c234710d25151f22/</link>
+      <link>https://kbs.murarisumit.in/7fa5b4e9b48dbb81c234710d25151f22/</link>
       <pubDate>Wed, 17 Nov 2021 09:25:52 +0530</pubDate>
       
-      <guid>http://localhost:1313/7fa5b4e9b48dbb81c234710d25151f22/</guid>
+      <guid>https://kbs.murarisumit.in/7fa5b4e9b48dbb81c234710d25151f22/</guid>
       <description>&lt;p&gt;Keeping here for reference:&lt;/p&gt;
 &lt;p&gt;The difference between &amp;ldquo;-&amp;rdquo; and &amp;ldquo;no hyphen&amp;rdquo; is&lt;/p&gt;
 &lt;ul&gt;
@@ -524,10 +488,10 @@ The hyphen has two effects:
     
     <item>
       <title>Latency Number for Every Programmer</title>
-      <link>http://localhost:1313/5891e85354985d957586b9556a8e0551/</link>
+      <link>https://kbs.murarisumit.in/5891e85354985d957586b9556a8e0551/</link>
       <pubDate>Wed, 03 Nov 2021 15:12:43 +0530</pubDate>
       
-      <guid>http://localhost:1313/5891e85354985d957586b9556a8e0551/</guid>
+      <guid>https://kbs.murarisumit.in/5891e85354985d957586b9556a8e0551/</guid>
       <description>&lt;p&gt;Copied here for personal reference.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -608,10 +572,10 @@ The hyphen has two effects:
     
     <item>
       <title>Solid Principle in Simple Way</title>
-      <link>http://localhost:1313/5df1af1a7c595eb1c55b78bc2086c772/</link>
+      <link>https://kbs.murarisumit.in/5df1af1a7c595eb1c55b78bc2086c772/</link>
       <pubDate>Tue, 02 Nov 2021 22:00:04 +0530</pubDate>
       
-      <guid>http://localhost:1313/5df1af1a7c595eb1c55b78bc2086c772/</guid>
+      <guid>https://kbs.murarisumit.in/5df1af1a7c595eb1c55b78bc2086c772/</guid>
       <description>&lt;p&gt;Summary:&lt;/p&gt;
 &lt;h4 id=&#34;single-responsibility-principle-&#34;&gt;Single Responsibility principle :&lt;/h4&gt;
 &lt;p&gt;Don’t surprise the people who read your code.&lt;/p&gt;
@@ -631,29 +595,29 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>Golang Codereview Comments</title>
-      <link>http://localhost:1313/c0ab4091d733d85471515c2cd581fd67/</link>
+      <link>https://kbs.murarisumit.in/c0ab4091d733d85471515c2cd581fd67/</link>
       <pubDate>Wed, 27 Oct 2021 16:32:43 +0530</pubDate>
       
-      <guid>http://localhost:1313/c0ab4091d733d85471515c2cd581fd67/</guid>
+      <guid>https://kbs.murarisumit.in/c0ab4091d733d85471515c2cd581fd67/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Terraform Best Practices</title>
-      <link>http://localhost:1313/e730b5f8cf640bb6823be168475994d9/</link>
+      <link>https://kbs.murarisumit.in/e730b5f8cf640bb6823be168475994d9/</link>
       <pubDate>Fri, 22 Oct 2021 10:52:47 +0530</pubDate>
       
-      <guid>http://localhost:1313/e730b5f8cf640bb6823be168475994d9/</guid>
+      <guid>https://kbs.murarisumit.in/e730b5f8cf640bb6823be168475994d9/</guid>
       <description>&lt;p&gt;Some convetion for best practices, it would be better use lint to enforce them, still good to reference once in a while.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multiple Git Ssh Config Single Machine</title>
-      <link>http://localhost:1313/d881fb4640d6de032e6221c9eabe0e39/</link>
+      <link>https://kbs.murarisumit.in/d881fb4640d6de032e6221c9eabe0e39/</link>
       <pubDate>Wed, 20 Oct 2021 10:21:50 +0530</pubDate>
       
-      <guid>http://localhost:1313/d881fb4640d6de032e6221c9eabe0e39/</guid>
+      <guid>https://kbs.murarisumit.in/d881fb4640d6de032e6221c9eabe0e39/</guid>
       <description>&lt;p&gt;To use multiple github account on same hosts, and using ssh to push and pull the repo. We have multiple tricks&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Using ssh config tricks with hosts: &lt;a href=&#34;https://gist.github.com/JoaquimLey/e6049a12c8fd2923611802384cd2fb4a&#34;&gt;https://gist.github.com/JoaquimLey/e6049a12c8fd2923611802384cd2fb4a&lt;/a&gt;&lt;/li&gt;
@@ -711,20 +675,20 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>Post Your Startup</title>
-      <link>http://localhost:1313/492e142b3d2566623e4ba229d743b355/</link>
+      <link>https://kbs.murarisumit.in/492e142b3d2566623e4ba229d743b355/</link>
       <pubDate>Wed, 20 Oct 2021 08:25:31 +0530</pubDate>
       
-      <guid>http://localhost:1313/492e142b3d2566623e4ba229d743b355/</guid>
+      <guid>https://kbs.murarisumit.in/492e142b3d2566623e4ba229d743b355/</guid>
       <description>&lt;p&gt;Place where we can post about startup, found this list. Keeping here for reference as tags are easy to track now for me.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Understanding Totp Format</title>
-      <link>http://localhost:1313/17631ba5506051a4b38a7a5f997a0140/</link>
+      <link>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</link>
       <pubDate>Fri, 03 Sep 2021 22:11:57 +0530</pubDate>
       
-      <guid>http://localhost:1313/17631ba5506051a4b38a7a5f997a0140/</guid>
+      <guid>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</guid>
       <description>&lt;p&gt;Gist for TOTP is&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -743,10 +707,10 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>Use Money to Buy Time</title>
-      <link>http://localhost:1313/3f0f98b1a3c3258c2a2f705d58bb3595/</link>
+      <link>https://kbs.murarisumit.in/3f0f98b1a3c3258c2a2f705d58bb3595/</link>
       <pubDate>Wed, 01 Sep 2021 23:33:57 +0530</pubDate>
       
-      <guid>http://localhost:1313/3f0f98b1a3c3258c2a2f705d58bb3595/</guid>
+      <guid>https://kbs.murarisumit.in/3f0f98b1a3c3258c2a2f705d58bb3595/</guid>
       <description>&lt;p&gt;If you have enough to get basic life go by(for needs not for greed), extra money should be used to buy time. Initially you need t sell your time to make money, once there, basic needs taken care of start using money to buy time.&lt;/p&gt;
 &lt;p&gt;Tweet was inspired was&lt;/p&gt;
 &lt;blockquote&gt;
@@ -759,10 +723,10 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>Ankurwarikoo 41 Things at 41</title>
-      <link>http://localhost:1313/1e0b24f24f6a5963366cc66d84ad098f/</link>
+      <link>https://kbs.murarisumit.in/1e0b24f24f6a5963366cc66d84ad098f/</link>
       <pubDate>Mon, 30 Aug 2021 16:56:43 +0530</pubDate>
       
-      <guid>http://localhost:1313/1e0b24f24f6a5963366cc66d84ad098f/</guid>
+      <guid>https://kbs.murarisumit.in/1e0b24f24f6a5963366cc66d84ad098f/</guid>
       <description>&lt;p&gt;Read it somewhere, you can&amp;rsquo;t make mistakes. You&amp;rsquo;ve to learn from others&amp;rsquo; mistakes/experiences. Read this post from &lt;a href=&#34;https://ankurwarikoo.com/contact/&#34;&gt;ankur warikoo&lt;/a&gt;, so thought of writing about it, to internalize it.&lt;/p&gt;
 &lt;p&gt;Funny one.&lt;/p&gt;
 &lt;ul&gt;
@@ -813,10 +777,10 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>How to Wake Up Early</title>
-      <link>http://localhost:1313/f2bc54ae2871f124a8777721f4ab3446/</link>
+      <link>https://kbs.murarisumit.in/f2bc54ae2871f124a8777721f4ab3446/</link>
       <pubDate>Fri, 27 Aug 2021 10:59:21 +0530</pubDate>
       
-      <guid>http://localhost:1313/f2bc54ae2871f124a8777721f4ab3446/</guid>
+      <guid>https://kbs.murarisumit.in/f2bc54ae2871f124a8777721f4ab3446/</guid>
       <description>&lt;p&gt;His blog post, keeping here for my reference:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -902,10 +866,10 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>Firefox Address Bar Tricks</title>
-      <link>http://localhost:1313/1ba60d8b37da60f549c99f54313330a3/</link>
+      <link>https://kbs.murarisumit.in/1ba60d8b37da60f549c99f54313330a3/</link>
       <pubDate>Thu, 26 Aug 2021 10:05:32 +0530</pubDate>
       
-      <guid>http://localhost:1313/1ba60d8b37da60f549c99f54313330a3/</guid>
+      <guid>https://kbs.murarisumit.in/1ba60d8b37da60f549c99f54313330a3/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Firefox provides easy way for searching the bookmarking, history or open tabs using the address bar.&lt;/p&gt;
@@ -942,10 +906,10 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>NatureIsMetal: Beautiful Tree</title>
-      <link>http://localhost:1313/5adc315e1db28c575e6791654e93428a/</link>
+      <link>https://kbs.murarisumit.in/5adc315e1db28c575e6791654e93428a/</link>
       <pubDate>Sat, 21 Aug 2021 06:31:43 +0530</pubDate>
       
-      <guid>http://localhost:1313/5adc315e1db28c575e6791654e93428a/</guid>
+      <guid>https://kbs.murarisumit.in/5adc315e1db28c575e6791654e93428a/</guid>
       <description>&lt;p&gt;Daytime photo of same tree: &lt;a href=&#34;https://imgur.com/gallery/vQBic8k&#34;&gt;https://imgur.com/gallery/vQBic8k&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Meanwhile watched one more on reddit:&lt;/p&gt;
 &lt;ul&gt;
@@ -958,14 +922,14 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>Perception Is Reality</title>
-      <link>http://localhost:1313/b4623554b68ff4565baac8390eee35e5/</link>
+      <link>https://kbs.murarisumit.in/b4623554b68ff4565baac8390eee35e5/</link>
       <pubDate>Sat, 21 Aug 2021 06:04:14 +0530</pubDate>
       
-      <guid>http://localhost:1313/b4623554b68ff4565baac8390eee35e5/</guid>
+      <guid>https://kbs.murarisumit.in/b4623554b68ff4565baac8390eee35e5/</guid>
       <description>&lt;p&gt;Was writing a few posts on being a man of actions, not being scared of the future and remembering only action matters.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;%7B%7B/586a1c7bfad52e25a95e1d7d9654157a/&#34;&gt;Not scared of future&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/9aed16443012e51a38b0c189b58f95ab&#34;&gt;It&amp;rsquo;s Not What I Am Underneath it&amp;rsquo;s What I Do Defines Me&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kbs.murarisumit.in/9aed16443012e51a38b0c189b58f95ab&#34;&gt;It&amp;rsquo;s Not What I Am Underneath it&amp;rsquo;s What I Do Defines Me&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Excerpts from notion kbs&lt;/p&gt;
 &lt;blockquote&gt;
@@ -983,20 +947,20 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>Competitive Programming  to Play Around Sometimes</title>
-      <link>http://localhost:1313/3654465ae54a20816f5b8cc307dabaa3/</link>
+      <link>https://kbs.murarisumit.in/3654465ae54a20816f5b8cc307dabaa3/</link>
       <pubDate>Sat, 21 Aug 2021 05:44:50 +0530</pubDate>
       
-      <guid>http://localhost:1313/3654465ae54a20816f5b8cc307dabaa3/</guid>
+      <guid>https://kbs.murarisumit.in/3654465ae54a20816f5b8cc307dabaa3/</guid>
       <description>&lt;p&gt;Moving it from notion kbs to store here.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Dark Knight Rises the Climb Scene</title>
-      <link>http://localhost:1313/82f13670d5d8ce84febcb23889eea474/</link>
+      <link>https://kbs.murarisumit.in/82f13670d5d8ce84febcb23889eea474/</link>
       <pubDate>Wed, 18 Aug 2021 03:35:52 +0530</pubDate>
       
-      <guid>http://localhost:1313/82f13670d5d8ce84febcb23889eea474/</guid>
+      <guid>https://kbs.murarisumit.in/82f13670d5d8ce84febcb23889eea474/</guid>
       <description>&lt;p&gt;One more youtube video, batman this time. This scene might have given goose bumps to Roger Federer too, you may fall but it&amp;rsquo;s what you choose afterwards that matters the most.&lt;/p&gt;
 &lt;p&gt;Also the dialogue from rocky comes to my mind.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1009,31 +973,31 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>Living With the Dark Winters in Sweden Midnight Sun and Polar Night</title>
-      <link>http://localhost:1313/cf319bbe3527ea414ff169110c93221f/</link>
+      <link>https://kbs.murarisumit.in/cf319bbe3527ea414ff169110c93221f/</link>
       <pubDate>Tue, 17 Aug 2021 02:02:39 +0530</pubDate>
       
-      <guid>http://localhost:1313/cf319bbe3527ea414ff169110c93221f/</guid>
+      <guid>https://kbs.murarisumit.in/cf319bbe3527ea414ff169110c93221f/</guid>
       <description>&lt;p&gt;Beautiful videography done and soothing music and voice. These video make me appreciate the country I live in.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pouring Molten Metal Inside a Seashell WHAT HAPPENS Experimental Metal Casting at Home DIY</title>
-      <link>http://localhost:1313/49a1162eb90beacee617cdce3de7bbaf/</link>
+      <link>https://kbs.murarisumit.in/49a1162eb90beacee617cdce3de7bbaf/</link>
       <pubDate>Mon, 16 Aug 2021 10:55:23 +0530</pubDate>
       
-      <guid>http://localhost:1313/49a1162eb90beacee617cdce3de7bbaf/</guid>
+      <guid>https://kbs.murarisumit.in/49a1162eb90beacee617cdce3de7bbaf/</guid>
       <description>&lt;p&gt;This is beautiful, how crafted the nature is and amazed at human intelligence who think they know more that nature itself and try to change it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Price of Becoming EXCEPTIONAL in Life Jordan Peterson Motivation</title>
-      <link>http://localhost:1313/6347fd23beb0ba39c9b52a4dfd7c7ca5/</link>
+      <link>https://kbs.murarisumit.in/6347fd23beb0ba39c9b52a4dfd7c7ca5/</link>
       <pubDate>Sun, 15 Aug 2021 03:02:45 +0530</pubDate>
       
-      <guid>http://localhost:1313/6347fd23beb0ba39c9b52a4dfd7c7ca5/</guid>
-      <description>&lt;p&gt;Wrote a note on &lt;a href=&#34;http://localhost:1313/ce39966c39f2ea7d1a55946669a84685/&#34;&gt;Jordan-Peterson-Successful-Men-Are-Insane-And-Work-All-The-Time&lt;/a&gt; yesterday, and found similar video on the same topic. So youtube recommendation is smart, and I&amp;rsquo;m not the only one who made to stupid( like it though) conclusion.&lt;/p&gt;
+      <guid>https://kbs.murarisumit.in/6347fd23beb0ba39c9b52a4dfd7c7ca5/</guid>
+      <description>&lt;p&gt;Wrote a note on &lt;a href=&#34;https://kbs.murarisumit.in/ce39966c39f2ea7d1a55946669a84685/&#34;&gt;Jordan-Peterson-Successful-Men-Are-Insane-And-Work-All-The-Time&lt;/a&gt; yesterday, and found similar video on the same topic. So youtube recommendation is smart, and I&amp;rsquo;m not the only one who made to stupid( like it though) conclusion.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m ready to give that price, and become exceptional. Family do matter to me, friends to matter to me, but would keep the circle small and would focus on the goals that I have. Ready to give 80 hours work-week.&lt;/p&gt;
 &lt;p&gt;Goals are private for now, but for my reference are kept at: &lt;a href=&#34;https://www.notion.so/yinyangi/a-lifetime-11c407f3b4034e14805328f1c7bd5ffa&#34;&gt;https://www.notion.so/yinyangi/a-lifetime-11c407f3b4034e14805328f1c7bd5ffa&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -1041,20 +1005,20 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
     
     <item>
       <title>Novak Djokovic vs Roger Federer Wimbledon 2019 FullMatch</title>
-      <link>http://localhost:1313/3eea4986a87740003aa7e5b40354ce03/</link>
+      <link>https://kbs.murarisumit.in/3eea4986a87740003aa7e5b40354ce03/</link>
       <pubDate>Sat, 14 Aug 2021 04:57:43 +0530</pubDate>
       
-      <guid>http://localhost:1313/3eea4986a87740003aa7e5b40354ce03/</guid>
+      <guid>https://kbs.murarisumit.in/3eea4986a87740003aa7e5b40354ce03/</guid>
       <description>&lt;p&gt;One more djo&amp;rsquo;s match, but was looking at federer who showed his metal at 36 yrs of age.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Jordan Peterson Successful Men Are Insane and Work All the Time</title>
-      <link>http://localhost:1313/ce39966c39f2ea7d1a55946669a84685/</link>
+      <link>https://kbs.murarisumit.in/ce39966c39f2ea7d1a55946669a84685/</link>
       <pubDate>Sat, 14 Aug 2021 01:51:32 +0530</pubDate>
       
-      <guid>http://localhost:1313/ce39966c39f2ea7d1a55946669a84685/</guid>
+      <guid>https://kbs.murarisumit.in/ce39966c39f2ea7d1a55946669a84685/</guid>
       <description>&lt;p&gt;He said in one of his interviews that men wrote to him and told that he changed his life. I&amp;rsquo;m one of such characters. Here also a lot of thanks goes to people who made the internet happen, so I could watch his lessons/lectures or speeches.&lt;/p&gt;
 &lt;p&gt;To achieve to be highly successful in corporate world i.e. reach at high position in social order one has to put insane amount of work, he mentioned 80 hours work week, translates to ~ 12 hours every day without breaks for years and with &lt;strong&gt;focus&lt;/strong&gt; and &lt;strong&gt;determination&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;~hello~&lt;/p&gt;
@@ -1085,30 +1049,30 @@ Disclaimer: Today India is in a very sad state w.r.t its culture and the same sy
     
     <item>
       <title>Novak Djokovic vs Rafael Nadal in the Longest Final in Grand Slam History</title>
-      <link>http://localhost:1313/dba141a324349154865a7bdf421eee15/</link>
+      <link>https://kbs.murarisumit.in/dba141a324349154865a7bdf421eee15/</link>
       <pubDate>Sat, 14 Aug 2021 01:48:05 +0530</pubDate>
       
-      <guid>http://localhost:1313/dba141a324349154865a7bdf421eee15/</guid>
+      <guid>https://kbs.murarisumit.in/dba141a324349154865a7bdf421eee15/</guid>
       <description>&lt;p&gt;If this can&amp;rsquo;t inspire anyone, not sure what could. These guys played for around ~ 6 hours, and that&amp;rsquo;s an incredible feat of achievement.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>How Kubectl Logs Work</title>
-      <link>http://localhost:1313/d19e8438d682f3f5a897296206ca9828/</link>
+      <link>https://kbs.murarisumit.in/d19e8438d682f3f5a897296206ca9828/</link>
       <pubDate>Fri, 13 Aug 2021 04:57:32 +0530</pubDate>
       
-      <guid>http://localhost:1313/d19e8438d682f3f5a897296206ca9828/</guid>
+      <guid>https://kbs.murarisumit.in/d19e8438d682f3f5a897296206ca9828/</guid>
       <description>&lt;p&gt;Links to notion page, as it had diagram and it was easier to put post like these on notion.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hard Drive Failure Report Backblaze</title>
-      <link>http://localhost:1313/332d6b43914e2eeba6333c1a057f9f15/</link>
+      <link>https://kbs.murarisumit.in/332d6b43914e2eeba6333c1a057f9f15/</link>
       <pubDate>Fri, 13 Aug 2021 04:45:22 +0530</pubDate>
       
-      <guid>http://localhost:1313/332d6b43914e2eeba6333c1a057f9f15/</guid>
+      <guid>https://kbs.murarisumit.in/332d6b43914e2eeba6333c1a057f9f15/</guid>
       <description>&lt;p&gt;It gives us of which hard drive to buy and which not as they are one of the biggest buyer of hard-driver and see those working at scale.&lt;/p&gt;
 &lt;p&gt;As they mentioned Seagate ST16000NM001G has quite a high failure rate of 6.72% with backblaze so it would be wise to not buy that hard-drive.&lt;/p&gt;
 </description>
@@ -1116,10 +1080,10 @@ Disclaimer: Today India is in a very sad state w.r.t its culture and the same sy
     
     <item>
       <title>Fake Reviews in Amazon</title>
-      <link>http://localhost:1313/203914e598a6b162307c47a51eb79378/</link>
+      <link>https://kbs.murarisumit.in/203914e598a6b162307c47a51eb79378/</link>
       <pubDate>Fri, 13 Aug 2021 04:41:18 +0530</pubDate>
       
-      <guid>http://localhost:1313/203914e598a6b162307c47a51eb79378/</guid>
+      <guid>https://kbs.murarisumit.in/203914e598a6b162307c47a51eb79378/</guid>
       <description>&lt;h3 id=&#34;op-post-from-reddit-threadhttpswwwredditcomrsupplementscommentsg19a1wheres_a_brand_thats_building_its_reviews_steadily&#34;&gt;OP post from &lt;a href=&#34;https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/&#34;&gt;reddit thread&lt;/a&gt;&lt;/h3&gt;
 &lt;pre&gt;&lt;code&gt;	First of all my background - I&#39;ve been working on Amazon for years and know all the tricks of getting ranked. I do not engage in black hat tactics and I did the review game when it wasnt against TOS. As soon as they changed everything, I did not engage. However because of all my contacts I&#39;m in the know for a lot of things. Getting reviews and the strategies used is one of those things.
 
@@ -1147,40 +1111,40 @@ Disclaimer: Today India is in a very sad state w.r.t its culture and the same sy
     
     <item>
       <title>How Engine Works</title>
-      <link>http://localhost:1313/1125b6a1a9edde68c82b00c6e62a2f2e/</link>
+      <link>https://kbs.murarisumit.in/1125b6a1a9edde68c82b00c6e62a2f2e/</link>
       <pubDate>Fri, 13 Aug 2021 04:33:09 +0530</pubDate>
       
-      <guid>http://localhost:1313/1125b6a1a9edde68c82b00c6e62a2f2e/</guid>
+      <guid>https://kbs.murarisumit.in/1125b6a1a9edde68c82b00c6e62a2f2e/</guid>
       <description>&lt;p&gt;Beautiful things, always read 4 strokes work, but seeing this video(click title to go to video) gave so much more clarity and satisfaction. Now would be comfortable to say that,  i have good theoretical understanding of how engines work.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Suprising Genius of 3D Printing Rockets</title>
-      <link>http://localhost:1313/15a46dccb293a270265ac2a53d3fd332/</link>
+      <link>https://kbs.murarisumit.in/15a46dccb293a270265ac2a53d3fd332/</link>
       <pubDate>Thu, 12 Aug 2021 21:53:06 +0530</pubDate>
       
-      <guid>http://localhost:1313/15a46dccb293a270265ac2a53d3fd332/</guid>
+      <guid>https://kbs.murarisumit.in/15a46dccb293a270265ac2a53d3fd332/</guid>
       <description>&lt;p&gt;3D printing is in nascent stages India, but seeing rocket being made out of this tech is so motivating and makes you look in future about possibility and how would it look like. Also thoughts come to mind, that why aren&amp;rsquo;t thing like electric 2-wheelers, drones, houses in India are using it, but then answer comes even more quickly, that people like are in jobs instead of innovating out there, so how would the change happen.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Container Security Nist 800 190</title>
-      <link>http://localhost:1313/bookmarks/container-security-nist-800-190/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/container-security-nist-800-190/</link>
       <pubDate>Mon, 09 Aug 2021 10:17:05 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/container-security-nist-800-190/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/container-security-nist-800-190/</guid>
       <description>&lt;p&gt;About link takes you to NIST(National Institute of Standards and Technology) guide for container security @ &lt;a href=&#34;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf&#34;&gt;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Linux Load Avgs</title>
-      <link>http://localhost:1313/bookmarks/linux-load-avgs/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</link>
       <pubDate>Mon, 09 Aug 2021 09:25:45 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/linux-load-avgs/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</guid>
       <description>&lt;h1 id=&#34;excerpt-from-blog-post&#34;&gt;Excerpt from blog post&lt;/h1&gt;
 &lt;p&gt;Linux load averages are &amp;ldquo;system load averages&amp;rdquo; that show the running thread (task) demand on the system as an average number of running plus waiting threads. This measures demand, which can be greater than what the system is currently processing. Most tools show three averages, for 1, 5, and 15 minutes:&lt;/p&gt;
 &lt;p&gt;Some interpretations:&lt;/p&gt;
@@ -1210,47 +1174,47 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
     
     <item>
       <title>K8s Failure Stories</title>
-      <link>http://localhost:1313/bookmarks/k8s-failure-stories/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/k8s-failure-stories/</link>
       <pubDate>Mon, 09 Aug 2021 00:37:09 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/k8s-failure-stories/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/k8s-failure-stories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Awesome Kubernetes</title>
-      <link>http://localhost:1313/bookmarks/awesome-kubernetes/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</link>
       <pubDate>Mon, 09 Aug 2021 00:16:59 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/awesome-kubernetes/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Awesome Docker Compose</title>
-      <link>http://localhost:1313/bookmarks/awesome-docker-compose/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-docker-compose/</link>
       <pubDate>Mon, 09 Aug 2021 00:16:18 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/awesome-docker-compose/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-docker-compose/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solar System if Moon Was Only One Pixel</title>
-      <link>http://localhost:1313/bookmarks/solar-system-if-moon-was-only-one-pixel/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/solar-system-if-moon-was-only-one-pixel/</link>
       <pubDate>Sun, 08 Aug 2021 23:50:34 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/solar-system-if-moon-was-only-one-pixel/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/solar-system-if-moon-was-only-one-pixel/</guid>
       <description>&lt;p&gt;Saw this visualization long-back and was storing things up here(&lt;a href=&#34;https://www.murarisumit.in/bookmarks/)&#34;&gt;https://www.murarisumit.in/bookmarks/)&lt;/a&gt;, now moving them up here now. Yes, there is lot of empty space in universe.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Understand Electricity Generation</title>
-      <link>http://localhost:1313/bookmarks/understand-electricity-generation/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/understand-electricity-generation/</link>
       <pubDate>Sat, 07 Aug 2021 18:40:36 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/understand-electricity-generation/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/understand-electricity-generation/</guid>
       <description>&lt;p&gt;This video actually helps us understand how electricity is generated by using magnets.&lt;/p&gt;
 &lt;p&gt;When studies electricity for first time, never understood where does frequency mean, what current is, what does voltage mean and simple things like this and whole electrical energy didn&amp;rsquo;t made sense to me. Now most of it does, probably if I go for advanced study would really make sense.&lt;/p&gt;
 </description>
@@ -1258,30 +1222,30 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
     
     <item>
       <title>Kuberentes Kbrew</title>
-      <link>http://localhost:1313/bookmarks/k8s-kbrew/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/k8s-kbrew/</link>
       <pubDate>Sat, 07 Aug 2021 13:33:47 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/k8s-kbrew/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/k8s-kbrew/</guid>
       <description>&lt;p&gt;This tool looks good, and love the ease of this. It&amp;rsquo;s easy way to deploy the applications over cluster.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Awesome K8s Security</title>
-      <link>http://localhost:1313/bookmarks/awesome-k8s-security/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</link>
       <pubDate>Sat, 07 Aug 2021 12:50:34 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/awesome-k8s-security/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</guid>
       <description>&lt;p&gt;A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sharingbuttons</title>
-      <link>http://localhost:1313/bookmarks/sharingbuttons.io/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/sharingbuttons.io/</link>
       <pubDate>Sat, 07 Aug 2021 11:50:41 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/sharingbuttons.io/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/sharingbuttons.io/</guid>
       <description>&lt;p&gt;Not sure how reached here, wasn&amp;rsquo;t actively looking for it but glad found it. Not a fan of bulky tracking websites, so this social little privacy-centric media buttons for reader and myself make ton of sense to me.&lt;/p&gt;
 &lt;p&gt;Not a fan of twitter, but using twitter to reach out to people get feedback, improve ourselves, make myself better and this note is to remind myself why enabled this feature of social sharing in this site.&lt;/p&gt;
 &lt;p&gt;This also gives me flexibility to adding supporting for any other platform that come in future, but still having website as a central source of truth of what I do.&lt;/p&gt;
@@ -1291,20 +1255,20 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
     
     <item>
       <title>Hugo Good Archive Page</title>
-      <link>http://localhost:1313/bookmarks/hugo-good-archive-page/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/hugo-good-archive-page/</link>
       <pubDate>Sat, 07 Aug 2021 09:39:45 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/hugo-good-archive-page/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/hugo-good-archive-page/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s good archive page style, save time and easy navigation for website. Intent is to make archive page like this.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bayes Rule and Medical Tests</title>
-      <link>http://localhost:1313/bookmarks/bayes-rule-medical-tests/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/bayes-rule-medical-tests/</link>
       <pubDate>Sat, 07 Aug 2021 08:54:42 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/bayes-rule-medical-tests/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/bayes-rule-medical-tests/</guid>
       <description>&lt;p&gt;All medical tests do is update their probability of having disease, and not tell if we have disease or not.&lt;/p&gt;
 &lt;p&gt;There are three things&lt;/p&gt;
 &lt;ul&gt;
@@ -1351,10 +1315,10 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
     
     <item>
       <title>Lin Dan vs Lee Chong Wei</title>
-      <link>http://localhost:1313/bookmarks/lindan-vs-leechongwei/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/lindan-vs-leechongwei/</link>
       <pubDate>Fri, 06 Aug 2021 23:44:26 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/lindan-vs-leechongwei/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/lindan-vs-leechongwei/</guid>
       <description>&lt;p&gt;Seeing them together, playing with such skills is so beautiful. Love their game.&lt;/p&gt;
 &lt;p&gt;Great video compilation too.&lt;/p&gt;
 </description>
@@ -1362,30 +1326,30 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
     
     <item>
       <title>India&#39;s Maiden Indigenous Aircraft Carrier</title>
-      <link>http://localhost:1313/bookmarks/india-maiden-indigenous-aircraft-carrier/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/india-maiden-indigenous-aircraft-carrier/</link>
       <pubDate>Thu, 05 Aug 2021 22:48:36 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/india-maiden-indigenous-aircraft-carrier/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/india-maiden-indigenous-aircraft-carrier/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s is good to see fellow country man are working are making things are aircraft carrier, weighing 40000 tonnes in itself looks like huge engineering and manufacturing feat.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Homelabs Setup</title>
-      <link>http://localhost:1313/bookmarks/homelabs-setup/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/homelabs-setup/</link>
       <pubDate>Thu, 05 Aug 2021 22:24:23 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/homelabs-setup/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/homelabs-setup/</guid>
       <description>&lt;p&gt;For sometime having ideas of using homelabs, found this guide useful but have other important priorities right now. Hence parking it here for future referece.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bigger Impact of Distraction More Than Just Time Lost</title>
-      <link>http://localhost:1313/bookmarks/bigger-impact-for-distraction-more-than-just-time-lost/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/bigger-impact-for-distraction-more-than-just-time-lost/</link>
       <pubDate>Thu, 05 Aug 2021 09:48:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/bigger-impact-for-distraction-more-than-just-time-lost/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/bigger-impact-for-distraction-more-than-just-time-lost/</guid>
       <description>&lt;p&gt;Somehow reached to this tacky/clickbaity title &amp;ldquo;How the smartphone is destroying you from inside&amp;rdquo; &lt;a href=&#34;https://www.youtube.com/watch?v=4HjC245ugW8&#34;&gt;https://www.youtube.com/watch?v=4HjC245ugW8&lt;/a&gt;. Probably from the past few days, putting my head to these distractions. They seem to me like modern day alcoholic drinks. You enjoy it and forget your problems, similar promises made by alcoholic drinks.&lt;/p&gt;
 &lt;p&gt;So the point video makes is, the time we invest in these addictive systems(there whole KPI is to make stay people on their website) is anyways gone, but there are more far reaching impact because of it.&lt;/p&gt;
 &lt;ul&gt;
@@ -1425,10 +1389,10 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
     
     <item>
       <title>Finally Some Sense in Laptops</title>
-      <link>http://localhost:1313/bookmarks/finally-some-sense-in-laptops/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/finally-some-sense-in-laptops/</link>
       <pubDate>Thu, 05 Aug 2021 09:44:42 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/finally-some-sense-in-laptops/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/finally-some-sense-in-laptops/</guid>
       <description>&lt;p&gt;It was good to see nice laptops coming in now. Which have this repairability in mind. This laptop specially looks with it&amp;rsquo;s modularity. As iFixit says, this is slippery slope, we have seen many such initiatives come and go. So hoping this company works and changes consumer electronics industry for good.&lt;/p&gt;
 &lt;p&gt;Kudos to &lt;a href=&#34;https://frame.work/&#34;&gt;https://frame.work/&lt;/a&gt; team.&lt;/p&gt;
 </description>
@@ -1436,10 +1400,10 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
     
     <item>
       <title>NASA K8s Hardening Guide</title>
-      <link>http://localhost:1313/bookmarks/nasa-k8s-hardening-guide/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/nasa-k8s-hardening-guide/</link>
       <pubDate>Wed, 04 Aug 2021 15:31:55 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/nasa-k8s-hardening-guide/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/nasa-k8s-hardening-guide/</guid>
       <description>&lt;p&gt;Main highlights as mentioned by top commentator&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1470,10 +1434,10 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
     
     <item>
       <title>Golang Slice Tricks</title>
-      <link>http://localhost:1313/bookmarks/golang-slice-tricks/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/golang-slice-tricks/</link>
       <pubDate>Wed, 04 Aug 2021 08:29:34 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/golang-slice-tricks/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/golang-slice-tricks/</guid>
       <description>&lt;h3 id=&#34;filtering-with-allocating&#34;&gt;Filtering with allocating&lt;/h3&gt;
 &lt;p&gt;This trick uses the fact that a slice shares the same backing array and capacity as the original, so the storage is reused for the filtered slice. Of course, the original contents are modified.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -1499,10 +1463,10 @@ CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runql
     
     <item>
       <title>What Is Not Love</title>
-      <link>http://localhost:1313/bookmarks/what-is-not-love/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/what-is-not-love/</link>
       <pubDate>Tue, 03 Aug 2021 10:12:30 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/what-is-not-love/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/what-is-not-love/</guid>
       <description>&lt;p&gt;This youtube video(click the title, that is how bookmarks are arranged for all posts), is of Abraham Joshua Heshel Twerski, an Israeli-American Hasidic rabbi, a scion of the Chernobyl Hasidic dynasty, and a psychiatrist specializing in substance abuse.&lt;/p&gt;
 &lt;p&gt;External-love is what I&amp;rsquo;m going to give, not what I&amp;rsquo;m going to get. (This line is bit vague)&lt;/p&gt;
 &lt;p&gt;I good line that i need to keep in check is:&lt;/p&gt;
@@ -1525,29 +1489,29 @@ His point is, if I give something to you, I have invested myself in you, since s
     
     <item>
       <title>Azure Enterprise Scale</title>
-      <link>http://localhost:1313/bookmarks/azure-enterprise-scale/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/azure-enterprise-scale/</link>
       <pubDate>Mon, 02 Aug 2021 02:29:18 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/azure-enterprise-scale/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/azure-enterprise-scale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloudsecdocs</title>
-      <link>http://localhost:1313/bookmarks/cloudsecdocs.com/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/cloudsecdocs.com/</link>
       <pubDate>Fri, 30 Jul 2021 07:34:43 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/cloudsecdocs.com/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/cloudsecdocs.com/</guid>
       <description>&lt;p&gt;Good website lot of work, already done up here&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Profiles to Look Upto</title>
-      <link>http://localhost:1313/bookmarks/profiles-to-look-upto/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/profiles-to-look-upto/</link>
       <pubDate>Fri, 30 Jul 2021 06:35:12 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/profiles-to-look-upto/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/profiles-to-look-upto/</guid>
       <description>&lt;p&gt;Time to time, few profiles come across to me, which I see and admire of, the amount of work they have done. The position they are in, the impact they are making. Seeing their profiles motivates me.&lt;/p&gt;
 &lt;p&gt;These profile answer age old interview question for me: Where do you see youself in 3-5 years ?&lt;/p&gt;
 &lt;p&gt;His readme is beautiful, simple and succint. His github is clean. Motivated me also collect those badges(certifications), never a certification guy, but those badges are looking cool.&lt;/p&gt;
@@ -1556,10 +1520,10 @@ His point is, if I give something to you, I have invested myself in you, since s
     
     <item>
       <title>Flamenco Street Music</title>
-      <link>http://localhost:1313/bookmarks/flamenco-street-music/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/flamenco-street-music/</link>
       <pubDate>Thu, 29 Jul 2021 14:57:34 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/flamenco-street-music/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/flamenco-street-music/</guid>
       <description>&lt;p&gt;Was listening to thismusic in college, today there was discussion and flamenco again came up. It was sweet memory lane to go and also happy to see this video is still there in youtube.&lt;/p&gt;
 &lt;p&gt;How intrusive youtube-ads are, but is does provide value of society. Not sure if we have any way to store music forever like we have books for text.&lt;/p&gt;
 </description>
@@ -1567,10 +1531,10 @@ His point is, if I give something to you, I have invested myself in you, since s
     
     <item>
       <title>People Do Not Care</title>
-      <link>http://localhost:1313/bookmarks/people-do-not-care/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/people-do-not-care/</link>
       <pubDate>Wed, 28 Jul 2021 12:22:20 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/people-do-not-care/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/people-do-not-care/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;You get up every morning.&lt;br&gt;
 You show up.&lt;br&gt;
@@ -1591,10 +1555,10 @@ They only care if you are doing the right thing for them.&lt;/p&gt;
     
     <item>
       <title>Linus Interview Linuxcon North America 2016</title>
-      <link>http://localhost:1313/bookmarks/linus-interview-linuxcon-north-america-2016/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/linus-interview-linuxcon-north-america-2016/</link>
       <pubDate>Tue, 27 Jul 2021 17:05:47 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/linus-interview-linuxcon-north-america-2016/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/linus-interview-linuxcon-north-america-2016/</guid>
       <description>&lt;p&gt;Linus interviews are always fun to watch. One of favorite past-time activity for me. Loved watching it. Keeping them here.&lt;/p&gt;
 &lt;p&gt;One good comment mentioned one simple/funny thing in interview&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1605,10 +1569,10 @@ They only care if you are doing the right thing for them.&lt;/p&gt;
     
     <item>
       <title>Cryptjacking Docker Container</title>
-      <link>http://localhost:1313/bookmarks/cryptjacking-docker-container/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/cryptjacking-docker-container/</link>
       <pubDate>Tue, 27 Jul 2021 15:56:55 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/cryptjacking-docker-container/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/cryptjacking-docker-container/</guid>
       <description>&lt;p&gt;Came across this while doing threat modelling for container, i&amp;rsquo;m missing theses news not good for me. Need to be up-to-date to these kind of threats.&lt;/p&gt;
 &lt;p&gt;Smart guy, simple yet smart.&lt;/p&gt;
 </description>
@@ -1616,38 +1580,38 @@ They only care if you are doing the right thing for them.&lt;/p&gt;
     
     <item>
       <title>Iterm Auto Theme Switch</title>
-      <link>http://localhost:1313/bookmarks/iterm-auto-theme-switch/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/iterm-auto-theme-switch/</link>
       <pubDate>Mon, 26 Jul 2021 22:35:37 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/iterm-auto-theme-switch/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/iterm-auto-theme-switch/</guid>
       <description>&lt;p&gt;It should be native feature in iterm, so hoping same someday. Till then here you are.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Azure Caf Terraform Landingzones</title>
-      <link>http://localhost:1313/df6b12d2680b2afbfc3288c0564c3af3/</link>
+      <link>https://kbs.murarisumit.in/df6b12d2680b2afbfc3288c0564c3af3/</link>
       <pubDate>Fri, 12 Feb 2021 17:21:31 +0530</pubDate>
       
-      <guid>http://localhost:1313/df6b12d2680b2afbfc3288c0564c3af3/</guid>
+      <guid>https://kbs.murarisumit.in/df6b12d2680b2afbfc3288c0564c3af3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Please Use Plain Text for Email</title>
-      <link>http://localhost:1313/bookmarks/please-use-plain-text-for-email/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/please-use-plain-text-for-email/</link>
       <pubDate>Tue, 21 Jul 2020 06:17:03 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/please-use-plain-text-for-email/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/please-use-plain-text-for-email/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Lithium-ion Battery Work</title>
-      <link>http://localhost:1313/bookmarks/how-litihium-ion-battery-work/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/how-litihium-ion-battery-work/</link>
       <pubDate>Wed, 15 Jul 2020 22:26:21 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/how-litihium-ion-battery-work/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/how-litihium-ion-battery-work/</guid>
       <description>&lt;p&gt;He says that it&amp;rsquo;s better not to discarge battery completely, better to charge when it&amp;rsquo;s at 30-40%.&lt;/p&gt;
 &lt;p&gt;Additional youtube video how batteries are manufactured&lt;/p&gt;
 </description>
@@ -1655,64 +1619,64 @@ They only care if you are doing the right thing for them.&lt;/p&gt;
     
     <item>
       <title>How SSD Work</title>
-      <link>http://localhost:1313/bookmarks/how-ssd-work/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/how-ssd-work/</link>
       <pubDate>Wed, 15 Jul 2020 16:24:45 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/how-ssd-work/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/how-ssd-work/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Awesome Prometheus Alerts</title>
-      <link>http://localhost:1313/bookmarks/awesome-prometheus-alerts/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-prometheus-alerts/</link>
       <pubDate>Tue, 23 Jun 2020 16:53:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/awesome-prometheus-alerts/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-prometheus-alerts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amish the Indian Way</title>
-      <link>http://localhost:1313/bookmarks/amish-the-indian-way/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/amish-the-indian-way/</link>
       <pubDate>Mon, 22 Jun 2020 09:01:33 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/amish-the-indian-way/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/amish-the-indian-way/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inner Working of Python Objects</title>
-      <link>http://localhost:1313/bookmarks/inner-working-of-python-objects/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/inner-working-of-python-objects/</link>
       <pubDate>Sun, 21 Jun 2020 18:56:13 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/inner-working-of-python-objects/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/inner-working-of-python-objects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Permaculture Project Water Revolution India</title>
-      <link>http://localhost:1313/bookmarks/permaculture-project-water-revolution-india/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/permaculture-project-water-revolution-india/</link>
       <pubDate>Sun, 21 Jun 2020 13:27:25 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/permaculture-project-water-revolution-india/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/permaculture-project-water-revolution-india/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lessons in Electric Circuits</title>
-      <link>http://localhost:1313/bookmarks/lessons-in-electric-circuits/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/lessons-in-electric-circuits/</link>
       <pubDate>Fri, 19 Jun 2020 07:28:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/lessons-in-electric-circuits/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/lessons-in-electric-circuits/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projector Optics Internals</title>
-      <link>http://localhost:1313/bookmarks/projector-optics-internals/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/projector-optics-internals/</link>
       <pubDate>Thu, 18 Jun 2020 09:22:59 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/projector-optics-internals/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/projector-optics-internals/</guid>
       <description>&lt;p&gt;Projector and optics personally is very facinating like astrology to me. Playing with light, was never fun and understanding when i was in school, but now I just love it, and also understanding how things work at the same time.&lt;/p&gt;
 &lt;p&gt;Here Matt beautifully shows internals of optics in projector.&lt;/p&gt;
 </description>
@@ -1720,10 +1684,10 @@ They only care if you are doing the right thing for them.&lt;/p&gt;
     
     <item>
       <title>Video: A glimpse into ancient indian astronomy</title>
-      <link>http://localhost:1313/bookmarks/video-a-glimpse-into-ancient-indian-astronomy/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/video-a-glimpse-into-ancient-indian-astronomy/</link>
       <pubDate>Sun, 14 Jun 2020 20:18:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/video-a-glimpse-into-ancient-indian-astronomy/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/video-a-glimpse-into-ancient-indian-astronomy/</guid>
       <description>&lt;p&gt;Astrology has always intrigued me, specifically indian style of astrology, have heard a lot about it. Lunar calendar and rituals and traditions around it always facinate me a lot. I have some longing for it.&lt;/p&gt;
 &lt;p&gt;Haven&amp;rsquo;t worked on it much, but this video again brings those question back to me.&lt;/p&gt;
 &lt;p&gt;Path for me is language first, will have to learn sanskrit first, then i would have lot of venues open to me.&lt;/p&gt;
@@ -1732,92 +1696,92 @@ They only care if you are doing the right thing for them.&lt;/p&gt;
     
     <item>
       <title>Working on virtualenv without magic</title>
-      <link>http://localhost:1313/bookmarks/working-on-virtualenv-without-magic/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/working-on-virtualenv-without-magic/</link>
       <pubDate>Fri, 12 Jun 2020 14:31:26 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/working-on-virtualenv-without-magic/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/working-on-virtualenv-without-magic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beautiful Static Site in haskell</title>
-      <link>http://localhost:1313/bookmarks/beautiful-static-site/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/beautiful-static-site/</link>
       <pubDate>Fri, 12 Jun 2020 14:19:12 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/beautiful-static-site/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/beautiful-static-site/</guid>
       <description>&lt;p&gt;He has made beautiful and optimized site, exactly how work should be like.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Rust Zero Cost Abstractions</title>
-      <link>http://localhost:1313/bookmarks/rust-zero-cost-abstractions/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/rust-zero-cost-abstractions/</link>
       <pubDate>Fri, 12 Jun 2020 12:40:19 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/rust-zero-cost-abstractions/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/rust-zero-cost-abstractions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vscode Keyboard Shortcuts</title>
-      <link>http://localhost:1313/bookmarks/vscode-keyboard-shortcuts/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/vscode-keyboard-shortcuts/</link>
       <pubDate>Fri, 12 Jun 2020 09:36:24 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/vscode-keyboard-shortcuts/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/vscode-keyboard-shortcuts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Federation Is Worst of All Worlds</title>
-      <link>http://localhost:1313/bookmarks/federation-is-worst-of-all-worlds/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/federation-is-worst-of-all-worlds/</link>
       <pubDate>Sun, 07 Jun 2020 04:13:47 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/federation-is-worst-of-all-worlds/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/federation-is-worst-of-all-worlds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn Go With Tests</title>
-      <link>http://localhost:1313/bookmarks/learn-go-with-tests/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/learn-go-with-tests/</link>
       <pubDate>Sun, 07 Jun 2020 04:09:38 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/learn-go-with-tests/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/learn-go-with-tests/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding the /bin, /sbin, /usr/sbin Split</title>
-      <link>http://localhost:1313/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</link>
       <pubDate>Sun, 07 Jun 2020 04:06:21 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ctfs Are Awesome</title>
-      <link>http://localhost:1313/bookmarks/ctfs-are-awesome/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/ctfs-are-awesome/</link>
       <pubDate>Mon, 01 Jun 2020 07:01:13 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/ctfs-are-awesome/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/ctfs-are-awesome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pi Nfs Server</title>
-      <link>http://localhost:1313/bookmarks/pi-nfs-server/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/pi-nfs-server/</link>
       <pubDate>Sat, 30 May 2020 01:50:59 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/pi-nfs-server/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/pi-nfs-server/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why Normalize CSS</title>
-      <link>http://localhost:1313/bookmarks/why-normalize/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/why-normalize/</link>
       <pubDate>Sun, 24 May 2020 23:23:53 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/why-normalize/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/why-normalize/</guid>
       <description>&lt;p&gt;Normalize.css is a small CSS file that provides better cross-browser consistency in the default styling of HTML elements. It’s a modern, HTML5-ready, alternative to the traditional CSS reset.&lt;/p&gt;
 &lt;p&gt;The aims of normalize.css are as follows:&lt;/p&gt;
 &lt;ul&gt;
@@ -1836,19 +1800,19 @@ They only care if you are doing the right thing for them.&lt;/p&gt;
     
     <item>
       <title>K8s Node Local Dns Cache</title>
-      <link>http://localhost:1313/bookmarks/k8s-node-local-dns-cache/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/k8s-node-local-dns-cache/</link>
       <pubDate>Sun, 24 May 2020 21:41:57 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/k8s-node-local-dns-cache/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/k8s-node-local-dns-cache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning to Write With Confidencce</title>
-      <link>http://localhost:1313/bookmarks/learning-to-write-with-confidence/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/learning-to-write-with-confidence/</link>
       <pubDate>Thu, 21 May 2020 20:42:29 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/learning-to-write-with-confidence/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/learning-to-write-with-confidence/</guid>
       <description>&lt;h2 id=&#34;some-notes&#34;&gt;Some notes&lt;/h2&gt;
 &lt;h3 id=&#34;writing-is-thinking&#34;&gt;Writing is Thinking&lt;/h3&gt;
 &lt;blockquote&gt;
@@ -1868,10 +1832,10 @@ They only care if you are doing the right thing for them.&lt;/p&gt;
     
     <item>
       <title>Sell Yourself, Sell Your Work</title>
-      <link>http://localhost:1313/bookmarks/sell-yourself-sell-your-work/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/sell-yourself-sell-your-work/</link>
       <pubDate>Thu, 21 May 2020 08:39:21 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/sell-yourself-sell-your-work/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/sell-yourself-sell-your-work/</guid>
       <description>&lt;h1 id=&#34;few-notes&#34;&gt;Few notes&lt;/h1&gt;
 &lt;p&gt;Doing technically brilliant work may be enough for your personal gratification, but you should never think it&amp;rsquo;s enough. If you lock yourself in a room and do the most marvellous work but don&amp;rsquo;t tell anyone, then no one will know, no one will benefit, and the work will be lost. You may as well not have bothered. For the world to benefit from your work, and therefore for you to benefit fully from your work, you have to make it known.&lt;/p&gt;
 &lt;h1 id=&#34;commentry&#34;&gt;Commentry&lt;/h1&gt;
@@ -1897,28 +1861,28 @@ They only care if you are doing the right thing for them.&lt;/p&gt;
     
     <item>
       <title>EKS Best Practices</title>
-      <link>http://localhost:1313/bookmarks/eks-best-practices/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/eks-best-practices/</link>
       <pubDate>Wed, 20 May 2020 22:16:17 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/eks-best-practices/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/eks-best-practices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Promql cheatsheet</title>
-      <link>http://localhost:1313/bookmarks/promql/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/promql/</link>
       <pubDate>Wed, 20 May 2020 22:04:04 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/promql/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/promql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo the Scope the Context and the Dot</title>
-      <link>http://localhost:1313/bookmarks/hugo-the-scope-the-context-and-the-dot/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/hugo-the-scope-the-context-and-the-dot/</link>
       <pubDate>Sun, 17 May 2020 18:54:04 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/hugo-the-scope-the-context-and-the-dot/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/hugo-the-scope-the-context-and-the-dot/</guid>
       <description></description>
     </item>
     

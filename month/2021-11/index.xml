@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2021-11 on knowledge base</title>
-    <link>http://localhost:1313/month/2021-11/</link>
+    <link>https://kbs.murarisumit.in/month/2021-11/</link>
     <description>Recent content in 2021-11 on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jun 2022 10:24:27 +0530</lastBuildDate><atom:link href="http://localhost:1313/month/2021-11/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jun 2022 10:24:27 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/month/2021-11/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Xargs Command Snippets</title>
-      <link>http://localhost:1313/46030699d1902e025e7e02246a9a9c13/</link>
+      <link>https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/</link>
       <pubDate>Mon, 13 Jun 2022 10:24:27 +0530</pubDate>
       
-      <guid>http://localhost:1313/46030699d1902e025e7e02246a9a9c13/</guid>
+      <guid>https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/</guid>
       <description>&lt;p&gt;Simple command snippet that most likely be used imo would be.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>Understanding Aws Cli Output Text</title>
-      <link>http://localhost:1313/cb09c8a3463c51091177eff829bd82d8/</link>
+      <link>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</link>
       <pubDate>Mon, 16 May 2022 08:58:40 +0530</pubDate>
       
-      <guid>http://localhost:1313/cb09c8a3463c51091177eff829bd82d8/</guid>
+      <guid>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&amp;ndash;output=text will print everything within innermost [] brackets on single line.&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;To see it in action see the difference between&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -78,10 +78,10 @@
     
     <item>
       <title>Awscli snippets</title>
-      <link>http://localhost:1313/c0b28c0e8bc16283b3c9e2d099eabe63/</link>
+      <link>https://kbs.murarisumit.in/c0b28c0e8bc16283b3c9e2d099eabe63/</link>
       <pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate>
       
-      <guid>http://localhost:1313/c0b28c0e8bc16283b3c9e2d099eabe63/</guid>
+      <guid>https://kbs.murarisumit.in/c0b28c0e8bc16283b3c9e2d099eabe63/</guid>
       <description>&lt;h4 id=&#34;fetch-running-instance-with-their-private-ip&#34;&gt;Fetch running instance with their private IP&lt;/h4&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -92,6 +92,21 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h4 id=&#34;fetch-running-instance-for-given-tag&#34;&gt;Fetch running instance for given tag&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# simple text output&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 describe-instances --query &lt;span class=&#34;s1&#34;&gt;&amp;#39;Reservations[*].Instances[*].[InstanceId,Tags[?Key==`Name`].Value|[0]]&amp;#39;&lt;/span&gt; --output text
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# for table output&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 describe-instances --query &lt;span class=&#34;s1&#34;&gt;&amp;#39;Reservations[*].Instances[*].[InstanceId,Tags[?Key==`Name`].Value|[0]]&amp;#39;&lt;/span&gt; --output table
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h1 id=&#34;fetch-just-filtered-instances-using---filters-option&#34;&gt;fetch just filtered instances using &lt;code&gt;--filters&lt;/code&gt; option&lt;/h1&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -111,7 +126,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;Linked post:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/cb09c8a3463c51091177eff829bd82d8/&#34;&gt;Understanding text output for awscli&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/&#34;&gt;Understanding text output for awscli&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Reference:&lt;/p&gt;
 &lt;ul&gt;
@@ -122,10 +137,10 @@
     
     <item>
       <title>Ublock Origin Youtube Filter List</title>
-      <link>http://localhost:1313/6e225c364f36afa1b5766490db9e7229/</link>
+      <link>https://kbs.murarisumit.in/6e225c364f36afa1b5766490db9e7229/</link>
       <pubDate>Tue, 23 Nov 2021 14:43:52 +0530</pubDate>
       
-      <guid>http://localhost:1313/6e225c364f36afa1b5766490db9e7229/</guid>
+      <guid>https://kbs.murarisumit.in/6e225c364f36afa1b5766490db9e7229/</guid>
       <description>&lt;p&gt;So idea here is to reduce the distraction. One thought that was difficult for me to overcame was&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;I should have self-control, no such controls are needed.&lt;/p&gt;
@@ -173,20 +188,20 @@
     
     <item>
       <title>Feedback vs Criticism</title>
-      <link>http://localhost:1313/4df1d169f631ef3acde0e9d5df34dd15/</link>
+      <link>https://kbs.murarisumit.in/4df1d169f631ef3acde0e9d5df34dd15/</link>
       <pubDate>Mon, 22 Nov 2021 08:35:38 +0530</pubDate>
       
-      <guid>http://localhost:1313/4df1d169f631ef3acde0e9d5df34dd15/</guid>
+      <guid>https://kbs.murarisumit.in/4df1d169f631ef3acde0e9d5df34dd15/</guid>
       <description>&lt;p&gt;Your feedback should help people win. Else it is just criticism.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Loving Is Therapy for the Soul</title>
-      <link>http://localhost:1313/f819c7d970406f3f5be56b41f3286e41/</link>
+      <link>https://kbs.murarisumit.in/f819c7d970406f3f5be56b41f3286e41/</link>
       <pubDate>Fri, 19 Nov 2021 21:11:39 +0530</pubDate>
       
-      <guid>http://localhost:1313/f819c7d970406f3f5be56b41f3286e41/</guid>
+      <guid>https://kbs.murarisumit.in/f819c7d970406f3f5be56b41f3286e41/</guid>
       <description>&lt;p&gt;Exercising is therapy for the body.&lt;/p&gt;
 &lt;p&gt;Writing is therapy for the mind.&lt;/p&gt;
 &lt;p&gt;Loving is therapy for the soul.&lt;/p&gt;
@@ -195,10 +210,10 @@
     
     <item>
       <title>What Does 9s Mean in Downtime</title>
-      <link>http://localhost:1313/ec9cc6baa4890df4cb5e5dc561d60e43/</link>
+      <link>https://kbs.murarisumit.in/ec9cc6baa4890df4cb5e5dc561d60e43/</link>
       <pubDate>Fri, 19 Nov 2021 21:00:55 +0530</pubDate>
       
-      <guid>http://localhost:1313/ec9cc6baa4890df4cb5e5dc561d60e43/</guid>
+      <guid>https://kbs.murarisumit.in/ec9cc6baa4890df4cb5e5dc561d60e43/</guid>
       <description>&lt;p&gt;Sometime i just forgot how much 9s means in w.r.t SLA and how much downtime can be afforded and this above reference is simple and beautiful.&lt;/p&gt;
 &lt;p&gt;Try with multiple 9s like this: &lt;a href=&#34;https://uptime.is/99.9&#34;&gt;https://uptime.is/99.9&lt;/a&gt; or &lt;a href=&#34;https://uptime.is/99.99&#34;&gt;https://uptime.is/99.99&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To put from website.&lt;/p&gt;
@@ -229,10 +244,10 @@ Yearly: 5m 15s
     
     <item>
       <title>Understand How Cloth Is Made</title>
-      <link>http://localhost:1313/9d01b610df2e9fb18d7aa175fa879285/</link>
+      <link>https://kbs.murarisumit.in/9d01b610df2e9fb18d7aa175fa879285/</link>
       <pubDate>Fri, 19 Nov 2021 13:05:44 +0530</pubDate>
       
-      <guid>http://localhost:1313/9d01b610df2e9fb18d7aa175fa879285/</guid>
+      <guid>https://kbs.murarisumit.in/9d01b610df2e9fb18d7aa175fa879285/</guid>
       <description>&lt;p&gt;So while shopping for my pajyamas today, was thinking how this cloth is made. After searching on youtube these few videos made it easier to understand.&lt;/p&gt;
 &lt;p&gt;First part is getting raw, either by cotton tree, or silk worm or cashmere/kashmir goats or sheeps etc.&lt;/p&gt;
 &lt;h4 id=&#34;on-simple-human-level&#34;&gt;On simple human level&lt;/h4&gt;
@@ -244,10 +259,10 @@ Yearly: 5m 15s
     
     <item>
       <title>Diff Between &#34;su&#34; and &#34;su -&#34;</title>
-      <link>http://localhost:1313/7fa5b4e9b48dbb81c234710d25151f22/</link>
+      <link>https://kbs.murarisumit.in/7fa5b4e9b48dbb81c234710d25151f22/</link>
       <pubDate>Wed, 17 Nov 2021 09:25:52 +0530</pubDate>
       
-      <guid>http://localhost:1313/7fa5b4e9b48dbb81c234710d25151f22/</guid>
+      <guid>https://kbs.murarisumit.in/7fa5b4e9b48dbb81c234710d25151f22/</guid>
       <description>&lt;p&gt;Keeping here for reference:&lt;/p&gt;
 &lt;p&gt;The difference between &amp;ldquo;-&amp;rdquo; and &amp;ldquo;no hyphen&amp;rdquo; is&lt;/p&gt;
 &lt;ul&gt;
@@ -273,10 +288,10 @@ The hyphen has two effects:
     
     <item>
       <title>Latency Number for Every Programmer</title>
-      <link>http://localhost:1313/5891e85354985d957586b9556a8e0551/</link>
+      <link>https://kbs.murarisumit.in/5891e85354985d957586b9556a8e0551/</link>
       <pubDate>Wed, 03 Nov 2021 15:12:43 +0530</pubDate>
       
-      <guid>http://localhost:1313/5891e85354985d957586b9556a8e0551/</guid>
+      <guid>https://kbs.murarisumit.in/5891e85354985d957586b9556a8e0551/</guid>
       <description>&lt;p&gt;Copied here for personal reference.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -357,10 +372,10 @@ The hyphen has two effects:
     
     <item>
       <title>Solid Principle in Simple Way</title>
-      <link>http://localhost:1313/5df1af1a7c595eb1c55b78bc2086c772/</link>
+      <link>https://kbs.murarisumit.in/5df1af1a7c595eb1c55b78bc2086c772/</link>
       <pubDate>Tue, 02 Nov 2021 22:00:04 +0530</pubDate>
       
-      <guid>http://localhost:1313/5df1af1a7c595eb1c55b78bc2086c772/</guid>
+      <guid>https://kbs.murarisumit.in/5df1af1a7c595eb1c55b78bc2086c772/</guid>
       <description>&lt;p&gt;Summary:&lt;/p&gt;
 &lt;h4 id=&#34;single-responsibility-principle-&#34;&gt;Single Responsibility principle :&lt;/h4&gt;
 &lt;p&gt;Don’t surprise the people who read your code.&lt;/p&gt;

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cybersec on knowledge base</title>
-    <link>http://localhost:1313/tags/cybersec/</link>
+    <link>https://kbs.murarisumit.in/tags/cybersec/</link>
     <description>Recent content in Cybersec on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Dec 2021 13:35:31 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/cybersec/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Dec 2021 13:35:31 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/cybersec/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Can Every Devices Be Hacked</title>
-      <link>http://localhost:1313/92a571b39b7be2d430f2391c21c79018/</link>
+      <link>https://kbs.murarisumit.in/92a571b39b7be2d430f2391c21c79018/</link>
       <pubDate>Mon, 06 Dec 2021 13:35:31 +0530</pubDate>
       
-      <guid>http://localhost:1313/92a571b39b7be2d430f2391c21c79018/</guid>
+      <guid>https://kbs.murarisumit.in/92a571b39b7be2d430f2391c21c79018/</guid>
       <description>&lt;p&gt;So yes, if someone is really persistant about it. The prices for these weaponised exploit start from 100K USD from from 2.5Million dollars.&lt;/p&gt;
 &lt;p&gt;There is high cost to it, so usually used by state actor or for&lt;/p&gt;
 &lt;p&gt;Don&amp;rsquo;t live in fear of getting hacked, it should be in your threat model. There are lot more important people our there with more information is their hands so you&amp;rsquo;re very less likely are a target, but remember if someone wants to he can.&lt;/p&gt;
@@ -32,10 +32,10 @@
     
     <item>
       <title>Understanding Totp Format</title>
-      <link>http://localhost:1313/17631ba5506051a4b38a7a5f997a0140/</link>
+      <link>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</link>
       <pubDate>Fri, 03 Sep 2021 22:11:57 +0530</pubDate>
       
-      <guid>http://localhost:1313/17631ba5506051a4b38a7a5f997a0140/</guid>
+      <guid>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</guid>
       <description>&lt;p&gt;Gist for TOTP is&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;

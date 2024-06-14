@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lists.busybox.net on knowledge base</title>
-    <link>http://localhost:1313/sites/lists.busybox.net/</link>
+    <link>https://kbs.murarisumit.in/sites/lists.busybox.net/</link>
     <description>Recent content in Lists.busybox.net on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2020 04:06:21 +0530</lastBuildDate><atom:link href="http://localhost:1313/sites/lists.busybox.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jun 2020 04:06:21 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/lists.busybox.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding the /bin, /sbin, /usr/sbin Split</title>
-      <link>http://localhost:1313/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</link>
       <pubDate>Sun, 07 Jun 2020 04:06:21 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</guid>
       <description></description>
     </item>
     

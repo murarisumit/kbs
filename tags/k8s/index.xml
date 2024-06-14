@@ -2,116 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K8s on knowledge base</title>
-    <link>http://localhost:1313/tags/k8s/</link>
+    <link>https://kbs.murarisumit.in/tags/k8s/</link>
     <description>Recent content in K8s on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Aug 2021 04:57:32 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Aug 2021 04:57:32 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How Kubectl Logs Work</title>
-      <link>http://localhost:1313/d19e8438d682f3f5a897296206ca9828/</link>
+      <link>https://kbs.murarisumit.in/d19e8438d682f3f5a897296206ca9828/</link>
       <pubDate>Fri, 13 Aug 2021 04:57:32 +0530</pubDate>
       
-      <guid>http://localhost:1313/d19e8438d682f3f5a897296206ca9828/</guid>
+      <guid>https://kbs.murarisumit.in/d19e8438d682f3f5a897296206ca9828/</guid>
       <description>&lt;p&gt;Links to notion page, as it had diagram and it was easier to put post like these on notion.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Kubectl Seldom Used Snippets</title>
-      <link>http://localhost:1313/5d8b39c56e663bef316ca5b9649b3fa5/</link>
-      <pubDate>Fri, 13 Aug 2021 04:48:40 +0530</pubDate>
-      
-      <guid>http://localhost:1313/5d8b39c56e663bef316ca5b9649b3fa5/</guid>
-      <description>&lt;p&gt;Seldom used kubectl get command, listing here for reference.&lt;/p&gt;
-&lt;h3 id=&#34;nodes&#34;&gt;Nodes&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;List all taints in node.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;kubectl get nodes -o custom-columns=NAME:.metadata.name,ARCH:.status.nodeInfo.architecture,KERNEL:.status.nodeInfo.kernelVersion,KUBLET:.status.nodeInfo.kubeletVersion,CPU:.status.capacity.cpu,RAM:.status.capacity.memory,TAINTS:.spec.taints
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;pods&#34;&gt;Pods&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Get all pods in specific node.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;kubectl get pods --all-namespaces -o wide --field-selector spec.nodeName=&amp;lt;node-name&amp;gt;&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;List pods by age&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;kubectl get po --sort-by=.status.startTime&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;References:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/39231880/kubernetes-api-gets-pods-on-specific-nodes&#34;&gt;https://stackoverflow.com/questions/39231880/kubernetes-api-gets-pods-on-specific-nodes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/43379415/how-can-i-list-the-taints-on-kubernetes-nodes/59494876#59494876&#34;&gt;https://stackoverflow.com/questions/43379415/how-can-i-list-the-taints-on-kubernetes-nodes/59494876#59494876&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/45310287/kubernetes-sort-pods-by-age&#34;&gt;https://stackoverflow.com/questions/45310287/kubernetes-sort-pods-by-age&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Container Security Nist 800 190</title>
-      <link>http://localhost:1313/bookmarks/container-security-nist-800-190/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/container-security-nist-800-190/</link>
       <pubDate>Mon, 09 Aug 2021 10:17:05 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/container-security-nist-800-190/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/container-security-nist-800-190/</guid>
       <description>&lt;p&gt;About link takes you to NIST(National Institute of Standards and Technology) guide for container security @ &lt;a href=&#34;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf&#34;&gt;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>K8s Failure Stories</title>
-      <link>http://localhost:1313/bookmarks/k8s-failure-stories/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/k8s-failure-stories/</link>
       <pubDate>Mon, 09 Aug 2021 00:37:09 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/k8s-failure-stories/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/k8s-failure-stories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Awesome Kubernetes</title>
-      <link>http://localhost:1313/bookmarks/awesome-kubernetes/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</link>
       <pubDate>Mon, 09 Aug 2021 00:16:59 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/awesome-kubernetes/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kuberentes Kbrew</title>
-      <link>http://localhost:1313/bookmarks/k8s-kbrew/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/k8s-kbrew/</link>
       <pubDate>Sat, 07 Aug 2021 13:33:47 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/k8s-kbrew/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/k8s-kbrew/</guid>
       <description>&lt;p&gt;This tool looks good, and love the ease of this. It&amp;rsquo;s easy way to deploy the applications over cluster.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Awesome K8s Security</title>
-      <link>http://localhost:1313/bookmarks/awesome-k8s-security/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</link>
       <pubDate>Sat, 07 Aug 2021 12:50:34 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/awesome-k8s-security/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</guid>
       <description>&lt;p&gt;A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NASA K8s Hardening Guide</title>
-      <link>http://localhost:1313/bookmarks/nasa-k8s-hardening-guide/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/nasa-k8s-hardening-guide/</link>
       <pubDate>Wed, 04 Aug 2021 15:31:55 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/nasa-k8s-hardening-guide/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/nasa-k8s-hardening-guide/</guid>
       <description>&lt;p&gt;Main highlights as mentioned by top commentator&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -142,10 +101,10 @@
     
     <item>
       <title>K8s Node Local Dns Cache</title>
-      <link>http://localhost:1313/bookmarks/k8s-node-local-dns-cache/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/k8s-node-local-dns-cache/</link>
       <pubDate>Sun, 24 May 2020 21:41:57 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/k8s-node-local-dns-cache/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/k8s-node-local-dns-cache/</guid>
       <description></description>
     </item>
     

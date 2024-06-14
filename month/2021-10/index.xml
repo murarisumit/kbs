@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2021-10 on knowledge base</title>
-    <link>http://localhost:1313/month/2021-10/</link>
+    <link>https://kbs.murarisumit.in/month/2021-10/</link>
     <description>Recent content in 2021-10 on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Oct 2021 16:32:43 +0530</lastBuildDate><atom:link href="http://localhost:1313/month/2021-10/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Oct 2021 16:32:43 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/month/2021-10/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Golang Codereview Comments</title>
-      <link>http://localhost:1313/c0ab4091d733d85471515c2cd581fd67/</link>
+      <link>https://kbs.murarisumit.in/c0ab4091d733d85471515c2cd581fd67/</link>
       <pubDate>Wed, 27 Oct 2021 16:32:43 +0530</pubDate>
       
-      <guid>http://localhost:1313/c0ab4091d733d85471515c2cd581fd67/</guid>
+      <guid>https://kbs.murarisumit.in/c0ab4091d733d85471515c2cd581fd67/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Terraform Best Practices</title>
-      <link>http://localhost:1313/e730b5f8cf640bb6823be168475994d9/</link>
+      <link>https://kbs.murarisumit.in/e730b5f8cf640bb6823be168475994d9/</link>
       <pubDate>Fri, 22 Oct 2021 10:52:47 +0530</pubDate>
       
-      <guid>http://localhost:1313/e730b5f8cf640bb6823be168475994d9/</guid>
+      <guid>https://kbs.murarisumit.in/e730b5f8cf640bb6823be168475994d9/</guid>
       <description>&lt;p&gt;Some convetion for best practices, it would be better use lint to enforce them, still good to reference once in a while.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multiple Git Ssh Config Single Machine</title>
-      <link>http://localhost:1313/d881fb4640d6de032e6221c9eabe0e39/</link>
+      <link>https://kbs.murarisumit.in/d881fb4640d6de032e6221c9eabe0e39/</link>
       <pubDate>Wed, 20 Oct 2021 10:21:50 +0530</pubDate>
       
-      <guid>http://localhost:1313/d881fb4640d6de032e6221c9eabe0e39/</guid>
+      <guid>https://kbs.murarisumit.in/d881fb4640d6de032e6221c9eabe0e39/</guid>
       <description>&lt;p&gt;To use multiple github account on same hosts, and using ssh to push and pull the repo. We have multiple tricks&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Using ssh config tricks with hosts: &lt;a href=&#34;https://gist.github.com/JoaquimLey/e6049a12c8fd2923611802384cd2fb4a&#34;&gt;https://gist.github.com/JoaquimLey/e6049a12c8fd2923611802384cd2fb4a&lt;/a&gt;&lt;/li&gt;
@@ -89,10 +89,10 @@
     
     <item>
       <title>Post Your Startup</title>
-      <link>http://localhost:1313/492e142b3d2566623e4ba229d743b355/</link>
+      <link>https://kbs.murarisumit.in/492e142b3d2566623e4ba229d743b355/</link>
       <pubDate>Wed, 20 Oct 2021 08:25:31 +0530</pubDate>
       
-      <guid>http://localhost:1313/492e142b3d2566623e4ba229d743b355/</guid>
+      <guid>https://kbs.murarisumit.in/492e142b3d2566623e4ba229d743b355/</guid>
       <description>&lt;p&gt;Place where we can post about startup, found this list. Keeping here for reference as tags are easy to track now for me.&lt;/p&gt;
 </description>
     </item>

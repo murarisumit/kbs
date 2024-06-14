@@ -2,494 +2,485 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sites on knowledge base</title>
-    <link>http://localhost:1313/sites/</link>
+    <link>https://kbs.murarisumit.in/sites/</link>
     <description>Recent content in Sites on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Aug 2022 15:22:02 +0530</lastBuildDate><atom:link href="http://localhost:1313/sites/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Aug 2022 15:22:02 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Github.com</title>
-      <link>http://localhost:1313/sites/github.com/</link>
+      <link>https://kbs.murarisumit.in/sites/github.com/</link>
       <pubDate>Thu, 04 Aug 2022 15:22:02 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/github.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/github.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flaviocopes.com</title>
-      <link>http://localhost:1313/sites/flaviocopes.com/</link>
+      <link>https://kbs.murarisumit.in/sites/flaviocopes.com/</link>
       <pubDate>Mon, 13 Jun 2022 10:24:27 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/flaviocopes.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/flaviocopes.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Carriagereturn.nl</title>
-      <link>http://localhost:1313/sites/carriagereturn.nl/</link>
+      <link>https://kbs.murarisumit.in/sites/carriagereturn.nl/</link>
       <pubDate>Mon, 16 May 2022 08:58:40 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/carriagereturn.nl/</guid>
+      <guid>https://kbs.murarisumit.in/sites/carriagereturn.nl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Youtube.com</title>
-      <link>http://localhost:1313/sites/youtube.com/</link>
+      <link>https://kbs.murarisumit.in/sites/youtube.com/</link>
       <pubDate>Sun, 15 May 2022 23:41:17 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/youtube.com/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Summitroute.com</title>
-      <link>http://localhost:1313/sites/summitroute.com/</link>
-      <pubDate>Fri, 25 Feb 2022 11:35:48 +0530</pubDate>
-      
-      <guid>http://localhost:1313/sites/summitroute.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/youtube.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Www.wealest.com</title>
-      <link>http://localhost:1313/sites/www.wealest.com/</link>
+      <link>https://kbs.murarisumit.in/sites/www.wealest.com/</link>
       <pubDate>Tue, 01 Feb 2022 10:01:50 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/www.wealest.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/www.wealest.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Www.fidelity.com</title>
-      <link>http://localhost:1313/sites/www.fidelity.com/</link>
+      <link>https://kbs.murarisumit.in/sites/www.fidelity.com/</link>
       <pubDate>Tue, 04 Jan 2022 07:12:32 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/www.fidelity.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/www.fidelity.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Www.youtube.com</title>
-      <link>http://localhost:1313/sites/www.youtube.com/</link>
+      <link>https://kbs.murarisumit.in/sites/www.youtube.com/</link>
       <pubDate>Sat, 18 Dec 2021 09:41:06 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/www.youtube.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/www.youtube.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ronaldsvilcins.com</title>
-      <link>http://localhost:1313/sites/ronaldsvilcins.com/</link>
+      <link>https://kbs.murarisumit.in/sites/ronaldsvilcins.com/</link>
       <pubDate>Mon, 13 Dec 2021 22:00:12 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/ronaldsvilcins.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/ronaldsvilcins.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iancoleman.io</title>
-      <link>http://localhost:1313/sites/iancoleman.io/</link>
+      <link>https://kbs.murarisumit.in/sites/iancoleman.io/</link>
       <pubDate>Thu, 02 Dec 2021 10:07:05 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/iancoleman.io/</guid>
+      <guid>https://kbs.murarisumit.in/sites/iancoleman.io/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Twitter.com</title>
-      <link>http://localhost:1313/sites/twitter.com/</link>
+      <link>https://kbs.murarisumit.in/sites/twitter.com/</link>
       <pubDate>Mon, 22 Nov 2021 08:35:38 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/twitter.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/twitter.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uptime.is</title>
-      <link>http://localhost:1313/sites/uptime.is/</link>
+      <link>https://kbs.murarisumit.in/sites/uptime.is/</link>
       <pubDate>Fri, 19 Nov 2021 21:00:55 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/uptime.is/</guid>
+      <guid>https://kbs.murarisumit.in/sites/uptime.is/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Superuser.com</title>
-      <link>http://localhost:1313/sites/superuser.com/</link>
+      <link>https://kbs.murarisumit.in/sites/superuser.com/</link>
       <pubDate>Wed, 17 Nov 2021 09:25:52 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/superuser.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/superuser.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gist.github.com</title>
-      <link>http://localhost:1313/sites/gist.github.com/</link>
+      <link>https://kbs.murarisumit.in/sites/gist.github.com/</link>
       <pubDate>Wed, 03 Nov 2021 15:12:43 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/gist.github.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/gist.github.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stackoverflow.blog</title>
-      <link>http://localhost:1313/sites/stackoverflow.blog/</link>
+      <link>https://kbs.murarisumit.in/sites/stackoverflow.blog/</link>
       <pubDate>Tue, 02 Nov 2021 22:00:04 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/stackoverflow.blog/</guid>
+      <guid>https://kbs.murarisumit.in/sites/stackoverflow.blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Www.terraform-Best-Practices.com</title>
-      <link>http://localhost:1313/sites/www.terraform-best-practices.com/</link>
+      <link>https://kbs.murarisumit.in/sites/www.terraform-best-practices.com/</link>
       <pubDate>Fri, 22 Oct 2021 10:52:47 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/www.terraform-best-practices.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/www.terraform-best-practices.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dev.to</title>
-      <link>http://localhost:1313/sites/dev.to/</link>
+      <link>https://kbs.murarisumit.in/sites/dev.to/</link>
       <pubDate>Wed, 20 Oct 2021 10:21:50 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/dev.to/</guid>
+      <guid>https://kbs.murarisumit.in/sites/dev.to/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Github</title>
-      <link>http://localhost:1313/sites/github/</link>
+      <link>https://kbs.murarisumit.in/sites/github/</link>
       <pubDate>Wed, 20 Oct 2021 08:25:31 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/github/</guid>
+      <guid>https://kbs.murarisumit.in/sites/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Allthingsauth.com</title>
-      <link>http://localhost:1313/sites/allthingsauth.com/</link>
+      <link>https://kbs.murarisumit.in/sites/allthingsauth.com/</link>
       <pubDate>Fri, 03 Sep 2021 22:11:57 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/allthingsauth.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/allthingsauth.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linkedin.com</title>
-      <link>http://localhost:1313/sites/linkedin.com/</link>
+      <link>https://kbs.murarisumit.in/sites/linkedin.com/</link>
       <pubDate>Mon, 30 Aug 2021 16:56:43 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/linkedin.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/linkedin.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ankurwarikoo.com</title>
-      <link>http://localhost:1313/sites/ankurwarikoo.com/</link>
+      <link>https://kbs.murarisumit.in/sites/ankurwarikoo.com/</link>
       <pubDate>Fri, 27 Aug 2021 10:59:21 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/ankurwarikoo.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/ankurwarikoo.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Support.mozilla.org</title>
-      <link>http://localhost:1313/sites/support.mozilla.org/</link>
+      <link>https://kbs.murarisumit.in/sites/support.mozilla.org/</link>
       <pubDate>Thu, 26 Aug 2021 10:05:32 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/support.mozilla.org/</guid>
+      <guid>https://kbs.murarisumit.in/sites/support.mozilla.org/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reddit.com</title>
-      <link>http://localhost:1313/sites/reddit.com/</link>
+      <link>https://kbs.murarisumit.in/sites/reddit.com/</link>
       <pubDate>Sat, 21 Aug 2021 06:31:43 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/reddit.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/reddit.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Www.geeksforgeeks.org</title>
-      <link>http://localhost:1313/sites/www.geeksforgeeks.org/</link>
+      <link>https://kbs.murarisumit.in/sites/www.geeksforgeeks.org/</link>
       <pubDate>Sat, 21 Aug 2021 05:44:50 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/www.geeksforgeeks.org/</guid>
+      <guid>https://kbs.murarisumit.in/sites/www.geeksforgeeks.org/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Https://Twitter.com</title>
-      <link>http://localhost:1313/sites/https/twitter.com/</link>
+      <link>https://kbs.murarisumit.in/sites/https/twitter.com/</link>
       <pubDate>Fri, 20 Aug 2021 11:41:47 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/https/twitter.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/https/twitter.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Backblaze.com</title>
-      <link>http://localhost:1313/sites/backblaze.com/</link>
+      <link>https://kbs.murarisumit.in/sites/backblaze.com/</link>
       <pubDate>Fri, 13 Aug 2021 04:45:22 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/backblaze.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/backblaze.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Www.reddit.com</title>
-      <link>http://localhost:1313/sites/www.reddit.com/</link>
+      <link>https://kbs.murarisumit.in/sites/www.reddit.com/</link>
       <pubDate>Fri, 13 Aug 2021 04:41:18 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/www.reddit.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/www.reddit.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nvlpubs.nist.gov</title>
-      <link>http://localhost:1313/sites/nvlpubs.nist.gov/</link>
+      <link>https://kbs.murarisumit.in/sites/nvlpubs.nist.gov/</link>
       <pubDate>Mon, 09 Aug 2021 10:17:05 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/nvlpubs.nist.gov/</guid>
+      <guid>https://kbs.murarisumit.in/sites/nvlpubs.nist.gov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brendangregg.com</title>
-      <link>http://localhost:1313/sites/brendangregg.com/</link>
+      <link>https://kbs.murarisumit.in/sites/brendangregg.com/</link>
       <pubDate>Mon, 09 Aug 2021 09:25:45 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/brendangregg.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/brendangregg.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joshworth.com</title>
-      <link>http://localhost:1313/sites/joshworth.com/</link>
+      <link>https://kbs.murarisumit.in/sites/joshworth.com/</link>
       <pubDate>Sun, 08 Aug 2021 23:50:34 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/joshworth.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/joshworth.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sharingbuttons.io</title>
-      <link>http://localhost:1313/sites/sharingbuttons.io/</link>
+      <link>https://kbs.murarisumit.in/sites/sharingbuttons.io/</link>
       <pubDate>Sat, 07 Aug 2021 11:50:41 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/sharingbuttons.io/</guid>
+      <guid>https://kbs.murarisumit.in/sites/sharingbuttons.io/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Www.jayeless.net</title>
-      <link>http://localhost:1313/sites/www.jayeless.net/</link>
+      <link>https://kbs.murarisumit.in/sites/www.jayeless.net/</link>
       <pubDate>Sat, 07 Aug 2021 09:39:45 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/www.jayeless.net/</guid>
+      <guid>https://kbs.murarisumit.in/sites/www.jayeless.net/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News.ycombinator.com</title>
-      <link>http://localhost:1313/sites/news.ycombinator.com/</link>
+      <link>https://kbs.murarisumit.in/sites/news.ycombinator.com/</link>
       <pubDate>Wed, 04 Aug 2021 15:31:55 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/news.ycombinator.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/news.ycombinator.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Techcommunity.microsoft.com</title>
-      <link>http://localhost:1313/sites/techcommunity.microsoft.com/</link>
+      <link>https://kbs.murarisumit.in/sites/techcommunity.microsoft.com/</link>
       <pubDate>Mon, 02 Aug 2021 02:29:18 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/techcommunity.microsoft.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/techcommunity.microsoft.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloudsecdocs.com</title>
-      <link>http://localhost:1313/sites/cloudsecdocs.com/</link>
+      <link>https://kbs.murarisumit.in/sites/cloudsecdocs.com/</link>
       <pubDate>Fri, 30 Jul 2021 07:34:43 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/cloudsecdocs.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/cloudsecdocs.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Https://Unit42.paloaltonetworks.com</title>
-      <link>http://localhost:1313/sites/https/unit42.paloaltonetworks.com/</link>
+      <link>https://kbs.murarisumit.in/sites/https/unit42.paloaltonetworks.com/</link>
       <pubDate>Tue, 27 Jul 2021 15:56:55 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/https/unit42.paloaltonetworks.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/https/unit42.paloaltonetworks.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Https://Gist.github.com</title>
-      <link>http://localhost:1313/sites/https/gist.github.com/</link>
+      <link>https://kbs.murarisumit.in/sites/https/gist.github.com/</link>
       <pubDate>Mon, 26 Jul 2021 22:35:37 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/https/gist.github.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/https/gist.github.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drewdevault.com</title>
-      <link>http://localhost:1313/sites/drewdevault.com/</link>
+      <link>https://kbs.murarisumit.in/sites/drewdevault.com/</link>
       <pubDate>Tue, 21 Jul 2020 06:17:03 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/drewdevault.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/drewdevault.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Awesome-Prometheus-Alerts.grep.to</title>
-      <link>http://localhost:1313/sites/awesome-prometheus-alerts.grep.to/</link>
+      <link>https://kbs.murarisumit.in/sites/awesome-prometheus-alerts.grep.to/</link>
       <pubDate>Tue, 23 Jun 2020 16:53:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/awesome-prometheus-alerts.grep.to/</guid>
+      <guid>https://kbs.murarisumit.in/sites/awesome-prometheus-alerts.grep.to/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dabeaz-Course.github.io</title>
-      <link>http://localhost:1313/sites/dabeaz-course.github.io/</link>
+      <link>https://kbs.murarisumit.in/sites/dabeaz-course.github.io/</link>
       <pubDate>Sun, 21 Jun 2020 18:56:13 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/dabeaz-course.github.io/</guid>
+      <guid>https://kbs.murarisumit.in/sites/dabeaz-course.github.io/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Youtube.coom</title>
-      <link>http://localhost:1313/sites/youtube.coom/</link>
+      <link>https://kbs.murarisumit.in/sites/youtube.coom/</link>
       <pubDate>Sun, 21 Jun 2020 13:27:25 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/youtube.coom/</guid>
+      <guid>https://kbs.murarisumit.in/sites/youtube.coom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Www.allaboutcircuits.com</title>
-      <link>http://localhost:1313/sites/www.allaboutcircuits.com/</link>
+      <link>https://kbs.murarisumit.in/sites/www.allaboutcircuits.com/</link>
       <pubDate>Fri, 19 Jun 2020 07:28:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/www.allaboutcircuits.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/www.allaboutcircuits.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ruudvanasseldonk.com</title>
-      <link>http://localhost:1313/sites/ruudvanasseldonk.com/</link>
+      <link>https://kbs.murarisumit.in/sites/ruudvanasseldonk.com/</link>
       <pubDate>Fri, 12 Jun 2020 14:31:26 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/ruudvanasseldonk.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/ruudvanasseldonk.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zellwk.com</title>
-      <link>http://localhost:1313/sites/zellwk.com/</link>
+      <link>https://kbs.murarisumit.in/sites/zellwk.com/</link>
       <pubDate>Fri, 12 Jun 2020 09:36:24 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/zellwk.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/zellwk.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fieldnotes.resistant.tech</title>
-      <link>http://localhost:1313/sites/fieldnotes.resistant.tech/</link>
+      <link>https://kbs.murarisumit.in/sites/fieldnotes.resistant.tech/</link>
       <pubDate>Sun, 07 Jun 2020 04:13:47 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/fieldnotes.resistant.tech/</guid>
+      <guid>https://kbs.murarisumit.in/sites/fieldnotes.resistant.tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quii.gitbook.io</title>
-      <link>http://localhost:1313/sites/quii.gitbook.io/</link>
+      <link>https://kbs.murarisumit.in/sites/quii.gitbook.io/</link>
       <pubDate>Sun, 07 Jun 2020 04:09:38 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/quii.gitbook.io/</guid>
+      <guid>https://kbs.murarisumit.in/sites/quii.gitbook.io/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lists.busybox.net</title>
-      <link>http://localhost:1313/sites/lists.busybox.net/</link>
+      <link>https://kbs.murarisumit.in/sites/lists.busybox.net/</link>
       <pubDate>Sun, 07 Jun 2020 04:06:21 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/lists.busybox.net/</guid>
+      <guid>https://kbs.murarisumit.in/sites/lists.busybox.net/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pimylifeup.com</title>
-      <link>http://localhost:1313/sites/pimylifeup.com/</link>
+      <link>https://kbs.murarisumit.in/sites/pimylifeup.com/</link>
       <pubDate>Sat, 30 May 2020 01:50:59 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/pimylifeup.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/pimylifeup.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nicolasgallagher.com</title>
-      <link>http://localhost:1313/sites/nicolasgallagher.com/</link>
+      <link>https://kbs.murarisumit.in/sites/nicolasgallagher.com/</link>
       <pubDate>Sun, 24 May 2020 23:23:53 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/nicolasgallagher.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/nicolasgallagher.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Povilasv.me</title>
-      <link>http://localhost:1313/sites/povilasv.me/</link>
+      <link>https://kbs.murarisumit.in/sites/povilasv.me/</link>
       <pubDate>Sun, 24 May 2020 21:41:57 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/povilasv.me/</guid>
+      <guid>https://kbs.murarisumit.in/sites/povilasv.me/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog.stephsmith.io</title>
-      <link>http://localhost:1313/sites/blog.stephsmith.io/</link>
+      <link>https://kbs.murarisumit.in/sites/blog.stephsmith.io/</link>
       <pubDate>Thu, 21 May 2020 20:42:29 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/blog.stephsmith.io/</guid>
+      <guid>https://kbs.murarisumit.in/sites/blog.stephsmith.io/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Www.solipsys.co.uk</title>
-      <link>http://localhost:1313/sites/www.solipsys.co.uk/</link>
+      <link>https://kbs.murarisumit.in/sites/www.solipsys.co.uk/</link>
       <pubDate>Thu, 21 May 2020 08:39:21 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/www.solipsys.co.uk/</guid>
+      <guid>https://kbs.murarisumit.in/sites/www.solipsys.co.uk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aws.github.io</title>
-      <link>http://localhost:1313/sites/aws.github.io/</link>
+      <link>https://kbs.murarisumit.in/sites/aws.github.io/</link>
       <pubDate>Wed, 20 May 2020 22:16:17 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/aws.github.io/</guid>
+      <guid>https://kbs.murarisumit.in/sites/aws.github.io/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regisphilibert.com</title>
-      <link>http://localhost:1313/sites/regisphilibert.com/</link>
+      <link>https://kbs.murarisumit.in/sites/regisphilibert.com/</link>
       <pubDate>Sun, 17 May 2020 18:54:04 +0530</pubDate>
       
-      <guid>http://localhost:1313/sites/regisphilibert.com/</guid>
+      <guid>https://kbs.murarisumit.in/sites/regisphilibert.com/</guid>
       <description></description>
     </item>
     

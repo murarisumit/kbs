@@ -2,1372 +2,1339 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/year/2022/</loc>
+    <loc>https://kbs.murarisumit.in/</loc>
+    <lastmod>2024-06-13T03:40:07+00:00</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tils/</loc>
+    <lastmod>2024-06-13T03:40:07+00:00</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/year/2022/</loc>
     <lastmod>2022-08-04T15:22:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/month/2022-08/</loc>
+    <loc>https://kbs.murarisumit.in/month/2022-08/</loc>
     <lastmod>2022-08-04T15:22:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/</loc>
+    <loc>https://kbs.murarisumit.in/author/</loc>
     <lastmod>2022-08-04T15:22:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/bookmarks/</loc>
+    <loc>https://kbs.murarisumit.in/category/bookmarks/</loc>
     <lastmod>2022-08-04T15:22:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/</loc>
     <lastmod>2022-08-04T15:22:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/</loc>
+    <loc>https://kbs.murarisumit.in/category/</loc>
     <lastmod>2022-08-04T15:22:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/github.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/github.com/</loc>
     <lastmod>2022-08-04T15:22:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://kbs.murarisumit.in/tags/macos/</loc>
     <lastmod>2022-08-04T15:22:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/macos/</loc>
+    <loc>https://kbs.murarisumit.in/en/39e6a85f2560b36262dd276126589bae/</loc>
     <lastmod>2022-08-04T15:22:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/39e6a85f2560b36262dd276126589bae/</loc>
+    <loc>https://kbs.murarisumit.in/month/</loc>
     <lastmod>2022-08-04T15:22:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/month/</loc>
+    <loc>https://kbs.murarisumit.in/author/murarisumit/</loc>
     <lastmod>2022-08-04T15:22:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/murarisumit/</loc>
+    <loc>https://kbs.murarisumit.in/sites/</loc>
     <lastmod>2022-08-04T15:22:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/</loc>
+    <loc>https://kbs.murarisumit.in/tags/</loc>
     <lastmod>2022-08-04T15:22:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://kbs.murarisumit.in/year/</loc>
     <lastmod>2022-08-04T15:22:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/year/</loc>
-    <lastmod>2022-08-04T15:22:02+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/month/2022-07/</loc>
+    <loc>https://kbs.murarisumit.in/month/2022-07/</loc>
     <lastmod>2022-07-03T00:47:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/free/</loc>
+    <loc>https://kbs.murarisumit.in/tags/free/</loc>
     <lastmod>2022-07-03T00:47:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ios/</loc>
+    <loc>https://kbs.murarisumit.in/tags/ios/</loc>
     <lastmod>2022-07-03T00:47:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</loc>
+    <loc>https://kbs.murarisumit.in/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</loc>
     <lastmod>2022-07-03T00:47:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rss-feeds/</loc>
+    <loc>https://kbs.murarisumit.in/tags/rss-feeds/</loc>
     <lastmod>2022-07-03T00:47:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/year/2021/</loc>
+    <loc>https://kbs.murarisumit.in/year/2021/</loc>
     <lastmod>2022-06-13T10:24:27+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/month/2021-11/</loc>
+    <loc>https://kbs.murarisumit.in/month/2021-11/</loc>
     <lastmod>2022-06-13T10:24:27+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cli/</loc>
+    <loc>https://kbs.murarisumit.in/tags/cli/</loc>
     <lastmod>2022-06-13T10:24:27+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/flaviocopes.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/flaviocopes.com/</loc>
     <lastmod>2022-06-13T10:24:27+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gnu-utils/</loc>
+    <loc>https://kbs.murarisumit.in/tags/gnu-utils/</loc>
     <lastmod>2022-06-13T10:24:27+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
+    <loc>https://kbs.murarisumit.in/tags/linux/</loc>
     <lastmod>2022-06-13T10:24:27+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/snippets/</loc>
+    <loc>https://kbs.murarisumit.in/tags/snippets/</loc>
     <lastmod>2022-06-13T10:24:27+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/46030699d1902e025e7e02246a9a9c13/</loc>
+    <loc>https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/</loc>
     <lastmod>2022-06-13T10:24:27+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/aws/</loc>
+    <loc>https://kbs.murarisumit.in/tags/aws/</loc>
     <lastmod>2022-05-16T08:58:40+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/awscli/</loc>
+    <loc>https://kbs.murarisumit.in/tags/awscli/</loc>
     <lastmod>2022-05-16T08:58:40+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/carriagereturn.nl/</loc>
+    <loc>https://kbs.murarisumit.in/sites/carriagereturn.nl/</loc>
     <lastmod>2022-05-16T08:58:40+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cb09c8a3463c51091177eff829bd82d8/</loc>
+    <loc>https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/</loc>
     <lastmod>2022-05-16T08:58:40+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/month/2021-08/</loc>
+    <loc>https://kbs.murarisumit.in/month/2021-08/</loc>
     <lastmod>2022-05-15T23:41:17+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/financial-freedom/</loc>
+    <loc>https://kbs.murarisumit.in/tags/financial-freedom/</loc>
     <lastmod>2022-05-15T23:41:17+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/investing/</loc>
+    <loc>https://kbs.murarisumit.in/tags/investing/</loc>
     <lastmod>2022-05-15T23:41:17+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/60cdd644ced2abd406c37a892f8386e3/</loc>
+    <loc>https://kbs.murarisumit.in/60cdd644ced2abd406c37a892f8386e3/</loc>
     <lastmod>2022-05-15T23:41:17+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/skills/</loc>
+    <loc>https://kbs.murarisumit.in/tags/skills/</loc>
     <lastmod>2022-05-15T23:41:17+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/success-story/</loc>
+    <loc>https://kbs.murarisumit.in/tags/success-story/</loc>
     <lastmod>2022-05-15T23:41:17+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/youtube/</loc>
+    <loc>https://kbs.murarisumit.in/tags/youtube/</loc>
     <lastmod>2022-05-15T23:41:17+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/youtube.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/youtube.com/</loc>
     <lastmod>2022-05-15T23:41:17+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/month/2022-05/</loc>
+    <loc>https://kbs.murarisumit.in/month/2022-05/</loc>
     <lastmod>2022-05-09T01:58:48+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gnu/linux/</loc>
+    <loc>https://kbs.murarisumit.in/tags/gnu/linux/</loc>
     <lastmod>2022-05-09T01:58:48+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/96b18098f374caabc54fa7d41fdfcecc/</loc>
+    <loc>https://kbs.murarisumit.in/en/96b18098f374caabc54fa7d41fdfcecc/</loc>
     <lastmod>2022-05-09T01:58:48+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bash/</loc>
+    <loc>https://kbs.murarisumit.in/tags/bash/</loc>
     <lastmod>2022-05-09T01:42:17+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/1b90c167d2d85130fc5372245ed523e9/</loc>
+    <loc>https://kbs.murarisumit.in/en/1b90c167d2d85130fc5372245ed523e9/</loc>
     <lastmod>2022-05-09T01:42:17+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/_drafts/</loc>
+    <loc>https://kbs.murarisumit.in/_drafts/</loc>
     <lastmod>2022-03-31T12:51:35+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/month/2022-03/</loc>
-    <lastmod>2022-03-31T12:51:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/092dd7dcfd82be7877ca63d629982a9c/</loc>
-    <lastmod>2022-03-31T12:51:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/category/posts/</loc>
-    <lastmod>2022-03-31T12:51:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/physics/</loc>
-    <lastmod>2022-03-30T10:35:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/quantum-physics/</loc>
-    <lastmod>2022-03-30T10:35:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/8f134ded173ba1e5e37b0db694589fc4/</loc>
-    <lastmod>2022-03-30T10:35:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/month/2022-02/</loc>
-    <lastmod>2022-02-25T11:35:48+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/best-practices/</loc>
-    <lastmod>2022-02-25T11:35:48+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cloud-security/</loc>
-    <lastmod>2022-02-25T11:35:48+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/iam/</loc>
-    <lastmod>2022-02-25T11:35:48+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/sites/summitroute.com/</loc>
-    <lastmod>2022-02-25T11:35:48+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/7fcc73a58f83205a66e053339868f3a4/</loc>
-    <lastmod>2022-02-25T11:35:48+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/71cf6d3f5df8908b988630bd57c2541e/</loc>
+    <loc>https://kbs.murarisumit.in/month/2022-02/</loc>
     <lastmod>2022-02-01T10:01:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/decisions/</loc>
+    <loc>https://kbs.murarisumit.in/71cf6d3f5df8908b988630bd57c2541e/</loc>
     <lastmod>2022-02-01T10:01:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/leadership/</loc>
+    <loc>https://kbs.murarisumit.in/tags/decisions/</loc>
     <lastmod>2022-02-01T10:01:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/stocks/</loc>
+    <loc>https://kbs.murarisumit.in/tags/leadership/</loc>
     <lastmod>2022-02-01T10:01:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/www.wealest.com/</loc>
+    <loc>https://kbs.murarisumit.in/tags/stocks/</loc>
     <lastmod>2022-02-01T10:01:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/month/2022-01/</loc>
+    <loc>https://kbs.murarisumit.in/sites/www.wealest.com/</loc>
+    <lastmod>2022-02-01T10:01:50+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/month/2022-01/</loc>
     <lastmod>2022-01-04T07:12:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/money/</loc>
+    <loc>https://kbs.murarisumit.in/tags/money/</loc>
     <lastmod>2022-01-04T07:12:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aa68a2a28a8178304a35c8339a99d5f2/</loc>
+    <loc>https://kbs.murarisumit.in/aa68a2a28a8178304a35c8339a99d5f2/</loc>
     <lastmod>2022-01-04T07:12:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/www.fidelity.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/www.fidelity.com/</loc>
     <lastmod>2022-01-04T07:12:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/month/2021-07/</loc>
+    <loc>https://kbs.murarisumit.in/month/2021-07/</loc>
     <lastmod>2021-12-18T09:41:06+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/leadership-lecture-field-marshall-sam-mannekshaw/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/leadership-lecture-field-marshall-sam-mannekshaw/</loc>
     <lastmod>2021-12-18T09:41:06+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/life-lessons/</loc>
+    <loc>https://kbs.murarisumit.in/tags/life-lessons/</loc>
     <lastmod>2021-12-18T09:41:06+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/www.youtube.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/www.youtube.com/</loc>
     <lastmod>2021-12-18T09:41:06+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/month/2021-12/</loc>
+    <loc>https://kbs.murarisumit.in/month/2021-12/</loc>
     <lastmod>2021-12-14T07:32:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/beautiful/</loc>
+    <loc>https://kbs.murarisumit.in/tags/beautiful/</loc>
     <lastmod>2021-12-14T07:32:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ccc19b24a5adb9a623a9f2c3383d750e/</loc>
+    <loc>https://kbs.murarisumit.in/ccc19b24a5adb9a623a9f2c3383d750e/</loc>
     <lastmod>2021-12-14T07:32:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/quotes/</loc>
+    <loc>https://kbs.murarisumit.in/quotes/</loc>
     <lastmod>2021-12-14T07:32:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/quotes/</loc>
+    <loc>https://kbs.murarisumit.in/category/quotes/</loc>
     <lastmod>2021-12-14T07:32:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/responsibility/</loc>
+    <loc>https://kbs.murarisumit.in/tags/responsibility/</loc>
     <lastmod>2021-12-14T07:32:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/github/</loc>
+    <loc>https://kbs.murarisumit.in/tags/github/</loc>
     <lastmod>2021-12-13T22:00:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/f51ad82d1abbf945597358e4d872017e/</loc>
+    <loc>https://kbs.murarisumit.in/f51ad82d1abbf945597358e4d872017e/</loc>
     <lastmod>2021-12-13T22:00:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/ronaldsvilcins.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/ronaldsvilcins.com/</loc>
     <lastmod>2021-12-13T22:00:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2120d4dc2552df1cb649e931019142d0/</loc>
+    <loc>https://kbs.murarisumit.in/2120d4dc2552df1cb649e931019142d0/</loc>
     <lastmod>2021-12-11T21:36:49+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/food-for-thought/</loc>
+    <loc>https://kbs.murarisumit.in/tags/food-for-thought/</loc>
     <lastmod>2021-12-11T21:36:49+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/jordan-peterson/</loc>
+    <loc>https://kbs.murarisumit.in/tags/jordan-peterson/</loc>
     <lastmod>2021-12-11T21:36:49+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/brutal/</loc>
+    <loc>https://kbs.murarisumit.in/tags/brutal/</loc>
     <lastmod>2021-12-09T19:41:27+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/companies/</loc>
+    <loc>https://kbs.murarisumit.in/tags/companies/</loc>
     <lastmod>2021-12-09T19:41:27+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/c5b650102aad591b71ded2fea2a20d69/</loc>
+    <loc>https://kbs.murarisumit.in/c5b650102aad591b71ded2fea2a20d69/</loc>
     <lastmod>2021-12-09T19:41:27+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/humans/</loc>
+    <loc>https://kbs.murarisumit.in/tags/humans/</loc>
     <lastmod>2021-12-09T19:41:27+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/imperialism/</loc>
+    <loc>https://kbs.murarisumit.in/tags/imperialism/</loc>
     <lastmod>2021-12-09T19:41:27+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/united-states/</loc>
+    <loc>https://kbs.murarisumit.in/tags/united-states/</loc>
     <lastmod>2021-12-09T19:41:27+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/92a571b39b7be2d430f2391c21c79018/</loc>
+    <loc>https://kbs.murarisumit.in/92a571b39b7be2d430f2391c21c79018/</loc>
     <lastmod>2021-12-06T13:35:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cybersec/</loc>
+    <loc>https://kbs.murarisumit.in/tags/cybersec/</loc>
     <lastmod>2021-12-06T13:35:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/life-hacks/</loc>
+    <loc>https://kbs.murarisumit.in/tags/life-hacks/</loc>
     <lastmod>2021-12-06T13:35:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/crypto/</loc>
+    <loc>https://kbs.murarisumit.in/tags/crypto/</loc>
     <lastmod>2021-12-02T10:07:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/iancoleman.io/</loc>
+    <loc>https://kbs.murarisumit.in/sites/iancoleman.io/</loc>
     <lastmod>2021-12-02T10:07:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/b21e7d844c3b536261f757f5a735dc8a/</loc>
+    <loc>https://kbs.murarisumit.in/b21e7d844c3b536261f757f5a735dc8a/</loc>
     <lastmod>2021-12-02T10:07:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/c0b28c0e8bc16283b3c9e2d099eabe63/</loc>
+    <loc>https://kbs.murarisumit.in/c0b28c0e8bc16283b3c9e2d099eabe63/</loc>
     <lastmod>2021-11-26T22:48:14+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/snippets/</loc>
+    <loc>https://kbs.murarisumit.in/snippets/</loc>
     <lastmod>2021-11-26T22:48:14+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/snippets/</loc>
+    <loc>https://kbs.murarisumit.in/category/snippets/</loc>
     <lastmod>2021-11-26T22:48:14+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/adblock/</loc>
+    <loc>https://kbs.murarisumit.in/tags/adblock/</loc>
     <lastmod>2021-11-23T14:43:52+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/content-block/</loc>
+    <loc>https://kbs.murarisumit.in/tags/content-block/</loc>
     <lastmod>2021-11-23T14:43:52+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/firefox/</loc>
+    <loc>https://kbs.murarisumit.in/tags/firefox/</loc>
     <lastmod>2021-11-23T14:43:52+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://kbs.murarisumit.in/posts/</loc>
     <lastmod>2021-11-23T14:43:52+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/6e225c364f36afa1b5766490db9e7229/</loc>
+    <loc>https://kbs.murarisumit.in/category/posts/</loc>
     <lastmod>2021-11-23T14:43:52+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ublock-origin/</loc>
+    <loc>https://kbs.murarisumit.in/6e225c364f36afa1b5766490db9e7229/</loc>
     <lastmod>2021-11-23T14:43:52+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ankurwarikoo/</loc>
+    <loc>https://kbs.murarisumit.in/tags/ublock-origin/</loc>
+    <lastmod>2021-11-23T14:43:52+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/ankurwarikoo/</loc>
     <lastmod>2021-11-22T08:35:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/4df1d169f631ef3acde0e9d5df34dd15/</loc>
+    <loc>https://kbs.murarisumit.in/4df1d169f631ef3acde0e9d5df34dd15/</loc>
     <lastmod>2021-11-22T08:35:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/twitter/</loc>
+    <loc>https://kbs.murarisumit.in/tags/twitter/</loc>
     <lastmod>2021-11-22T08:35:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/twitter.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/twitter.com/</loc>
     <lastmod>2021-11-22T08:35:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/versus/</loc>
+    <loc>https://kbs.murarisumit.in/tags/versus/</loc>
     <lastmod>2021-11-22T08:35:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/f819c7d970406f3f5be56b41f3286e41/</loc>
+    <loc>https://kbs.murarisumit.in/f819c7d970406f3f5be56b41f3286e41/</loc>
     <lastmod>2021-11-19T21:11:39+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/quote/</loc>
+    <loc>https://kbs.murarisumit.in/tags/quote/</loc>
     <lastmod>2021-11-19T21:11:39+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/devops/</loc>
+    <loc>https://kbs.murarisumit.in/tags/devops/</loc>
     <lastmod>2021-11-19T21:00:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sre/devops/</loc>
+    <loc>https://kbs.murarisumit.in/tags/sre/devops/</loc>
     <lastmod>2021-11-19T21:00:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tech/</loc>
+    <loc>https://kbs.murarisumit.in/tags/tech/</loc>
     <lastmod>2021-11-19T21:00:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/uptime/</loc>
+    <loc>https://kbs.murarisumit.in/tags/uptime/</loc>
     <lastmod>2021-11-19T21:00:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/uptime.is/</loc>
+    <loc>https://kbs.murarisumit.in/sites/uptime.is/</loc>
     <lastmod>2021-11-19T21:00:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ec9cc6baa4890df4cb5e5dc561d60e43/</loc>
+    <loc>https://kbs.murarisumit.in/ec9cc6baa4890df4cb5e5dc561d60e43/</loc>
     <lastmod>2021-11-19T21:00:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cloth/</loc>
+    <loc>https://kbs.murarisumit.in/tags/cloth/</loc>
     <lastmod>2021-11-19T13:05:44+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cotton/</loc>
+    <loc>https://kbs.murarisumit.in/tags/cotton/</loc>
     <lastmod>2021-11-19T13:05:44+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/how-is-x-made/</loc>
+    <loc>https://kbs.murarisumit.in/tags/how-is-x-made/</loc>
     <lastmod>2021-11-19T13:05:44+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tils/</loc>
+    <loc>https://kbs.murarisumit.in/category/tils/</loc>
     <lastmod>2021-11-19T13:05:44+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/tils/</loc>
+    <loc>https://kbs.murarisumit.in/9d01b610df2e9fb18d7aa175fa879285/</loc>
     <lastmod>2021-11-19T13:05:44+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/9d01b610df2e9fb18d7aa175fa879285/</loc>
-    <lastmod>2021-11-19T13:05:44+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/7fa5b4e9b48dbb81c234710d25151f22/</loc>
+    <loc>https://kbs.murarisumit.in/7fa5b4e9b48dbb81c234710d25151f22/</loc>
     <lastmod>2021-11-17T09:25:52+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/superuser.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/superuser.com/</loc>
     <lastmod>2021-11-17T09:25:52+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tips-and-tricks/</loc>
+    <loc>https://kbs.murarisumit.in/tags/tips-and-tricks/</loc>
     <lastmod>2021-11-17T09:25:52+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/gist.github.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/gist.github.com/</loc>
     <lastmod>2021-11-03T15:12:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/latency/</loc>
+    <loc>https://kbs.murarisumit.in/tags/latency/</loc>
     <lastmod>2021-11-03T15:12:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/5891e85354985d957586b9556a8e0551/</loc>
+    <loc>https://kbs.murarisumit.in/5891e85354985d957586b9556a8e0551/</loc>
     <lastmod>2021-11-03T15:12:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/must-know/</loc>
+    <loc>https://kbs.murarisumit.in/tags/must-know/</loc>
     <lastmod>2021-11-03T15:12:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/software/</loc>
+    <loc>https://kbs.murarisumit.in/tags/software/</loc>
     <lastmod>2021-11-02T22:00:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/software-design-principle/</loc>
+    <loc>https://kbs.murarisumit.in/tags/software-design-principle/</loc>
     <lastmod>2021-11-02T22:00:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/solid/</loc>
+    <loc>https://kbs.murarisumit.in/tags/solid/</loc>
     <lastmod>2021-11-02T22:00:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/5df1af1a7c595eb1c55b78bc2086c772/</loc>
+    <loc>https://kbs.murarisumit.in/5df1af1a7c595eb1c55b78bc2086c772/</loc>
     <lastmod>2021-11-02T22:00:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/stackoverflow.blog/</loc>
+    <loc>https://kbs.murarisumit.in/sites/stackoverflow.blog/</loc>
     <lastmod>2021-11-02T22:00:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/month/2021-10/</loc>
+    <loc>https://kbs.murarisumit.in/month/2021-10/</loc>
     <lastmod>2021-10-27T16:32:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/codereview/</loc>
+    <loc>https://kbs.murarisumit.in/tags/codereview/</loc>
     <lastmod>2021-10-27T16:32:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/golang/</loc>
+    <loc>https://kbs.murarisumit.in/tags/golang/</loc>
     <lastmod>2021-10-27T16:32:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/c0ab4091d733d85471515c2cd581fd67/</loc>
+    <loc>https://kbs.murarisumit.in/c0ab4091d733d85471515c2cd581fd67/</loc>
     <lastmod>2021-10-27T16:32:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/terraform/</loc>
+    <loc>https://kbs.murarisumit.in/tags/best-practices/</loc>
     <lastmod>2021-10-22T10:52:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/e730b5f8cf640bb6823be168475994d9/</loc>
+    <loc>https://kbs.murarisumit.in/tags/terraform/</loc>
     <lastmod>2021-10-22T10:52:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/www.terraform-best-practices.com/</loc>
+    <loc>https://kbs.murarisumit.in/e730b5f8cf640bb6823be168475994d9/</loc>
     <lastmod>2021-10-22T10:52:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/dev.to/</loc>
+    <loc>https://kbs.murarisumit.in/sites/www.terraform-best-practices.com/</loc>
+    <lastmod>2021-10-22T10:52:47+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/sites/dev.to/</loc>
     <lastmod>2021-10-20T10:21:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/d881fb4640d6de032e6221c9eabe0e39/</loc>
+    <loc>https://kbs.murarisumit.in/d881fb4640d6de032e6221c9eabe0e39/</loc>
     <lastmod>2021-10-20T10:21:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/profiles/</loc>
+    <loc>https://kbs.murarisumit.in/tags/profiles/</loc>
     <lastmod>2021-10-20T10:21:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ssh/</loc>
+    <loc>https://kbs.murarisumit.in/tags/ssh/</loc>
     <lastmod>2021-10-20T10:21:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/awesome-lists/</loc>
+    <loc>https://kbs.murarisumit.in/tags/awesome-lists/</loc>
     <lastmod>2021-10-20T08:25:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/github/</loc>
+    <loc>https://kbs.murarisumit.in/sites/github/</loc>
     <lastmod>2021-10-20T08:25:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/492e142b3d2566623e4ba229d743b355/</loc>
+    <loc>https://kbs.murarisumit.in/492e142b3d2566623e4ba229d743b355/</loc>
     <lastmod>2021-10-20T08:25:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/startup/</loc>
+    <loc>https://kbs.murarisumit.in/tags/startup/</loc>
     <lastmod>2021-10-20T08:25:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/month/2021-09/</loc>
+    <loc>https://kbs.murarisumit.in/month/2021-09/</loc>
     <lastmod>2021-09-03T22:11:57+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/allthingsauth.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/allthingsauth.com/</loc>
     <lastmod>2021-09-03T22:11:57+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/password/</loc>
+    <loc>https://kbs.murarisumit.in/tags/password/</loc>
     <lastmod>2021-09-03T22:11:57+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/17631ba5506051a4b38a7a5f997a0140/</loc>
+    <loc>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</loc>
     <lastmod>2021-09-03T22:11:57+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/motivation/</loc>
+    <loc>https://kbs.murarisumit.in/tags/motivation/</loc>
     <lastmod>2021-09-01T23:33:57+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/3f0f98b1a3c3258c2a2f705d58bb3595/</loc>
+    <loc>https://kbs.murarisumit.in/3f0f98b1a3c3258c2a2f705d58bb3595/</loc>
     <lastmod>2021-09-01T23:33:57+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/difficult-convestations/</loc>
-    <lastmod>2021-08-31T13:31:22+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/grab/</loc>
-    <lastmod>2021-08-31T13:31:22+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/902781fdc500bf70b3f42eb1c2d67ae6/</loc>
-    <lastmod>2021-08-31T13:31:22+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/lessons/</loc>
-    <lastmod>2021-08-31T13:31:22+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/1e0b24f24f6a5963366cc66d84ad098f/</loc>
+    <loc>https://kbs.murarisumit.in/1e0b24f24f6a5963366cc66d84ad098f/</loc>
     <lastmod>2021-08-30T16:56:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/linkedin.com/</loc>
+    <loc>https://kbs.murarisumit.in/tags/lessons/</loc>
     <lastmod>2021-08-30T16:56:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/ankurwarikoo.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/linkedin.com/</loc>
+    <lastmod>2021-08-30T16:56:43+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/sites/ankurwarikoo.com/</loc>
     <lastmod>2021-08-27T10:59:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/early-morning/</loc>
+    <loc>https://kbs.murarisumit.in/tags/early-morning/</loc>
     <lastmod>2021-08-27T10:59:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/f2bc54ae2871f124a8777721f4ab3446/</loc>
+    <loc>https://kbs.murarisumit.in/f2bc54ae2871f124a8777721f4ab3446/</loc>
     <lastmod>2021-08-27T10:59:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/personal/</loc>
+    <loc>https://kbs.murarisumit.in/tags/personal/</loc>
     <lastmod>2021-08-27T10:59:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/1ba60d8b37da60f549c99f54313330a3/</loc>
+    <loc>https://kbs.murarisumit.in/1ba60d8b37da60f549c99f54313330a3/</loc>
     <lastmod>2021-08-26T10:05:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/support.mozilla.org/</loc>
+    <loc>https://kbs.murarisumit.in/sites/support.mozilla.org/</loc>
     <lastmod>2021-08-26T10:05:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tricks/</loc>
+    <loc>https://kbs.murarisumit.in/tags/tricks/</loc>
     <lastmod>2021-08-26T10:05:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/nature/</loc>
+    <loc>https://kbs.murarisumit.in/tags/nature/</loc>
     <lastmod>2021-08-21T06:31:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/natureismetal/</loc>
+    <loc>https://kbs.murarisumit.in/tags/natureismetal/</loc>
     <lastmod>2021-08-21T06:31:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/5adc315e1db28c575e6791654e93428a/</loc>
+    <loc>https://kbs.murarisumit.in/5adc315e1db28c575e6791654e93428a/</loc>
     <lastmod>2021-08-21T06:31:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/reddit.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/reddit.com/</loc>
     <lastmod>2021-08-21T06:31:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/trees/</loc>
+    <loc>https://kbs.murarisumit.in/tags/trees/</loc>
     <lastmod>2021-08-21T06:31:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/man-of-action/</loc>
+    <loc>https://kbs.murarisumit.in/tags/man-of-action/</loc>
     <lastmod>2021-08-21T06:04:14+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/perception/</loc>
+    <loc>https://kbs.murarisumit.in/tags/perception/</loc>
     <lastmod>2021-08-21T06:04:14+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/b4623554b68ff4565baac8390eee35e5/</loc>
+    <loc>https://kbs.murarisumit.in/b4623554b68ff4565baac8390eee35e5/</loc>
     <lastmod>2021-08-21T06:04:14+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/3654465ae54a20816f5b8cc307dabaa3/</loc>
+    <loc>https://kbs.murarisumit.in/3654465ae54a20816f5b8cc307dabaa3/</loc>
     <lastmod>2021-08-21T05:44:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/competitive-programming/</loc>
+    <loc>https://kbs.murarisumit.in/tags/competitive-programming/</loc>
     <lastmod>2021-08-21T05:44:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/programming/</loc>
+    <loc>https://kbs.murarisumit.in/tags/programming/</loc>
     <lastmod>2021-08-21T05:44:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/www.geeksforgeeks.org/</loc>
+    <loc>https://kbs.murarisumit.in/sites/www.geeksforgeeks.org/</loc>
     <lastmod>2021-08-21T05:44:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/batman/</loc>
+    <loc>https://kbs.murarisumit.in/tags/batman/</loc>
     <lastmod>2021-08-21T04:55:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/9aed16443012e51a38b0c189b58f95ab/</loc>
+    <loc>https://kbs.murarisumit.in/9aed16443012e51a38b0c189b58f95ab/</loc>
     <lastmod>2021-08-21T04:55:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/debt/</loc>
+    <loc>https://kbs.murarisumit.in/tags/debt/</loc>
     <lastmod>2021-08-21T00:31:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/quotes/every-lie-we-tell-incurs-a-debt-to-the-truth-sooner-or-later-that-debt-is-paid/</loc>
+    <loc>https://kbs.murarisumit.in/quotes/every-lie-we-tell-incurs-a-debt-to-the-truth-sooner-or-later-that-debt-is-paid/</loc>
     <lastmod>2021-08-21T00:31:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lie/</loc>
+    <loc>https://kbs.murarisumit.in/tags/lie/</loc>
     <lastmod>2021-08-21T00:31:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/truth/</loc>
+    <loc>https://kbs.murarisumit.in/tags/truth/</loc>
     <lastmod>2021-08-21T00:31:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/https/twitter.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/https/twitter.com/</loc>
     <lastmod>2021-08-20T11:41:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/586a1c7bfad52e25a95e1d7d9654157a/</loc>
+    <loc>https://kbs.murarisumit.in/586a1c7bfad52e25a95e1d7d9654157a/</loc>
     <lastmod>2021-08-20T11:41:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/religions/</loc>
+    <loc>https://kbs.murarisumit.in/tags/religions/</loc>
     <lastmod>2021-08-20T11:41:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/america/</loc>
+    <loc>https://kbs.murarisumit.in/tags/america/</loc>
     <lastmod>2021-08-18T03:35:52+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/nationalism/</loc>
+    <loc>https://kbs.murarisumit.in/tags/nationalism/</loc>
     <lastmod>2021-08-18T03:35:52+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/82f13670d5d8ce84febcb23889eea474/</loc>
+    <loc>https://kbs.murarisumit.in/82f13670d5d8ce84febcb23889eea474/</loc>
     <lastmod>2021-08-18T03:35:52+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cf319bbe3527ea414ff169110c93221f/</loc>
+    <loc>https://kbs.murarisumit.in/cf319bbe3527ea414ff169110c93221f/</loc>
     <lastmod>2021-08-17T02:02:39+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sweden/</loc>
+    <loc>https://kbs.murarisumit.in/tags/sweden/</loc>
     <lastmod>2021-08-17T02:02:39+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/49a1162eb90beacee617cdce3de7bbaf/</loc>
+    <loc>https://kbs.murarisumit.in/49a1162eb90beacee617cdce3de7bbaf/</loc>
     <lastmod>2021-08-16T10:55:23+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a8aa80afb3e281cf2246df975fef9aa8/</loc>
+    <loc>https://kbs.murarisumit.in/a8aa80afb3e281cf2246df975fef9aa8/</loc>
     <lastmod>2021-08-15T07:21:07+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://kbs.murarisumit.in/tags/hugo/</loc>
     <lastmod>2021-08-15T07:21:07+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tils/</loc>
+    <loc>https://kbs.murarisumit.in/tags/tils/</loc>
     <lastmod>2021-08-15T07:21:07+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/life-goals/</loc>
+    <loc>https://kbs.murarisumit.in/tags/life-goals/</loc>
     <lastmod>2021-08-15T03:02:45+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/6347fd23beb0ba39c9b52a4dfd7c7ca5/</loc>
+    <loc>https://kbs.murarisumit.in/6347fd23beb0ba39c9b52a4dfd7c7ca5/</loc>
     <lastmod>2021-08-15T03:02:45+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/3eea4986a87740003aa7e5b40354ce03/</loc>
+    <loc>https://kbs.murarisumit.in/3eea4986a87740003aa7e5b40354ce03/</loc>
     <lastmod>2021-08-14T04:57:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tennis/</loc>
+    <loc>https://kbs.murarisumit.in/tags/tennis/</loc>
     <lastmod>2021-08-14T04:57:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ce39966c39f2ea7d1a55946669a84685/</loc>
+    <loc>https://kbs.murarisumit.in/ce39966c39f2ea7d1a55946669a84685/</loc>
     <lastmod>2021-08-14T01:51:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dba141a324349154865a7bdf421eee15/</loc>
+    <loc>https://kbs.murarisumit.in/dba141a324349154865a7bdf421eee15/</loc>
     <lastmod>2021-08-14T01:48:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sports/</loc>
+    <loc>https://kbs.murarisumit.in/tags/sports/</loc>
     <lastmod>2021-08-14T01:48:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/d19e8438d682f3f5a897296206ca9828/</loc>
+    <loc>https://kbs.murarisumit.in/d19e8438d682f3f5a897296206ca9828/</loc>
     <lastmod>2021-08-13T04:57:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/how-does-x-work/</loc>
+    <loc>https://kbs.murarisumit.in/tags/how-does-x-work/</loc>
     <lastmod>2021-08-13T04:57:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/k8s/</loc>
+    <loc>https://kbs.murarisumit.in/tags/k8s/</loc>
     <lastmod>2021-08-13T04:57:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/kubectl/</loc>
+    <loc>https://kbs.murarisumit.in/tags/kubectl/</loc>
     <lastmod>2021-08-13T04:57:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/5d8b39c56e663bef316ca5b9649b3fa5/</loc>
-    <lastmod>2021-08-13T04:48:40+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/backblaze/</loc>
+    <loc>https://kbs.murarisumit.in/tags/backblaze/</loc>
     <lastmod>2021-08-13T04:45:22+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/backblaze.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/backblaze.com/</loc>
     <lastmod>2021-08-13T04:45:22+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/buyingguide/</loc>
+    <loc>https://kbs.murarisumit.in/tags/buyingguide/</loc>
     <lastmod>2021-08-13T04:45:22+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/332d6b43914e2eeba6333c1a057f9f15/</loc>
+    <loc>https://kbs.murarisumit.in/332d6b43914e2eeba6333c1a057f9f15/</loc>
     <lastmod>2021-08-13T04:45:22+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/harddrives/</loc>
+    <loc>https://kbs.murarisumit.in/tags/harddrives/</loc>
     <lastmod>2021-08-13T04:45:22+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/amazon/</loc>
+    <loc>https://kbs.murarisumit.in/tags/amazon/</loc>
     <lastmod>2021-08-13T04:41:18+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/203914e598a6b162307c47a51eb79378/</loc>
+    <loc>https://kbs.murarisumit.in/203914e598a6b162307c47a51eb79378/</loc>
     <lastmod>2021-08-13T04:41:18+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/fake-reviews/</loc>
+    <loc>https://kbs.murarisumit.in/tags/fake-reviews/</loc>
     <lastmod>2021-08-13T04:41:18+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/www.reddit.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/www.reddit.com/</loc>
     <lastmod>2021-08-13T04:41:18+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/engine/</loc>
+    <loc>https://kbs.murarisumit.in/tags/engine/</loc>
     <lastmod>2021-08-13T04:33:09+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/engineering/</loc>
+    <loc>https://kbs.murarisumit.in/tags/engineering/</loc>
     <lastmod>2021-08-13T04:33:09+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/1125b6a1a9edde68c82b00c6e62a2f2e/</loc>
+    <loc>https://kbs.murarisumit.in/1125b6a1a9edde68c82b00c6e62a2f2e/</loc>
     <lastmod>2021-08-13T04:33:09+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/visualization/</loc>
+    <loc>https://kbs.murarisumit.in/tags/visualization/</loc>
     <lastmod>2021-08-13T04:33:09+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/3dprinting/</loc>
+    <loc>https://kbs.murarisumit.in/tags/3dprinting/</loc>
     <lastmod>2021-08-12T21:53:06+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/manufacturing/</loc>
+    <loc>https://kbs.murarisumit.in/tags/manufacturing/</loc>
     <lastmod>2021-08-12T21:53:06+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/marsmission/</loc>
+    <loc>https://kbs.murarisumit.in/tags/marsmission/</loc>
     <lastmod>2021-08-12T21:53:06+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rockets/</loc>
+    <loc>https://kbs.murarisumit.in/tags/rockets/</loc>
     <lastmod>2021-08-12T21:53:06+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/15a46dccb293a270265ac2a53d3fd332/</loc>
+    <loc>https://kbs.murarisumit.in/15a46dccb293a270265ac2a53d3fd332/</loc>
     <lastmod>2021-08-12T21:53:06+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/veritasium/</loc>
+    <loc>https://kbs.murarisumit.in/tags/veritasium/</loc>
     <lastmod>2021-08-12T21:53:06+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/decisions/</loc>
+    <loc>https://kbs.murarisumit.in/decisions/</loc>
     <lastmod>2021-08-12T17:29:07+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/decisions/</loc>
+    <loc>https://kbs.murarisumit.in/category/decisions/</loc>
     <lastmod>2021-08-12T17:29:07+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/migration/</loc>
+    <loc>https://kbs.murarisumit.in/tags/migration/</loc>
     <lastmod>2021-08-12T17:29:07+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/c0e91193f16d7899b44017706767cfb1/</loc>
+    <loc>https://kbs.murarisumit.in/c0e91193f16d7899b44017706767cfb1/</loc>
     <lastmod>2021-08-12T17:29:07+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/container/</loc>
+    <loc>https://kbs.murarisumit.in/tags/container/</loc>
     <lastmod>2021-08-09T10:17:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/container-security-nist-800-190/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/container-security-nist-800-190/</loc>
     <lastmod>2021-08-09T10:17:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/container-security/</loc>
+    <loc>https://kbs.murarisumit.in/tags/container-security/</loc>
     <lastmod>2021-08-09T10:17:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/nist/</loc>
+    <loc>https://kbs.murarisumit.in/tags/nist/</loc>
     <lastmod>2021-08-09T10:17:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/nvlpubs.nist.gov/</loc>
+    <loc>https://kbs.murarisumit.in/sites/nvlpubs.nist.gov/</loc>
     <lastmod>2021-08-09T10:17:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/security/</loc>
+    <loc>https://kbs.murarisumit.in/tags/security/</loc>
     <lastmod>2021-08-09T10:17:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/brendangregg.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/brendangregg.com/</loc>
     <lastmod>2021-08-09T09:25:45+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/linux-load-avgs/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</loc>
     <lastmod>2021-08-09T09:25:45+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/load-averages/</loc>
+    <loc>https://kbs.murarisumit.in/tags/load-averages/</loc>
     <lastmod>2021-08-09T09:25:45+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/k8s-failure-stories/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/k8s-failure-stories/</loc>
     <lastmod>2021-08-09T00:37:09+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/awesome-kubernetes/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/awesome-kubernetes/</loc>
     <lastmod>2021-08-09T00:16:59+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/awesome-docker-compose/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/awesome-docker-compose/</loc>
     <lastmod>2021-08-09T00:16:18+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/docker/</loc>
+    <loc>https://kbs.murarisumit.in/tags/docker/</loc>
     <lastmod>2021-08-09T00:16:18+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/astrology/</loc>
+    <loc>https://kbs.murarisumit.in/tags/astrology/</loc>
     <lastmod>2021-08-08T23:50:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/joshworth.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/joshworth.com/</loc>
     <lastmod>2021-08-08T23:50:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/solar-system-if-moon-was-only-one-pixel/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/solar-system-if-moon-was-only-one-pixel/</loc>
     <lastmod>2021-08-08T23:50:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/solar-system/</loc>
+    <loc>https://kbs.murarisumit.in/tags/solar-system/</loc>
     <lastmod>2021-08-08T23:50:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/electricity/</loc>
+    <loc>https://kbs.murarisumit.in/tags/electricity/</loc>
     <lastmod>2021-08-07T18:40:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/electromagnetism/</loc>
+    <loc>https://kbs.murarisumit.in/tags/electromagnetism/</loc>
     <lastmod>2021-08-07T18:40:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/understand-electricity-generation/</loc>
+    <loc>https://kbs.murarisumit.in/tags/physics/</loc>
     <lastmod>2021-08-07T18:40:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/homebrew/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/understand-electricity-generation/</loc>
+    <lastmod>2021-08-07T18:40:36+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tags/homebrew/</loc>
     <lastmod>2021-08-07T13:33:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/k8s-kbrew/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/k8s-kbrew/</loc>
     <lastmod>2021-08-07T13:33:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/awesome-k8s-security/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</loc>
     <lastmod>2021-08-07T12:50:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/internet/</loc>
+    <loc>https://kbs.murarisumit.in/tags/internet/</loc>
     <lastmod>2021-08-07T11:50:41+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/privacy/</loc>
+    <loc>https://kbs.murarisumit.in/tags/privacy/</loc>
     <lastmod>2021-08-07T11:50:41+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sharing/</loc>
+    <loc>https://kbs.murarisumit.in/tags/sharing/</loc>
     <lastmod>2021-08-07T11:50:41+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/sharingbuttons.io/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/sharingbuttons.io/</loc>
     <lastmod>2021-08-07T11:50:41+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/sharingbuttons.io/</loc>
+    <loc>https://kbs.murarisumit.in/sites/sharingbuttons.io/</loc>
     <lastmod>2021-08-07T11:50:41+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/social-media/</loc>
+    <loc>https://kbs.murarisumit.in/tags/social-media/</loc>
     <lastmod>2021-08-07T11:50:41+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tracking/</loc>
+    <loc>https://kbs.murarisumit.in/tags/tracking/</loc>
     <lastmod>2021-08-07T11:50:41+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/hugo-good-archive-page/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/hugo-good-archive-page/</loc>
     <lastmod>2021-08-07T09:39:45+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/website/</loc>
+    <loc>https://kbs.murarisumit.in/tags/website/</loc>
     <lastmod>2021-08-07T09:39:45+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/www.jayeless.net/</loc>
+    <loc>https://kbs.murarisumit.in/sites/www.jayeless.net/</loc>
     <lastmod>2021-08-07T09:39:45+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bayes-rule/</loc>
+    <loc>https://kbs.murarisumit.in/tags/bayes-rule/</loc>
     <lastmod>2021-08-07T08:54:42+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/bayes-rule-medical-tests/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/bayes-rule-medical-tests/</loc>
     <lastmod>2021-08-07T08:54:42+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/diseases/</loc>
+    <loc>https://kbs.murarisumit.in/tags/diseases/</loc>
     <lastmod>2021-08-07T08:54:42+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/medical-tests/</loc>
+    <loc>https://kbs.murarisumit.in/tags/medical-tests/</loc>
     <lastmod>2021-08-07T08:54:42+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/paradox/</loc>
+    <loc>https://kbs.murarisumit.in/tags/paradox/</loc>
     <lastmod>2021-08-07T08:54:42+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/probability/</loc>
+    <loc>https://kbs.murarisumit.in/tags/probability/</loc>
     <lastmod>2021-08-07T08:54:42+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/veridical-paradox/</loc>
+    <loc>https://kbs.murarisumit.in/tags/veridical-paradox/</loc>
     <lastmod>2021-08-07T08:54:42+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/instincts/</loc>
+    <loc>https://kbs.murarisumit.in/tags/instincts/</loc>
     <lastmod>2021-08-07T02:33:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/news-business/</loc>
+    <loc>https://kbs.murarisumit.in/tags/news-business/</loc>
     <lastmod>2021-08-07T02:33:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/odd-night-thoughts/</loc>
+    <loc>https://kbs.murarisumit.in/tags/odd-night-thoughts/</loc>
     <lastmod>2021-08-07T02:33:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/opinions/</loc>
+    <loc>https://kbs.murarisumit.in/tags/opinions/</loc>
     <lastmod>2021-08-07T02:33:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tils/trust-your-instincts-instead-of-hearsay/</loc>
+    <loc>https://kbs.murarisumit.in/tils/trust-your-instincts-instead-of-hearsay/</loc>
     <lastmod>2021-08-07T02:33:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/badminton/</loc>
+    <loc>https://kbs.murarisumit.in/tags/badminton/</loc>
     <lastmod>2021-08-06T23:44:26+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/lindan-vs-leechongwei/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/lindan-vs-leechongwei/</loc>
     <lastmod>2021-08-06T23:44:26+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/defence/</loc>
+    <loc>https://kbs.murarisumit.in/tags/defence/</loc>
     <lastmod>2021-08-05T22:48:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/india/</loc>
+    <loc>https://kbs.murarisumit.in/tags/india/</loc>
     <lastmod>2021-08-05T22:48:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/india-maiden-indigenous-aircraft-carrier/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/india-maiden-indigenous-aircraft-carrier/</loc>
     <lastmod>2021-08-05T22:48:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/indigenous/</loc>
+    <loc>https://kbs.murarisumit.in/tags/indigenous/</loc>
     <lastmod>2021-08-05T22:48:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/diy/</loc>
+    <loc>https://kbs.murarisumit.in/tags/diy/</loc>
     <lastmod>2021-08-05T22:24:23+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/homelabs/</loc>
+    <loc>https://kbs.murarisumit.in/tags/homelabs/</loc>
     <lastmod>2021-08-05T22:24:23+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/homelabs-setup/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/homelabs-setup/</loc>
     <lastmod>2021-08-05T22:24:23+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/todos/</loc>
+    <loc>https://kbs.murarisumit.in/tags/todos/</loc>
     <lastmod>2021-08-05T22:24:23+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/bigger-impact-for-distraction-more-than-just-time-lost/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/bigger-impact-for-distraction-more-than-just-time-lost/</loc>
     <lastmod>2021-08-05T09:48:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/distractions/</loc>
+    <loc>https://kbs.murarisumit.in/tags/distractions/</loc>
     <lastmod>2021-08-05T09:48:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pomodoro/</loc>
+    <loc>https://kbs.murarisumit.in/tags/pomodoro/</loc>
     <lastmod>2021-08-05T09:48:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/productivity/</loc>
+    <loc>https://kbs.murarisumit.in/tags/productivity/</loc>
     <lastmod>2021-08-05T09:48:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/smartphones/</loc>
+    <loc>https://kbs.murarisumit.in/tags/smartphones/</loc>
     <lastmod>2021-08-05T09:48:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/finally-some-sense-in-laptops/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/finally-some-sense-in-laptops/</loc>
     <lastmod>2021-08-05T09:44:42+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/laptops/</loc>
+    <loc>https://kbs.murarisumit.in/tags/laptops/</loc>
     <lastmod>2021-08-05T09:44:42+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/repairability/</loc>
+    <loc>https://kbs.murarisumit.in/tags/repairability/</loc>
     <lastmod>2021-08-05T09:44:42+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/nasa-k8s-hardening-guide/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/nasa-k8s-hardening-guide/</loc>
     <lastmod>2021-08-04T15:31:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/news.ycombinator.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/news.ycombinator.com/</loc>
     <lastmod>2021-08-04T15:31:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/golang-slice-tricks/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/golang-slice-tricks/</loc>
     <lastmod>2021-08-04T08:29:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/emotions/</loc>
+    <loc>https://kbs.murarisumit.in/tags/emotions/</loc>
     <lastmod>2021-08-03T10:12:30+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/love/</loc>
+    <loc>https://kbs.murarisumit.in/tags/love/</loc>
     <lastmod>2021-08-03T10:12:30+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/what-is-not-love/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/what-is-not-love/</loc>
     <lastmod>2021-08-03T10:12:30+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/azure/</loc>
+    <loc>https://kbs.murarisumit.in/tags/azure/</loc>
     <lastmod>2021-08-02T02:29:18+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/azure-enterprise-scale/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/azure-enterprise-scale/</loc>
     <lastmod>2021-08-02T02:29:18+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/techcommunity.microsoft.com/</loc>
+    <loc>https://kbs.murarisumit.in/tags/cloud-security/</loc>
     <lastmod>2021-08-02T02:29:18+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/batman-vs-superman-martha-flaw/</loc>
+    <loc>https://kbs.murarisumit.in/sites/techcommunity.microsoft.com/</loc>
+    <lastmod>2021-08-02T02:29:18+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/posts/batman-vs-superman-martha-flaw/</loc>
     <lastmod>2021-08-01T01:05:26+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dceu/</loc>
+    <loc>https://kbs.murarisumit.in/tags/dceu/</loc>
     <lastmod>2021-08-01T01:05:26+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/movies/</loc>
+    <loc>https://kbs.murarisumit.in/tags/movies/</loc>
     <lastmod>2021-08-01T01:05:26+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/stupid-commentry/</loc>
+    <loc>https://kbs.murarisumit.in/tags/stupid-commentry/</loc>
     <lastmod>2021-08-01T01:05:26+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/quotes/never-hate-bad-time/</loc>
+    <loc>https://kbs.murarisumit.in/quotes/never-hate-bad-time/</loc>
     <lastmod>2021-07-30T09:35:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/silver-lining/</loc>
+    <loc>https://kbs.murarisumit.in/tags/silver-lining/</loc>
     <lastmod>2021-07-30T09:35:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/cloudsecdocs.com/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/cloudsecdocs.com/</loc>
     <lastmod>2021-07-30T07:34:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/cloudsecdocs.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/cloudsecdocs.com/</loc>
     <lastmod>2021-07-30T07:34:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/career/</loc>
+    <loc>https://kbs.murarisumit.in/tags/career/</loc>
     <lastmod>2021-07-30T06:35:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/profiles-to-look-upto/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/profiles-to-look-upto/</loc>
     <lastmod>2021-07-30T06:35:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/profiles-to-look-upto/</loc>
+    <loc>https://kbs.murarisumit.in/tags/profiles-to-look-upto/</loc>
     <lastmod>2021-07-30T06:35:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/flamenco/</loc>
+    <loc>https://kbs.murarisumit.in/tags/flamenco/</loc>
     <lastmod>2021-07-29T14:57:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/flamenco-street-music/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/flamenco-street-music/</loc>
     <lastmod>2021-07-29T14:57:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/music/</loc>
+    <loc>https://kbs.murarisumit.in/tags/music/</loc>
     <lastmod>2021-07-29T14:57:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tils/leaving-exising-org-risk-rewards/</loc>
+    <loc>https://kbs.murarisumit.in/tils/leaving-exising-org-risk-rewards/</loc>
     <lastmod>2021-07-29T09:34:57+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mentee/</loc>
+    <loc>https://kbs.murarisumit.in/tags/mentee/</loc>
     <lastmod>2021-07-29T09:34:57+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mentorship/</loc>
+    <loc>https://kbs.murarisumit.in/tags/mentorship/</loc>
     <lastmod>2021-07-29T09:34:57+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/switching-jobs/</loc>
+    <loc>https://kbs.murarisumit.in/tags/switching-jobs/</loc>
     <lastmod>2021-07-29T09:34:57+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/people-do-not-care/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/people-do-not-care/</loc>
     <lastmod>2021-07-28T12:22:20+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/interview/</loc>
+    <loc>https://kbs.murarisumit.in/tags/interview/</loc>
     <lastmod>2021-07-27T17:05:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/linus/</loc>
+    <loc>https://kbs.murarisumit.in/tags/linus/</loc>
     <lastmod>2021-07-27T17:05:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/linus-interview-linuxcon-north-america-2016/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/linus-interview-linuxcon-north-america-2016/</loc>
     <lastmod>2021-07-27T17:05:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/time-killer/</loc>
+    <loc>https://kbs.murarisumit.in/tags/time-killer/</loc>
     <lastmod>2021-07-27T17:05:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/cryptjacking-docker-container/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/cryptjacking-docker-container/</loc>
     <lastmod>2021-07-27T15:56:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/crytojacking/</loc>
+    <loc>https://kbs.murarisumit.in/tags/crytojacking/</loc>
     <lastmod>2021-07-27T15:56:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/https/unit42.paloaltonetworks.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/https/unit42.paloaltonetworks.com/</loc>
     <lastmod>2021-07-27T15:56:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/https/gist.github.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/https/gist.github.com/</loc>
     <lastmod>2021-07-26T22:35:37+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/iterm/</loc>
+    <loc>https://kbs.murarisumit.in/tags/iterm/</loc>
     <lastmod>2021-07-26T22:35:37+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/iterm-auto-theme-switch/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/iterm-auto-theme-switch/</loc>
     <lastmod>2021-07-26T22:35:37+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/month/2021-03/</loc>
+    <loc>https://kbs.murarisumit.in/month/2021-03/</loc>
     <lastmod>2021-02-12T17:21:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/df6b12d2680b2afbfc3288c0564c3af3/</loc>
+    <loc>https://kbs.murarisumit.in/df6b12d2680b2afbfc3288c0564c3af3/</loc>
     <lastmod>2021-02-12T17:21:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/caf/</loc>
+    <loc>https://kbs.murarisumit.in/tags/caf/</loc>
     <lastmod>2021-02-12T17:21:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/todo/</loc>
+    <loc>https://kbs.murarisumit.in/tags/todo/</loc>
     <lastmod>2021-02-12T17:21:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/decentralized/</loc>
+    <loc>https://kbs.murarisumit.in/tags/decentralized/</loc>
     <lastmod>2020-08-01T03:01:28+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/email/</loc>
+    <loc>https://kbs.murarisumit.in/tags/email/</loc>
     <lastmod>2020-08-01T03:01:28+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/git/</loc>
+    <loc>https://kbs.murarisumit.in/tags/git/</loc>
     <lastmod>2020-08-01T03:01:28+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tils/git-via-email-getting-started/</loc>
+    <loc>https://kbs.murarisumit.in/tils/git-via-email-getting-started/</loc>
     <lastmod>2020-08-01T03:01:28+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tils/strace-command-snippets/</loc>
+    <loc>https://kbs.murarisumit.in/tils/strace-command-snippets/</loc>
     <lastmod>2020-07-29T20:22:24+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/utils/</loc>
+    <loc>https://kbs.murarisumit.in/tags/utils/</loc>
     <lastmod>2020-07-29T20:22:24+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/drewdevault.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/drewdevault.com/</loc>
     <lastmod>2020-07-21T06:17:03+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/please-use-plain-text-for-email/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/please-use-plain-text-for-email/</loc>
     <lastmod>2020-07-21T06:17:03+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/https/</loc>
+    <loc>https://kbs.murarisumit.in/tags/https/</loc>
     <lastmod>2020-07-21T05:06:45+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tils/how-certificate-signing-works/</loc>
+    <loc>https://kbs.murarisumit.in/tils/how-certificate-signing-works/</loc>
     <lastmod>2020-07-21T05:06:45+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ssl-certificates/</loc>
+    <loc>https://kbs.murarisumit.in/tags/ssl-certificates/</loc>
     <lastmod>2020-07-21T05:06:45+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dac/</loc>
+    <loc>https://kbs.murarisumit.in/tags/dac/</loc>
     <lastmod>2020-07-20T08:20:54+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tils/intro-to-dac/</loc>
+    <loc>https://kbs.murarisumit.in/tils/intro-to-dac/</loc>
     <lastmod>2020-07-20T08:20:54+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/how-litihium-ion-battery-work/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/how-litihium-ion-battery-work/</loc>
     <lastmod>2020-07-15T22:26:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/how-ssd-work/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/how-ssd-work/</loc>
     <lastmod>2020-07-15T16:24:45+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/breakfast-with-champions/</loc>
+    <loc>https://kbs.murarisumit.in/tags/breakfast-with-champions/</loc>
     <lastmod>2020-06-24T12:17:11+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cricket/</loc>
+    <loc>https://kbs.murarisumit.in/tags/cricket/</loc>
     <lastmod>2020-06-24T12:17:11+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tils/moments-breakfast-with-champions/</loc>
+    <loc>https://kbs.murarisumit.in/tils/moments-breakfast-with-champions/</loc>
     <lastmod>2020-06-24T12:17:11+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/awesome-prometheus-alerts/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/awesome-prometheus-alerts/</loc>
     <lastmod>2020-06-23T16:53:01+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/awesome-prometheus-alerts.grep.to/</loc>
+    <loc>https://kbs.murarisumit.in/sites/awesome-prometheus-alerts.grep.to/</loc>
     <lastmod>2020-06-23T16:53:01+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/prometheus/</loc>
+    <loc>https://kbs.murarisumit.in/tags/prometheus/</loc>
     <lastmod>2020-06-23T16:53:01+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/amish/</loc>
+    <loc>https://kbs.murarisumit.in/tags/amish/</loc>
     <lastmod>2020-06-22T09:01:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/amish-the-indian-way/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/amish-the-indian-way/</loc>
     <lastmod>2020-06-22T09:01:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/indian-way/</loc>
+    <loc>https://kbs.murarisumit.in/tags/indian-way/</loc>
     <lastmod>2020-06-22T09:01:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/dabeaz-course.github.io/</loc>
+    <loc>https://kbs.murarisumit.in/sites/dabeaz-course.github.io/</loc>
     <lastmod>2020-06-21T18:56:13+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/inner-working-of-python-objects/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/inner-working-of-python-objects/</loc>
     <lastmod>2020-06-21T18:56:13+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/internals/</loc>
+    <loc>https://kbs.murarisumit.in/tags/internals/</loc>
     <lastmod>2020-06-21T18:56:13+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>https://kbs.murarisumit.in/tags/python/</loc>
     <lastmod>2020-06-21T18:56:13+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/permaculture-project-water-revolution-india/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/permaculture-project-water-revolution-india/</loc>
     <lastmod>2020-06-21T13:27:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/water-harvesting/</loc>
+    <loc>https://kbs.murarisumit.in/tags/water-harvesting/</loc>
     <lastmod>2020-06-21T13:27:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/water-revolution/</loc>
+    <loc>https://kbs.murarisumit.in/tags/water-revolution/</loc>
     <lastmod>2020-06-21T13:27:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/youtube.coom/</loc>
+    <loc>https://kbs.murarisumit.in/sites/youtube.coom/</loc>
     <lastmod>2020-06-21T13:27:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/lessons-in-electric-circuits/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/lessons-in-electric-circuits/</loc>
     <lastmod>2020-06-19T07:28:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/textbook/</loc>
+    <loc>https://kbs.murarisumit.in/tags/textbook/</loc>
     <lastmod>2020-06-19T07:28:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/www.allaboutcircuits.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/www.allaboutcircuits.com/</loc>
     <lastmod>2020-06-19T07:28:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gardens/</loc>
+    <loc>https://kbs.murarisumit.in/tags/gardens/</loc>
     <lastmod>2020-06-18T09:31:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ideas/terraplanter/</loc>
+    <loc>https://kbs.murarisumit.in/ideas/terraplanter/</loc>
     <lastmod>2020-06-18T09:31:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/home-gardens/</loc>
+    <loc>https://kbs.murarisumit.in/tags/home-gardens/</loc>
     <lastmod>2020-06-18T09:31:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ideas/</loc>
+    <loc>https://kbs.murarisumit.in/ideas/</loc>
     <lastmod>2020-06-18T09:31:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/ideas/</loc>
+    <loc>https://kbs.murarisumit.in/category/ideas/</loc>
     <lastmod>2020-06-18T09:31:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/optics/</loc>
+    <loc>https://kbs.murarisumit.in/tags/optics/</loc>
     <lastmod>2020-06-18T09:22:59+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/projector/</loc>
+    <loc>https://kbs.murarisumit.in/tags/projector/</loc>
     <lastmod>2020-06-18T09:22:59+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/projector-optics-internals/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/projector-optics-internals/</loc>
     <lastmod>2020-06-18T09:22:59+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/video-a-glimpse-into-ancient-indian-astronomy/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/video-a-glimpse-into-ancient-indian-astronomy/</loc>
     <lastmod>2020-06-14T20:18:01+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tils/do-work-with-joy/</loc>
+    <loc>https://kbs.murarisumit.in/tils/do-work-with-joy/</loc>
     <lastmod>2020-06-13T17:43:03+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/self-motivation/</loc>
+    <loc>https://kbs.murarisumit.in/tags/self-motivation/</loc>
     <lastmod>2020-06-13T17:43:03+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/work-ethics/</loc>
+    <loc>https://kbs.murarisumit.in/tags/work-ethics/</loc>
     <lastmod>2020-06-13T17:43:03+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/abstraction/</loc>
+    <loc>https://kbs.murarisumit.in/tags/abstraction/</loc>
     <lastmod>2020-06-12T14:31:26+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/ruudvanasseldonk.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/ruudvanasseldonk.com/</loc>
     <lastmod>2020-06-12T14:31:26+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/virtualenv/</loc>
+    <loc>https://kbs.murarisumit.in/tags/virtualenv/</loc>
     <lastmod>2020-06-12T14:31:26+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/working-on-virtualenv-without-magic/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/working-on-virtualenv-without-magic/</loc>
     <lastmod>2020-06-12T14:31:26+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/beautiful-static-site/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/beautiful-static-site/</loc>
     <lastmod>2020-06-12T14:19:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/static-sites/</loc>
+    <loc>https://kbs.murarisumit.in/tags/static-sites/</loc>
     <lastmod>2020-06-12T14:19:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/themes/</loc>
+    <loc>https://kbs.murarisumit.in/tags/themes/</loc>
     <lastmod>2020-06-12T14:19:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rust/</loc>
+    <loc>https://kbs.murarisumit.in/tags/rust/</loc>
     <lastmod>2020-06-12T12:40:19+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/rust-zero-cost-abstractions/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/rust-zero-cost-abstractions/</loc>
     <lastmod>2020-06-12T12:40:19+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/keyboard-shortcuts/</loc>
+    <loc>https://kbs.murarisumit.in/tags/keyboard-shortcuts/</loc>
     <lastmod>2020-06-12T09:36:24+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vscode/</loc>
+    <loc>https://kbs.murarisumit.in/tags/vscode/</loc>
     <lastmod>2020-06-12T09:36:24+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/vscode-keyboard-shortcuts/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/vscode-keyboard-shortcuts/</loc>
     <lastmod>2020-06-12T09:36:24+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/zellwk.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/zellwk.com/</loc>
     <lastmod>2020-06-12T09:36:24+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/decentralization/</loc>
+    <loc>https://kbs.murarisumit.in/tags/decentralization/</loc>
     <lastmod>2020-06-07T04:13:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/federation/</loc>
+    <loc>https://kbs.murarisumit.in/tags/federation/</loc>
     <lastmod>2020-06-07T04:13:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/federation-is-worst-of-all-worlds/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/federation-is-worst-of-all-worlds/</loc>
     <lastmod>2020-06-07T04:13:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/fieldnotes.resistant.tech/</loc>
+    <loc>https://kbs.murarisumit.in/sites/fieldnotes.resistant.tech/</loc>
     <lastmod>2020-06-07T04:13:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/learn-go-with-tests/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/learn-go-with-tests/</loc>
     <lastmod>2020-06-07T04:09:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/quii.gitbook.io/</loc>
+    <loc>https://kbs.murarisumit.in/sites/quii.gitbook.io/</loc>
     <lastmod>2020-06-07T04:09:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tests/</loc>
+    <loc>https://kbs.murarisumit.in/tags/tests/</loc>
     <lastmod>2020-06-07T04:09:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tutorial/</loc>
+    <loc>https://kbs.murarisumit.in/tags/tutorial/</loc>
     <lastmod>2020-06-07T04:09:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/lists.busybox.net/</loc>
+    <loc>https://kbs.murarisumit.in/sites/lists.busybox.net/</loc>
     <lastmod>2020-06-07T04:06:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/nix/</loc>
+    <loc>https://kbs.murarisumit.in/tags/nix/</loc>
     <lastmod>2020-06-07T04:06:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</loc>
     <lastmod>2020-06-07T04:06:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/why/</loc>
+    <loc>https://kbs.murarisumit.in/tags/why/</loc>
     <lastmod>2020-06-07T04:06:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tils/abrahamic-history-lengend-mythology/</loc>
+    <loc>https://kbs.murarisumit.in/tils/abrahamic-history-lengend-mythology/</loc>
     <lastmod>2020-06-05T02:37:08+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/curiosity/</loc>
+    <loc>https://kbs.murarisumit.in/tags/curiosity/</loc>
     <lastmod>2020-06-05T02:37:08+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/css/</loc>
+    <loc>https://kbs.murarisumit.in/tags/css/</loc>
     <lastmod>2020-06-01T13:42:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tils/css-id-vs-class/</loc>
+    <loc>https://kbs.murarisumit.in/tils/css-id-vs-class/</loc>
     <lastmod>2020-06-01T13:42:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ctf/</loc>
+    <loc>https://kbs.murarisumit.in/tags/ctf/</loc>
     <lastmod>2020-06-01T07:01:13+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/ctfs-are-awesome/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/ctfs-are-awesome/</loc>
     <lastmod>2020-06-01T07:01:13+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vim/</loc>
+    <loc>https://kbs.murarisumit.in/tags/vim/</loc>
     <lastmod>2020-05-31T15:15:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/decisions/why-stopping-vim-now/</loc>
+    <loc>https://kbs.murarisumit.in/decisions/why-stopping-vim-now/</loc>
     <lastmod>2020-05-31T15:15:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/home-server/</loc>
+    <loc>https://kbs.murarisumit.in/tags/home-server/</loc>
     <lastmod>2020-05-30T01:50:59+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/nfs/</loc>
+    <loc>https://kbs.murarisumit.in/tags/nfs/</loc>
     <lastmod>2020-05-30T01:50:59+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/pi-nfs-server/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/pi-nfs-server/</loc>
     <lastmod>2020-05-30T01:50:59+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/pimylifeup.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/pimylifeup.com/</loc>
     <lastmod>2020-05-30T01:50:59+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rpi/</loc>
+    <loc>https://kbs.murarisumit.in/tags/rpi/</loc>
     <lastmod>2020-05-30T01:50:59+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tils/ipv4-link-local/</loc>
+    <loc>https://kbs.murarisumit.in/tils/ipv4-link-local/</loc>
     <lastmod>2020-05-25T09:24:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/network/</loc>
+    <loc>https://kbs.murarisumit.in/tags/network/</loc>
     <lastmod>2020-05-25T09:24:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/osi-layer2/</loc>
+    <loc>https://kbs.murarisumit.in/tags/osi-layer2/</loc>
     <lastmod>2020-05-25T09:24:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/nicolasgallagher.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/nicolasgallagher.com/</loc>
     <lastmod>2020-05-24T23:23:53+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/why-normalize/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/why-normalize/</loc>
     <lastmod>2020-05-24T23:23:53+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cache/</loc>
+    <loc>https://kbs.murarisumit.in/tags/cache/</loc>
     <lastmod>2020-05-24T21:41:57+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/coredns/</loc>
+    <loc>https://kbs.murarisumit.in/tags/coredns/</loc>
     <lastmod>2020-05-24T21:41:57+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dns/</loc>
+    <loc>https://kbs.murarisumit.in/tags/dns/</loc>
     <lastmod>2020-05-24T21:41:57+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/iptables/</loc>
+    <loc>https://kbs.murarisumit.in/tags/iptables/</loc>
     <lastmod>2020-05-24T21:41:57+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/k8s-node-local-dns-cache/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/k8s-node-local-dns-cache/</loc>
     <lastmod>2020-05-24T21:41:57+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/povilasv.me/</loc>
+    <loc>https://kbs.murarisumit.in/sites/povilasv.me/</loc>
     <lastmod>2020-05-24T21:41:57+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/blog.stephsmith.io/</loc>
+    <loc>https://kbs.murarisumit.in/sites/blog.stephsmith.io/</loc>
     <lastmod>2020-05-21T20:42:29+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/learning-to-write-with-confidence/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/learning-to-write-with-confidence/</loc>
     <lastmod>2020-05-21T20:42:29+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/writing/</loc>
+    <loc>https://kbs.murarisumit.in/tags/writing/</loc>
     <lastmod>2020-05-21T20:42:29+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/acronyms/</loc>
+    <loc>https://kbs.murarisumit.in/tags/acronyms/</loc>
     <lastmod>2020-05-21T19:18:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tils/kiss/</loc>
+    <loc>https://kbs.murarisumit.in/tils/kiss/</loc>
     <lastmod>2020-05-21T19:18:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/communication/</loc>
+    <loc>https://kbs.murarisumit.in/tags/communication/</loc>
     <lastmod>2020-05-21T08:39:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hn-post/</loc>
+    <loc>https://kbs.murarisumit.in/tags/hn-post/</loc>
     <lastmod>2020-05-21T08:39:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/sell-yourself-sell-your-work/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/sell-yourself-sell-your-work/</loc>
     <lastmod>2020-05-21T08:39:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/www.solipsys.co.uk/</loc>
+    <loc>https://kbs.murarisumit.in/sites/www.solipsys.co.uk/</loc>
     <lastmod>2020-05-21T08:39:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/aws.github.io/</loc>
+    <loc>https://kbs.murarisumit.in/sites/aws.github.io/</loc>
     <lastmod>2020-05-20T22:16:17+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/eks/</loc>
+    <loc>https://kbs.murarisumit.in/tags/eks/</loc>
     <lastmod>2020-05-20T22:16:17+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/eks-best-practices/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/eks-best-practices/</loc>
     <lastmod>2020-05-20T22:16:17+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cheatsheets/</loc>
+    <loc>https://kbs.murarisumit.in/tags/cheatsheets/</loc>
     <lastmod>2020-05-20T22:04:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/promql/</loc>
+    <loc>https://kbs.murarisumit.in/tags/promql/</loc>
     <lastmod>2020-05-20T22:04:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/promql/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/promql/</loc>
     <lastmod>2020-05-20T22:04:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/hugo-the-scope-the-context-and-the-dot/</loc>
+    <loc>https://kbs.murarisumit.in/bookmarks/hugo-the-scope-the-context-and-the-dot/</loc>
     <lastmod>2020-05-17T18:54:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sites/regisphilibert.com/</loc>
+    <loc>https://kbs.murarisumit.in/sites/regisphilibert.com/</loc>
     <lastmod>2020-05-17T18:54:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/snippets/hugo-tags-list/</loc>
+    <loc>https://kbs.murarisumit.in/snippets/hugo-tags-list/</loc>
     <lastmod>2020-05-17T18:09:46+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tils/change-orientation-of-an-image/</loc>
+    <loc>https://kbs.murarisumit.in/tils/change-orientation-of-an-image/</loc>
     <lastmod>2020-05-17T17:30:23+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/clist.html</loc>
+    <loc>https://kbs.murarisumit.in/clist.html</loc>
   </url><url>
-    <loc>http://localhost:1313/archives.html</loc>
+    <loc>https://kbs.murarisumit.in/archives.html</loc>
   </url><url>
-    <loc>http://localhost:1313/tlist.html</loc>
+    <loc>https://kbs.murarisumit.in/tlist.html</loc>
   </url>
 </urlset>

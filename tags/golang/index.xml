@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Golang on knowledge base</title>
-    <link>http://localhost:1313/tags/golang/</link>
+    <link>https://kbs.murarisumit.in/tags/golang/</link>
     <description>Recent content in Golang on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Oct 2021 16:32:43 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Oct 2021 16:32:43 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Golang Codereview Comments</title>
-      <link>http://localhost:1313/c0ab4091d733d85471515c2cd581fd67/</link>
+      <link>https://kbs.murarisumit.in/c0ab4091d733d85471515c2cd581fd67/</link>
       <pubDate>Wed, 27 Oct 2021 16:32:43 +0530</pubDate>
       
-      <guid>http://localhost:1313/c0ab4091d733d85471515c2cd581fd67/</guid>
+      <guid>https://kbs.murarisumit.in/c0ab4091d733d85471515c2cd581fd67/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang Slice Tricks</title>
-      <link>http://localhost:1313/bookmarks/golang-slice-tricks/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/golang-slice-tricks/</link>
       <pubDate>Wed, 04 Aug 2021 08:29:34 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/golang-slice-tricks/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/golang-slice-tricks/</guid>
       <description>&lt;h3 id=&#34;filtering-with-allocating&#34;&gt;Filtering with allocating&lt;/h3&gt;
 &lt;p&gt;This trick uses the fact that a slice shares the same backing array and capacity as the original, so the storage is reused for the filtered slice. Of course, the original contents are modified.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -47,10 +47,10 @@
     
     <item>
       <title>Learn Go With Tests</title>
-      <link>http://localhost:1313/bookmarks/learn-go-with-tests/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/learn-go-with-tests/</link>
       <pubDate>Sun, 07 Jun 2020 04:09:38 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/learn-go-with-tests/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/learn-go-with-tests/</guid>
       <description></description>
     </item>
     

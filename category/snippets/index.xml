@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snippets on knowledge base</title>
-    <link>http://localhost:1313/category/snippets/</link>
+    <link>https://kbs.murarisumit.in/category/snippets/</link>
     <description>Recent content in Snippets on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Nov 2021 22:48:14 +0530</lastBuildDate><atom:link href="http://localhost:1313/category/snippets/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Nov 2021 22:48:14 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/category/snippets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Awscli snippets</title>
-      <link>http://localhost:1313/c0b28c0e8bc16283b3c9e2d099eabe63/</link>
+      <link>https://kbs.murarisumit.in/c0b28c0e8bc16283b3c9e2d099eabe63/</link>
       <pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate>
       
-      <guid>http://localhost:1313/c0b28c0e8bc16283b3c9e2d099eabe63/</guid>
+      <guid>https://kbs.murarisumit.in/c0b28c0e8bc16283b3c9e2d099eabe63/</guid>
       <description>&lt;h4 id=&#34;fetch-running-instance-with-their-private-ip&#34;&gt;Fetch running instance with their private IP&lt;/h4&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -23,6 +23,21 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h4 id=&#34;fetch-running-instance-for-given-tag&#34;&gt;Fetch running instance for given tag&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# simple text output&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 describe-instances --query &lt;span class=&#34;s1&#34;&gt;&amp;#39;Reservations[*].Instances[*].[InstanceId,Tags[?Key==`Name`].Value|[0]]&amp;#39;&lt;/span&gt; --output text
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# for table output&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;aws ec2 describe-instances --query &lt;span class=&#34;s1&#34;&gt;&amp;#39;Reservations[*].Instances[*].[InstanceId,Tags[?Key==`Name`].Value|[0]]&amp;#39;&lt;/span&gt; --output table
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h1 id=&#34;fetch-just-filtered-instances-using---filters-option&#34;&gt;fetch just filtered instances using &lt;code&gt;--filters&lt;/code&gt; option&lt;/h1&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -42,7 +57,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;Linked post:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/cb09c8a3463c51091177eff829bd82d8/&#34;&gt;Understanding text output for awscli&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/&#34;&gt;Understanding text output for awscli&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Reference:&lt;/p&gt;
 &lt;ul&gt;
@@ -53,10 +68,10 @@
     
     <item>
       <title>Hugo Tags List</title>
-      <link>http://localhost:1313/snippets/hugo-tags-list/</link>
+      <link>https://kbs.murarisumit.in/snippets/hugo-tags-list/</link>
       <pubDate>Sun, 17 May 2020 18:09:46 +0530</pubDate>
       
-      <guid>http://localhost:1313/snippets/hugo-tags-list/</guid>
+      <guid>https://kbs.murarisumit.in/snippets/hugo-tags-list/</guid>
       <description>&lt;p&gt;A simple snippet i found to fetch all tags, and still to read it up&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;

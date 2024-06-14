@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Css on knowledge base</title>
-    <link>http://localhost:1313/tags/css/</link>
+    <link>https://kbs.murarisumit.in/tags/css/</link>
     <description>Recent content in Css on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2020 13:42:43 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jun 2020 13:42:43 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CSS id vs class</title>
-      <link>http://localhost:1313/tils/css-id-vs-class/</link>
+      <link>https://kbs.murarisumit.in/tils/css-id-vs-class/</link>
       <pubDate>Mon, 01 Jun 2020 13:42:43 +0530</pubDate>
       
-      <guid>http://localhost:1313/tils/css-id-vs-class/</guid>
+      <guid>https://kbs.murarisumit.in/tils/css-id-vs-class/</guid>
       <description>&lt;p&gt;Simple CSS question while working on resume project, is when to use id and when to use class.&lt;/p&gt;
 &lt;p&gt;First thing to know about IDs:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title>Why Normalize CSS</title>
-      <link>http://localhost:1313/bookmarks/why-normalize/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/why-normalize/</link>
       <pubDate>Sun, 24 May 2020 23:23:53 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/why-normalize/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/why-normalize/</guid>
       <description>&lt;p&gt;Normalize.css is a small CSS file that provides better cross-browser consistency in the default styling of HTML elements. It’s a modern, HTML5-ready, alternative to the traditional CSS reset.&lt;/p&gt;
 &lt;p&gt;The aims of normalize.css are as follows:&lt;/p&gt;
 &lt;ul&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>Change Orientation of an Image</title>
-      <link>http://localhost:1313/tils/change-orientation-of-an-image/</link>
+      <link>https://kbs.murarisumit.in/tils/change-orientation-of-an-image/</link>
       <pubDate>Sun, 17 May 2020 17:30:23 +0530</pubDate>
       
-      <guid>http://localhost:1313/tils/change-orientation-of-an-image/</guid>
+      <guid>https://kbs.murarisumit.in/tils/change-orientation-of-an-image/</guid>
       <description>&lt;p&gt;A single-line CSS transform is all it takes to change the orientation of an
 image (or any DOM element, really).&lt;/p&gt;
 &lt;p&gt;For instance, if I have an image that is &lt;em&gt;on its side&lt;/em&gt;, I can use the following

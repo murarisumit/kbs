@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iancoleman.io on knowledge base</title>
-    <link>http://localhost:1313/sites/iancoleman.io/</link>
+    <link>https://kbs.murarisumit.in/sites/iancoleman.io/</link>
     <description>Recent content in Iancoleman.io on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Dec 2021 10:07:05 +0530</lastBuildDate><atom:link href="http://localhost:1313/sites/iancoleman.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Dec 2021 10:07:05 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/iancoleman.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shamir Secret Sharing</title>
-      <link>http://localhost:1313/b21e7d844c3b536261f757f5a735dc8a/</link>
+      <link>https://kbs.murarisumit.in/b21e7d844c3b536261f757f5a735dc8a/</link>
       <pubDate>Thu, 02 Dec 2021 10:07:05 +0530</pubDate>
       
-      <guid>http://localhost:1313/b21e7d844c3b536261f757f5a735dc8a/</guid>
+      <guid>https://kbs.murarisumit.in/b21e7d844c3b536261f757f5a735dc8a/</guid>
       <description>&lt;p&gt;This idea is really elegant to me and seeing it work is beautiful&lt;/p&gt;
 &lt;p&gt;Keeping it here for reference.&lt;/p&gt;
 </description>

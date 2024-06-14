@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Https://Unit42.paloaltonetworks.com on knowledge base</title>
-    <link>http://localhost:1313/sites/https/unit42.paloaltonetworks.com/</link>
+    <link>https://kbs.murarisumit.in/sites/https/unit42.paloaltonetworks.com/</link>
     <description>Recent content in Https://Unit42.paloaltonetworks.com on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jul 2021 15:56:55 +0530</lastBuildDate><atom:link href="http://localhost:1313/sites/https/unit42.paloaltonetworks.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jul 2021 15:56:55 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/https/unit42.paloaltonetworks.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cryptjacking Docker Container</title>
-      <link>http://localhost:1313/bookmarks/cryptjacking-docker-container/</link>
+      <link>https://kbs.murarisumit.in/bookmarks/cryptjacking-docker-container/</link>
       <pubDate>Tue, 27 Jul 2021 15:56:55 +0530</pubDate>
       
-      <guid>http://localhost:1313/bookmarks/cryptjacking-docker-container/</guid>
+      <guid>https://kbs.murarisumit.in/bookmarks/cryptjacking-docker-container/</guid>
       <description>&lt;p&gt;Came across this while doing threat modelling for container, i&amp;rsquo;m missing theses news not good for me. Need to be up-to-date to these kind of threats.&lt;/p&gt;
 &lt;p&gt;Smart guy, simple yet smart.&lt;/p&gt;
 </description>
