@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kbs.murarisumit.in/</loc>
+    <lastmod>2024-06-13T03:40:07+00:00</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/tils/</loc>
+    <lastmod>2024-06-13T03:40:07+00:00</lastmod>
+  </url><url>
     <loc>https://kbs.murarisumit.in/year/2022/</loc>
     <lastmod>2022-08-04T15:22:02+05:30</lastmod>
   </url><url>
@@ -23,13 +29,10 @@
     <loc>https://kbs.murarisumit.in/sites/github.com/</loc>
     <lastmod>2022-08-04T15:22:02+05:30</lastmod>
   </url><url>
-    <loc>https://kbs.murarisumit.in/</loc>
-    <lastmod>2022-08-04T15:22:02+05:30</lastmod>
-  </url><url>
     <loc>https://kbs.murarisumit.in/tags/macos/</loc>
     <lastmod>2022-08-04T15:22:02+05:30</lastmod>
   </url><url>
-    <loc>https://kbs.murarisumit.in/bookmarks/macos-app-switcher/</loc>
+    <loc>https://kbs.murarisumit.in/en/39e6a85f2560b36262dd276126589bae/</loc>
     <lastmod>2022-08-04T15:22:02+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/month/</loc>
@@ -101,13 +104,13 @@
     <loc>https://kbs.murarisumit.in/month/2021-08/</loc>
     <lastmod>2022-05-15T23:41:17+05:30</lastmod>
   </url><url>
-    <loc>https://kbs.murarisumit.in/60cdd644ced2abd406c37a892f8386e3/</loc>
-    <lastmod>2022-05-15T23:41:17+05:30</lastmod>
-  </url><url>
     <loc>https://kbs.murarisumit.in/tags/financial-freedom/</loc>
     <lastmod>2022-05-15T23:41:17+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/investing/</loc>
+    <lastmod>2022-05-15T23:41:17+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/60cdd644ced2abd406c37a892f8386e3/</loc>
     <lastmod>2022-05-15T23:41:17+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/skills/</loc>
@@ -138,9 +141,6 @@
     <lastmod>2022-05-09T01:42:17+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/_drafts/</loc>
-    <lastmod>2022-03-31T12:51:35+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/posts/</loc>
     <lastmod>2022-03-31T12:51:35+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/month/2022-02/</loc>
@@ -275,6 +275,9 @@
     <loc>https://kbs.murarisumit.in/tags/firefox/</loc>
     <lastmod>2021-11-23T14:43:52+05:30</lastmod>
   </url><url>
+    <loc>https://kbs.murarisumit.in/posts/</loc>
+    <lastmod>2021-11-23T14:43:52+05:30</lastmod>
+  </url><url>
     <loc>https://kbs.murarisumit.in/category/posts/</loc>
     <lastmod>2021-11-23T14:43:52+05:30</lastmod>
   </url><url>
@@ -330,9 +333,6 @@
     <lastmod>2021-11-19T13:05:44+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/how-is-x-made/</loc>
-    <lastmod>2021-11-19T13:05:44+05:30</lastmod>
-  </url><url>
-    <loc>https://kbs.murarisumit.in/tils/</loc>
     <lastmod>2021-11-19T13:05:44+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/category/tils/</loc>
@@ -737,9 +737,6 @@
     <loc>https://kbs.murarisumit.in/bookmarks/awesome-k8s-security/</loc>
     <lastmod>2021-08-07T12:50:34+05:30</lastmod>
   </url><url>
-    <loc>https://kbs.murarisumit.in/sites/https/sharingbuttons.io/</loc>
-    <lastmod>2021-08-07T11:50:41+05:30</lastmod>
-  </url><url>
     <loc>https://kbs.murarisumit.in/tags/internet/</loc>
     <lastmod>2021-08-07T11:50:41+05:30</lastmod>
   </url><url>
@@ -750,6 +747,9 @@
     <lastmod>2021-08-07T11:50:41+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/bookmarks/sharingbuttons.io/</loc>
+    <lastmod>2021-08-07T11:50:41+05:30</lastmod>
+  </url><url>
+    <loc>https://kbs.murarisumit.in/sites/sharingbuttons.io/</loc>
     <lastmod>2021-08-07T11:50:41+05:30</lastmod>
   </url><url>
     <loc>https://kbs.murarisumit.in/tags/social-media/</loc>
