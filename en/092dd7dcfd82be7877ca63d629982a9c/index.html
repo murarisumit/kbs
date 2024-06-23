@@ -73,8 +73,6 @@
     Published:&nbsp;&nbsp; March 31, 2022 <br/>
     <br/>
     <i> Tags:</i> 
-    <button disabled="disabled"> <a href="/tags/aws">aws</a></button>
-    
     <hr>
 </div>
 
@@ -82,7 +80,7 @@
     
 
     
-    <h3 id="NATGatewaywithENIsAndName">List Nat Gateways with ENIs and Name</h3>
+    <h3 id="list-nat-gateways-with-enis-and-name">List Nat Gateways with ENIs and Name</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -97,7 +95,7 @@
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">aws ec2 describe-nat-gateways --filter <span class="s1">&#39;Name=nat-gateway-id,Values=nat-03dc6384570b18da7&#39;</span>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">aws ec2 describe-nat-gateways --filter <span class="s1">&#39;Name=nat-gateway-id,Values=nat-03d0b18da7&#39;</span>
 </span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="create-flowlogs">Create flowlogs</h3>
@@ -137,28 +135,28 @@
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">aws ec2 create-flow-logs <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>        --resource-type NetworkInterface <span class="se">\
-</span></span></span><span class="line"><span class="cl"><span class="se"></span>        --resource-ids eni-017b56cf5f4fc3c82 <span class="se">\
+</span></span></span><span class="line"><span class="cl"><span class="se"></span>        --resource-ids eni-01xxxxxfc3cxx <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>        --traffic-type ALL <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>        --region ap-south-1 <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>        --log-group-name flowlogs-NAT <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>        --max-aggregation-interval <span class="m">60</span> <span class="se">\
-</span></span></span><span class="line"><span class="cl"><span class="se"></span>        --deliver-logs-permission-arn arn:aws:iam::035243212545:role/flowlogsRole <span class="se">\
+</span></span></span><span class="line"><span class="cl"><span class="se"></span>        --deliver-logs-permission-arn arn:aws:iam::0352xxxxx545:role/flowlogsRole <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>        --log-format <span class="s1">&#39;${version} ${account-id} ${interface-id} ${srcaddr} ${dstaddr} ${srcport} ${dstport} ${protocol} ${packets} ${bytes} ${action} ${log-status} ${tcp-flags} ${pkt-srcaddr} ${pkt-dstaddr} ${pkt-src-aws-service} ${pkt-dst-aws-service} ${flow-direction}&#39;</span>
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl">aws ec2 create-flow-logs <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>        --resource-type NetworkInterface <span class="se">\
-</span></span></span><span class="line"><span class="cl"><span class="se"></span>        --resource-ids eni-87f92def <span class="se">\
+</span></span></span><span class="line"><span class="cl"><span class="se"></span>        --resource-ids eni-8xxxxef <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>        --traffic-type ALL <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>        --region ap-south-1 <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>        --log-group-name flowlogs-NAT <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>        --max-aggregation-interval <span class="m">60</span> <span class="se">\
-</span></span></span><span class="line"><span class="cl"><span class="se"></span>        --deliver-logs-permission-arn arn:aws:iam::035243212545:role/flowlogsRole <span class="se">\
+</span></span></span><span class="line"><span class="cl"><span class="se"></span>        --deliver-logs-permission-arn arn:aws:iam::035243xxxxx45:role/flowlole <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>        --log-format <span class="s1">&#39;${version} ${account-id} ${interface-id} ${srcaddr} ${dstaddr} ${srcport} ${dstport} ${protocol} ${packets} ${bytes} ${action} ${log-status} ${tcp-flags} ${pkt-srcaddr} ${pkt-dstaddr} ${pkt-src-aws-service} ${pkt-dst-aws-service} ${flow-direction}&#39;</span>
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl">aws ec2 create-flow-logs <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>        --resource-type NetworkInterface <span class="se">\
-</span></span></span><span class="line"><span class="cl"><span class="se"></span>        --resource-ids eni-0fb3f4f4cd00ec9d8 <span class="se">\
+</span></span></span><span class="line"><span class="cl"><span class="se"></span>        --resource-ids eni-xxxxxx <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>        --traffic-type ALL <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>        --region ap-south-1 <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>        --log-group-name flowlogs-NAT <span class="se">\
@@ -185,9 +183,9 @@
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">aws ec2 delete-flow-logs --flow-log-id fl-03af2839de57bc3a6 --region ap-south-1
-</span></span><span class="line"><span class="cl">aws ec2 delete-flow-logs --flow-log-id fl-093dc05236be65a0a --region ap-south-1
-</span></span><span class="line"><span class="cl">aws ec2 delete-flow-logs --flow-log-id fl-053f6799b096fa6ca --region ap-south-1
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">aws ec2 delete-flow-logs --flow-log-id fl-xxxxxxxxxxxxxxxxx --region ap-south-1
+</span></span><span class="line"><span class="cl">aws ec2 delete-flow-logs --flow-log-id fl-yyyyyyyyyyyyyyyyy --region ap-south-1
+</span></span><span class="line"><span class="cl">aws ec2 delete-flow-logs --flow-log-id fl-zzz --region ap-south-1
 </span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="parsing-flowlogs">Parsing flowlogs</h2>
@@ -229,7 +227,7 @@
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">parse @message &#39;* * * * * * * * * * * * * * * * * *&#39; as  version, account_id, interface_id, srcaddr, dstaddr, srcport, dstport, protocol, packets, bytes, action, log_status, tcp_flags, pkt_srcaddr, pkt_dstaddr, pkt_src_aws_service, pkt_dst_aws_service, flow_direction
 </span></span><span class="line"><span class="cl">| filter (srcaddr not like /192.168./)
-</span></span><span class="line"><span class="cl">| display interface_id, srcaddr, dstaddr, srcport, dstport, protocol, packets, bytes, action, tcp_flags, pkt_srcaddr, pkt_dstaddr, pkt_src_aws_service, pkt_dst_aws_service, flow_direction | sort bytes desc
+</span></span><span class="line"><span class="cl">| display interface_id, srcaddr, dstaddr, srcport, dstport, protocol, packets, bytes, action, tcp_flags, pkt_srcaddr, pkt_dstaddr, pkt_src_aws_service, pkt_dst_aws_service, flow_direction | sort bytes desc| sort bytes desc
 </span></span><span class="line"><span class="cl">| sort bytes desc
 </span></span><span class="line"><span class="cl">| limit 100
 </span></span></code></pre></td></tr></table>
@@ -274,7 +272,7 @@
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">aws ec2 describe-network-interfaces --filter <span class="s1">&#39;Name=network-interface-id,Values=eni-0fb3f4f4cd00ec9d8&#39;</span> --query NetworkInterfaces<span class="o">[]</span>.Attachment
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">aws ec2 describe-network-interfaces --filter <span class="s1">&#39;Name=network-interface-id,Values=eni-xxxxxxxx&#39;</span> --query NetworkInterfaces<span class="o">[]</span>.Attachment
 </span></span></code></pre></td></tr></table>
 </div>
 </div><div class="highlight"><div class="chroma">
@@ -290,7 +288,7 @@
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">aws ec2 describe-network-interfaces --filter <span class="s1">&#39;Name=association.public-ip,Values=13.234.210.38&#39;</span> --query NetworkInterfaces<span class="o">[]</span>.Attachment
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">aws ec2 describe-network-interfaces --filter <span class="s1">&#39;Name=association.public-ip,Values=12.2.34.5&#39;</span> --query NetworkInterfaces<span class="o">[]</span>.Attachment
 </span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="subnets">Subnets</h3>
@@ -387,18 +385,13 @@
 <pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">for node in $(kubectl get nodes -l golden=true -ojsonpath=&#39;{.items[*].metadata.name}&#39;); do kubectl get pods -A  --field-selector spec.nodeName=$node; done
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p>References</p>
-<ul>
-<li><a href="https://www.lastweekinaws.com/blog/aws-cross-az-data-transfer-costs-more-than-aws-says/">https://www.lastweekinaws.com/blog/aws-cross-az-data-transfer-costs-more-than-aws-says/</a></li>
-<li><a href="https://aws.amazon.com/privatelink/pricing/">https://aws.amazon.com/privatelink/pricing/</a></li>
-</ul>
-
+</div>
     
     <div class="social"> 
     <center>
         
         
-        <a class="resp-sharing-button__link" href="https://twitter.com/intent/tweet/?text=Enable%20Flowlogs%20for%20Natgateways&amp;url=http%3a%2f%2flocalhost%3a1313%2fen%2f092dd7dcfd82be7877ca63d629982a9c%2f&amp;hashtags=aws" target="_blank" rel="noopener" aria-label="">
+        <a class="resp-sharing-button__link" href="https://twitter.com/intent/tweet/?text=Enable%20Flowlogs%20for%20Natgateways&amp;url=http%3a%2f%2flocalhost%3a1313%2fen%2f092dd7dcfd82be7877ca63d629982a9c%2f&amp;hashtags=" target="_blank" rel="noopener" aria-label="">
             <div class="resp-sharing-button resp-sharing-button--twitter resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 0C5.38 0 0 5.38 0 12s5.38 12 12 12 12-5.38 12-12S18.62 0 12 0zm5.26 9.38v.34c0 3.48-2.64 7.5-7.48 7.5-1.48 0-2.87-.44-4.03-1.2 1.37.17 2.77-.2 3.9-1.08-1.16-.02-2.13-.78-2.46-1.83.38.1.8.07 1.17-.03-1.2-.24-2.1-1.3-2.1-2.58v-.05c.35.2.75.32 1.18.33-.7-.47-1.17-1.28-1.17-2.2 0-.47.13-.92.36-1.3C7.94 8.85 9.88 9.9 12.06 10c-.04-.2-.06-.4-.06-.6 0-1.46 1.18-2.63 2.63-2.63.76 0 1.44.3 1.92.82.6-.12 1.95-.27 1.95-.27-.35.53-.72 1.66-1.24 2.04z"/></svg>
             </div>
@@ -418,7 +411,7 @@
 
         
         
-        <a class="resp-sharing-button__link" href="mailto:?subject=Enable%20Flowlogs%20for%20Natgateways&amp;body=List%20Nat%20Gateways%20with%20ENIs%20and%20Name%201%20aws%20ec2%20describe-nat-gateways%20--query%20%26%2339%3bNatGateways%5b%5d.%5bTags%5b%3fKey%3d%3d%60Name%60%5d.Value%7c%20%5b0%5d%2c%20NatGatewayId%2c%20NatGatewayAddresses%5b0%5d.NetworkInterfaceId%5d%26%2339%3b%20--output%20table%20Fetch%20specific%20NAT%20ID%201%20aws%20ec2%20describe-nat-gateways%20--filter%20%26%2339%3bName%3dnat-gateway-id%2cValues%3dnat-03dc6384570b18da7%26%2339%3b%20Create%20flowlogs%201%202%203%204%205%206%207%208%209%2010%2011%2012%2013%2014%2015%2016%2017%2018%2019%2020%2021%2022%2023%2024%2025%2026%2027%2028%2029%2030%20aws%20ec2%20create-flow-logs%20%5c%20--resource-type%20NetworkInterface%20%5c%20--resource-ids%20eni-017b56cf5f4fc3c82%20%5c%20--traffic-type%20ALL%20%5c%20--region%20ap-south-1%20%5c%20--log-group-name%20flowlogs-NAT%20%5c%20--max-aggregation-interval%2060%20%5c%20--deliver-logs-permission-arn%20arn%3aaws%3aiam%3a%3a035243212545%3arole%2fflowlogsRole%20%5c%20--log-format%20%26%2339%3b%24%7bversion%7d%20%24%7baccount-id%7d%20%24%7binterface-id%7d%20%24%7bsrcaddr%7d%20%24%7bdstaddr%7d%20%24%7bsrcport%7d%20%24%7bdstport%7d%20%24%7bprotocol%7d%20%24%7bpackets%7d%20%24%7bbytes%7d%20%24%7baction%7d%20%24%7blog-status%7d%20%24%7btcp-flags%7d%20%24%7bpkt-srcaddr%7d%20%24%7bpkt-dstaddr%7d%20%24%7bpkt-src-aws-service%7d%20%24%7bpkt-dst-aws-service%7d%20%24%7bflow-direction%7d%26%2339%3b%20aws%20ec2%20create-flow-logs%20%5c%20--resource-type%20NetworkInterface%20%5c%20--resource-ids%20eni-87f92def%20%5c%20--traffic-type%20ALL%20%5c%20--region%20ap-south-1%20%5c%20--log-group-name%20flowlogs-NAT%20%5c%20--max-aggregation-interval%2060%20%5c%20--deliver-logs-permission-arn%20arn%3aaws%3aiam%3a%3a035243212545%3arole%2fflowlogsRole%20%5c%20--log-format%20%26%2339%3b%24%7bversion%7d%20%24%7baccount-id%7d%20%24%7binterface-id%7d%20%24%7bsrcaddr%7d%20%24%7bdstaddr%7d%20%24%7bsrcport%7d%20%24%7bdstport%7d%20%24%7bprotocol%7d%20%24%7bpackets%7d%20%24%7bbytes%7d%20%24%7baction%7d%20%24%7blog-status%7d%20%24%7btcp-flags%7d%20%24%7bpkt-srcaddr%7d%20%24%7bpkt-dstaddr%7d%20%24%7bpkt-src-aws-service%7d%20%24%7bpkt-dst-aws-service%7d%20%24%7bflow-direction%7d%26%2339%3b%20aws%20ec2%20create-flow-logs%20%5c%20--resource-type%20NetworkInterface%20%5c%20--resource-ids%20eni-0fb3f4f4cd00ec9d8%20%5c%20--traffic-type%20ALL%20%5c%20--region%20ap-south-1%20%5c%20--log-group-name%20flowlogs-NAT%20%5c%20--max-aggregation-interval%2060%20%5c%20--deliver-logs-permission-arn%20arn%3aaws%3aiam%3a%3a035243212545%3arole%2fflowlogsRole%20%5c%20--log-format%20%26%2339%3b%24%7bversion%7d%20%24%7baccount-id%7d%20%24%7binterface-id%7d%20%24%7bsrcaddr%7d%20%24%7bdstaddr%7d%20%24%7bsrcport%7d%20%24%7bdstport%7d%20%24%7bprotocol%7d%20%24%7bpackets%7d%20%24%7bbytes%7d%20%24%7baction%7d%20%24%7blog-status%7d%20%24%7btcp-flags%7d%20%24%7bpkt-srcaddr%7d%20%24%7bpkt-dstaddr%7d%20%24%7bpkt-src-aws-service%7d%20%24%7bpkt-dst-aws-service%7d%20%24%7bflow-direction%7d%26%2339%3b%20GetFlowLogs%201%20aws%20ec2%20describe-flow-logs%20--filter%20%26%2339%3bName%3dlog-group-name%2cValues%3dflowlogs-NAT%26%2339%3b%20--query%20FlowLogs%5b%5d." target="_self" rel="noopener" aria-label="Share by E-Mail">
+        <a class="resp-sharing-button__link" href="mailto:?subject=Enable%20Flowlogs%20for%20Natgateways&amp;body=List%20Nat%20Gateways%20with%20ENIs%20and%20Name%201%20aws%20ec2%20describe-nat-gateways%20--query%20%26%2339%3bNatGateways%5b%5d.%5bTags%5b%3fKey%3d%3d%60Name%60%5d.Value%7c%20%5b0%5d%2c%20NatGatewayId%2c%20NatGatewayAddresses%5b0%5d.NetworkInterfaceId%5d%26%2339%3b%20--output%20table%20Fetch%20specific%20NAT%20ID%201%20aws%20ec2%20describe-nat-gateways%20--filter%20%26%2339%3bName%3dnat-gateway-id%2cValues%3dnat-03d0b18da7%26%2339%3b%20Create%20flowlogs%201%202%203%204%205%206%207%208%209%2010%2011%2012%2013%2014%2015%2016%2017%2018%2019%2020%2021%2022%2023%2024%2025%2026%2027%2028%2029%2030%20aws%20ec2%20create-flow-logs%20%5c%20--resource-type%20NetworkInterface%20%5c%20--resource-ids%20eni-01xxxxxfc3cxx%20%5c%20--traffic-type%20ALL%20%5c%20--region%20ap-south-1%20%5c%20--log-group-name%20flowlogs-NAT%20%5c%20--max-aggregation-interval%2060%20%5c%20--deliver-logs-permission-arn%20arn%3aaws%3aiam%3a%3a0352xxxxx545%3arole%2fflowlogsRole%20%5c%20--log-format%20%26%2339%3b%24%7bversion%7d%20%24%7baccount-id%7d%20%24%7binterface-id%7d%20%24%7bsrcaddr%7d%20%24%7bdstaddr%7d%20%24%7bsrcport%7d%20%24%7bdstport%7d%20%24%7bprotocol%7d%20%24%7bpackets%7d%20%24%7bbytes%7d%20%24%7baction%7d%20%24%7blog-status%7d%20%24%7btcp-flags%7d%20%24%7bpkt-srcaddr%7d%20%24%7bpkt-dstaddr%7d%20%24%7bpkt-src-aws-service%7d%20%24%7bpkt-dst-aws-service%7d%20%24%7bflow-direction%7d%26%2339%3b%20aws%20ec2%20create-flow-logs%20%5c%20--resource-type%20NetworkInterface%20%5c%20--resource-ids%20eni-8xxxxef%20%5c%20--traffic-type%20ALL%20%5c%20--region%20ap-south-1%20%5c%20--log-group-name%20flowlogs-NAT%20%5c%20--max-aggregation-interval%2060%20%5c%20--deliver-logs-permission-arn%20arn%3aaws%3aiam%3a%3a035243xxxxx45%3arole%2fflowlole%20%5c%20--log-format%20%26%2339%3b%24%7bversion%7d%20%24%7baccount-id%7d%20%24%7binterface-id%7d%20%24%7bsrcaddr%7d%20%24%7bdstaddr%7d%20%24%7bsrcport%7d%20%24%7bdstport%7d%20%24%7bprotocol%7d%20%24%7bpackets%7d%20%24%7bbytes%7d%20%24%7baction%7d%20%24%7blog-status%7d%20%24%7btcp-flags%7d%20%24%7bpkt-srcaddr%7d%20%24%7bpkt-dstaddr%7d%20%24%7bpkt-src-aws-service%7d%20%24%7bpkt-dst-aws-service%7d%20%24%7bflow-direction%7d%26%2339%3b%20aws%20ec2%20create-flow-logs%20%5c%20--resource-type%20NetworkInterface%20%5c%20--resource-ids%20eni-xxxxxx%20%5c%20--traffic-type%20ALL%20%5c%20--region%20ap-south-1%20%5c%20--log-group-name%20flowlogs-NAT%20%5c%20--max-aggregation-interval%2060%20%5c%20--deliver-logs-permission-arn%20arn%3aaws%3aiam%3a%3a035243212545%3arole%2fflowlogsRole%20%5c%20--log-format%20%26%2339%3b%24%7bversion%7d%20%24%7baccount-id%7d%20%24%7binterface-id%7d%20%24%7bsrcaddr%7d%20%24%7bdstaddr%7d%20%24%7bsrcport%7d%20%24%7bdstport%7d%20%24%7bprotocol%7d%20%24%7bpackets%7d%20%24%7bbytes%7d%20%24%7baction%7d%20%24%7blog-status%7d%20%24%7btcp-flags%7d%20%24%7bpkt-srcaddr%7d%20%24%7bpkt-dstaddr%7d%20%24%7bpkt-src-aws-service%7d%20%24%7bpkt-dst-aws-service%7d%20%24%7bflow-direction%7d%26%2339%3b%20GetFlowLogs%201%20aws%20ec2%20describe-flow-logs%20--filter%20%26%2339%3bName%3dlog-group-name%2cValues%3dflowlogs-NAT%26%2339%3b%20--query%20FlowLogs%5b%5d." target="_self" rel="noopener" aria-label="Share by E-Mail">
             <div class="resp-sharing-button resp-sharing-button--email resp-sharing-button--large"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 4H2C.9 4 0 4.9 0 6v12c0 1.1.9 2 2 2h20c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zM7.25 14.43l-3.5 2c-.08.05-.17.07-.25.07-.17 0-.34-.1-.43-.25-.14-.24-.06-.55.18-.68l3.5-2c.24-.14.55-.06.68.18.14.24.06.55-.18.68zm4.75.07c-.1 0-.2-.03-.27-.08l-8.5-5.5c-.23-.15-.3-.46-.15-.7.15-.22.46-.3.7-.14L12 13.4l8.23-5.32c.23-.15.54-.08.7.15.14.23.07.54-.16.7l-8.5 5.5c-.08.04-.17.07-.27.07zm8.93 1.75c-.1.16-.26.25-.43.25-.08 0-.17-.02-.25-.07l-3.5-2c-.24-.13-.32-.44-.18-.68s.44-.32.68-.18l3.5 2c.24.13.32.44.18.68z"/></svg></div>Share by E-Mail</div>
         </a>
@@ -430,11 +423,11 @@
  <br />
 </article>
 <div>
-    <center><a href="http://localhost:1313/en/8f134ded173ba1e5e37b0db694589fc4/"> &lt; Prev</a>  &nbsp;&nbsp;Further Reading  &nbsp;&nbsp;<a href="http://localhost:1313/en/092dd7dcfd82be7877ca63d629982a9c/">Next > </a></center>
+    <center><a href="http://localhost:1313/en/8f134ded173ba1e5e37b0db694589fc4/"> &lt; Prev</a>  &nbsp;&nbsp;Further Reading  &nbsp;&nbsp;<a href="http://localhost:1313/en/1b90c167d2d85130fc5372245ed523e9/">Next > </a></center>
 </div>
  <br />
 <div>
-    <center>For feedbacks via email: <a href="mailto: email@murarisumit.in?subject=http%3a%2f%2flocalhost%3a1313%2f : Enable%20Flowlogs%20for%20Natgateways"> email@murarisumit.in</a> </center>
+    
     <script src="https://giscus.app/client.js"
         data-repo="murarisumit/kbs"
         data-repo-id="MDEwOlJlcG9zaXRvcnkyNjQ2NzYwMzI="
