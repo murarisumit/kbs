@@ -97,11 +97,18 @@
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">aws iam list-users --query Users<span class="o">[</span>*<span class="o">]</span>.<span class="o">[</span>UserName<span class="o">]</span>
-</span></span><span class="line"><span class="cl">aws iam list-users --query <span class="o">[</span>Users<span class="o">[</span>*<span class="o">]</span>.UserName<span class="o">]</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>vs</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">aws iam list-users --query <span class="o">[</span>Users<span class="o">[</span>*<span class="o">]</span>.UserName<span class="o">]</span>
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>For nested <strong>list</strong> object, instead of <code>[*]</code> use <code>[0]</code>(individual item) for single line output.  Like here for <code>CacheClusters[].CacheNodes</code></p>
@@ -114,7 +121,8 @@
 <pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">aws elasticache describe-cache-clusters   --show-cache-node-info --query CacheClusters<span class="o">[]</span>.<span class="o">[</span>CacheClusterId,CacheNodes<span class="o">[</span>0<span class="o">]</span>.Endpoint.Address<span class="o">]</span> --output table
 </span></span></code></pre></td></tr></table>
 </div>
-</div><div class="highlight"><div class="chroma">
+</div><p>vs</p>
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
@@ -148,7 +156,7 @@
 
         
         
-        <a class="resp-sharing-button__link" href="mailto:?subject=Understanding%20Aws%20Cli%20Output%20Text&amp;body=%26ndash%3boutput%3dtext%20will%20print%20everything%20within%20innermost%20%5b%5d%20brackets%20on%20single%20line..%0aTo%20see%20it%20in%20action%20see%20the%20difference%20between%0a1%202%20aws%20iam%20list-users%20--query%20Users%5b%2a%5d.%5bUserName%5d%20aws%20iam%20list-users%20--query%20%5bUsers%5b%2a%5d.UserName%5d%20For%20nested%20list%20object%2c%20instead%20of%20%5b%2a%5d%20use%20%5b0%5d%28individual%20item%29%20for%20single%20line%20output.%20Like%20here%20for%20CacheClusters%5b%5d.CacheNodes%0aTo%20see%20it%20in%20action%20see%20the%20difference%20between%0a1%20aws%20elasticache%20describe-cache-clusters%20--show-cache-node-info%20--query%20CacheClusters%5b%5d.%5bCacheClusterId%2cCacheNodes%5b0%5d.Endpoint.Address%5d%20--output%20table%201%20aws%20elasticache%20describe-cache-clusters%20--show-cache-node-info%20--query%20CacheClusters%5b%5d." target="_self" rel="noopener" aria-label="Share by E-Mail">
+        <a class="resp-sharing-button__link" href="mailto:?subject=Understanding%20Aws%20Cli%20Output%20Text&amp;body=%26ndash%3boutput%3dtext%20will%20print%20everything%20within%20innermost%20%5b%5d%20brackets%20on%20single%20line..%0aTo%20see%20it%20in%20action%20see%20the%20difference%20between%0a1%20aws%20iam%20list-users%20--query%20Users%5b%2a%5d.%5bUserName%5d%20vs%0a1%20aws%20iam%20list-users%20--query%20%5bUsers%5b%2a%5d.UserName%5d%20For%20nested%20list%20object%2c%20instead%20of%20%5b%2a%5d%20use%20%5b0%5d%28individual%20item%29%20for%20single%20line%20output.%20Like%20here%20for%20CacheClusters%5b%5d.CacheNodes%0aTo%20see%20it%20in%20action%20see%20the%20difference%20between%0a1%20aws%20elasticache%20describe-cache-clusters%20--show-cache-node-info%20--query%20CacheClusters%5b%5d.%5bCacheClusterId%2cCacheNodes%5b0%5d.Endpoint.Address%5d%20--output%20table%20vs" target="_self" rel="noopener" aria-label="Share by E-Mail">
             <div class="resp-sharing-button resp-sharing-button--email resp-sharing-button--large"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 4H2C.9 4 0 4.9 0 6v12c0 1.1.9 2 2 2h20c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zM7.25 14.43l-3.5 2c-.08.05-.17.07-.25.07-.17 0-.34-.1-.43-.25-.14-.24-.06-.55.18-.68l3.5-2c.24-.14.55-.06.68.18.14.24.06.55-.18.68zm4.75.07c-.1 0-.2-.03-.27-.08l-8.5-5.5c-.23-.15-.3-.46-.15-.7.15-.22.46-.3.7-.14L12 13.4l8.23-5.32c.23-.15.54-.08.7.15.14.23.07.54-.16.7l-8.5 5.5c-.08.04-.17.07-.27.07zm8.93 1.75c-.1.16-.26.25-.43.25-.08 0-.17-.02-.25-.07l-3.5-2c-.24-.13-.32-.44-.18-.68s.44-.32.68-.18l3.5 2c.24.13.32.44.18.68z"/></svg></div>Share by E-Mail</div>
         </a>
@@ -164,7 +172,7 @@
 </div>
  <br />
 <div>
-    <center>For feedbacks via email: <a href="mailto: email@murarisumit.in?subject=https%3a%2f%2fkbs.murarisumit.in%2f : Understanding%20Aws%20Cli%20Output%20Text"> email@murarisumit.in</a> </center>
+    
     <script src="https://giscus.app/client.js"
         data-repo="murarisumit/kbs"
         data-repo-id="MDEwOlJlcG9zaXRvcnkyNjQ2NzYwMzI="
