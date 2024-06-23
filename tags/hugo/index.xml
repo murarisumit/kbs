@@ -1,130 +1,80 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hugo on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/hugo/</link>
-    <description>Recent content in Hugo on knowledge base</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 15 Aug 2021 07:21:07 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cross Referencing Hugo</title>
-      <link>https://kbs.murarisumit.in/a8aa80afb3e281cf2246df975fef9aa8/</link>
-      <pubDate>Sun, 15 Aug 2021 07:21:07 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/a8aa80afb3e281cf2246df975fef9aa8/</guid>
-      <description>&lt;p&gt;In my blog, have started to cross-refernce now. Hugo has got support for this and designed in such a way that really make sense to me.&lt;/p&gt;
-&lt;p&gt;Documentation for this is here: &lt;a href=&#34;https://gohugo.io/content-management/cross-references/&#34;&gt;https://gohugo.io/content-management/cross-references/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;So to reference some post, you need to know about &lt;strong&gt;file path of that post&lt;/strong&gt;. Proper reading would have made it easier but spent around 2hrs for this stupid things.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The ref and relref shortcodes require a single parameter: the path to a content document, with or without a file extension, with or without an anchor.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Instead of &lt;strong&gt;filepath&lt;/strong&gt; went along with URL of the output file, and wasted all effort there, did all I could and later to realise that linking by URL doesn&amp;rsquo;t even make sense, path makes sense. Even if tomorrow you can permalink style, it won&amp;rsquo;t impact your reference link in hugo.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;{{&amp;lt; ref &amp;quot;path-to-file.md&amp;quot; &amp;gt;}}&lt;/code&gt; or &lt;code&gt;{{&amp;lt; ref &amp;quot;path-to-file&amp;quot; &amp;gt;}}&lt;/code&gt; both work fine&lt;/p&gt;
-&lt;p&gt;So for anchor tags: &lt;code&gt;[text]({{&amp;lt; ref &amp;quot;path-to-file&amp;quot; &amp;gt;}})&lt;/code&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hugo Good Archive Page</title>
-      <link>https://kbs.murarisumit.in/bookmarks/hugo-good-archive-page/</link>
-      <pubDate>Sat, 07 Aug 2021 09:39:45 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/bookmarks/hugo-good-archive-page/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s good archive page style, save time and easy navigation for website. Intent is to make archive page like this.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hugo the Scope the Context and the Dot</title>
-      <link>https://kbs.murarisumit.in/bookmarks/hugo-the-scope-the-context-and-the-dot/</link>
-      <pubDate>Sun, 17 May 2020 18:54:04 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/bookmarks/hugo-the-scope-the-context-and-the-dot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo Tags List</title>
-      <link>https://kbs.murarisumit.in/snippets/hugo-tags-list/</link>
-      <pubDate>Sun, 17 May 2020 18:09:46 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/snippets/hugo-tags-list/</guid>
-      <description>&lt;p&gt;A simple snippet i found to fetch all tags, and still to read it up&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;31
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-golang&#34; data-lang=&#34;golang&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;ne&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Site&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Params&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;TagsInHome&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;randTags&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;:=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;slice&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;range&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;taxonomy&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;:=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Site&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Taxonomies&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;tags&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;randTags&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;randTags&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;append&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;end&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;randTags&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;sort&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;first&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Site&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Params&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;TagsInHome&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;shuffle&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;randTags&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;gt&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;len&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;randTags&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;columns is-centered has-text-centered&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;column is-10&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;content&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;href&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;{{ &amp;#34;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;tags&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34; | relURL }}&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Read&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;articles&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;by&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;tags&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;tags-summary&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                &lt;span class=&#34;p&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;range&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;:=&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;randTags&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;href&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;{{ &amp;#34;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;tags&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34; | relURL }}{{ $name | urlize }}&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                    &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;span&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;tag is-dark is-large is-rounded&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                        &lt;span class=&#34;p&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;replace&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;-&amp;#34;&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34; &amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;title&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                    &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;span&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                &lt;span class=&#34;p&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;end&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;br&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;end&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;end&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;References: &lt;a href=&#34;https://github.com/rafed/ramium/blob/master/layouts/partials/index/tag-bullet.html&#34;&gt;https://github.com/rafed/ramium/blob/master/layouts/partials/index/tag-bullet.html&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on knowledge base</title><link>https://kbs.murarisumit.in/tags/hugo/</link><description>Recent content in Hugo on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 15 Aug 2021 07:21:07 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Cross Referencing Hugo</title><link>https://kbs.murarisumit.in/a8aa80afb3e281cf2246df975fef9aa8/</link><pubDate>Sun, 15 Aug 2021 07:21:07 +0530</pubDate><guid>https://kbs.murarisumit.in/a8aa80afb3e281cf2246df975fef9aa8/</guid><description>&lt;p>In my blog, have started to cross-refernce now. Hugo has got support for this and designed in such a way that really make sense to me.&lt;/p>
+&lt;p>Documentation for this is here: &lt;a href="https://gohugo.io/content-management/cross-references/">https://gohugo.io/content-management/cross-references/&lt;/a>&lt;/p>
+&lt;p>So to reference some post, you need to know about &lt;strong>file path of that post&lt;/strong>. Proper reading would have made it easier but spent around 2hrs for this stupid things.&lt;/p>
+&lt;blockquote>
+&lt;p>The ref and relref shortcodes require a single parameter: the path to a content document, with or without a file extension, with or without an anchor.&lt;/p>
+&lt;/blockquote>
+&lt;p>Instead of &lt;strong>filepath&lt;/strong> went along with URL of the output file, and wasted all effort there, did all I could and later to realise that linking by URL doesn&amp;rsquo;t even make sense, path makes sense. Even if tomorrow you can permalink style, it won&amp;rsquo;t impact your reference link in hugo.&lt;/p>
+&lt;p>&lt;code>{{&amp;lt; ref &amp;quot;path-to-file.md&amp;quot; &amp;gt;}}&lt;/code> or &lt;code>{{&amp;lt; ref &amp;quot;path-to-file&amp;quot; &amp;gt;}}&lt;/code> both work fine&lt;/p>
+&lt;p>So for anchor tags: &lt;code>[text]({{&amp;lt; ref &amp;quot;path-to-file&amp;quot; &amp;gt;}})&lt;/code>&lt;/p></description></item><item><title>Hugo Good Archive Page</title><link>https://kbs.murarisumit.in/bookmarks/hugo-good-archive-page/</link><pubDate>Sat, 07 Aug 2021 09:39:45 +0530</pubDate><guid>https://kbs.murarisumit.in/bookmarks/hugo-good-archive-page/</guid><description>&lt;p>It&amp;rsquo;s good archive page style, save time and easy navigation for website. Intent is to make archive page like this.&lt;/p></description></item><item><title>Hugo the Scope the Context and the Dot</title><link>https://kbs.murarisumit.in/bookmarks/hugo-the-scope-the-context-and-the-dot/</link><pubDate>Sun, 17 May 2020 18:54:04 +0530</pubDate><guid>https://kbs.murarisumit.in/bookmarks/hugo-the-scope-the-context-and-the-dot/</guid><description/></item><item><title>Hugo Tags List</title><link>https://kbs.murarisumit.in/snippets/hugo-tags-list/</link><pubDate>Sun, 17 May 2020 18:09:46 +0530</pubDate><guid>https://kbs.murarisumit.in/snippets/hugo-tags-list/</guid><description>&lt;p>A simple snippet i found to fetch all tags, and still to read it up&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;span class="lnt">30
+&lt;/span>&lt;span class="lnt">31
+&lt;/span>&lt;span class="lnt">32
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-golang" data-lang="golang">&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="k">if&lt;/span> &lt;span class="nx">ne&lt;/span> &lt;span class="p">.&lt;/span>&lt;span class="nx">Site&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">Params&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">TagsInHome&lt;/span> &lt;span class="mi">0&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span> &lt;span class="o">:=&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nx">slice&lt;/span>&lt;span class="p">)}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="k">range&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">name&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">taxonomy&lt;/span> &lt;span class="o">:=&lt;/span> &lt;span class="p">.&lt;/span>&lt;span class="nx">Site&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">Taxonomies&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">tags&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span> &lt;span class="p">|&lt;/span> &lt;span class="nx">append&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">name&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="nx">end&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="nf">sort&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nx">first&lt;/span> &lt;span class="p">.&lt;/span>&lt;span class="nx">Site&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">Params&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nf">TagsInHome&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nx">shuffle&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span>&lt;span class="p">))&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="k">if&lt;/span> &lt;span class="nf">gt&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nx">len&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="mi">1&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">div&lt;/span> &lt;span class="nx">class&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;columns is-centered has-text-centered&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">div&lt;/span> &lt;span class="nx">class&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;column is-10&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">div&lt;/span> &lt;span class="nx">class&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;content&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">a&lt;/span> &lt;span class="nx">href&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;{{ &amp;#34;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">tags&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="s">&amp;#34; | relURL }}&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">h1&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>&lt;span class="nx">Read&lt;/span> &lt;span class="nx">articles&lt;/span> &lt;span class="nx">by&lt;/span> &lt;span class="nx">tags&lt;/span>&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">h1&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">a&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">p&lt;/span> &lt;span class="nx">class&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;tags-summary&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">{{&lt;/span> &lt;span class="k">range&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">name&lt;/span> &lt;span class="o">:=&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">a&lt;/span> &lt;span class="nx">href&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;{{ &amp;#34;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">tags&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="s">&amp;#34; | relURL }}{{ $name | urlize }}&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">span&lt;/span> &lt;span class="nx">class&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;tag is-dark is-large is-rounded&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">{{&lt;/span> &lt;span class="nx">replace&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">name&lt;/span> &lt;span class="s">&amp;#34;-&amp;#34;&lt;/span> &lt;span class="s">&amp;#34; &amp;#34;&lt;/span> &lt;span class="p">|&lt;/span> &lt;span class="nx">title&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">span&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">a&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">{{&lt;/span> &lt;span class="nx">end&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">div&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">div&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">div&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">br&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="nx">end&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="nx">end&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>References: &lt;a href="https://github.com/rafed/ramium/blob/master/layouts/partials/index/tag-bullet.html">https://github.com/rafed/ramium/blob/master/layouts/partials/index/tag-bullet.html&lt;/a>&lt;/p></description></item></channel></rss>

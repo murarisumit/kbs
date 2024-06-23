@@ -1,26 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dac on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/dac/</link>
-    <description>Recent content in Dac on knowledge base</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2020 08:20:54 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/dac/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Intro to DAC</title>
-      <link>https://kbs.murarisumit.in/tils/intro-to-dac/</link>
-      <pubDate>Mon, 20 Jul 2020 08:20:54 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tils/intro-to-dac/</guid>
-      <description>&lt;p&gt;It all started from here and bit before, but this was final trigger for me to write: &lt;a href=&#34;https://www.youtube.com/watch?v=Dhrv-O9sivI&#34;&gt;https://www.youtube.com/watch?v=Dhrv-O9sivI&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;DAC stands for Digital to Analog convertor.&lt;/p&gt;
-&lt;p&gt;So music we store in USB or CD is stored in digital medium, and music is analog we hear, so we need some component to convert it to analog, and that&amp;rsquo;s DAC.&lt;/p&gt;
-&lt;p&gt;There are lots of DAC available as he says, our laptops, our mobile which output sound has some DAC inbuilt into it, but there are some &amp;ldquo;high-end&amp;rdquo; where we can attached external DACs too.&lt;/p&gt;
-&lt;p&gt;One advice he gives: Don&amp;rsquo;t by DAC which plays some some unicorn format or some high res it plays but more for the sound quality it outputs.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dac on knowledge base</title><link>https://kbs.murarisumit.in/tags/dac/</link><description>Recent content in Dac on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 20 Jul 2020 08:20:54 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/dac/index.xml" rel="self" type="application/rss+xml"/><item><title>Intro to DAC</title><link>https://kbs.murarisumit.in/tils/intro-to-dac/</link><pubDate>Mon, 20 Jul 2020 08:20:54 +0530</pubDate><guid>https://kbs.murarisumit.in/tils/intro-to-dac/</guid><description>&lt;p>It all started from here and bit before, but this was final trigger for me to write: &lt;a href="https://www.youtube.com/watch?v=Dhrv-O9sivI">https://www.youtube.com/watch?v=Dhrv-O9sivI&lt;/a>&lt;/p>
+&lt;p>DAC stands for Digital to Analog convertor.&lt;/p>
+&lt;p>So music we store in USB or CD is stored in digital medium, and music is analog we hear, so we need some component to convert it to analog, and that&amp;rsquo;s DAC.&lt;/p>
+&lt;p>There are lots of DAC available as he says, our laptops, our mobile which output sound has some DAC inbuilt into it, but there are some &amp;ldquo;high-end&amp;rdquo; where we can attached external DACs too.&lt;/p>
+&lt;p>One advice he gives: Don&amp;rsquo;t by DAC which plays some some unicorn format or some high res it plays but more for the sound quality it outputs.&lt;/p></description></item></channel></rss>

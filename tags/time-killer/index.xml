@@ -1,26 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Time-Killer on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/time-killer/</link>
-    <description>Recent content in Time-Killer on knowledge base</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 27 Jul 2021 17:05:47 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/time-killer/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Linus Interview Linuxcon North America 2016</title>
-      <link>https://kbs.murarisumit.in/bookmarks/linus-interview-linuxcon-north-america-2016/</link>
-      <pubDate>Tue, 27 Jul 2021 17:05:47 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/bookmarks/linus-interview-linuxcon-north-america-2016/</guid>
-      <description>&lt;p&gt;Linus interviews are always fun to watch. One of favorite past-time activity for me. Loved watching it. Keeping them here.&lt;/p&gt;
-&lt;p&gt;One good comment mentioned one simple/funny thing in interview&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;in early MVP version of linux the disk sectors were hard coded&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Time-Killer on knowledge base</title><link>https://kbs.murarisumit.in/tags/time-killer/</link><description>Recent content in Time-Killer on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 27 Jul 2021 17:05:47 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/time-killer/index.xml" rel="self" type="application/rss+xml"/><item><title>Linus Interview Linuxcon North America 2016</title><link>https://kbs.murarisumit.in/bookmarks/linus-interview-linuxcon-north-america-2016/</link><pubDate>Tue, 27 Jul 2021 17:05:47 +0530</pubDate><guid>https://kbs.murarisumit.in/bookmarks/linus-interview-linuxcon-north-america-2016/</guid><description>&lt;p>Linus interviews are always fun to watch. One of favorite past-time activity for me. Loved watching it. Keeping them here.&lt;/p>
+&lt;p>One good comment mentioned one simple/funny thing in interview&lt;/p>
+&lt;blockquote>
+&lt;p>in early MVP version of linux the disk sectors were hard coded&lt;/p>
+&lt;/blockquote></description></item></channel></rss>

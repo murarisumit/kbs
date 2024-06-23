@@ -1,55 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Utils on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/utils/</link>
-    <description>Recent content in Utils on knowledge base</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2020 20:22:24 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/utils/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Strace Command Snippets</title>
-      <link>https://kbs.murarisumit.in/tils/strace-command-snippets/</link>
-      <pubDate>Wed, 29 Jul 2020 20:22:24 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tils/strace-command-snippets/</guid>
-      <description>&lt;p&gt;Strace is really nice command to see what system calls are being used, it&amp;rsquo;s primary used as debugging tools for linux system calls&lt;/p&gt;
-&lt;p&gt;Q: &lt;strong&gt;What is a &amp;ldquo;system call&amp;rdquo;&lt;/strong&gt; ?&lt;/p&gt;
-&lt;p&gt;A: System calls are interface via which user-space program interact with system using linux kernel.&lt;/p&gt;
-&lt;p&gt;So kernel is core that manages the system and talks and knows about hardware. Application don&amp;rsquo;t directly talk to hardware, they talk to kernel via some exposed interfaces(open, exec etc.).&lt;/p&gt;
-&lt;p&gt;Q: &lt;strong&gt;What is user-space and are there any other spaces&lt;/strong&gt; ?&lt;/p&gt;
-&lt;p&gt;A: Yes we have user-space and kernel-space&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Kernel-space where only kernel is privileged to access memory or perform operation similarly&lt;/li&gt;
-&lt;li&gt;User-space where user is allowed to access memory or perform operation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;For longer and more accurate answer &lt;a href=&#34;https://unix.stackexchange.com/a/368313&#34;&gt;https://unix.stackexchange.com/a/368313&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;below-are-some-samples&#34;&gt;Below are some samples&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;First sample usage: &lt;code&gt;strace ls -l&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;To dump output to a file: &lt;code&gt;strace -o output.txt ls -l&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;To get count of syscall: &lt;code&gt;strace -c ls -l&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;To get specific syscall: &lt;code&gt;strace -e open ls -l&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;To get timestamp for each syscall: &lt;code&gt;strace -t ls -l&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Reference:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://strace.io/&#34;&gt;https://strace.io/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EG0ihttnEJI&#34;&gt;https://www.youtube.com/watch?v=EG0ihttnEJI&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Utils on knowledge base</title><link>https://kbs.murarisumit.in/tags/utils/</link><description>Recent content in Utils on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 29 Jul 2020 20:22:24 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/utils/index.xml" rel="self" type="application/rss+xml"/><item><title>Strace Command Snippets</title><link>https://kbs.murarisumit.in/tils/strace-command-snippets/</link><pubDate>Wed, 29 Jul 2020 20:22:24 +0530</pubDate><guid>https://kbs.murarisumit.in/tils/strace-command-snippets/</guid><description>&lt;p>Strace is really nice command to see what system calls are being used, it&amp;rsquo;s primary used as debugging tools for linux system calls&lt;/p>
+&lt;p>Q: &lt;strong>What is a &amp;ldquo;system call&amp;rdquo;&lt;/strong> ?&lt;/p>
+&lt;p>A: System calls are interface via which user-space program interact with system using linux kernel.&lt;/p>
+&lt;p>So kernel is core that manages the system and talks and knows about hardware. Application don&amp;rsquo;t directly talk to hardware, they talk to kernel via some exposed interfaces(open, exec etc.).&lt;/p>
+&lt;p>Q: &lt;strong>What is user-space and are there any other spaces&lt;/strong> ?&lt;/p>
+&lt;p>A: Yes we have user-space and kernel-space&lt;/p>
+&lt;ul>
+&lt;li>Kernel-space where only kernel is privileged to access memory or perform operation similarly&lt;/li>
+&lt;li>User-space where user is allowed to access memory or perform operation&lt;/li>
+&lt;/ul>
+&lt;p>For longer and more accurate answer &lt;a href="https://unix.stackexchange.com/a/368313">https://unix.stackexchange.com/a/368313&lt;/a>&lt;/p>
+&lt;h4 id="below-are-some-samples">Below are some samples&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>First sample usage: &lt;code>strace ls -l&lt;/code>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>To dump output to a file: &lt;code>strace -o output.txt ls -l&lt;/code>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>To get count of syscall: &lt;code>strace -c ls -l&lt;/code>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>To get specific syscall: &lt;code>strace -e open ls -l&lt;/code>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>To get timestamp for each syscall: &lt;code>strace -t ls -l&lt;/code>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Reference:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://strace.io/">https://strace.io/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=EG0ihttnEJI">https://www.youtube.com/watch?v=EG0ihttnEJI&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,34 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Nicolasgallagher.com on knowledge base</title>
-    <link>https://kbs.murarisumit.in/sites/nicolasgallagher.com/</link>
-    <description>Recent content in Nicolasgallagher.com on knowledge base</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 24 May 2020 23:23:53 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/nicolasgallagher.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Why Normalize CSS</title>
-      <link>https://kbs.murarisumit.in/bookmarks/why-normalize/</link>
-      <pubDate>Sun, 24 May 2020 23:23:53 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/bookmarks/why-normalize/</guid>
-      <description>&lt;p&gt;Normalize.css is a small CSS file that provides better cross-browser consistency in the default styling of HTML elements. It’s a modern, HTML5-ready, alternative to the traditional CSS reset.&lt;/p&gt;
-&lt;p&gt;The aims of normalize.css are as follows:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Preserve useful browser defaults rather than erasing them.&lt;/li&gt;
-&lt;li&gt;Normalize styles for a wide range of HTML elements.&lt;/li&gt;
-&lt;li&gt;Correct bugs and common browser inconsistencies.&lt;/li&gt;
-&lt;li&gt;Improve usability with subtle improvements.&lt;/li&gt;
-&lt;li&gt;Explain the code using comments and detailed documentation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;how-to-use-normalizecss&#34;&gt;How to use normalize.css&lt;/h3&gt;
-&lt;p&gt;First, install or download &lt;a href=&#34;http://necolas.github.io/normalize.css/&#34;&gt;http://necolas.github.io/normalize.css/&lt;/a&gt; from GitHub. There are then 2 main ways to make use of it.&lt;/p&gt;
-&lt;p&gt;Approach 1: use normalize.css as a starting point for your own project’s base CSS, customising the values to match the design’s requirements.&lt;/p&gt;
-&lt;p&gt;Approach 2: include normalize.css untouched and build upon it, overriding the defaults later in your CSS if necessary.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nicolasgallagher.com on knowledge base</title><link>https://kbs.murarisumit.in/sites/nicolasgallagher.com/</link><description>Recent content in Nicolasgallagher.com on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 24 May 2020 23:23:53 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/nicolasgallagher.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Why Normalize CSS</title><link>https://kbs.murarisumit.in/bookmarks/why-normalize/</link><pubDate>Sun, 24 May 2020 23:23:53 +0530</pubDate><guid>https://kbs.murarisumit.in/bookmarks/why-normalize/</guid><description>&lt;p>Normalize.css is a small CSS file that provides better cross-browser consistency in the default styling of HTML elements. It’s a modern, HTML5-ready, alternative to the traditional CSS reset.&lt;/p>
+&lt;p>The aims of normalize.css are as follows:&lt;/p>
+&lt;ul>
+&lt;li>Preserve useful browser defaults rather than erasing them.&lt;/li>
+&lt;li>Normalize styles for a wide range of HTML elements.&lt;/li>
+&lt;li>Correct bugs and common browser inconsistencies.&lt;/li>
+&lt;li>Improve usability with subtle improvements.&lt;/li>
+&lt;li>Explain the code using comments and detailed documentation.&lt;/li>
+&lt;/ul>
+&lt;h3 id="how-to-use-normalizecss">How to use normalize.css&lt;/h3>
+&lt;p>First, install or download &lt;a href="http://necolas.github.io/normalize.css/">http://necolas.github.io/normalize.css/&lt;/a> from GitHub. There are then 2 main ways to make use of it.&lt;/p>
+&lt;p>Approach 1: use normalize.css as a starting point for your own project’s base CSS, customising the values to match the design’s requirements.&lt;/p>
+&lt;p>Approach 2: include normalize.css untouched and build upon it, overriding the defaults later in your CSS if necessary.&lt;/p></description></item></channel></rss>

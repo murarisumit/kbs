@@ -1,114 +1,73 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Css on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/css/</link>
-    <description>Recent content in Css on knowledge base</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2020 13:42:43 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/css/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CSS id vs class</title>
-      <link>https://kbs.murarisumit.in/tils/css-id-vs-class/</link>
-      <pubDate>Mon, 01 Jun 2020 13:42:43 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tils/css-id-vs-class/</guid>
-      <description>&lt;p&gt;Simple CSS question while working on resume project, is when to use id and when to use class.&lt;/p&gt;
-&lt;p&gt;First thing to know about IDs:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;IDs are unique&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Browser knows a bit about IDs, this ID is what we see in &lt;a href=&#34;https://web.archive.org/web/20200428074032/https://blog.httpwatch.com/2011/03/01/6-things-you-should-know-about-fragment-urls/&#34;&gt;fragment or hash-value&lt;/a&gt;. Browser uses this to reach parts various part of repo. So it has to be unique.&lt;/p&gt;
-&lt;p&gt;For css it doesn&amp;rsquo;t matter it applies stying if you ask by &lt;code&gt;#id_name&lt;/code&gt; or &lt;code&gt;.class_name&lt;/code&gt; but browser wants ID to be unique.&lt;/p&gt;
-&lt;p&gt;So it one style has to be used on multiple elements then use &lt;code&gt;class&lt;/code&gt; if yoou want to use it only once them go for &lt;code&gt;id&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;For more you can read this post: &lt;a href=&#34;https://web.archive.org/web/20140831165401/http://css-tricks.com/the-difference-between-id-and-class/&#34;&gt;https://web.archive.org/web/20140831165401/http://css-tricks.com/the-difference-between-id-and-class/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Why Normalize CSS</title>
-      <link>https://kbs.murarisumit.in/bookmarks/why-normalize/</link>
-      <pubDate>Sun, 24 May 2020 23:23:53 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/bookmarks/why-normalize/</guid>
-      <description>&lt;p&gt;Normalize.css is a small CSS file that provides better cross-browser consistency in the default styling of HTML elements. It’s a modern, HTML5-ready, alternative to the traditional CSS reset.&lt;/p&gt;
-&lt;p&gt;The aims of normalize.css are as follows:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Preserve useful browser defaults rather than erasing them.&lt;/li&gt;
-&lt;li&gt;Normalize styles for a wide range of HTML elements.&lt;/li&gt;
-&lt;li&gt;Correct bugs and common browser inconsistencies.&lt;/li&gt;
-&lt;li&gt;Improve usability with subtle improvements.&lt;/li&gt;
-&lt;li&gt;Explain the code using comments and detailed documentation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;how-to-use-normalizecss&#34;&gt;How to use normalize.css&lt;/h3&gt;
-&lt;p&gt;First, install or download &lt;a href=&#34;http://necolas.github.io/normalize.css/&#34;&gt;http://necolas.github.io/normalize.css/&lt;/a&gt; from GitHub. There are then 2 main ways to make use of it.&lt;/p&gt;
-&lt;p&gt;Approach 1: use normalize.css as a starting point for your own project’s base CSS, customising the values to match the design’s requirements.&lt;/p&gt;
-&lt;p&gt;Approach 2: include normalize.css untouched and build upon it, overriding the defaults later in your CSS if necessary.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Change Orientation of an Image</title>
-      <link>https://kbs.murarisumit.in/tils/change-orientation-of-an-image/</link>
-      <pubDate>Sun, 17 May 2020 17:30:23 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tils/change-orientation-of-an-image/</guid>
-      <description>&lt;p&gt;A single-line CSS transform is all it takes to change the orientation of an
-image (or any DOM element, really).&lt;/p&gt;
-&lt;p&gt;For instance, if I have an image that is &lt;em&gt;on its side&lt;/em&gt;, I can use the following
-&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate&#34;&gt;&lt;code&gt;rotate&lt;/code&gt;
-transform&lt;/a&gt;
-to orient it correctly.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;img&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;transform&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;rotate&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;90&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;deg&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;Testing you babay&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;os&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;os&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;path&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;join&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;hr&gt;
-&lt;p&gt;Go hello world&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-golang&#34; data-lang=&#34;golang&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fmt&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;fmt&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;Println&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;hello world&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;It takes an angle which can be specified in degrees. Here I use &lt;code&gt;90deg&lt;/code&gt;. If I
-was going for a different effect, I could do something like &lt;code&gt;45deg&lt;/code&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Css on knowledge base</title><link>https://kbs.murarisumit.in/tags/css/</link><description>Recent content in Css on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 01 Jun 2020 13:42:43 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/css/index.xml" rel="self" type="application/rss+xml"/><item><title>CSS id vs class</title><link>https://kbs.murarisumit.in/tils/css-id-vs-class/</link><pubDate>Mon, 01 Jun 2020 13:42:43 +0530</pubDate><guid>https://kbs.murarisumit.in/tils/css-id-vs-class/</guid><description>&lt;p>Simple CSS question while working on resume project, is when to use id and when to use class.&lt;/p>
+&lt;p>First thing to know about IDs:&lt;/p>
+&lt;blockquote>
+&lt;p>IDs are unique&lt;/p>
+&lt;/blockquote>
+&lt;p>Browser knows a bit about IDs, this ID is what we see in &lt;a href="https://web.archive.org/web/20200428074032/https://blog.httpwatch.com/2011/03/01/6-things-you-should-know-about-fragment-urls/">fragment or hash-value&lt;/a>. Browser uses this to reach parts various part of repo. So it has to be unique.&lt;/p>
+&lt;p>For css it doesn&amp;rsquo;t matter it applies stying if you ask by &lt;code>#id_name&lt;/code> or &lt;code>.class_name&lt;/code> but browser wants ID to be unique.&lt;/p>
+&lt;p>So it one style has to be used on multiple elements then use &lt;code>class&lt;/code> if yoou want to use it only once them go for &lt;code>id&lt;/code>&lt;/p>
+&lt;p>For more you can read this post: &lt;a href="https://web.archive.org/web/20140831165401/http://css-tricks.com/the-difference-between-id-and-class/">https://web.archive.org/web/20140831165401/http://css-tricks.com/the-difference-between-id-and-class/&lt;/a>&lt;/p></description></item><item><title>Why Normalize CSS</title><link>https://kbs.murarisumit.in/bookmarks/why-normalize/</link><pubDate>Sun, 24 May 2020 23:23:53 +0530</pubDate><guid>https://kbs.murarisumit.in/bookmarks/why-normalize/</guid><description>&lt;p>Normalize.css is a small CSS file that provides better cross-browser consistency in the default styling of HTML elements. It’s a modern, HTML5-ready, alternative to the traditional CSS reset.&lt;/p>
+&lt;p>The aims of normalize.css are as follows:&lt;/p>
+&lt;ul>
+&lt;li>Preserve useful browser defaults rather than erasing them.&lt;/li>
+&lt;li>Normalize styles for a wide range of HTML elements.&lt;/li>
+&lt;li>Correct bugs and common browser inconsistencies.&lt;/li>
+&lt;li>Improve usability with subtle improvements.&lt;/li>
+&lt;li>Explain the code using comments and detailed documentation.&lt;/li>
+&lt;/ul>
+&lt;h3 id="how-to-use-normalizecss">How to use normalize.css&lt;/h3>
+&lt;p>First, install or download &lt;a href="http://necolas.github.io/normalize.css/">http://necolas.github.io/normalize.css/&lt;/a> from GitHub. There are then 2 main ways to make use of it.&lt;/p>
+&lt;p>Approach 1: use normalize.css as a starting point for your own project’s base CSS, customising the values to match the design’s requirements.&lt;/p>
+&lt;p>Approach 2: include normalize.css untouched and build upon it, overriding the defaults later in your CSS if necessary.&lt;/p></description></item><item><title>Change Orientation of an Image</title><link>https://kbs.murarisumit.in/tils/change-orientation-of-an-image/</link><pubDate>Sun, 17 May 2020 17:30:23 +0530</pubDate><guid>https://kbs.murarisumit.in/tils/change-orientation-of-an-image/</guid><description>&lt;p>A single-line CSS transform is all it takes to change the orientation of an
+image (or any DOM element, really).&lt;/p>
+&lt;p>For instance, if I have an image that is &lt;em>on its side&lt;/em>, I can use the following
+&lt;a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate">&lt;code>rotate&lt;/code>
+transform&lt;/a>
+to orient it correctly.&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-css" data-lang="css">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">img&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">transform&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="nb">rotate&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">90&lt;/span>&lt;span class="kt">deg&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>Testing you babay&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">os&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">os&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">path&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">join&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;hr>
+&lt;p>Go hello world&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-golang" data-lang="golang">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s">&amp;#34;fmt&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kd">func&lt;/span> &lt;span class="nf">main&lt;/span>&lt;span class="p">()&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">fmt&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nf">Println&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s">&amp;#34;hello world&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>It takes an angle which can be specified in degrees. Here I use &lt;code>90deg&lt;/code>. If I
+was going for a different effect, I could do something like &lt;code>45deg&lt;/code>.&lt;/p></description></item></channel></rss>

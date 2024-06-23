@@ -1,57 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Decisions on knowledge base</title>
-    <link>https://kbs.murarisumit.in/category/decisions/</link>
-    <description>Recent content in Decisions on knowledge base</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 12 Aug 2021 17:29:07 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/category/decisions/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Moving From Human Friendly Urls to Ugly Uuid</title>
-      <link>https://kbs.murarisumit.in/c0e91193f16d7899b44017706767cfb1/</link>
-      <pubDate>Thu, 12 Aug 2021 17:29:07 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/c0e91193f16d7899b44017706767cfb1/</guid>
-      <description>&lt;p&gt;Human friendly url&lt;/p&gt;
-&lt;p&gt;Advantage:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Easy for human to read(obivious)&lt;/li&gt;
-&lt;li&gt;Probably better for search engines to get results(who know anyways, it would make sense having URL as params to search result imo)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Disadvantage:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Values have to fixed, not modification(important for me).
-&lt;ul&gt;
-&lt;li&gt;Still structure are not fixed for me, so don&amp;rsquo;t want to tie myself with title or path or director.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Cross-referencing become difficult&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Cross referencing is important to me, and with keeping other param than UUID would be difficult to maintain, as it might break URL on this website(which is last thing I want), hence opting to machine generated &lt;a href=&#34;https://discourse.gohugo.io/t/generating-a-unique-number-or-string/7930/6&#34;&gt;unique ID from hugo&lt;/a&gt; i.e. &lt;code&gt;{{ .File.UniqueID }}&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Personally for me &lt;a href=&#34;https://kbs.murarisumit.in/tags/&#34;&gt;tags&lt;/a&gt; are preferred way to find similar topics, if anyone else other than me is looking at this website.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Why Stopping Vim Now</title>
-      <link>https://kbs.murarisumit.in/decisions/why-stopping-vim-now/</link>
-      <pubDate>Sun, 31 May 2020 15:15:50 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/decisions/why-stopping-vim-now/</guid>
-      <description>&lt;p&gt;While learning more about tools for the trade, vim was the tool that was thrown at me a lot. This tool took a long time, because I went the wrong route and was trying to use it as IDE not how it was intended.&lt;/p&gt;
-&lt;p&gt;The way I started was at first, moved to config and plugin, instead of getting comfortable with vim-help, docs or core-vim without any setting.&lt;/p&gt;
-&lt;p&gt;I learnt a few things here like vim-fugitive, it&amp;rsquo;s a great plugin, and alone it makes vim a treat to use. It makes my git usage very easy, staging and selecting hunks became easy for me.&lt;/p&gt;
-&lt;p&gt;It works well for go and python and go still once in a while, but I still have to struggle with vim to get it work for me. I tend to spend time in my vim rather than working on problems.&lt;/p&gt;
-&lt;p&gt;It became more evident to me when I was watching a youtube video on binary exploitation series &lt;a href=&#34;https://www.youtube.com/watch?v=3NTXFUxcKPc&amp;list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN&amp;index=7&#34;&gt;https://www.youtube.com/watch?v=3NTXFUxcKPc&amp;list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN&amp;index=7&lt;/a&gt;, and came across this tool &lt;a href=&#34;https://github.com/radare/radare2&#34;&gt;https://github.com/radare/radare2&lt;/a&gt;. It seemed similar to vim, and I thought for beginners the tools should be secondary but playing with art is more important.&lt;/p&gt;
-&lt;p&gt;I found similarities with learning badminton and drawing, focus on badminton as skill was more important. Focussed more on playing badminton, picked up any badminton racket and knew badminton racket wasn&amp;rsquo;t the bottleneck, my skills were. This was very evident to me, and was completely aware of that fact. People around me were buying head-heavy rackets, branded expensive rackets, for me 5min google and found a simple racket and just worked with that, nothing more.&lt;/p&gt;
-&lt;p&gt;Same went with the drawing course that I took on udemy, I just picked a simple pencil, rubber and eraser and started working on skill, instead of focusing on the tool. Instead of blue pencil and different type of pencils.&lt;/p&gt;
-&lt;p&gt;But for a job, focussing on vim, is much trouble, it does things in an odd way, you need to learn it. It&amp;rsquo;s probably good for masters but for people like where bottleneck isn&amp;rsquo;t IDE but my skills focus should be on enhancing skills rather than tools for me.&lt;/p&gt;
-&lt;p&gt;Tools do matter to me, tmux is one fantastic tool which I&amp;rsquo;ve picked up and I love to core. It&amp;rsquo;s a beautiful tool to me.&lt;/p&gt;
-&lt;p&gt;So I will focus more on skills, like it worked for badminton and drawing will focus on creating products and instead of fighting with the system to get things done.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Decisions on knowledge base</title><link>https://kbs.murarisumit.in/category/decisions/</link><description>Recent content in Decisions on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 12 Aug 2021 17:29:07 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/category/decisions/index.xml" rel="self" type="application/rss+xml"/><item><title>Moving From Human Friendly Urls to Ugly Uuid</title><link>https://kbs.murarisumit.in/c0e91193f16d7899b44017706767cfb1/</link><pubDate>Thu, 12 Aug 2021 17:29:07 +0530</pubDate><guid>https://kbs.murarisumit.in/c0e91193f16d7899b44017706767cfb1/</guid><description>&lt;p>Human friendly url&lt;/p>
+&lt;p>Advantage:&lt;/p>
+&lt;ul>
+&lt;li>Easy for human to read(obivious)&lt;/li>
+&lt;li>Probably better for search engines to get results(who know anyways, it would make sense having URL as params to search result imo)&lt;/li>
+&lt;/ul>
+&lt;p>Disadvantage:&lt;/p>
+&lt;ul>
+&lt;li>Values have to fixed, not modification(important for me).
+&lt;ul>
+&lt;li>Still structure are not fixed for me, so don&amp;rsquo;t want to tie myself with title or path or director.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Cross-referencing become difficult&lt;/li>
+&lt;/ul>
+&lt;p>Cross referencing is important to me, and with keeping other param than UUID would be difficult to maintain, as it might break URL on this website(which is last thing I want), hence opting to machine generated &lt;a href="https://discourse.gohugo.io/t/generating-a-unique-number-or-string/7930/6">unique ID from hugo&lt;/a> i.e. &lt;code>{{ .File.UniqueID }}&lt;/code>.&lt;/p>
+&lt;p>Personally for me &lt;a href="https://kbs.murarisumit.in/tags/">tags&lt;/a> are preferred way to find similar topics, if anyone else other than me is looking at this website.&lt;/p></description></item><item><title>Why Stopping Vim Now</title><link>https://kbs.murarisumit.in/decisions/why-stopping-vim-now/</link><pubDate>Sun, 31 May 2020 15:15:50 +0530</pubDate><guid>https://kbs.murarisumit.in/decisions/why-stopping-vim-now/</guid><description>&lt;p>While learning more about tools for the trade, vim was the tool that was thrown at me a lot. This tool took a long time, because I went the wrong route and was trying to use it as IDE not how it was intended.&lt;/p>
+&lt;p>The way I started was at first, moved to config and plugin, instead of getting comfortable with vim-help, docs or core-vim without any setting.&lt;/p>
+&lt;p>I learnt a few things here like vim-fugitive, it&amp;rsquo;s a great plugin, and alone it makes vim a treat to use. It makes my git usage very easy, staging and selecting hunks became easy for me.&lt;/p>
+&lt;p>It works well for go and python and go still once in a while, but I still have to struggle with vim to get it work for me. I tend to spend time in my vim rather than working on problems.&lt;/p>
+&lt;p>It became more evident to me when I was watching a youtube video on binary exploitation series &lt;a href="https://www.youtube.com/watch?v=3NTXFUxcKPc&amp;list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN&amp;index=7">https://www.youtube.com/watch?v=3NTXFUxcKPc&amp;list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN&amp;index=7&lt;/a>, and came across this tool &lt;a href="https://github.com/radare/radare2">https://github.com/radare/radare2&lt;/a>. It seemed similar to vim, and I thought for beginners the tools should be secondary but playing with art is more important.&lt;/p>
+&lt;p>I found similarities with learning badminton and drawing, focus on badminton as skill was more important. Focussed more on playing badminton, picked up any badminton racket and knew badminton racket wasn&amp;rsquo;t the bottleneck, my skills were. This was very evident to me, and was completely aware of that fact. People around me were buying head-heavy rackets, branded expensive rackets, for me 5min google and found a simple racket and just worked with that, nothing more.&lt;/p>
+&lt;p>Same went with the drawing course that I took on udemy, I just picked a simple pencil, rubber and eraser and started working on skill, instead of focusing on the tool. Instead of blue pencil and different type of pencils.&lt;/p>
+&lt;p>But for a job, focussing on vim, is much trouble, it does things in an odd way, you need to learn it. It&amp;rsquo;s probably good for masters but for people like where bottleneck isn&amp;rsquo;t IDE but my skills focus should be on enhancing skills rather than tools for me.&lt;/p>
+&lt;p>Tools do matter to me, tmux is one fantastic tool which I&amp;rsquo;ve picked up and I love to core. It&amp;rsquo;s a beautiful tool to me.&lt;/p>
+&lt;p>So I will focus more on skills, like it worked for badminton and drawing will focus on creating products and instead of fighting with the system to get things done.&lt;/p></description></item></channel></rss>

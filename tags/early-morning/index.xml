@@ -1,101 +1,80 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Early-Morning on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/early-morning/</link>
-    <description>Recent content in Early-Morning on knowledge base</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 27 Aug 2021 10:59:21 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/early-morning/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How to Wake Up Early</title>
-      <link>https://kbs.murarisumit.in/f2bc54ae2871f124a8777721f4ab3446/</link>
-      <pubDate>Fri, 27 Aug 2021 10:59:21 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/f2bc54ae2871f124a8777721f4ab3446/</guid>
-      <description>&lt;p&gt;His blog post, keeping here for my reference:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;One of the most frequently asked questions to me is: “How do you manage to wake up early?”
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Logic says several answers to it:
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    Keep your workout gear next to your bed
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    Alarm clock in another room
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    Burpees on waking up, etc.
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;All of these work, until they don’t.
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;The true question to address is “How to sleep on time?”
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;If you’re sleeping at 11 and want to wake up at 4, the motivation will certainly stop on Day 4.
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;What if we get a night-time schedule, that makes it impossible to sleep late? Something like:
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    Having dinner 2-3 hours prior to planned bed time
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    Spending time doing activities that relax you
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    Planning for the next day
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;It turns out, if we turn to twist the outputs without changing the inputs, the motivation won’t lasts.
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;The more we strive to get the inputs right, the more the outputs automatically take care of themselves.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;Can attest to it, this has been the only thing working for me. If I sleep late, then its better to assume that mornings are gone now, nothing can be done, take it as holiday tomorrow. This also cements the idea in me that &lt;code&gt;my today defines my tomorrow&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Mornings are the most beautiful and productive part of the day, and following is my routine, it might help you.&lt;/p&gt;
-&lt;p&gt;Yesterday night&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Have dinner by 6:30-7:00 and if it&amp;rsquo;s late go for a fruit diet.&lt;/li&gt;
-&lt;li&gt;Read books, listen to music, enjoy time with family, and basically spend time doing activities that relax you (as ankur mentioned).&lt;/li&gt;
-&lt;li&gt;Having milk before sleeping with turmeric is good. Somehow flavour is good to me, also a &lt;a href=&#34;https://en.wikipedia.org/wiki/Dosha&#34;&gt;khapa guy&lt;/a&gt;, so that works for me, might now work for you.&lt;/li&gt;
-&lt;li&gt;Plan things for tomorrow.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Mornings&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Wake up by 3:30/4/4:30, pick tasks you&amp;rsquo;ve planned and chop them off. You get beautiful those feel-good feelings.&lt;/li&gt;
-&lt;li&gt;Go and see the sun rise, for me it&amp;rsquo;s beautiful and other &lt;a href=&#34;https://www.thesaurus.com/browse/beautiful&#34;&gt;adjectives&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Exercise after saying &lt;strong&gt;hi&lt;/strong&gt; to the sun.&lt;/li&gt;
-&lt;li&gt;Cook food and be happy as you are so lucky to have that.&lt;/li&gt;
-&lt;li&gt;Before eating, take a bath and freshen up.&lt;/li&gt;
-&lt;li&gt;Eat food and now the day starts for me.&lt;/li&gt;
-&lt;li&gt;Plan is to add morning prayers into this, but don&amp;rsquo;t have a pooja room in the house(have to do something for it.)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Afternoon&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This time is sold to someone else for money(sad but that&amp;rsquo;s case for now[27-Aug-2021])&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If I sleep late,&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;No fun mornings, admitting I have missed all of that for today.&lt;/li&gt;
-&lt;li&gt;No alarm, but body sleep is important to me, no alarm to disturb it. Have done my deeds. It&amp;rsquo;s fine, let this morning go. Nothing can be done about it.&lt;/li&gt;
-&lt;li&gt;If you can try to do something meaningful during the day, do that and remember most importantly sleep on time to enjoy your next morning.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Early-Morning on knowledge base</title><link>https://kbs.murarisumit.in/tags/early-morning/</link><description>Recent content in Early-Morning on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 27 Aug 2021 10:59:21 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/early-morning/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Wake Up Early</title><link>https://kbs.murarisumit.in/f2bc54ae2871f124a8777721f4ab3446/</link><pubDate>Fri, 27 Aug 2021 10:59:21 +0530</pubDate><guid>https://kbs.murarisumit.in/f2bc54ae2871f124a8777721f4ab3446/</guid><description>&lt;p>His blog post, keeping here for my reference:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">One of the most frequently asked questions to me is: “How do you manage to wake up early?”
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Logic says several answers to it:
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> Keep your workout gear next to your bed
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> Alarm clock in another room
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> Burpees on waking up, etc.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">All of these work, until they don’t.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">The true question to address is “How to sleep on time?”
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">If you’re sleeping at 11 and want to wake up at 4, the motivation will certainly stop on Day 4.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">What if we get a night-time schedule, that makes it impossible to sleep late? Something like:
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> Having dinner 2-3 hours prior to planned bed time
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> Spending time doing activities that relax you
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> Planning for the next day
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">It turns out, if we turn to twist the outputs without changing the inputs, the motivation won’t lasts.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">The more we strive to get the inputs right, the more the outputs automatically take care of themselves.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>Can attest to it, this has been the only thing working for me. If I sleep late, then its better to assume that mornings are gone now, nothing can be done, take it as holiday tomorrow. This also cements the idea in me that &lt;code>my today defines my tomorrow&lt;/code>.&lt;/p>
+&lt;p>Mornings are the most beautiful and productive part of the day, and following is my routine, it might help you.&lt;/p>
+&lt;p>Yesterday night&lt;/p>
+&lt;ul>
+&lt;li>Have dinner by 6:30-7:00 and if it&amp;rsquo;s late go for a fruit diet.&lt;/li>
+&lt;li>Read books, listen to music, enjoy time with family, and basically spend time doing activities that relax you (as ankur mentioned).&lt;/li>
+&lt;li>Having milk before sleeping with turmeric is good. Somehow flavour is good to me, also a &lt;a href="https://en.wikipedia.org/wiki/Dosha">khapa guy&lt;/a>, so that works for me, might now work for you.&lt;/li>
+&lt;li>Plan things for tomorrow.&lt;/li>
+&lt;/ul>
+&lt;p>Mornings&lt;/p>
+&lt;ul>
+&lt;li>Wake up by 3:30/4/4:30, pick tasks you&amp;rsquo;ve planned and chop them off. You get beautiful those feel-good feelings.&lt;/li>
+&lt;li>Go and see the sun rise, for me it&amp;rsquo;s beautiful and other &lt;a href="https://www.thesaurus.com/browse/beautiful">adjectives&lt;/a>.&lt;/li>
+&lt;li>Exercise after saying &lt;strong>hi&lt;/strong> to the sun.&lt;/li>
+&lt;li>Cook food and be happy as you are so lucky to have that.&lt;/li>
+&lt;li>Before eating, take a bath and freshen up.&lt;/li>
+&lt;li>Eat food and now the day starts for me.&lt;/li>
+&lt;li>Plan is to add morning prayers into this, but don&amp;rsquo;t have a pooja room in the house(have to do something for it.)&lt;/li>
+&lt;/ul>
+&lt;p>Afternoon&lt;/p>
+&lt;ul>
+&lt;li>This time is sold to someone else for money(sad but that&amp;rsquo;s case for now[27-Aug-2021])&lt;/li>
+&lt;/ul>
+&lt;p>If I sleep late,&lt;/p>
+&lt;ul>
+&lt;li>No fun mornings, admitting I have missed all of that for today.&lt;/li>
+&lt;li>No alarm, but body sleep is important to me, no alarm to disturb it. Have done my deeds. It&amp;rsquo;s fine, let this morning go. Nothing can be done about it.&lt;/li>
+&lt;li>If you can try to do something meaningful during the day, do that and remember most importantly sleep on time to enjoy your next morning.&lt;/li>
+&lt;/ul></description></item></channel></rss>

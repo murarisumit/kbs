@@ -1,45 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Load-Averages on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/load-averages/</link>
-    <description>Recent content in Load-Averages on knowledge base</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 09 Aug 2021 09:25:45 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/load-averages/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Linux Load Avgs</title>
-      <link>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</link>
-      <pubDate>Mon, 09 Aug 2021 09:25:45 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</guid>
-      <description>&lt;h1 id=&#34;excerpt-from-blog-post&#34;&gt;Excerpt from blog post&lt;/h1&gt;
-&lt;p&gt;Linux load averages are &amp;ldquo;system load averages&amp;rdquo; that show the running thread (task) demand on the system as an average number of running plus waiting threads. This measures demand, which can be greater than what the system is currently processing. Most tools show three averages, for 1, 5, and 15 minutes:&lt;/p&gt;
-&lt;p&gt;Some interpretations:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;If the averages are 0.0, then your system is idle.&lt;/li&gt;
-&lt;li&gt;If the 1 minute average is higher than the 5 or 15 minute averages, then load is increasing.&lt;/li&gt;
-&lt;li&gt;If the 1 minute average is lower than the 5 or 15 minute averages, then load is decreasing.&lt;/li&gt;
-&lt;li&gt;If they are higher than your CPU count, then you might have a performance problem (it depends).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;making-sense-of-linux-load-averages&#34;&gt;Making sense of Linux load averages&lt;/h2&gt;
-&lt;p&gt;I grew up with OSes where load averages meant CPU load averages, so the Linux version has always bothered me. Perhaps the real problem all along is that the words &amp;ldquo;load averages&amp;rdquo; are about as ambiguous as &amp;ldquo;I/O&amp;rdquo;. Which type of I/O? Disk I/O? File system I/O? Network I/O? &amp;hellip; Likewise, which load averages? CPU load averages? System load averages? Clarifying it this way lets me make sense of it like this:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;On Linux, load averages are (or try to be) &amp;quot;system load averages&amp;quot;, for the system as a whole, measuring the number of threads that are working and waiting to work (CPU, disk, uninterruptible locks). Put differently, it measures the number of threads that aren&#39;t completely idle. Advantage: includes demand for different resources.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Load-Averages on knowledge base</title><link>https://kbs.murarisumit.in/tags/load-averages/</link><description>Recent content in Load-Averages on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 09 Aug 2021 09:25:45 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/load-averages/index.xml" rel="self" type="application/rss+xml"/><item><title>Linux Load Avgs</title><link>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</link><pubDate>Mon, 09 Aug 2021 09:25:45 +0530</pubDate><guid>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</guid><description>&lt;h1 id="excerpt-from-blog-post">Excerpt from blog post&lt;/h1>
+&lt;p>Linux load averages are &amp;ldquo;system load averages&amp;rdquo; that show the running thread (task) demand on the system as an average number of running plus waiting threads. This measures demand, which can be greater than what the system is currently processing. Most tools show three averages, for 1, 5, and 15 minutes:&lt;/p>
+&lt;p>Some interpretations:&lt;/p>
+&lt;ul>
+&lt;li>If the averages are 0.0, then your system is idle.&lt;/li>
+&lt;li>If the 1 minute average is higher than the 5 or 15 minute averages, then load is increasing.&lt;/li>
+&lt;li>If the 1 minute average is lower than the 5 or 15 minute averages, then load is decreasing.&lt;/li>
+&lt;li>If they are higher than your CPU count, then you might have a performance problem (it depends).&lt;/li>
+&lt;/ul>
+&lt;h2 id="making-sense-of-linux-load-averages">Making sense of Linux load averages&lt;/h2>
+&lt;p>I grew up with OSes where load averages meant CPU load averages, so the Linux version has always bothered me. Perhaps the real problem all along is that the words &amp;ldquo;load averages&amp;rdquo; are about as ambiguous as &amp;ldquo;I/O&amp;rdquo;. Which type of I/O? Disk I/O? File system I/O? Network I/O? &amp;hellip; Likewise, which load averages? CPU load averages? System load averages? Clarifying it this way lets me make sense of it like this:&lt;/p>
+&lt;pre>&lt;code>On Linux, load averages are (or try to be) &amp;quot;system load averages&amp;quot;, for the system as a whole, measuring the number of threads that are working and waiting to work (CPU, disk, uninterruptible locks). Put differently, it measures the number of threads that aren't completely idle. Advantage: includes demand for different resources.
 On other OSes, load averages are &amp;quot;CPU load averages&amp;quot;, measuring the number of CPU running + CPU runnable threads. Advantage: can be easier to understand and reason about (for CPUs only).
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Note that there&amp;rsquo;s another possible type: &amp;ldquo;physical resource load averages&amp;rdquo;, which would include load for physical resources only (CPU + disk).&lt;/p&gt;
-&lt;p&gt;Perhaps one day we&amp;rsquo;ll add additional load averages to Linux, and let the user choose what they want to use: a separate &amp;ldquo;CPU load averages&amp;rdquo;, &amp;ldquo;disk load averages&amp;rdquo;, &amp;ldquo;network load averages&amp;rdquo;, etc. Or just use different metrics altogether.&lt;/p&gt;
-&lt;h2 id=&#34;better-metrics&#34;&gt;Better Metrics&lt;/h2&gt;
-&lt;p&gt;When Linux load averages increase, you know you have higher demand for resources (CPUs, disks, and some locks), but you aren&amp;rsquo;t sure which. You can use other metrics for clarification. For example, for CPUs:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;per-CPU utilization: eg, using mpstat -P ALL 1
+&lt;/code>&lt;/pre>
+&lt;p>Note that there&amp;rsquo;s another possible type: &amp;ldquo;physical resource load averages&amp;rdquo;, which would include load for physical resources only (CPU + disk).&lt;/p>
+&lt;p>Perhaps one day we&amp;rsquo;ll add additional load averages to Linux, and let the user choose what they want to use: a separate &amp;ldquo;CPU load averages&amp;rdquo;, &amp;ldquo;disk load averages&amp;rdquo;, &amp;ldquo;network load averages&amp;rdquo;, etc. Or just use different metrics altogether.&lt;/p>
+&lt;h2 id="better-metrics">Better Metrics&lt;/h2>
+&lt;p>When Linux load averages increase, you know you have higher demand for resources (CPUs, disks, and some locks), but you aren&amp;rsquo;t sure which. You can use other metrics for clarification. For example, for CPUs:&lt;/p>
+&lt;pre>&lt;code>per-CPU utilization: eg, using mpstat -P ALL 1
 per-process CPU utilization: eg, top, pidstat 1, etc.
 per-thread run queue (scheduler) latency: eg, in /proc/PID/schedstats, delaystats, perf sched
 CPU run queue latency: eg, in /proc/schedstat, perf sched, my runqlat bcc tool.
-CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runqlen bcc tool.
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-
+CPU run queue length: eg, using vmstat 1 and the 'r' column, or my runqlen bcc tool.
+&lt;/code>&lt;/pre></description></item></channel></rss>

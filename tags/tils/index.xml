@@ -1,30 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tils on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/tils/</link>
-    <description>Recent content in Tils on knowledge base</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 15 Aug 2021 07:21:07 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/tils/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cross Referencing Hugo</title>
-      <link>https://kbs.murarisumit.in/a8aa80afb3e281cf2246df975fef9aa8/</link>
-      <pubDate>Sun, 15 Aug 2021 07:21:07 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/a8aa80afb3e281cf2246df975fef9aa8/</guid>
-      <description>&lt;p&gt;In my blog, have started to cross-refernce now. Hugo has got support for this and designed in such a way that really make sense to me.&lt;/p&gt;
-&lt;p&gt;Documentation for this is here: &lt;a href=&#34;https://gohugo.io/content-management/cross-references/&#34;&gt;https://gohugo.io/content-management/cross-references/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;So to reference some post, you need to know about &lt;strong&gt;file path of that post&lt;/strong&gt;. Proper reading would have made it easier but spent around 2hrs for this stupid things.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The ref and relref shortcodes require a single parameter: the path to a content document, with or without a file extension, with or without an anchor.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Instead of &lt;strong&gt;filepath&lt;/strong&gt; went along with URL of the output file, and wasted all effort there, did all I could and later to realise that linking by URL doesn&amp;rsquo;t even make sense, path makes sense. Even if tomorrow you can permalink style, it won&amp;rsquo;t impact your reference link in hugo.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;{{&amp;lt; ref &amp;quot;path-to-file.md&amp;quot; &amp;gt;}}&lt;/code&gt; or &lt;code&gt;{{&amp;lt; ref &amp;quot;path-to-file&amp;quot; &amp;gt;}}&lt;/code&gt; both work fine&lt;/p&gt;
-&lt;p&gt;So for anchor tags: &lt;code&gt;[text]({{&amp;lt; ref &amp;quot;path-to-file&amp;quot; &amp;gt;}})&lt;/code&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tils on knowledge base</title><link>https://kbs.murarisumit.in/tags/tils/</link><description>Recent content in Tils on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 15 Aug 2021 07:21:07 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/tils/index.xml" rel="self" type="application/rss+xml"/><item><title>Cross Referencing Hugo</title><link>https://kbs.murarisumit.in/a8aa80afb3e281cf2246df975fef9aa8/</link><pubDate>Sun, 15 Aug 2021 07:21:07 +0530</pubDate><guid>https://kbs.murarisumit.in/a8aa80afb3e281cf2246df975fef9aa8/</guid><description>&lt;p>In my blog, have started to cross-refernce now. Hugo has got support for this and designed in such a way that really make sense to me.&lt;/p>
+&lt;p>Documentation for this is here: &lt;a href="https://gohugo.io/content-management/cross-references/">https://gohugo.io/content-management/cross-references/&lt;/a>&lt;/p>
+&lt;p>So to reference some post, you need to know about &lt;strong>file path of that post&lt;/strong>. Proper reading would have made it easier but spent around 2hrs for this stupid things.&lt;/p>
+&lt;blockquote>
+&lt;p>The ref and relref shortcodes require a single parameter: the path to a content document, with or without a file extension, with or without an anchor.&lt;/p>
+&lt;/blockquote>
+&lt;p>Instead of &lt;strong>filepath&lt;/strong> went along with URL of the output file, and wasted all effort there, did all I could and later to realise that linking by URL doesn&amp;rsquo;t even make sense, path makes sense. Even if tomorrow you can permalink style, it won&amp;rsquo;t impact your reference link in hugo.&lt;/p>
+&lt;p>&lt;code>{{&amp;lt; ref &amp;quot;path-to-file.md&amp;quot; &amp;gt;}}&lt;/code> or &lt;code>{{&amp;lt; ref &amp;quot;path-to-file&amp;quot; &amp;gt;}}&lt;/code> both work fine&lt;/p>
+&lt;p>So for anchor tags: &lt;code>[text]({{&amp;lt; ref &amp;quot;path-to-file&amp;quot; &amp;gt;}})&lt;/code>&lt;/p></description></item></channel></rss>

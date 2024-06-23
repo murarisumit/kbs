@@ -1,161 +1,97 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Linux on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/linux/</link>
-    <description>Recent content in Linux on knowledge base</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 13 Jun 2022 10:24:27 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/linux/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Xargs Command Snippets</title>
-      <link>https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/</link>
-      <pubDate>Mon, 13 Jun 2022 10:24:27 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/</guid>
-      <description>&lt;p&gt;Simple command snippet that most likely be used imo would be.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ls -f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; xargs -I % -p &lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;testxargs-%&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ls -f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; xargs -I &lt;span class=&#34;o&#34;&gt;{}&lt;/span&gt; /bin/bash -c &lt;span class=&#34;s1&#34;&gt;&amp;#39;echo test1-{}; echo test2-{}&amp;#39;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ls -f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; xargs -I % /bin/bash -c &lt;span class=&#34;s1&#34;&gt;&amp;#39;echo test1-%; echo test2-%&amp;#39;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ls -f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; xargs -i -pt &lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;testxargs-{}&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;ls -f&lt;/code&gt;: List all files&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;-I&lt;/code&gt; allows you to get the output into a placeholder.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;-p&lt;/code&gt; print a confirmation prompt with the action it’s going to take:&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;-t&lt;/code&gt; print command line on the stderr before executing it.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Diff Between &#34;su&#34; and &#34;su -&#34;</title>
-      <link>https://kbs.murarisumit.in/7fa5b4e9b48dbb81c234710d25151f22/</link>
-      <pubDate>Wed, 17 Nov 2021 09:25:52 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/7fa5b4e9b48dbb81c234710d25151f22/</guid>
-      <description>&lt;p&gt;Keeping here for reference:&lt;/p&gt;
-&lt;p&gt;The difference between &amp;ldquo;-&amp;rdquo; and &amp;ldquo;no hyphen&amp;rdquo; is&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;lsquo;-&amp;rsquo; : New setting for users are loaded i.e. .bashrc&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;without-hyphen&amp;rdquo;: Keeps using my existing environment, no .bashrc is loaded&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Thus, it is advisable that administrative users, as well as any other users that are authorized to use su (and it is suggested that there be very few, if any) acquire the habit of always running the su command with the -l/&amp;ndash;login option.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;https://wiki.archlinux.org/index.php/Su
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Linux on knowledge base</title><link>https://kbs.murarisumit.in/tags/linux/</link><description>Recent content in Linux on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 13 Jun 2022 10:24:27 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/linux/index.xml" rel="self" type="application/rss+xml"/><item><title>Xargs Command Snippets</title><link>https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/</link><pubDate>Mon, 13 Jun 2022 10:24:27 +0530</pubDate><guid>https://kbs.murarisumit.in/46030699d1902e025e7e02246a9a9c13/</guid><description>&lt;p>Simple command snippet that most likely be used imo would be.&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">ls -f &lt;span class="p">|&lt;/span> xargs -I % -p &lt;span class="nb">echo&lt;/span> &lt;span class="s2">&amp;#34;testxargs-%&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">ls -f &lt;span class="p">|&lt;/span> xargs -I &lt;span class="o">{}&lt;/span> /bin/bash -c &lt;span class="s1">&amp;#39;echo test1-{}; echo test2-{}&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">ls -f &lt;span class="p">|&lt;/span> xargs -I % /bin/bash -c &lt;span class="s1">&amp;#39;echo test1-%; echo test2-%&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">ls -f &lt;span class="p">|&lt;/span> xargs -i -pt &lt;span class="nb">echo&lt;/span> &lt;span class="s2">&amp;#34;testxargs-{}&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>&lt;code>ls -f&lt;/code>: List all files&lt;/li>
+&lt;li>&lt;code>-I&lt;/code> allows you to get the output into a placeholder.&lt;/li>
+&lt;li>&lt;code>-p&lt;/code> print a confirmation prompt with the action it’s going to take:&lt;/li>
+&lt;li>&lt;code>-t&lt;/code> print command line on the stderr before executing it.&lt;/li>
+&lt;/ul></description></item><item><title>Diff Between "su" and "su -"</title><link>https://kbs.murarisumit.in/7fa5b4e9b48dbb81c234710d25151f22/</link><pubDate>Wed, 17 Nov 2021 09:25:52 +0530</pubDate><guid>https://kbs.murarisumit.in/7fa5b4e9b48dbb81c234710d25151f22/</guid><description>&lt;p>Keeping here for reference:&lt;/p>
+&lt;p>The difference between &amp;ldquo;-&amp;rdquo; and &amp;ldquo;no hyphen&amp;rdquo; is&lt;/p>
+&lt;ul>
+&lt;li>&amp;lsquo;-&amp;rsquo; : New setting for users are loaded i.e. .bashrc&lt;/li>
+&lt;li>&amp;ldquo;without-hyphen&amp;rdquo;: Keeps using my existing environment, no .bashrc is loaded&lt;/li>
+&lt;/ul>
+&lt;p>Thus, it is advisable that administrative users, as well as any other users that are authorized to use su (and it is suggested that there be very few, if any) acquire the habit of always running the su command with the -l/&amp;ndash;login option.&lt;/p>
+&lt;pre>&lt;code>https://wiki.archlinux.org/index.php/Su
 The hyphen has two effects:
-
 1) switches from the current directory to the home directory of the new user (e.g., to /root in the case of the root user) by logging in as that user
-
 2) changes the environmental variables to those of the new user as dictated by their ~/.bashrc. That is, if the first argument to su is a hyphen, the current directory and environment will be changed to what would be expected if the new user had actually logged on to a new session (rather than just taking over an existing session).
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;p&gt;Reference&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.archlinux.org/title/Su&#34;&gt;https://wiki.archlinux.org/title/Su&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Linux Load Avgs</title>
-      <link>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</link>
-      <pubDate>Mon, 09 Aug 2021 09:25:45 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</guid>
-      <description>&lt;h1 id=&#34;excerpt-from-blog-post&#34;&gt;Excerpt from blog post&lt;/h1&gt;
-&lt;p&gt;Linux load averages are &amp;ldquo;system load averages&amp;rdquo; that show the running thread (task) demand on the system as an average number of running plus waiting threads. This measures demand, which can be greater than what the system is currently processing. Most tools show three averages, for 1, 5, and 15 minutes:&lt;/p&gt;
-&lt;p&gt;Some interpretations:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;If the averages are 0.0, then your system is idle.&lt;/li&gt;
-&lt;li&gt;If the 1 minute average is higher than the 5 or 15 minute averages, then load is increasing.&lt;/li&gt;
-&lt;li&gt;If the 1 minute average is lower than the 5 or 15 minute averages, then load is decreasing.&lt;/li&gt;
-&lt;li&gt;If they are higher than your CPU count, then you might have a performance problem (it depends).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;making-sense-of-linux-load-averages&#34;&gt;Making sense of Linux load averages&lt;/h2&gt;
-&lt;p&gt;I grew up with OSes where load averages meant CPU load averages, so the Linux version has always bothered me. Perhaps the real problem all along is that the words &amp;ldquo;load averages&amp;rdquo; are about as ambiguous as &amp;ldquo;I/O&amp;rdquo;. Which type of I/O? Disk I/O? File system I/O? Network I/O? &amp;hellip; Likewise, which load averages? CPU load averages? System load averages? Clarifying it this way lets me make sense of it like this:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;On Linux, load averages are (or try to be) &amp;quot;system load averages&amp;quot;, for the system as a whole, measuring the number of threads that are working and waiting to work (CPU, disk, uninterruptible locks). Put differently, it measures the number of threads that aren&#39;t completely idle. Advantage: includes demand for different resources.
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;p>Reference&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://wiki.archlinux.org/title/Su">https://wiki.archlinux.org/title/Su&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Linux Load Avgs</title><link>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</link><pubDate>Mon, 09 Aug 2021 09:25:45 +0530</pubDate><guid>https://kbs.murarisumit.in/bookmarks/linux-load-avgs/</guid><description>&lt;h1 id="excerpt-from-blog-post">Excerpt from blog post&lt;/h1>
+&lt;p>Linux load averages are &amp;ldquo;system load averages&amp;rdquo; that show the running thread (task) demand on the system as an average number of running plus waiting threads. This measures demand, which can be greater than what the system is currently processing. Most tools show three averages, for 1, 5, and 15 minutes:&lt;/p>
+&lt;p>Some interpretations:&lt;/p>
+&lt;ul>
+&lt;li>If the averages are 0.0, then your system is idle.&lt;/li>
+&lt;li>If the 1 minute average is higher than the 5 or 15 minute averages, then load is increasing.&lt;/li>
+&lt;li>If the 1 minute average is lower than the 5 or 15 minute averages, then load is decreasing.&lt;/li>
+&lt;li>If they are higher than your CPU count, then you might have a performance problem (it depends).&lt;/li>
+&lt;/ul>
+&lt;h2 id="making-sense-of-linux-load-averages">Making sense of Linux load averages&lt;/h2>
+&lt;p>I grew up with OSes where load averages meant CPU load averages, so the Linux version has always bothered me. Perhaps the real problem all along is that the words &amp;ldquo;load averages&amp;rdquo; are about as ambiguous as &amp;ldquo;I/O&amp;rdquo;. Which type of I/O? Disk I/O? File system I/O? Network I/O? &amp;hellip; Likewise, which load averages? CPU load averages? System load averages? Clarifying it this way lets me make sense of it like this:&lt;/p>
+&lt;pre>&lt;code>On Linux, load averages are (or try to be) &amp;quot;system load averages&amp;quot;, for the system as a whole, measuring the number of threads that are working and waiting to work (CPU, disk, uninterruptible locks). Put differently, it measures the number of threads that aren't completely idle. Advantage: includes demand for different resources.
 On other OSes, load averages are &amp;quot;CPU load averages&amp;quot;, measuring the number of CPU running + CPU runnable threads. Advantage: can be easier to understand and reason about (for CPUs only).
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Note that there&amp;rsquo;s another possible type: &amp;ldquo;physical resource load averages&amp;rdquo;, which would include load for physical resources only (CPU + disk).&lt;/p&gt;
-&lt;p&gt;Perhaps one day we&amp;rsquo;ll add additional load averages to Linux, and let the user choose what they want to use: a separate &amp;ldquo;CPU load averages&amp;rdquo;, &amp;ldquo;disk load averages&amp;rdquo;, &amp;ldquo;network load averages&amp;rdquo;, etc. Or just use different metrics altogether.&lt;/p&gt;
-&lt;h2 id=&#34;better-metrics&#34;&gt;Better Metrics&lt;/h2&gt;
-&lt;p&gt;When Linux load averages increase, you know you have higher demand for resources (CPUs, disks, and some locks), but you aren&amp;rsquo;t sure which. You can use other metrics for clarification. For example, for CPUs:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;per-CPU utilization: eg, using mpstat -P ALL 1
+&lt;/code>&lt;/pre>
+&lt;p>Note that there&amp;rsquo;s another possible type: &amp;ldquo;physical resource load averages&amp;rdquo;, which would include load for physical resources only (CPU + disk).&lt;/p>
+&lt;p>Perhaps one day we&amp;rsquo;ll add additional load averages to Linux, and let the user choose what they want to use: a separate &amp;ldquo;CPU load averages&amp;rdquo;, &amp;ldquo;disk load averages&amp;rdquo;, &amp;ldquo;network load averages&amp;rdquo;, etc. Or just use different metrics altogether.&lt;/p>
+&lt;h2 id="better-metrics">Better Metrics&lt;/h2>
+&lt;p>When Linux load averages increase, you know you have higher demand for resources (CPUs, disks, and some locks), but you aren&amp;rsquo;t sure which. You can use other metrics for clarification. For example, for CPUs:&lt;/p>
+&lt;pre>&lt;code>per-CPU utilization: eg, using mpstat -P ALL 1
 per-process CPU utilization: eg, top, pidstat 1, etc.
 per-thread run queue (scheduler) latency: eg, in /proc/PID/schedstats, delaystats, perf sched
 CPU run queue latency: eg, in /proc/schedstat, perf sched, my runqlat bcc tool.
-CPU run queue length: eg, using vmstat 1 and the &#39;r&#39; column, or my runqlen bcc tool.
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Linus Interview Linuxcon North America 2016</title>
-      <link>https://kbs.murarisumit.in/bookmarks/linus-interview-linuxcon-north-america-2016/</link>
-      <pubDate>Tue, 27 Jul 2021 17:05:47 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/bookmarks/linus-interview-linuxcon-north-america-2016/</guid>
-      <description>&lt;p&gt;Linus interviews are always fun to watch. One of favorite past-time activity for me. Loved watching it. Keeping them here.&lt;/p&gt;
-&lt;p&gt;One good comment mentioned one simple/funny thing in interview&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;in early MVP version of linux the disk sectors were hard coded&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Strace Command Snippets</title>
-      <link>https://kbs.murarisumit.in/tils/strace-command-snippets/</link>
-      <pubDate>Wed, 29 Jul 2020 20:22:24 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tils/strace-command-snippets/</guid>
-      <description>&lt;p&gt;Strace is really nice command to see what system calls are being used, it&amp;rsquo;s primary used as debugging tools for linux system calls&lt;/p&gt;
-&lt;p&gt;Q: &lt;strong&gt;What is a &amp;ldquo;system call&amp;rdquo;&lt;/strong&gt; ?&lt;/p&gt;
-&lt;p&gt;A: System calls are interface via which user-space program interact with system using linux kernel.&lt;/p&gt;
-&lt;p&gt;So kernel is core that manages the system and talks and knows about hardware. Application don&amp;rsquo;t directly talk to hardware, they talk to kernel via some exposed interfaces(open, exec etc.).&lt;/p&gt;
-&lt;p&gt;Q: &lt;strong&gt;What is user-space and are there any other spaces&lt;/strong&gt; ?&lt;/p&gt;
-&lt;p&gt;A: Yes we have user-space and kernel-space&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Kernel-space where only kernel is privileged to access memory or perform operation similarly&lt;/li&gt;
-&lt;li&gt;User-space where user is allowed to access memory or perform operation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;For longer and more accurate answer &lt;a href=&#34;https://unix.stackexchange.com/a/368313&#34;&gt;https://unix.stackexchange.com/a/368313&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;below-are-some-samples&#34;&gt;Below are some samples&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;First sample usage: &lt;code&gt;strace ls -l&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;To dump output to a file: &lt;code&gt;strace -o output.txt ls -l&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;To get count of syscall: &lt;code&gt;strace -c ls -l&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;To get specific syscall: &lt;code&gt;strace -e open ls -l&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;To get timestamp for each syscall: &lt;code&gt;strace -t ls -l&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Reference:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://strace.io/&#34;&gt;https://strace.io/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EG0ihttnEJI&#34;&gt;https://www.youtube.com/watch?v=EG0ihttnEJI&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-
+CPU run queue length: eg, using vmstat 1 and the 'r' column, or my runqlen bcc tool.
+&lt;/code>&lt;/pre></description></item><item><title>Linus Interview Linuxcon North America 2016</title><link>https://kbs.murarisumit.in/bookmarks/linus-interview-linuxcon-north-america-2016/</link><pubDate>Tue, 27 Jul 2021 17:05:47 +0530</pubDate><guid>https://kbs.murarisumit.in/bookmarks/linus-interview-linuxcon-north-america-2016/</guid><description>&lt;p>Linus interviews are always fun to watch. One of favorite past-time activity for me. Loved watching it. Keeping them here.&lt;/p>
+&lt;p>One good comment mentioned one simple/funny thing in interview&lt;/p>
+&lt;blockquote>
+&lt;p>in early MVP version of linux the disk sectors were hard coded&lt;/p>
+&lt;/blockquote></description></item><item><title>Strace Command Snippets</title><link>https://kbs.murarisumit.in/tils/strace-command-snippets/</link><pubDate>Wed, 29 Jul 2020 20:22:24 +0530</pubDate><guid>https://kbs.murarisumit.in/tils/strace-command-snippets/</guid><description>&lt;p>Strace is really nice command to see what system calls are being used, it&amp;rsquo;s primary used as debugging tools for linux system calls&lt;/p>
+&lt;p>Q: &lt;strong>What is a &amp;ldquo;system call&amp;rdquo;&lt;/strong> ?&lt;/p>
+&lt;p>A: System calls are interface via which user-space program interact with system using linux kernel.&lt;/p>
+&lt;p>So kernel is core that manages the system and talks and knows about hardware. Application don&amp;rsquo;t directly talk to hardware, they talk to kernel via some exposed interfaces(open, exec etc.).&lt;/p>
+&lt;p>Q: &lt;strong>What is user-space and are there any other spaces&lt;/strong> ?&lt;/p>
+&lt;p>A: Yes we have user-space and kernel-space&lt;/p>
+&lt;ul>
+&lt;li>Kernel-space where only kernel is privileged to access memory or perform operation similarly&lt;/li>
+&lt;li>User-space where user is allowed to access memory or perform operation&lt;/li>
+&lt;/ul>
+&lt;p>For longer and more accurate answer &lt;a href="https://unix.stackexchange.com/a/368313">https://unix.stackexchange.com/a/368313&lt;/a>&lt;/p>
+&lt;h4 id="below-are-some-samples">Below are some samples&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>First sample usage: &lt;code>strace ls -l&lt;/code>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>To dump output to a file: &lt;code>strace -o output.txt ls -l&lt;/code>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>To get count of syscall: &lt;code>strace -c ls -l&lt;/code>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>To get specific syscall: &lt;code>strace -e open ls -l&lt;/code>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>To get timestamp for each syscall: &lt;code>strace -t ls -l&lt;/code>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Reference:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://strace.io/">https://strace.io/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=EG0ihttnEJI">https://www.youtube.com/watch?v=EG0ihttnEJI&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

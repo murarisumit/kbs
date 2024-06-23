@@ -1,138 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>2021-12 on knowledge base</title>
-    <link>https://kbs.murarisumit.in/month/2021-12/</link>
-    <description>Recent content in 2021-12 on knowledge base</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 14 Dec 2021 07:32:05 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/month/2021-12/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How to Treat Yourself</title>
-      <link>https://kbs.murarisumit.in/ccc19b24a5adb9a623a9f2c3383d750e/</link>
-      <pubDate>Tue, 14 Dec 2021 07:32:05 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/ccc19b24a5adb9a623a9f2c3383d750e/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Treat yourself as If you were someone that you are responsible for helping.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Read somewhere in internet and find it beautiful.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Github Rss Feeds</title>
-      <link>https://kbs.murarisumit.in/f51ad82d1abbf945597358e4d872017e/</link>
-      <pubDate>Mon, 13 Dec 2021 22:00:12 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/f51ad82d1abbf945597358e4d872017e/</guid>
-      <description>&lt;p&gt;This is simple and sweet, hope there would be some feed for issues activity as-well. For personal reference&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/* Repo releases */
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://github.com/:owner/:repo/releases.atom
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/* Repo commits */
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://github.com/:owner/:repo/commits.atom
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/* Private feed (You can find Subscribe to your news feed in dashboard page after login) */
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://github.com/:user.private.atom?token=:secret
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/* Repo tags */
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://github.com/:user/:repo/tags.atom
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/* User activity */
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://github.com/:user.atom
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>Dangerous Man Are Virtuous</title>
-      <link>https://kbs.murarisumit.in/2120d4dc2552df1cb649e931019142d0/</link>
-      <pubDate>Sat, 11 Dec 2021 21:36:49 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/2120d4dc2552df1cb649e931019142d0/</guid>
-      <description>&lt;p&gt;You shouldn&amp;rsquo;t harm anyone, which it right. One should not. To add-in man should be harmless either.&lt;/p&gt;
-&lt;p&gt;You should be dangerous and monstrous but in civilised manner. All the human we look up to aren&amp;rsquo;t harmless. Shri Ram is great archer and capable to defeating whole kingdom. Shri krishna said to have single handedly changed course of mahabharata.&lt;/p&gt;
-&lt;p&gt;We have all heard stories of third eye of shiva. His ange can bring havoc. The message is harmless men are not virtuous. It&amp;rsquo;s the dangerous man under control that are virtuous and human to look upto.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Company Similar to East India Company</title>
-      <link>https://kbs.murarisumit.in/c5b650102aad591b71ded2fea2a20d69/</link>
-      <pubDate>Thu, 09 Dec 2021 19:41:27 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/c5b650102aad591b71ded2fea2a20d69/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/United_Fruit_Company&#34;&gt;United fruit company&lt;/a&gt;. Created railroads, port, and other infra in Central American countries for plundering them. Owning the entire supply chain.&lt;/p&gt;
-&lt;p&gt;Easy to draw comparison to what &lt;a href=&#34;https://en.wikipedia.org/wiki/East_India_Company&#34;&gt;East India Company&lt;/a&gt; did in India but on the smaller scale. Not killing millions of people, but still very brutal for any human being. I see them and see Hitler and can&amp;rsquo;t differentiate between them.&lt;/p&gt;
-&lt;p&gt;Still can see how people think United fruit company and &lt;a href=&#34;https://en.wikipedia.org/wiki/East_India_Company&#34;&gt;East India Company&lt;/a&gt;  were the force of good. They did good for those countries they were plundering.&lt;/p&gt;
-&lt;p&gt;This video also shows the side where we see how US imperialism works. How they destabilize the country. Quite an eye-opener for someone who grew up to see the USA as a sort-of force of good and democracy.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Can Every Devices Be Hacked</title>
-      <link>https://kbs.murarisumit.in/92a571b39b7be2d430f2391c21c79018/</link>
-      <pubDate>Mon, 06 Dec 2021 13:35:31 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/92a571b39b7be2d430f2391c21c79018/</guid>
-      <description>&lt;p&gt;So yes, if someone is really persistant about it. The prices for these weaponised exploit start from 100K USD from from 2.5Million dollars.&lt;/p&gt;
-&lt;p&gt;There is high cost to it, so usually used by state actor or for&lt;/p&gt;
-&lt;p&gt;Don&amp;rsquo;t live in fear of getting hacked, it should be in your threat model. There are lot more important people our there with more information is their hands so you&amp;rsquo;re very less likely are a target, but remember if someone wants to he can.&lt;/p&gt;
-&lt;p&gt;There is pure economics involved, will it bring enough ROI(Return of investment on it). Are you a person of interest.&lt;/p&gt;
-&lt;p&gt;What all you can do ?&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Browser has huge attack surface. If you can disable JS, probably disabling javascript, but that seems difficult. Use umatrix can make it easy.&lt;/li&gt;
-&lt;li&gt;Disable just-in time compiler, or webassembly or browser if you can.&lt;/li&gt;
-&lt;li&gt;Don&amp;rsquo;t click stupid links.&lt;/li&gt;
-&lt;li&gt;Use multi-factor auth&lt;/li&gt;
-&lt;li&gt;Password managers.&lt;/li&gt;
-&lt;li&gt;Attack persistance is hard, but just restart it every now and then. It might help you.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Most simpler tricks are &lt;a href=&#34;https://www.youtube.com/watch?v=NWtm4X6L_Cs&#34;&gt;Phishing&lt;/a&gt; you should be worry about.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Shamir Secret Sharing</title>
-      <link>https://kbs.murarisumit.in/b21e7d844c3b536261f757f5a735dc8a/</link>
-      <pubDate>Thu, 02 Dec 2021 10:07:05 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/b21e7d844c3b536261f757f5a735dc8a/</guid>
-      <description>&lt;p&gt;This idea is really elegant to me and seeing it work is beautiful&lt;/p&gt;
-&lt;p&gt;Keeping it here for reference.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2021-12 on knowledge base</title><link>https://kbs.murarisumit.in/month/2021-12/</link><description>Recent content in 2021-12 on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 14 Dec 2021 07:32:05 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/month/2021-12/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Treat Yourself</title><link>https://kbs.murarisumit.in/ccc19b24a5adb9a623a9f2c3383d750e/</link><pubDate>Tue, 14 Dec 2021 07:32:05 +0530</pubDate><guid>https://kbs.murarisumit.in/ccc19b24a5adb9a623a9f2c3383d750e/</guid><description>&lt;blockquote>
+&lt;p>Treat yourself as If you were someone that you are responsible for helping.&lt;/p>
+&lt;/blockquote>
+&lt;p>Read somewhere in internet and find it beautiful.&lt;/p></description></item><item><title>Github Rss Feeds</title><link>https://kbs.murarisumit.in/f51ad82d1abbf945597358e4d872017e/</link><pubDate>Mon, 13 Dec 2021 22:00:12 +0530</pubDate><guid>https://kbs.murarisumit.in/f51ad82d1abbf945597358e4d872017e/</guid><description>&lt;p>This is simple and sweet, hope there would be some feed for issues activity as-well. For personal reference&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-txt" data-lang="txt">&lt;span class="line">&lt;span class="cl">/* Repo releases */
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">https://github.com/:owner/:repo/releases.atom
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">/* Repo commits */
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">https://github.com/:owner/:repo/commits.atom
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">/* Private feed (You can find Subscribe to your news feed in dashboard page after login) */
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">https://github.com/:user.private.atom?token=:secret
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">/* Repo tags */
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">https://github.com/:user/:repo/tags.atom
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">/* User activity */
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">https://github.com/:user.atom
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item><item><title>Dangerous Man Are Virtuous</title><link>https://kbs.murarisumit.in/2120d4dc2552df1cb649e931019142d0/</link><pubDate>Sat, 11 Dec 2021 21:36:49 +0530</pubDate><guid>https://kbs.murarisumit.in/2120d4dc2552df1cb649e931019142d0/</guid><description>&lt;p>You shouldn&amp;rsquo;t harm anyone, which it right. One should not. To add-in man should be harmless either.&lt;/p>
+&lt;p>You should be dangerous and monstrous but in civilised manner. All the human we look up to aren&amp;rsquo;t harmless. Shri Ram is great archer and capable to defeating whole kingdom. Shri krishna said to have single handedly changed course of mahabharata.&lt;/p>
+&lt;p>We have all heard stories of third eye of shiva. His ange can bring havoc. The message is harmless men are not virtuous. It&amp;rsquo;s the dangerous man under control that are virtuous and human to look upto.&lt;/p></description></item><item><title>Company Similar to East India Company</title><link>https://kbs.murarisumit.in/c5b650102aad591b71ded2fea2a20d69/</link><pubDate>Thu, 09 Dec 2021 19:41:27 +0530</pubDate><guid>https://kbs.murarisumit.in/c5b650102aad591b71ded2fea2a20d69/</guid><description>&lt;p>It&amp;rsquo;s &lt;a href="https://en.wikipedia.org/wiki/United_Fruit_Company">United fruit company&lt;/a>. Created railroads, port, and other infra in Central American countries for plundering them. Owning the entire supply chain.&lt;/p>
+&lt;p>Easy to draw comparison to what &lt;a href="https://en.wikipedia.org/wiki/East_India_Company">East India Company&lt;/a> did in India but on the smaller scale. Not killing millions of people, but still very brutal for any human being. I see them and see Hitler and can&amp;rsquo;t differentiate between them.&lt;/p>
+&lt;p>Still can see how people think United fruit company and &lt;a href="https://en.wikipedia.org/wiki/East_India_Company">East India Company&lt;/a> were the force of good. They did good for those countries they were plundering.&lt;/p>
+&lt;p>This video also shows the side where we see how US imperialism works. How they destabilize the country. Quite an eye-opener for someone who grew up to see the USA as a sort-of force of good and democracy.&lt;/p></description></item><item><title>Can Every Devices Be Hacked</title><link>https://kbs.murarisumit.in/92a571b39b7be2d430f2391c21c79018/</link><pubDate>Mon, 06 Dec 2021 13:35:31 +0530</pubDate><guid>https://kbs.murarisumit.in/92a571b39b7be2d430f2391c21c79018/</guid><description>&lt;p>So yes, if someone is really persistant about it. The prices for these weaponised exploit start from 100K USD from from 2.5Million dollars.&lt;/p>
+&lt;p>There is high cost to it, so usually used by state actor or for&lt;/p>
+&lt;p>Don&amp;rsquo;t live in fear of getting hacked, it should be in your threat model. There are lot more important people our there with more information is their hands so you&amp;rsquo;re very less likely are a target, but remember if someone wants to he can.&lt;/p>
+&lt;p>There is pure economics involved, will it bring enough ROI(Return of investment on it). Are you a person of interest.&lt;/p>
+&lt;p>What all you can do ?&lt;/p>
+&lt;ol>
+&lt;li>Browser has huge attack surface. If you can disable JS, probably disabling javascript, but that seems difficult. Use umatrix can make it easy.&lt;/li>
+&lt;li>Disable just-in time compiler, or webassembly or browser if you can.&lt;/li>
+&lt;li>Don&amp;rsquo;t click stupid links.&lt;/li>
+&lt;li>Use multi-factor auth&lt;/li>
+&lt;li>Password managers.&lt;/li>
+&lt;li>Attack persistance is hard, but just restart it every now and then. It might help you.&lt;/li>
+&lt;/ol>
+&lt;p>Most simpler tricks are &lt;a href="https://www.youtube.com/watch?v=NWtm4X6L_Cs">Phishing&lt;/a> you should be worry about.&lt;/p></description></item><item><title>Shamir Secret Sharing</title><link>https://kbs.murarisumit.in/b21e7d844c3b536261f757f5a735dc8a/</link><pubDate>Thu, 02 Dec 2021 10:07:05 +0530</pubDate><guid>https://kbs.murarisumit.in/b21e7d844c3b536261f757f5a735dc8a/</guid><description>&lt;p>This idea is really elegant to me and seeing it work is beautiful&lt;/p>
+&lt;p>Keeping it here for reference.&lt;/p></description></item></channel></rss>

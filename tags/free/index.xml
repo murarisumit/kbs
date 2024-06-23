@@ -1,23 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Free on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/free/</link>
-    <description>Recent content in Free on knowledge base</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 03 Jul 2022 00:47:21 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/free/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rss Reader</title>
-      <link>https://kbs.murarisumit.in/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</link>
-      <pubDate>Sun, 03 Jul 2022 00:47:21 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</guid>
-      <description>&lt;p&gt;Personally I prefer &lt;a href=&#34;https://www.reederapp.com&#34;&gt;reederapp&lt;/a&gt;. It has built-in RSS feeds, beautiful interface and sync across devices.&lt;/p&gt;
-&lt;p&gt;But if someone is looking for Open Sourcs RSS Reader that works on iOS ecosystem, then &lt;a href=&#34;https://netnewswire.com&#34;&gt;netnewswire&lt;/a&gt; is good option without putting lot of money before locking into RSS.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Free on knowledge base</title><link>https://kbs.murarisumit.in/tags/free/</link><description>Recent content in Free on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 03 Jul 2022 00:47:21 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/free/index.xml" rel="self" type="application/rss+xml"/><item><title>Rss Reader</title><link>https://kbs.murarisumit.in/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</link><pubDate>Sun, 03 Jul 2022 00:47:21 +0530</pubDate><guid>https://kbs.murarisumit.in/en/ba2c65ac5f71fbbb97dc75d07ed25f89/</guid><description>&lt;p>Personally I prefer &lt;a href="https://www.reederapp.com">reederapp&lt;/a>. It has built-in RSS feeds, beautiful interface and sync across devices.&lt;/p>
+&lt;p>But if someone is looking for Open Sourcs RSS Reader that works on iOS ecosystem, then &lt;a href="https://netnewswire.com">netnewswire&lt;/a> is good option without putting lot of money before locking into RSS.&lt;/p></description></item></channel></rss>

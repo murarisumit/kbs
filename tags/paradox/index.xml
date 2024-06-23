@@ -1,62 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Paradox on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/paradox/</link>
-    <description>Recent content in Paradox on knowledge base</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 07 Aug 2021 08:54:42 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/paradox/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bayes Rule and Medical Tests</title>
-      <link>https://kbs.murarisumit.in/bookmarks/bayes-rule-medical-tests/</link>
-      <pubDate>Sat, 07 Aug 2021 08:54:42 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/bookmarks/bayes-rule-medical-tests/</guid>
-      <description>&lt;p&gt;All medical tests do is update their probability of having disease, and not tell if we have disease or not.&lt;/p&gt;
-&lt;p&gt;There are three things&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Prevalence  : How common is that disease around here? What chance of having it without tests?&lt;/li&gt;
-&lt;li&gt;Sensitivity : If even disease is present, how good is the test at detecting it.&lt;/li&gt;
-&lt;li&gt;Specificity : If a test is taken, there can be other issues that result. Clots in the pancreas can be because of a lot many things. How specific is test for that specific disease.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;For example which he told&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Prevalence : 1%&lt;/li&gt;
-&lt;li&gt;Sensitivity : 90%&lt;/li&gt;
-&lt;li&gt;Specificity : 91%&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol&gt;
-&lt;li&gt;So even if you haven&amp;rsquo;t taken test, there is &lt;strong&gt;1%&lt;/strong&gt; chance of you having that disease. So taking a test based on the test&amp;rsquo;s Sensitivity and Specificity would increase and decrease that probability.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;To calculate your probability faster is to get the Bayes factor.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Bayes factor = Sensitivity / False positive
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Bayes factor =  (Probability of having cancer after test is positive) / (Probability of not having cancer after test is positive)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;Bayes factor is also called likelihood ratio.&lt;/p&gt;
-&lt;p&gt;For above values :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Probability of having cancer after test is positive : 90 in 100 (90%)&lt;/li&gt;
-&lt;li&gt;Probability of test is false positive (100 - specificity) i.e 9&lt;/li&gt;
-&lt;li&gt;So likelihood ratio is : 90 / 0 i.e. 10&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;So in the first case without test, there was 1% i.e. 1 in 100 that you&amp;rsquo;ve cancer without test. After the test, your chances just get updated. After test is positive your chances are:  1/100 * 10 ~ 1/10. So that is also not 100% sure now.&lt;/p&gt;
-&lt;p&gt;So for tests your symptoms, contacts, genetics all come up to increase the chance, but still not 100%, we need to remember. &lt;strong&gt;&amp;ldquo;All tests do is update the chances of having it, but not sure shot thing. Until tests are bulletproof.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id=&#34;better-to-watch-the-whole-video-above-are-just-notes-taken-from-there&#34;&gt;Better to watch the whole video, above are just notes taken from there.&lt;/h3&gt;
-&lt;p&gt;One of top comments for youtube channel&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;As a doctor I&amp;rsquo;m so happy you&amp;rsquo;re using your platform to get this information out. Let me tell you though&amp;hellip; it gets way more complicated! Unfortunately prevalence estimates aren&amp;rsquo;t always known and are constantly changing (especially in pandemics). Another thing to consider is the gold standard. If your test looks for breast cancer you can cut out the lump and look at it under a microscope. Some diseases aren&amp;rsquo;t as easily clarified. For instance, since we don&amp;rsquo;t have a highly accurate, easy test for pancreatic cancer we rely on imaging, demographics, blood markers, symptoms (or lack thereof) as multiple things that form a conglomerate test to increase our Bayes factor. Despite all these things we can&amp;rsquo;t always get a great prediction on whether that scar in your bile duct is cancer or just a residual scar from pancreatitis you had 10 years ago. So we offer the patient a huge surgery to remove the head of their pancreas and duodenum only to find that it wasn&amp;rsquo;t cancer. You can imagine the patient is happy it&amp;rsquo;s not cancer but not so happy they don&amp;rsquo;t have half their pancreas and have abdominal pain and maybe diabetes. Medicine is a tricky thing. Another tricky thing is operator error. Some tests depend on the skill of the lab tech, radiologist, or surgeon. The complexity of the human body and the uniqueness of each individual also plays a role. Your test may be false positive in a particular patient 100% of the time because they have some strange protein mutation. It&amp;rsquo;s tough!&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paradox on knowledge base</title><link>https://kbs.murarisumit.in/tags/paradox/</link><description>Recent content in Paradox on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 07 Aug 2021 08:54:42 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/paradox/index.xml" rel="self" type="application/rss+xml"/><item><title>Bayes Rule and Medical Tests</title><link>https://kbs.murarisumit.in/bookmarks/bayes-rule-medical-tests/</link><pubDate>Sat, 07 Aug 2021 08:54:42 +0530</pubDate><guid>https://kbs.murarisumit.in/bookmarks/bayes-rule-medical-tests/</guid><description>&lt;p>All medical tests do is update their probability of having disease, and not tell if we have disease or not.&lt;/p>
+&lt;p>There are three things&lt;/p>
+&lt;ul>
+&lt;li>Prevalence : How common is that disease around here? What chance of having it without tests?&lt;/li>
+&lt;li>Sensitivity : If even disease is present, how good is the test at detecting it.&lt;/li>
+&lt;li>Specificity : If a test is taken, there can be other issues that result. Clots in the pancreas can be because of a lot many things. How specific is test for that specific disease.&lt;/li>
+&lt;/ul>
+&lt;p>For example which he told&lt;/p>
+&lt;ul>
+&lt;li>Prevalence : 1%&lt;/li>
+&lt;li>Sensitivity : 90%&lt;/li>
+&lt;li>Specificity : 91%&lt;/li>
+&lt;/ul>
+&lt;ol>
+&lt;li>So even if you haven&amp;rsquo;t taken test, there is &lt;strong>1%&lt;/strong> chance of you having that disease. So taking a test based on the test&amp;rsquo;s Sensitivity and Specificity would increase and decrease that probability.&lt;/li>
+&lt;/ol>
+&lt;p>To calculate your probability faster is to get the Bayes factor.&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">Bayes factor = Sensitivity / False positive
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Bayes factor = (Probability of having cancer after test is positive) / (Probability of not having cancer after test is positive)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>Bayes factor is also called likelihood ratio.&lt;/p>
+&lt;p>For above values :&lt;/p>
+&lt;ul>
+&lt;li>Probability of having cancer after test is positive : 90 in 100 (90%)&lt;/li>
+&lt;li>Probability of test is false positive (100 - specificity) i.e 9&lt;/li>
+&lt;li>So likelihood ratio is : 90 / 0 i.e. 10&lt;/li>
+&lt;/ul>
+&lt;p>So in the first case without test, there was 1% i.e. 1 in 100 that you&amp;rsquo;ve cancer without test. After the test, your chances just get updated. After test is positive your chances are: 1/100 * 10 ~ 1/10. So that is also not 100% sure now.&lt;/p>
+&lt;p>So for tests your symptoms, contacts, genetics all come up to increase the chance, but still not 100%, we need to remember. &lt;strong>&amp;ldquo;All tests do is update the chances of having it, but not sure shot thing. Until tests are bulletproof.&amp;rdquo;&lt;/strong>&lt;/p>
+&lt;h3 id="better-to-watch-the-whole-video-above-are-just-notes-taken-from-there">Better to watch the whole video, above are just notes taken from there.&lt;/h3>
+&lt;p>One of top comments for youtube channel&lt;/p>
+&lt;blockquote>
+&lt;p>As a doctor I&amp;rsquo;m so happy you&amp;rsquo;re using your platform to get this information out. Let me tell you though&amp;hellip; it gets way more complicated! Unfortunately prevalence estimates aren&amp;rsquo;t always known and are constantly changing (especially in pandemics). Another thing to consider is the gold standard. If your test looks for breast cancer you can cut out the lump and look at it under a microscope. Some diseases aren&amp;rsquo;t as easily clarified. For instance, since we don&amp;rsquo;t have a highly accurate, easy test for pancreatic cancer we rely on imaging, demographics, blood markers, symptoms (or lack thereof) as multiple things that form a conglomerate test to increase our Bayes factor. Despite all these things we can&amp;rsquo;t always get a great prediction on whether that scar in your bile duct is cancer or just a residual scar from pancreatitis you had 10 years ago. So we offer the patient a huge surgery to remove the head of their pancreas and duodenum only to find that it wasn&amp;rsquo;t cancer. You can imagine the patient is happy it&amp;rsquo;s not cancer but not so happy they don&amp;rsquo;t have half their pancreas and have abdominal pain and maybe diabetes. Medicine is a tricky thing. Another tricky thing is operator error. Some tests depend on the skill of the lab tech, radiologist, or surgeon. The complexity of the human body and the uniqueness of each individual also plays a role. Your test may be false positive in a particular patient 100% of the time because they have some strange protein mutation. It&amp;rsquo;s tough!&lt;/p>
+&lt;/blockquote></description></item></channel></rss>

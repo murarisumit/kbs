@@ -1,39 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Why on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/why/</link>
-    <description>Recent content in Why on knowledge base</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2020 04:06:21 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/why/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Understanding the /bin, /sbin, /usr/sbin Split</title>
-      <link>https://kbs.murarisumit.in/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</link>
-      <pubDate>Sun, 07 Jun 2020 04:06:21 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CSS id vs class</title>
-      <link>https://kbs.murarisumit.in/tils/css-id-vs-class/</link>
-      <pubDate>Mon, 01 Jun 2020 13:42:43 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/tils/css-id-vs-class/</guid>
-      <description>&lt;p&gt;Simple CSS question while working on resume project, is when to use id and when to use class.&lt;/p&gt;
-&lt;p&gt;First thing to know about IDs:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;IDs are unique&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Browser knows a bit about IDs, this ID is what we see in &lt;a href=&#34;https://web.archive.org/web/20200428074032/https://blog.httpwatch.com/2011/03/01/6-things-you-should-know-about-fragment-urls/&#34;&gt;fragment or hash-value&lt;/a&gt;. Browser uses this to reach parts various part of repo. So it has to be unique.&lt;/p&gt;
-&lt;p&gt;For css it doesn&amp;rsquo;t matter it applies stying if you ask by &lt;code&gt;#id_name&lt;/code&gt; or &lt;code&gt;.class_name&lt;/code&gt; but browser wants ID to be unique.&lt;/p&gt;
-&lt;p&gt;So it one style has to be used on multiple elements then use &lt;code&gt;class&lt;/code&gt; if yoou want to use it only once them go for &lt;code&gt;id&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;For more you can read this post: &lt;a href=&#34;https://web.archive.org/web/20140831165401/http://css-tricks.com/the-difference-between-id-and-class/&#34;&gt;https://web.archive.org/web/20140831165401/http://css-tricks.com/the-difference-between-id-and-class/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Why on knowledge base</title><link>https://kbs.murarisumit.in/tags/why/</link><description>Recent content in Why on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 07 Jun 2020 04:06:21 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/why/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding the /bin, /sbin, /usr/sbin Split</title><link>https://kbs.murarisumit.in/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</link><pubDate>Sun, 07 Jun 2020 04:06:21 +0530</pubDate><guid>https://kbs.murarisumit.in/bookmarks/understanding-the-bin-sbin-usr-sbin-split/</guid><description/></item><item><title>CSS id vs class</title><link>https://kbs.murarisumit.in/tils/css-id-vs-class/</link><pubDate>Mon, 01 Jun 2020 13:42:43 +0530</pubDate><guid>https://kbs.murarisumit.in/tils/css-id-vs-class/</guid><description>&lt;p>Simple CSS question while working on resume project, is when to use id and when to use class.&lt;/p>
+&lt;p>First thing to know about IDs:&lt;/p>
+&lt;blockquote>
+&lt;p>IDs are unique&lt;/p>
+&lt;/blockquote>
+&lt;p>Browser knows a bit about IDs, this ID is what we see in &lt;a href="https://web.archive.org/web/20200428074032/https://blog.httpwatch.com/2011/03/01/6-things-you-should-know-about-fragment-urls/">fragment or hash-value&lt;/a>. Browser uses this to reach parts various part of repo. So it has to be unique.&lt;/p>
+&lt;p>For css it doesn&amp;rsquo;t matter it applies stying if you ask by &lt;code>#id_name&lt;/code> or &lt;code>.class_name&lt;/code> but browser wants ID to be unique.&lt;/p>
+&lt;p>So it one style has to be used on multiple elements then use &lt;code>class&lt;/code> if yoou want to use it only once them go for &lt;code>id&lt;/code>&lt;/p>
+&lt;p>For more you can read this post: &lt;a href="https://web.archive.org/web/20140831165401/http://css-tricks.com/the-difference-between-id-and-class/">https://web.archive.org/web/20140831165401/http://css-tricks.com/the-difference-between-id-and-class/&lt;/a>&lt;/p></description></item></channel></rss>

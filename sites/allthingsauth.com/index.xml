@@ -1,34 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Allthingsauth.com on knowledge base</title>
-    <link>https://kbs.murarisumit.in/sites/allthingsauth.com/</link>
-    <description>Recent content in Allthingsauth.com on knowledge base</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 03 Sep 2021 22:11:57 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/allthingsauth.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Understanding Totp Format</title>
-      <link>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</link>
-      <pubDate>Fri, 03 Sep 2021 22:11:57 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</guid>
-      <description>&lt;p&gt;Gist for TOTP is&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Secure share of shared-secret b/w parties via QR code,&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;QR code is mostly and information in this &lt;a href=&#34;https://github.com/google/google-authenticator/wiki/Key-Uri-Format&#34;&gt;url format&lt;/a&gt;: &lt;code&gt;otpauth://totp/ACME%20Co:john.doe@email.com?secret=HXDMVJECJJWSRB3HWIZR4IFUGFTMXBOZ&amp;amp;issuer=ACME%20Co&amp;amp;algorithm=SHA1&amp;amp;digits=6&amp;amp;period=30&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;OTP = hash (shared secret + time)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;For deep dive, please go via bookmark reference mentioned on top&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Allthingsauth.com on knowledge base</title><link>https://kbs.murarisumit.in/sites/allthingsauth.com/</link><description>Recent content in Allthingsauth.com on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 03 Sep 2021 22:11:57 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/sites/allthingsauth.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding Totp Format</title><link>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</link><pubDate>Fri, 03 Sep 2021 22:11:57 +0530</pubDate><guid>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</guid><description>&lt;p>Gist for TOTP is&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Secure share of shared-secret b/w parties via QR code,&lt;/p>
+&lt;ul>
+&lt;li>QR code is mostly and information in this &lt;a href="https://github.com/google/google-authenticator/wiki/Key-Uri-Format">url format&lt;/a>: &lt;code>otpauth://totp/ACME%20Co:john.doe@email.com?secret=HXDMVJECJJWSRB3HWIZR4IFUGFTMXBOZ&amp;amp;issuer=ACME%20Co&amp;amp;algorithm=SHA1&amp;amp;digits=6&amp;amp;period=30&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>OTP = hash (shared secret + time)&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>For deep dive, please go via bookmark reference mentioned on top&lt;/p></description></item></channel></rss>

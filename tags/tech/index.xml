@@ -1,91 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tech on knowledge base</title>
-    <link>https://kbs.murarisumit.in/tags/tech/</link>
-    <description>Recent content in Tech on knowledge base</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 19 Nov 2021 21:00:55 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/tech/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>What Does 9s Mean in Downtime</title>
-      <link>https://kbs.murarisumit.in/ec9cc6baa4890df4cb5e5dc561d60e43/</link>
-      <pubDate>Fri, 19 Nov 2021 21:00:55 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/ec9cc6baa4890df4cb5e5dc561d60e43/</guid>
-      <description>&lt;p&gt;Sometime i just forgot how much 9s means in w.r.t SLA and how much downtime can be afforded and this above reference is simple and beautiful.&lt;/p&gt;
-&lt;p&gt;Try with multiple 9s like this: &lt;a href=&#34;https://uptime.is/99.9&#34;&gt;https://uptime.is/99.9&lt;/a&gt; or &lt;a href=&#34;https://uptime.is/99.99&#34;&gt;https://uptime.is/99.99&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;To put from website.&lt;/p&gt;
-&lt;h3 id=&#34;999&#34;&gt;99.9&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;Daily: 1m 26s
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tech on knowledge base</title><link>https://kbs.murarisumit.in/tags/tech/</link><description>Recent content in Tech on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 19 Nov 2021 21:00:55 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>What Does 9s Mean in Downtime</title><link>https://kbs.murarisumit.in/ec9cc6baa4890df4cb5e5dc561d60e43/</link><pubDate>Fri, 19 Nov 2021 21:00:55 +0530</pubDate><guid>https://kbs.murarisumit.in/ec9cc6baa4890df4cb5e5dc561d60e43/</guid><description>&lt;p>Sometime i just forgot how much 9s means in w.r.t SLA and how much downtime can be afforded and this above reference is simple and beautiful.&lt;/p>
+&lt;p>Try with multiple 9s like this: &lt;a href="https://uptime.is/99.9">https://uptime.is/99.9&lt;/a> or &lt;a href="https://uptime.is/99.99">https://uptime.is/99.99&lt;/a>&lt;/p>
+&lt;p>To put from website.&lt;/p>
+&lt;h3 id="999">99.9&lt;/h3>
+&lt;pre>&lt;code>Daily: 1m 26s
 Weekly: 10m 4s
 Monthly: 43m 49s
 Quarterly: 2h 11m 29s
 Yearly: 8h 45m 56s
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id=&#34;9999&#34;&gt;99.99&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;Daily: 8s
+&lt;/code>&lt;/pre>
+&lt;h3 id="9999">99.99&lt;/h3>
+&lt;pre>&lt;code>Daily: 8s
 Weekly: 1m 0s
 Monthly: 4m 22s
 Quarterly: 13m 8s
 Yearly: 52m 35s
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id=&#34;99999&#34;&gt;99.999&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;Daily: 0s
+&lt;/code>&lt;/pre>
+&lt;h3 id="99999">99.999&lt;/h3>
+&lt;pre>&lt;code>Daily: 0s
 Weekly: 6s
 Monthly: 26s
 Quarterly: 1m 18s
 Yearly: 5m 15s
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;For more 9s visit &lt;a href=&#34;https://uptime.is/99.9999&#34;&gt;https://uptime.is/99.9999&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Solid Principle in Simple Way</title>
-      <link>https://kbs.murarisumit.in/5df1af1a7c595eb1c55b78bc2086c772/</link>
-      <pubDate>Tue, 02 Nov 2021 22:00:04 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/5df1af1a7c595eb1c55b78bc2086c772/</guid>
-      <description>&lt;p&gt;Summary:&lt;/p&gt;
-&lt;h4 id=&#34;single-responsibility-principle-&#34;&gt;Single Responsibility principle :&lt;/h4&gt;
-&lt;p&gt;Don’t surprise the people who read your code.&lt;/p&gt;
-&lt;p&gt;There should never be more than one reason for a class to change. You should be able to use and add to a module without rewriting it.&lt;/p&gt;
-&lt;h4 id=&#34;open-close-principle&#34;&gt;Open-Close principle&lt;/h4&gt;
-&lt;p&gt;Don’t surprise the people who use your code. Your code should be close for modification and open for extension&lt;/p&gt;
-&lt;h4 id=&#34;liskov-substitution-principle&#34;&gt;Liskov substitution principle&lt;/h4&gt;
-&lt;p&gt;Don’t overwhelm the people who read your code.
-If S is a subtype of T, then objects of type T may be replaced with objects of type S without altering any of the desirable properties of the program. &lt;em&gt;You should be able to substitute one thing for another if those things are declared to behave the same way&lt;/em&gt;.&lt;/p&gt;
-&lt;h4 id=&#34;interface-segregation-principle-use-sane-boundaries-for-your-code&#34;&gt;Interface segregation principle: Use sane boundaries for your code.&lt;/h4&gt;
-&lt;p&gt;Many client-specific interfaces are better than one general-purpose interface. Don’t show your clients more than they need to see&lt;/p&gt;
-&lt;h4 id=&#34;dependency-inversion-principle-use-the-right-level-of-couplingkeep-things-together-that-belong-together-and-keep-them-apart-if-they-belong-apart&#34;&gt;Dependency inversion principle: Use the right level of coupling—keep things together that belong together, and keep them apart if they belong apart.&lt;/h4&gt;
-&lt;p&gt;Depend upon abstractions, not concretions.&lt;/p&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Understanding Totp Format</title>
-      <link>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</link>
-      <pubDate>Fri, 03 Sep 2021 22:11:57 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</guid>
-      <description>&lt;p&gt;Gist for TOTP is&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Secure share of shared-secret b/w parties via QR code,&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;QR code is mostly and information in this &lt;a href=&#34;https://github.com/google/google-authenticator/wiki/Key-Uri-Format&#34;&gt;url format&lt;/a&gt;: &lt;code&gt;otpauth://totp/ACME%20Co:john.doe@email.com?secret=HXDMVJECJJWSRB3HWIZR4IFUGFTMXBOZ&amp;amp;issuer=ACME%20Co&amp;amp;algorithm=SHA1&amp;amp;digits=6&amp;amp;period=30&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;OTP = hash (shared secret + time)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;For deep dive, please go via bookmark reference mentioned on top&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-
+&lt;/code>&lt;/pre>
+&lt;p>For more 9s visit &lt;a href="https://uptime.is/99.9999">https://uptime.is/99.9999&lt;/a>&lt;/p></description></item><item><title>Solid Principle in Simple Way</title><link>https://kbs.murarisumit.in/5df1af1a7c595eb1c55b78bc2086c772/</link><pubDate>Tue, 02 Nov 2021 22:00:04 +0530</pubDate><guid>https://kbs.murarisumit.in/5df1af1a7c595eb1c55b78bc2086c772/</guid><description>&lt;p>Summary:&lt;/p>
+&lt;h4 id="single-responsibility-principle-">Single Responsibility principle :&lt;/h4>
+&lt;p>Don’t surprise the people who read your code.&lt;/p>
+&lt;p>There should never be more than one reason for a class to change. You should be able to use and add to a module without rewriting it.&lt;/p>
+&lt;h4 id="open-close-principle">Open-Close principle&lt;/h4>
+&lt;p>Don’t surprise the people who use your code. Your code should be close for modification and open for extension&lt;/p>
+&lt;h4 id="liskov-substitution-principle">Liskov substitution principle&lt;/h4>
+&lt;p>Don’t overwhelm the people who read your code.
+If S is a subtype of T, then objects of type T may be replaced with objects of type S without altering any of the desirable properties of the program. &lt;em>You should be able to substitute one thing for another if those things are declared to behave the same way&lt;/em>.&lt;/p>
+&lt;h4 id="interface-segregation-principle-use-sane-boundaries-for-your-code">Interface segregation principle: Use sane boundaries for your code.&lt;/h4>
+&lt;p>Many client-specific interfaces are better than one general-purpose interface. Don’t show your clients more than they need to see&lt;/p>
+&lt;h4 id="dependency-inversion-principle-use-the-right-level-of-couplingkeep-things-together-that-belong-together-and-keep-them-apart-if-they-belong-apart">Dependency inversion principle: Use the right level of coupling—keep things together that belong together, and keep them apart if they belong apart.&lt;/h4>
+&lt;p>Depend upon abstractions, not concretions.&lt;/p>
+&lt;hr></description></item><item><title>Understanding Totp Format</title><link>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</link><pubDate>Fri, 03 Sep 2021 22:11:57 +0530</pubDate><guid>https://kbs.murarisumit.in/17631ba5506051a4b38a7a5f997a0140/</guid><description>&lt;p>Gist for TOTP is&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Secure share of shared-secret b/w parties via QR code,&lt;/p>
+&lt;ul>
+&lt;li>QR code is mostly and information in this &lt;a href="https://github.com/google/google-authenticator/wiki/Key-Uri-Format">url format&lt;/a>: &lt;code>otpauth://totp/ACME%20Co:john.doe@email.com?secret=HXDMVJECJJWSRB3HWIZR4IFUGFTMXBOZ&amp;amp;issuer=ACME%20Co&amp;amp;algorithm=SHA1&amp;amp;digits=6&amp;amp;period=30&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>OTP = hash (shared secret + time)&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>For deep dive, please go via bookmark reference mentioned on top&lt;/p></description></item></channel></rss>

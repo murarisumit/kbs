@@ -1,97 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on knowledge base</title>
-    <link>https://kbs.murarisumit.in/category/posts/</link>
-    <description>Recent content in Posts on knowledge base</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 23 Nov 2021 14:43:52 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/category/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ublock Origin Youtube Filter List</title>
-      <link>https://kbs.murarisumit.in/6e225c364f36afa1b5766490db9e7229/</link>
-      <pubDate>Tue, 23 Nov 2021 14:43:52 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/6e225c364f36afa1b5766490db9e7229/</guid>
-      <description>&lt;p&gt;So idea here is to reduce the distraction. One thought that was difficult for me to overcame was&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I should have self-control, no such controls are needed.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Have less distraction and making bad habits(imo) difficult is powerful way to stay more focussed in case I drift.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;It primarily removes&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Videos on Home page.&lt;/li&gt;
-&lt;li&gt;Suggested videos.&lt;/li&gt;
-&lt;li&gt;Comments (Wasted time reading it, and endup think, why in this world did I read them).&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;steps&#34;&gt;Steps&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Go to filters pane: &lt;a href=&#34;https://github.com/gorhill/uBlock/wiki/Dashboard:-My-filters&#34;&gt;https://github.com/gorhill/uBlock/wiki/Dashboard:-My-filters&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Add content to filters from&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;!Home page all videos page
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;youtube.com##ytd-browse.ytd-page-manager.style-scope
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;!Suggestion by youtube
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;youtube.com###related
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;!Removes comments
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;##.ytd-comments.style-scope
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Batman vs Superman Martha Flaw</title>
-      <link>https://kbs.murarisumit.in/posts/batman-vs-superman-martha-flaw/</link>
-      <pubDate>Sun, 01 Aug 2021 01:05:26 +0530</pubDate>
-      
-      <guid>https://kbs.murarisumit.in/posts/batman-vs-superman-martha-flaw/</guid>
-      <description>&lt;p&gt;After watch man of steel, which was good. It would nice to see how krypton got destroyed and General Zod&amp;rsquo;s past.&lt;/p&gt;
-&lt;p&gt;Went on to see batman vs superman, at first I thought title was stupid. Batman vs superman makes no sense, but yeah it&amp;rsquo;s justifies after you watch movie, but some creativity here would have been nice, from someone whose company thrives on creativity.&lt;/p&gt;
-&lt;p&gt;I personally like spoilers, because would love to see story is being portrayed and only see portrayal if story is good.&lt;/p&gt;
-&lt;h2 id=&#34;spoilers-ahead&#34;&gt;Spoilers Ahead&lt;/h2&gt;
-&lt;p&gt;Alternate theory for batman vs superman &amp;lsquo;martha&amp;rsquo; moment.&lt;/p&gt;
-&lt;p&gt;Came across below alternate scene from a guy in Quora, reference for the original post: &lt;a href=&#34;https://qr.ae/pGw69M&#34;&gt;https://qr.ae/pGw69M&lt;/a&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;We&#39;re supposed to believe that Wayne has a soft spot and that Superman found it. After finding it, the fortuitous arrival of Lois Lane made him stop and think. Before that point in time, Superman was a false-god and one that with no apparent connection to humanity other than an apparent need to act godly and save people. He was an alien. But then, suddenly, this man had an Earth mother who loved him and raised him. Bruce didn&#39;t know that. We&#39;re supposed to fill in the blanks. It was a bad job.
-
-Instead of introducing us to Bruce Wayne&#39;s back-story for the 58,000th time (in the beginning), those precious 5 minutes should have been spent evolving why Batman spared Superman&#39;s life. It could have also coincided with a &amp;quot;nuke blast&amp;quot; from Doomsday.
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on knowledge base</title><link>https://kbs.murarisumit.in/category/posts/</link><description>Recent content in Posts on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 23 Nov 2021 14:43:52 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/category/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Ublock Origin Youtube Filter List</title><link>https://kbs.murarisumit.in/6e225c364f36afa1b5766490db9e7229/</link><pubDate>Tue, 23 Nov 2021 14:43:52 +0530</pubDate><guid>https://kbs.murarisumit.in/6e225c364f36afa1b5766490db9e7229/</guid><description>&lt;p>So idea here is to reduce the distraction. One thought that was difficult for me to overcame was&lt;/p>
+&lt;blockquote>
+&lt;p>I should have self-control, no such controls are needed.&lt;/p>
+&lt;/blockquote>
+&lt;p>Have less distraction and making bad habits(imo) difficult is powerful way to stay more focussed in case I drift.&lt;/p>
+&lt;p>&lt;strong>It primarily removes&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>Videos on Home page.&lt;/li>
+&lt;li>Suggested videos.&lt;/li>
+&lt;li>Comments (Wasted time reading it, and endup think, why in this world did I read them).&lt;/li>
+&lt;/ol>
+&lt;h3 id="steps">Steps&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Go to filters pane: &lt;a href="https://github.com/gorhill/uBlock/wiki/Dashboard:-My-filters">https://github.com/gorhill/uBlock/wiki/Dashboard:-My-filters&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Add content to filters from&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">!Home page all videos page
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">youtube.com##ytd-browse.ytd-page-manager.style-scope
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">!Suggestion by youtube
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">youtube.com###related
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">!Removes comments
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">##.ytd-comments.style-scope
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;/li>
+&lt;/ul></description></item><item><title>Batman vs Superman Martha Flaw</title><link>https://kbs.murarisumit.in/posts/batman-vs-superman-martha-flaw/</link><pubDate>Sun, 01 Aug 2021 01:05:26 +0530</pubDate><guid>https://kbs.murarisumit.in/posts/batman-vs-superman-martha-flaw/</guid><description>&lt;p>After watch man of steel, which was good. It would nice to see how krypton got destroyed and General Zod&amp;rsquo;s past.&lt;/p>
+&lt;p>Went on to see batman vs superman, at first I thought title was stupid. Batman vs superman makes no sense, but yeah it&amp;rsquo;s justifies after you watch movie, but some creativity here would have been nice, from someone whose company thrives on creativity.&lt;/p>
+&lt;p>I personally like spoilers, because would love to see story is being portrayed and only see portrayal if story is good.&lt;/p>
+&lt;h2 id="spoilers-ahead">Spoilers Ahead&lt;/h2>
+&lt;p>Alternate theory for batman vs superman &amp;lsquo;martha&amp;rsquo; moment.&lt;/p>
+&lt;p>Came across below alternate scene from a guy in Quora, reference for the original post: &lt;a href="https://qr.ae/pGw69M">https://qr.ae/pGw69M&lt;/a>&lt;/p>
+&lt;pre>&lt;code>We're supposed to believe that Wayne has a soft spot and that Superman found it. After finding it, the fortuitous arrival of Lois Lane made him stop and think. Before that point in time, Superman was a false-god and one that with no apparent connection to humanity other than an apparent need to act godly and save people. He was an alien. But then, suddenly, this man had an Earth mother who loved him and raised him. Bruce didn't know that. We're supposed to fill in the blanks. It was a bad job.
+Instead of introducing us to Bruce Wayne's back-story for the 58,000th time (in the beginning), those precious 5 minutes should have been spent evolving why Batman spared Superman's life. It could have also coincided with a &amp;quot;nuke blast&amp;quot; from Doomsday.
 Superman says, &amp;quot;Martha&amp;quot;.
 Batman pauses. Garbles about his mom.
 Lois arrives.
 A dialogue ensues with Batman ordering Lois to get out of the way. She covers Superman with her body.
-Batman doesn&#39;t want to kill Lois. She won&#39;t let go. It is just enough time for her to talk.
-She explains that Superman isn&#39;t a god. He&#39;s a &amp;quot;human&amp;quot;, raised on Earth by two human parents who adopted him as an infant. She begins to tell him that his father raised him to serve mankind and that his mother is alive.
+Batman doesn't want to kill Lois. She won't let go. It is just enough time for her to talk.
+She explains that Superman isn't a god. He's a &amp;quot;human&amp;quot;, raised on Earth by two human parents who adopted him as an infant. She begins to tell him that his father raised him to serve mankind and that his mother is alive.
 Superman gains a bit of strength and says, &amp;quot;Not for long. My mother, Martha Kent is about to die. Lex has her prisoner. He ordered me to kill you to save her life.&amp;quot;
-Lois --being coy-- knows Bruce&#39;s story. &amp;quot;What would you do to save your mom from being shot by the robber, Bruce?&amp;quot;
+Lois --being coy-- knows Bruce's story. &amp;quot;What would you do to save your mom from being shot by the robber, Bruce?&amp;quot;
 Batman is nonplussed.
-Superman says, &amp;quot;This is what I tried to tell you Bruce. Before we started fighting. I need to work together with you to save my mom. If you want my life after that, I willingly give it to you. You can keep the spear. I won&#39;t refuse. I&#39;m yours, but please help me save my mother.&amp;quot;
-Batman says, &amp;quot;A truce then. It looks like we will both need each other then. Lex is working on something terrible in the Kryptonian ship. You go to Lex. I promise you, your mother won&#39;t die tonight. I will save her. But you must stop Lex...&amp;quot;
-In the battle, Batman realizes who Superman really is. In death, Batman realizes what he almost did -- destroy Humanity. He has a change of heart: Humanity needs the Metahumans. All of them. 
-
-That would have been more fluid. It would have taken --maybe-- an extra 120 seconds. The spare 180 seconds taken back from the Bruce Wayne intro in the beginning could have been put into the fight scene. Three minutes is a HUGE amount of time in a fight scene. It could have been even-more-epicker. 
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-
+Superman says, &amp;quot;This is what I tried to tell you Bruce. Before we started fighting. I need to work together with you to save my mom. If you want my life after that, I willingly give it to you. You can keep the spear. I won't refuse. I'm yours, but please help me save my mother.&amp;quot;
+Batman says, &amp;quot;A truce then. It looks like we will both need each other then. Lex is working on something terrible in the Kryptonian ship. You go to Lex. I promise you, your mother won't die tonight. I will save her. But you must stop Lex...&amp;quot;
+In the battle, Batman realizes who Superman really is. In death, Batman realizes what he almost did -- destroy Humanity. He has a change of heart: Humanity needs the Metahumans. All of them.
+That would have been more fluid. It would have taken --maybe-- an extra 120 seconds. The spare 180 seconds taken back from the Bruce Wayne intro in the beginning could have been put into the fight scene. Three minutes is a HUGE amount of time in a fight scene. It could have been even-more-epicker.
+&lt;/code>&lt;/pre></description></item></channel></rss>
