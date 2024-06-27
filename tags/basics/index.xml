@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Basics on knowledge base</title><link>https://kbs.murarisumit.in/tags/basics/</link><description>Recent content in Basics on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 27 Jun 2024 23:46:01 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/basics/index.xml" rel="self" type="application/rss+xml"/><item><title>Mass vs matter ?</title><link>https://kbs.murarisumit.in/en/4710840f1b6de62e27bbf0bf75af303e/</link><pubDate>Thu, 27 Jun 2024 23:46:01 +0530</pubDate><guid>https://kbs.murarisumit.in/en/4710840f1b6de62e27bbf0bf75af303e/</guid><description>&lt;h4 id="mass-vs-matter-">Mass vs matter ?&lt;/h4>
+&lt;blockquote>
+&lt;p>Mass is a measure of an object&amp;rsquo;s inertia and is quantified in terms of kilograms or grams, while matter refers to anything that occupies space and has mass.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Matter is all the “stuff” that exists in the universe. It has both mass and volume. Mass measures the amount of matter in a substance or an object. The basic SI unit for mass is the kilogram (kg).11&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Matter is anything that occupies space (having volume) and has mass is used to measure the amount of matter in a substance or an object.&amp;quot;&lt;/p>
+&lt;/blockquote>
+&lt;p>Still confused, what is &amp;ldquo;mass&amp;rdquo; and what is &amp;ldquo;matter&amp;rdquo; ?&lt;/p>
+&lt;hr>
+&lt;p>Bit more detailed explanation:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Mass&lt;/strong>: If we have a weight of 70kg. This is the amount of matter in the us. It is the same whether we are on Earth, the Moon, or in space.&lt;/li>
+&lt;li>&lt;strong>Matter&lt;/strong>: We are made of matter. We have mass &amp;amp; we occupy space. We are made of cells, tissues, and organs. These are all made of atoms and molecules. The rabbit is made of matter.&lt;/li>
+&lt;/ul>
+&lt;h4 id="what-is-weight-then-">What is weight then ?&lt;/h4>
+&lt;p>Do we have a weight or mass of 70kg ?&lt;/p>
+&lt;p>We need to know &amp;ldquo;kg&amp;rdquo; is the unit of mass, not the weight. But we say we have a weight of 70 kg. Why ?
+Also the weighing machine shows 70 kg. Why ?&lt;/p>
+&lt;p>To understand weight, we need to understand gravity.&lt;/p>
+&lt;details
+>
+&lt;summary>
+What is gravity
+&lt;/summary>
+&lt;ul>
+&lt;li>We have seen whenever we throw some object, after it loses the energy we gave it. It gets acceleration towards the earth as if earth is pulling it towards itself.
+&lt;ul>
+&lt;li>This acceleration is 9.8 m/s^2 on earth, 1.6 m/s^2 on the moon, 3.7 m/s^2 on Mars etc.&lt;/li>
+&lt;li>This acceleration is 0 m/s^2 in space.
+&lt;ul>
+&lt;li>So, if we throw some object in space, it will keep moving in the same direction. It will not come back to us.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Newton had his theory why we feel this acceleration. He said that mass attracts mass.
+&lt;ul>
+&lt;li>Hence earth attracts us. So, we feel a force that pulls us towards the earth. This force is called gravity.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Einstein had his theory on how this force comes. He said that mass bends the space-time around it. So, objects are pulled towards the mass. This bending of space-time is called gravity.
+&lt;ul>
+&lt;li>So here even the particle with no mass is pulled towards the mass. Because mass bends the space-time around it.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Whatever the theory of origin of this force, we found that earth &amp;amp; other planets pull objects towards themselves which causes acceleration. This acceleration is called gravity.&lt;/li>
+&lt;/ul>
+&lt;/details>
+&lt;p>So weight is what we feel because of gravity. Because some acceleration is acting on us. How that acceleration comes is different &amp;amp; everyone has their own theory.&lt;/p>
+&lt;p>Weight is &lt;code>kg * meter/second^2&lt;/code>. It is measured in Newtons.&lt;/p>
+&lt;h4 id="why-do-we-see-our-weight-at-70kg">Why do we see our weight at 70kg&lt;/h4>
+&lt;p>On earth our weighing machines are calibrated to show our weight in kg. But it is actually showing our mass in kg. This is because the standard gravitational acceleration on Earth is assumed, and weighing machines are calibrated to show &amp;ldquo;weight&amp;rdquo; in kilograms, which is a bit of a misnomer because kilograms technically measure mass, not weight&lt;/p>
+&lt;p>If we took an earth calibration weighing machine to the moon, it would show our weight much less than 70 kg. But our mass would still be 70 kg. Because the weighing machine is calibrated to show weight on earth. If someone calibrated it to show weight on the moon, it would show 70 kg.&lt;/p></description></item></channel></rss>
