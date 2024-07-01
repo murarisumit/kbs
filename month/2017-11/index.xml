@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2017-11 on knowledge base</title><link>https://kbs.murarisumit.in/month/2017-11/</link><description>Recent content in 2017-11 on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 01 Nov 2017 22:41:06 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/month/2017-11/index.xml" rel="self" type="application/rss+xml"/><item><title>Basic Geometry Concepts</title><link>https://kbs.murarisumit.in/en/5d37dda250aad63a22125b1eb0e01430/</link><pubDate>Wed, 01 Nov 2017 22:41:06 +0530</pubDate><guid>https://kbs.murarisumit.in/en/5d37dda250aad63a22125b1eb0e01430/</guid><description>&lt;p>Some basic terminologies in geometry&lt;/p>
+&lt;h4 id="q-what-is-the-curve-">Q: What is the curve ?&lt;/h4>
+&lt;p>A curve is a shape which is smoothly drawn in a plane having a bent or turns in it.&lt;/p>
+&lt;h4 id="q-what-is-the-tangent-to-the-curve-">Q: What is the tangent to the curve ?&lt;/h4>
+&lt;p>Tangent to the curve is the line that touches it(curve) only at one point.&lt;/p>
+&lt;h4 id="q-what-is-a-vector-">Q: What is a vector ?&lt;/h4>
+&lt;p>In physics and geometry, (Euclidean vector or a direction vector), used to represent physical quantities that have both magnitude and direction.&lt;/p>
+&lt;h4 id="q-what-is-a-tangent-vector-">Q: What is a tangent vector ?&lt;/h4>
+&lt;p>Any vector that is tangent to the curve is a tangent vector.&lt;/p>
+&lt;h3 id="q-what-is-parallel-transported-">Q: What is parallel transported ?&lt;/h3>
+&lt;p>It means transferring things parallel. Here moving vector together, working things in parallel or transposing parallelly&lt;/p>
+&lt;h4 id="q-what-is-a-straight-line-">Q: What is a straight line ?&lt;/h4>
+&lt;p>It&amp;rsquo;s a special curve, when its tangent vector stays tangent when parallelly transported along the curve.&lt;/p></description></item></channel></rss>
