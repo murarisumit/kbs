@@ -1,57 +1,310 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Physics on knowledge base</title><link>https://kbs.murarisumit.in/tags/physics/</link><description>Recent content in Physics on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 27 Jun 2024 23:46:01 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/physics/index.xml" rel="self" type="application/rss+xml"/><item><title>Mass vs matter ?</title><link>https://kbs.murarisumit.in/en/4710840f1b6de62e27bbf0bf75af303e/</link><pubDate>Thu, 27 Jun 2024 23:46:01 +0530</pubDate><guid>https://kbs.murarisumit.in/en/4710840f1b6de62e27bbf0bf75af303e/</guid><description>&lt;h4 id="mass-vs-matter-">Mass vs matter ?&lt;/h4>
-&lt;blockquote>
-&lt;p>Mass is a measure of an object&amp;rsquo;s inertia and is quantified in terms of kilograms or grams, while matter refers to anything that occupies space and has mass.&lt;/p>
-&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Matter is all the “stuff” that exists in the universe. It has both mass and volume. Mass measures the amount of matter in a substance or an object. The basic SI unit for mass is the kilogram (kg).11&lt;/p>
-&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Matter is anything that occupies space (having volume) and has mass is used to measure the amount of matter in a substance or an object.&amp;quot;&lt;/p>
-&lt;/blockquote>
-&lt;p>Still confused, what is &amp;ldquo;mass&amp;rdquo; and what is &amp;ldquo;matter&amp;rdquo; ?&lt;/p>
-&lt;hr>
-&lt;p>Bit more detailed explanation:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Physics on knowledge base</title><link>https://kbs.murarisumit.in/tags/physics/</link><description>Recent content in Physics on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 02 Jul 2024 04:22:28 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/physics/index.xml" rel="self" type="application/rss+xml"/><item><title>What Is Spacetime in Einstein Theory</title><link>https://kbs.murarisumit.in/en/f7de1f85aff4e3440204f197756f8b68/</link><pubDate>Tue, 02 Jul 2024 04:22:28 +0530</pubDate><guid>https://kbs.murarisumit.in/en/f7de1f85aff4e3440204f197756f8b68/</guid><description>
+&lt;div class="reftext">
 &lt;ul>
-&lt;li>&lt;strong>Mass&lt;/strong>: If we have a weight of 70kg. This is the amount of matter in the us. It is the same whether we are on Earth, the Moon, or in space.&lt;/li>
-&lt;li>&lt;strong>Matter&lt;/strong>: We are made of matter. We have mass &amp;amp; we occupy space. We are made of cells, tissues, and organs. These are all made of atoms and molecules. The rabbit is made of matter.&lt;/li>
+&lt;li>
+&lt;p>the laws of physics and the speed of light must be the same for all uniformly moving observers, regardless of their state of relative motion.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>For this to be true, space and time can no longer be independent. Rather, they are &amp;ldquo;converted&amp;rdquo; into each other in such a way as to keep the speed of light constant for all observers.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>(This is why moving objects appear to shrink, as suspected by FitzGerald and Lorentz, and why moving observers may measure time differently, as speculated by Poincaré.) Space and time are relative (i.e., they depend on the motion of the observer who measures them) and light is more fundamental than either.&lt;/p>
+&lt;/li>
 &lt;/ul>
-&lt;h4 id="what-is-weight-then-">What is weight then ?&lt;/h4>
-&lt;p>Do we have a weight or mass of 70kg ?&lt;/p>
-&lt;p>We need to know &amp;ldquo;kg&amp;rdquo; is the unit of mass, not the weight. But we say we have a weight of 70 kg. Why ?
-Also the weighing machine shows 70 kg. Why ?&lt;/p>
-&lt;p>To understand weight, we need to understand gravity.&lt;/p>
-&lt;details
->
-&lt;summary>
-What is gravity
-&lt;/summary>
+&lt;div class="reftext-link">
+&lt;a href="https://einstein.stanford.edu/SPACETIME/spacetime2.html" style="color: #828282;"> https://einstein.stanford.edu/SPACETIME/spacetime2.html&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>** Note: I don&amp;rsquo;t have intuition about spacetime in Einstein theory. **&lt;/p>
+&lt;h4 id="what-is-spacetime-in-einstein-theory-">What is spacetime in Einstein theory ?&lt;/h4>
 &lt;ul>
-&lt;li>We have seen whenever we throw some object, after it loses the energy we gave it. It gets acceleration towards the earth as if earth is pulling it towards itself.
+&lt;li>It&amp;rsquo;s like all objects in the universe sit in a smooth, four-dimensional fabric called space-time.&lt;/li>
+&lt;li>This fabric is curved by the mass and energy of objects in it.&lt;/li>
+&lt;li>The curvature of space-time causes objects to move on curved paths. We see these paths as the force of gravity.&lt;/li>
+&lt;li>This fabric is not just space and time, but a combination of both. It&amp;rsquo;s like a 4D fabric where 3D is space and 1D is time.&lt;/li>
+&lt;/ul>
+&lt;p>Now to me this fabric thing confuses me. This just doesn&amp;rsquo;t feel right to me.&lt;/p>
+&lt;hr>
+&lt;p>Reference:&lt;/p>
 &lt;ul>
-&lt;li>This acceleration is 9.8 m/s^2 on earth, 1.6 m/s^2 on the moon, 3.7 m/s^2 on Mars etc.&lt;/li>
+&lt;li>&lt;a href="https://einstein.stanford.edu/SPACETIME/spacetime2.html">https://einstein.stanford.edu/SPACETIME/spacetime2.html&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.space.com/end-of-einstein-space-time">https://www.space.com/end-of-einstein-space-time&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>What Is Gravity</title><link>https://kbs.murarisumit.in/en/cd0225c83fc890539178b33340888ea1/</link><pubDate>Tue, 02 Jul 2024 04:20:30 +0530</pubDate><guid>https://kbs.murarisumit.in/en/cd0225c83fc890539178b33340888ea1/</guid><description>&lt;p>We have seen whenever we throw some object, after it loses the energy we gave it. It gets acceleration towards the earth as if earth is pulling it towards itself.&lt;/p>
+&lt;ul>
+&lt;li>This &lt;a href="https://kbs.murarisumit.in/en/c6e8cea33966964777e8ec8b34a71cef">acceleration&lt;/a> is 9.8 m/s^2 on earth, 1.6 m/s^2 on the moon, 3.7 m/s^2 on Mars etc.&lt;/li>
 &lt;li>This acceleration is 0 m/s^2 in space.
 &lt;ul>
 &lt;li>So, if we throw some object in space, it will keep moving in the same direction. It will not come back to us.&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;/li>
+&lt;h4 id="newtons-theory-of-gravity">Newton&amp;rsquo;s theory of gravity&lt;/h4>
+&lt;ul>
 &lt;li>Newton had his theory why we feel this acceleration. He said that mass attracts mass.
 &lt;ul>
 &lt;li>Hence earth attracts us. So, we feel a force that pulls us towards the earth. This force is called gravity.&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>Einstein had his theory on how this force comes. He said that mass bends the space-time around it. So, objects are pulled towards the mass. This bending of space-time is called gravity.
+&lt;/ul>
+&lt;h4 id="einsteins-theory-of-gravity">Einstein&amp;rsquo;s theory of gravity&lt;/h4>
+&lt;ul>
+&lt;li>Einstein had his theory on how this force comes.&lt;/li>
+&lt;li>He said that mass bends the &lt;a href="https://kbs.murarisumit.in/en/f7de1f85aff4e3440204f197756f8b68/">space-time&lt;/a> around it. So, objects are pulled towards the mass. This bending of space-time is called gravity.
 &lt;ul>
 &lt;li>So here even the particle with no mass is pulled towards the mass. Because mass bends the space-time around it.&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>Whatever the theory of origin of this force, we found that earth &amp;amp; other planets pull objects towards themselves which causes acceleration. This acceleration is called gravity.&lt;/li>
+&lt;/ul></description></item><item><title>Understanding Physics Units in Basic Form</title><link>https://kbs.murarisumit.in/en/c6e8cea33966964777e8ec8b34a71cef/</link><pubDate>Tue, 02 Jul 2024 04:08:15 +0530</pubDate><guid>https://kbs.murarisumit.in/en/c6e8cea33966964777e8ec8b34a71cef/</guid><description>&lt;h3 id="how-much-is-ms2">How much is m/s^2&lt;/h3>
+&lt;ul>
+&lt;li>It means we have an increase in speed of 1m/s in 1 second.&lt;/li>
+&lt;li>For 10m/s^2 for 60 seconds means
+&lt;ul>
+&lt;li>Speed of an object increases by 10 m/s every second for a duration of 60 seconds.&lt;/li>
+&lt;li>In the end, the object will have a speed of 600m/s.&lt;/li>
 &lt;/ul>
-&lt;/details>
-&lt;p>So weight is what we feel because of gravity. Because some acceleration is acting on us. How that acceleration comes is different &amp;amp; everyone has their own theory.&lt;/p>
-&lt;p>Weight is &lt;code>kg * meter/second^2&lt;/code>. It is measured in Newtons.&lt;/p>
-&lt;h4 id="why-do-we-see-our-weight-at-70kg">Why do we see our weight at 70kg&lt;/h4>
+&lt;/li>
+&lt;li>&lt;a href="https://kbs.murarisumit.in/en/cd0225c83fc890539178b33340888ea1/">Acceleration due to gravity&lt;/a> on earth in 9.8m/s^2
+&lt;ul>
+&lt;li>It means if you&amp;rsquo;re falling from a height, your speed will increase by 9.8m/s every second.&lt;/li>
+&lt;li>If one fall from building from 1 km height, when you reach the ground, you will have a speed of 98m/s.&lt;/li>
+&lt;li>For comparison, Usain Bolt&amp;rsquo;s top speed is ~10m/s.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="how-much-is-1-newton">How much is 1 Newton&lt;/h3>
+&lt;ul>
+&lt;li>1N is the force required to accelerate a 1kg mass at 1m/s^2.&lt;/li>
+&lt;li>For 60kg of human, the force applied on Earth is approximately 588.6 N
+&lt;ul>
+&lt;li>60kg * 9.8m/s^2 = 588.6N&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="how-much-is-1-joule">How much is 1 Joule&lt;/h3>
+&lt;ul>
+&lt;li>Amount of energy to move 1kg mass at 1m/s^2 for 1 m distance.&lt;/li>
+&lt;li>Picking up 100 gm apple from ground to table(at 1m height) is ~1J of work.
+&lt;ul>
+&lt;li>0.1kg * 9.8m/s^2 * 1m = 0.98J&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="how-much-is-1-watt">How much is 1 Watt&lt;/h3>
+&lt;ul>
+&lt;li>Amount of power needed to move 1kg mass at 1m/s^2 for 1 m distance in 1 second.&lt;/li>
+&lt;li>&lt;em>Same apple example, if you pick up 100 gm apple from ground to table(at 1m height) in 2 second then&lt;/em>
+&lt;ul>
+&lt;li>Joule = &lt;code>0.1kg * 9.8m/s^2 * 1m = 0.98J&lt;/code>&lt;/li>
+&lt;li>Watt = &lt;code>0.98J / 2(second) = 0.49W&lt;/code>&lt;/li>
+&lt;li>&lt;strong>It means you need 0.49W power to pick up apple in 2 seconds at 1m height.&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>For 100W light bulb,
+&lt;ul>
+&lt;li>Power = 100W == 100J/s&lt;/li>
+&lt;li>Time = 2 hour&lt;/li>
+&lt;li>Energy = 100W * 2h == 200Wh&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="what-is-watt-hour">What is Watt-hour&lt;/h3>
+&lt;ul>
+&lt;li>Watt-hour is the unit of energy?&lt;/li>
+&lt;li>1 watt-hour is equal to 1 watt of power sustained for 1 hour (1 Wh = 1 W × 1 h = 3600 joules).&lt;/li>
+&lt;li>100-watt light bulb
+&lt;ul>
+&lt;li>Time = 2 hour&lt;/li>
+&lt;li>Energy = &lt;code>100W * 1h = 100Wh = 0.1KWh&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>For AC with with 2000Wh
+&lt;ul>
+&lt;li>Time = 1 hour&lt;/li>
+&lt;li>Power = 2000W&lt;/li>
+&lt;li>Energy = &lt;code>2000W * 1h = 2000Wh = 2KWh = 2 units&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="what-is-kilowatt-hour">What is kilowatt-hour&lt;/h3>
+&lt;ul>
+&lt;li>1 Kwh is 1000 watt-hour.&lt;/li>
+&lt;li>Commonly used unit of energy for electricity, also called &amp;ldquo;unit&amp;rdquo; in India.&lt;/li>
+&lt;li>For AC with 2 Kwh, it means 2000W power sustained for 1 hour.
+&lt;ul>
+&lt;li>For every hour, it consumes 2 Kwh of energy.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Basic Electricity Concepts</title><link>https://kbs.murarisumit.in/en/d18fce9e9ee9b2675bfa90d5ed808e64/</link><pubDate>Mon, 01 Jul 2024 23:01:53 +0530</pubDate><guid>https://kbs.murarisumit.in/en/d18fce9e9ee9b2675bfa90d5ed808e64/</guid><description>&lt;p>So for now( 2018 AD) we human believe that &lt;a href="https://kbs.murarisumit.in/tags/electricity/">electricity&lt;/a> is flow of energy via electron from -ve(explained below) terminal to +ve(explained below) terminal, it is just that. The simple way to get this flow of energy is by using the batteries, now lets start go to deep down.&lt;/p>
+&lt;h3 id="how-did-humans-figured-out-electricity-">How did humans figured out electricity ?&lt;/h3>
+&lt;ul>
+&lt;li>Lots of things around us exhibit this energy flow.&lt;/li>
+&lt;li>Lightning, static electricity etc.&lt;/li>
+&lt;/ul>
+&lt;h4 id="human-figured-out-electricity-by-rubbing-glass-rod-with-silk-cloth">Human figured out electricity by rubbing glass rod with silk cloth&lt;/h4>
+&lt;ul>
+&lt;li>When people were figuring out these weird behaviours around us, they found that &amp;ldquo;When we rub the glass rod with silk cloth, glass gets a different type of behaviour and silk gets different one&amp;rdquo;.&lt;/li>
+&lt;li>They also saw when they rub the rubber-rod with cat-fur the rubber-rod got different behaviour &amp;amp; cat-fur got different one.&lt;/li>
+&lt;li>Similarly when they rub the amber with fur, the amber got different behaviour and fur got different one.&lt;/li>
+&lt;li>Also when they rub the ebonite with fur, ebonite has different behaviour and fur has different one.&lt;/li>
+&lt;/ul>
+&lt;h4 id="what-are-positive-and-negative-charges-why-is-one-called-positive--other-negative">What are positive and negative charges, why is one called positive &amp;amp; other negative?&lt;/h4>
+&lt;ul>
+&lt;li>Glass &amp;amp; silk cloth gets different behaviour after rubbing them together.&lt;/li>
+&lt;li>They named them positive &amp;amp; negative charges. They could&amp;rsquo;ve named it as A and B or anything else, but they named it as positive and negative. There is no reason behind it, it&amp;rsquo;s just a convention that people have come up with.&lt;/li>
+&lt;/ul>
+&lt;h4 id="what-was-positive--negative-in-above-glass-rod-and-silk-cloth-observation-">What was positive &amp;amp; negative in above glass rod and silk cloth observation ?&lt;/h4>
+&lt;ul>
+&lt;li>The glass rods now attracts a conductor, silk cloth repels the conductor&lt;/li>
+&lt;li>So they named glass rod as positive charge and silk cloth as negative charge.
+&lt;ul>
+&lt;li>They could&amp;rsquo;ve named it as A and B, but they named it as positive and negative or any two names.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>So they named glass rod as positive charge and silk cloth as negative charge.
+&lt;ul>
+&lt;li>They could&amp;rsquo;ve named it as A and B, but they named it as positive and negative or any two names.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="why-does-rubbing-cause-this-behaviour-">Why does rubbing cause this behaviour ?&lt;/h4>
+&lt;ul>
+&lt;li>Rubber attracts electrons more than animal fur.&lt;/li>
+&lt;li>So while rubbing atoms of rubber pull electrons from the atoms of animal fur.&lt;/li>
+&lt;li>Some particle attracts electron and some lose it up&lt;/li>
+&lt;li>Similar when you comb your hairs, the comb gets +ve charge, it losses electron and hairs attract them.&lt;/li>
+&lt;/ul>
+&lt;h3 id="what-is-an-electron-">What is an electron ?&lt;/h3>
+&lt;ul>
+&lt;li>Electron is the basic particle we know, that explains the flow of electricity.&lt;/li>
+&lt;li>It is a negatively charged particle. Remember negative charge is just a convention, it could&amp;rsquo;ve been named as A or B, but it is named as negative.&lt;/li>
+&lt;li>These are small particles studied in the field of quantum physics.&lt;/li>
+&lt;li>&lt;a href="https://kbs.murarisumit.in/en/4710840f1b6de62e27bbf0bf75af303e/">Like matter has mass&lt;/a>, the electron has charge.&lt;/li>
+&lt;li>Charge of electron is calculated to electron is 1.6 * 10^-19C&lt;/li>
+&lt;/ul>
+&lt;h4 id="can-we-see-electron-">Can we see electron ?&lt;/h4>
+&lt;ul>
+&lt;li>No, we can&amp;rsquo;t see electrons, they are very small particles.&lt;/li>
+&lt;li>Again goes to realm of &lt;a href="https://kbs.murarisumit.in/tags/quantum-physics/">quantum-physics&lt;/a>, where we can&amp;rsquo;t see things, but we can predict their behaviour.&lt;/li>
+&lt;li>Also these quantum particles exhibit wave-particle duality, they behave as wave and particle both.
+&lt;ul>
+&lt;li>We can make an approximation of their positions nothing more afaik.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="what-is-charge">What is charge&lt;/h3>
+&lt;ul>
+&lt;li>Charge is the fundamental property we take that it exists(again we prove things taking this as base behaviour that we see).&lt;/li>
+&lt;li>Charge is the property of matter to interact with electromagnetic fields, analogous to masses in gravitational fields (but, much stronger!)&lt;/li>
+&lt;li>It was calculated by &lt;a href="https://en.wikipedia.org/wiki/Oil_drop_experiment">Oil_drop_experiment&lt;/a> and we take that number.
+&lt;ul>
+&lt;li>Charge is particle is said to be q(charge) = n * e(electron) or &lt;code> q = e + e … n times&lt;/code>&lt;/li>
+&lt;li>Experimentally, it was found that charge of electron is 1.6 * 10^-19 C&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="why-q--n--e-">Why q = n * e ?&lt;/h3>
+&lt;ul>
+&lt;li>It comes from quantization of electric charge.&lt;/li>
+&lt;li>Humans found that the charge of any object is multiple of the charge of electrons.&lt;/li>
+&lt;li>It&amp;rsquo;s like saying that you can&amp;rsquo;t have 1.5 electrons, you can have 1 or 2 electrons.&lt;/li>
+&lt;li>The smallest indivisible unit of charge is the charge of an electron (e)&lt;/li>
+&lt;/ul>
+&lt;h4 id="how-much-is-1c-of-charge-">How much is 1C of charge ?&lt;/h4>
+&lt;ul>
+&lt;li>q = n * e&lt;/li>
+&lt;/ul>
+&lt;h3 id="what-is-resistance-">What is resistance ?&lt;/h3>
+&lt;ul>
+&lt;li>Resistance is the property of a conductor to resist the flow of electrons.&lt;/li>
+&lt;li>It is measured in ohms.&lt;/li>
+&lt;li>It is denoted by &lt;code>R&lt;/code>.&lt;/li>
+&lt;/ul>
+&lt;h3 id="what-is-voltage">What is voltage&lt;/h3>
+&lt;ul>
+&lt;li>For energy to flow from one point to another, there should be a difference in energy level.&lt;/li>
+&lt;li>This difference in energy level is called voltage.&lt;/li>
+&lt;li>When there is difference in energy level, the energy via electric field flows using electrons in the conductor&lt;/li>
+&lt;/ul>
+&lt;h3 id="what-is-current-">What is current ?&lt;/h3>
+&lt;ul>
+&lt;li>This flow of electrons is called current.
+&lt;ul>
+&lt;li>&lt;em>Electrons themselves don&amp;rsquo;t move, they just push each other.&lt;/em>&lt;/li>
+&lt;li>It&amp;rsquo;s like a chain of people, where one person pushes the other and so on. &lt;strong>Energy is transferred from one person to another.&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Current = Voltage / Resistance.&lt;/li>
+&lt;li>Current flows from high electric potential to low electric potential.&lt;/li>
+&lt;li>Current of 1 ampere (A) means that 1 coulomb of charge passes through a point in the circuit each second.&lt;/li>
+&lt;/ul>
+&lt;h3 id="what-is-high-electric-potential-and-low-electric-potential-">What is high electric potential and low electric potential ?&lt;/h3>
+&lt;ul>
+&lt;li>High electric potential is where there is more energy, and low electric potential is where there is less energy.&lt;/li>
+&lt;/ul>
+&lt;h3 id="how-does-this-high-electric-potential-and-low-electric-potential-is-created-">How does this high electric potential and low electric potential is created ?&lt;/h3>
+&lt;ul>
+&lt;li>To get this energy, humans do various things.&lt;/li>
+&lt;li>Humans found that moving magnet near the conductor also generates this electric field.
+&lt;ul>
+&lt;li>This is the principle behind the generator.&lt;/li>
+&lt;li>This electric field is then moved from power station to our homes, where we use it to power our devices.&lt;/li>
+&lt;li>This electric field flows via conductor wires like copper &amp;amp; runs our devices.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>In large power-stations humans move conductors near the magnet(magnetic field).
+&lt;ul>
+&lt;li>Now how to move the conductor near the magnet, we use the energy generated by falling of water, or by burning of coal, or by nuclear reaction etc.&lt;/li>
+&lt;li>Keeping a strong magnetic field induces high electric potential in the conductor.&lt;/li>
+&lt;li>This high electric potential is then moved to our homes via conductor wires like copper.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="what-is-a-battery-">What is a battery ?&lt;/h3>
+&lt;ul>
+&lt;li>Battery is the device that stores energy in it.&lt;/li>
+&lt;li>Energy is stored in the form of chemical energy.&lt;/li>
+&lt;/ul></description></item><item><title>Mass vs matter ?</title><link>https://kbs.murarisumit.in/en/4710840f1b6de62e27bbf0bf75af303e/</link><pubDate>Thu, 27 Jun 2024 23:46:01 +0530</pubDate><guid>https://kbs.murarisumit.in/en/4710840f1b6de62e27bbf0bf75af303e/</guid><description>&lt;h4 id="mass-vs-matter-">Mass vs matter ?&lt;/h4>
+&lt;div class="reftext">
+&lt;p>Mass is a measure of an object&amp;rsquo;s inertia and is quantified in terms of kilograms or grams, while matter refers to anything that occupies space and has mass.&lt;/p>
+&lt;p>Matter is all the “stuff” that exists in the universe. It has both mass and volume. Mass measures the amount of matter in a substance or an object. The basic SI unit for mass is the kilogram (kg).11&lt;/p>
+&lt;p>Matter is anything that occupies space (having volume) and has mass is used to measure the amount of matter in a substance or an object.&amp;quot;&lt;/p>
+&lt;/div>
+&lt;p>Still this confused me, not able to intitutively, what is &amp;ldquo;mass&amp;rdquo; and what is &amp;ldquo;matter&amp;rdquo; ?&lt;/p>
+&lt;p>Bit more detailed explanation:&lt;/p>
+&lt;h3 id="q-what-is-matter-">Q: What is matter ?&lt;/h3>
+&lt;p>We are made of matter We are made of cells, tissues, and organs. These are all made of atoms and molecules. The rabbit is made of matter.&lt;/p>
+&lt;h3 id="q-what-is-mass-">Q: What is mass ?&lt;/h3>
+&lt;ul>
+&lt;li>Mass is a property of a physical body.&lt;/li>
+&lt;li>We take that every physical body has property called mass.&lt;/li>
+&lt;li>^We assume it and take if fundamental property like charge on electron.&lt;/li>
+&lt;li>It determines its acceleration in the presence of an applied force similar to ‘charge in electro-magnetic field’.&lt;br>
+It is the same whether we are on Earth, the Moon, or in space.&lt;/li>
+&lt;/ul>
+&lt;h3 id="q-if-mass--weight-the-same-if-not-then-what-is-the-difference-">Q: If mass &amp;amp; weight the same, if not then what is the difference ?&lt;/h3>
+&lt;p>No, mass and weight are not the same. Mass we&amp;rsquo;ve read above, while weight is the force of gravity acting on an object.If weight &amp;amp; mass are different, then&lt;/p>
+&lt;p>Why:&lt;/p>
+&lt;ul>
+&lt;li>We say we have a weight of 70 kg not mass of 70 kg.&lt;/li>
+&lt;li>Does weighting machine show mass or weight ?&lt;/li>
+&lt;/ul>
+&lt;p>To understand weight, we need to understand gravity.
+&lt;details class="details"
+style="border: 1px solid #ccc; border-radius: 5px; padding: 5px;"
+>
+&lt;summary>
+What is gravity
+&lt;/summary>
+Read more about &lt;a href="https://kbs.murarisumit.in/en/cd0225c83fc890539178b33340888ea1/">What is gravity&lt;/a>
+&lt;/details>&lt;/p>
+&lt;p>So weight is what we feel because of gravity. Because some acceleration is acting on us. How that acceleration comes is different &amp;amp; everyone has their own theory. &lt;a href="https://kbs.murarisumit.in/en/cd0225c83fc890539178b33340888ea1/">Read gravity&lt;/a> to know more about it.&lt;/p>
+&lt;ul>
+&lt;li>Weight is measured &lt;code>kg * meter/second^2&lt;/code>. It is also called &amp;ldquo;Newton&amp;rdquo; in physics.&lt;/li>
+&lt;li>1 Newton is the force required to accelerate a 1kg mass at 1m/s for 1 second.&lt;/li>
+&lt;li>Read more about &lt;a href="https://kbs.murarisumit.in/en/c6e8cea33966964777e8ec8b34a71cef/">Understanding Physics Units in Basic Form&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="q-if-weight-in-newtonenc6e8cea33966964777e8ec8b34a71cef-then-why-weighting-machine-show-70kg-then-">Q: If weight in &lt;a href="https://kbs.murarisumit.in/en/c6e8cea33966964777e8ec8b34a71cef/">Newton&lt;/a>, then why weighting machine show 70kg then ?&amp;quot;&lt;/h3>
 &lt;p>On earth our weighing machines are calibrated to show our weight in kg. But it is actually showing our mass in kg. This is because the standard gravitational acceleration on Earth is assumed, and weighing machines are calibrated to show &amp;ldquo;weight&amp;rdquo; in kilograms, which is a bit of a misnomer because kilograms technically measure mass, not weight&lt;/p>
 &lt;p>If we took an earth calibration weighing machine to the moon, it would show our weight much less than 70 kg. But our mass would still be 70 kg. Because the weighing machine is calibrated to show weight on earth. If someone calibrated it to show weight on the moon, it would show 70 kg.&lt;/p></description></item><item><title>Understand Electricity Generation</title><link>https://kbs.murarisumit.in/bookmarks/understand-electricity-generation/</link><pubDate>Sat, 07 Aug 2021 18:40:36 +0530</pubDate><guid>https://kbs.murarisumit.in/bookmarks/understand-electricity-generation/</guid><description>&lt;p>This video actually helps us understand how electricity is generated by using magnets.&lt;/p>
 &lt;p>When studies electricity for first time, never understood where does frequency mean, what current is, what does voltage mean and simple things like this and whole electrical energy didn&amp;rsquo;t made sense to me. Now most of it does, probably if I go for advanced study would really make sense.&lt;/p></description></item><item><title>Basic Geometry Concepts</title><link>https://kbs.murarisumit.in/en/5d37dda250aad63a22125b1eb0e01430/</link><pubDate>Wed, 01 Nov 2017 22:41:06 +0530</pubDate><guid>https://kbs.murarisumit.in/en/5d37dda250aad63a22125b1eb0e01430/</guid><description>&lt;p>Some basic terminologies in geometry&lt;/p>
