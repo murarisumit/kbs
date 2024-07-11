@@ -18,6 +18,55 @@
 &lt;li>&lt;code>-I&lt;/code> allows you to get the output into a placeholder.&lt;/li>
 &lt;li>&lt;code>-p&lt;/code> print a confirmation prompt with the action it’s going to take:&lt;/li>
 &lt;li>&lt;code>-t&lt;/code> print command line on the stderr before executing it.&lt;/li>
+&lt;/ul></description></item><item><title>Awscli snippets</title><link>https://kbs.murarisumit.in/c0b28c0e8bc16283b3c9e2d099eabe63/</link><pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate><guid>https://kbs.murarisumit.in/c0b28c0e8bc16283b3c9e2d099eabe63/</guid><description>&lt;h4 id="fetch-running-instance-with-their-private-ip">Fetch running instance with their private IP&lt;/h4>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">aws ec2 describe-instances --query &lt;span class="s1">&amp;#39;Reservations[*].Instances[*].[NetworkInterfaces[0].PrivateIpAddresses[0].PrivateIpAddress,Tags[?Key==`Name`].Value| [0]]&amp;#39;&lt;/span> --filters &lt;span class="s2">&amp;#34;Name=instance-state-name,Values=running&amp;#34;&lt;/span> &lt;span class="s2">&amp;#34;Name=tag:environment,Values=production&amp;#34;&lt;/span> --output text
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h4 id="fetch-running-instance-for-given-tag">Fetch running instance for given tag&lt;/h4>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># simple text output&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">aws ec2 describe-instances --query &lt;span class="s1">&amp;#39;Reservations[*].Instances[*].[InstanceId,Tags[?Key==`Name`].Value|[0]]&amp;#39;&lt;/span> --output text
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># for table output&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">aws ec2 describe-instances --query &lt;span class="s1">&amp;#39;Reservations[*].Instances[*].[InstanceId,Tags[?Key==`Name`].Value|[0]]&amp;#39;&lt;/span> --output table
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h4 id="fetch-just-filtered-instances-using---filters-option">fetch just filtered instances using &lt;code>--filters&lt;/code> option&lt;/h4>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">aws ec2 describe-instances --output table --query &lt;span class="s1">&amp;#39;Reservations[].Instances[].[Tags[?Key==`Name`] | [0].Value, State.Name]&amp;#39;&lt;/span> --filters &lt;span class="nv">Name&lt;/span>&lt;span class="o">=&lt;/span>instance-state-name,Values&lt;span class="o">=&lt;/span>running &lt;span class="nv">Name&lt;/span>&lt;span class="o">=&lt;/span>tag:billing,Values&lt;span class="o">=&lt;/span>devops
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="fetch-ami-id-and-name-start-with-given-name">Fetch AMI-ID and Name start with given Name&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">aws ec2 describe-images --query &lt;span class="s1">&amp;#39;Images[].[Tags[?Key==`Name`] | [0].Value,ImageId]&amp;#39;&lt;/span> --filters &lt;span class="s1">&amp;#39;Name=tag:Name,Values=funky-name-*&amp;#39;&lt;/span> --output text
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>Linked post:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/">Understanding text output for awscli&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Reference:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/23936216/how-can-i-get-list-of-only-running-instances-when-using-ec2-describe-tags">https://stackoverflow.com/questions/23936216/how-can-i-get-list-of-only-running-instances-when-using-ec2-describe-tags&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Strace Command Snippets</title><link>https://kbs.murarisumit.in/tils/strace-command-snippets/</link><pubDate>Wed, 29 Jul 2020 20:22:24 +0530</pubDate><guid>https://kbs.murarisumit.in/tils/strace-command-snippets/</guid><description>&lt;p>Strace is really nice command to see what system calls are being used, it&amp;rsquo;s primary used as debugging tools for linux system calls&lt;/p>
 &lt;p>Q: &lt;strong>What is a &amp;ldquo;system call&amp;rdquo;&lt;/strong> ?&lt;/p>
 &lt;p>A: System calls are interface via which user-space program interact with system using linux kernel.&lt;/p>
@@ -51,4 +100,75 @@
 &lt;ul>
 &lt;li>&lt;a href="https://strace.io/">https://strace.io/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=EG0ihttnEJI">https://www.youtube.com/watch?v=EG0ihttnEJI&lt;/a>&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul></description></item><item><title>Hugo Tags List</title><link>https://kbs.murarisumit.in/posts/hugo-tags-list/</link><pubDate>Sun, 17 May 2020 18:09:46 +0530</pubDate><guid>https://kbs.murarisumit.in/posts/hugo-tags-list/</guid><description>&lt;p>A simple snippet found to fetch all tags, and still to read it up&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;span class="lnt">30
+&lt;/span>&lt;span class="lnt">31
+&lt;/span>&lt;span class="lnt">32
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-golang" data-lang="golang">&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="k">if&lt;/span> &lt;span class="nx">ne&lt;/span> &lt;span class="p">.&lt;/span>&lt;span class="nx">Site&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">Params&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">TagsInHome&lt;/span> &lt;span class="mi">0&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span> &lt;span class="o">:=&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nx">slice&lt;/span>&lt;span class="p">)}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="k">range&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">name&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">taxonomy&lt;/span> &lt;span class="o">:=&lt;/span> &lt;span class="p">.&lt;/span>&lt;span class="nx">Site&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">Taxonomies&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">tags&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span> &lt;span class="p">|&lt;/span> &lt;span class="nx">append&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">name&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="nx">end&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="nf">sort&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nx">first&lt;/span> &lt;span class="p">.&lt;/span>&lt;span class="nx">Site&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">Params&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nf">TagsInHome&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nx">shuffle&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span>&lt;span class="p">))&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="k">if&lt;/span> &lt;span class="nf">gt&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nx">len&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="mi">1&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">div&lt;/span> &lt;span class="nx">class&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;columns is-centered has-text-centered&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">div&lt;/span> &lt;span class="nx">class&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;column is-10&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">div&lt;/span> &lt;span class="nx">class&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;content&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">a&lt;/span> &lt;span class="nx">href&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;{{ &amp;#34;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">tags&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="s">&amp;#34; | relURL }}&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">h1&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>&lt;span class="nx">Read&lt;/span> &lt;span class="nx">articles&lt;/span> &lt;span class="nx">by&lt;/span> &lt;span class="nx">tags&lt;/span>&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">h1&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">a&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">p&lt;/span> &lt;span class="nx">class&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;tags-summary&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">{{&lt;/span> &lt;span class="k">range&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">name&lt;/span> &lt;span class="o">:=&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">a&lt;/span> &lt;span class="nx">href&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;{{ &amp;#34;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">tags&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="s">&amp;#34; | relURL }}{{ $name | urlize }}&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">span&lt;/span> &lt;span class="nx">class&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;tag is-dark is-large is-rounded&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">{{&lt;/span> &lt;span class="nx">replace&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">name&lt;/span> &lt;span class="s">&amp;#34;-&amp;#34;&lt;/span> &lt;span class="s">&amp;#34; &amp;#34;&lt;/span> &lt;span class="p">|&lt;/span> &lt;span class="nx">title&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">span&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">a&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">{{&lt;/span> &lt;span class="nx">end&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">div&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">div&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">div&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">br&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="nx">end&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="nx">end&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>References: &lt;a href="https://github.com/rafed/ramium/blob/master/layouts/partials/index/tag-bullet.html">https://github.com/rafed/ramium/blob/master/layouts/partials/index/tag-bullet.html&lt;/a>&lt;/p></description></item></channel></rss>

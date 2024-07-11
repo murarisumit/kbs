@@ -337,7 +337,56 @@ Read more about &lt;a href="https://kbs.murarisumit.in/en/cd0225c83fc890539178b3
 &lt;/ul>
 &lt;h3 id="q-if-weight-in-newtonenc6e8cea33966964777e8ec8b34a71cef-then-why-weighting-machine-show-70kg-then-">Q: If weight in &lt;a href="https://kbs.murarisumit.in/en/c6e8cea33966964777e8ec8b34a71cef/">Newton&lt;/a>, then why weighting machine show 70kg then ?&amp;quot;&lt;/h3>
 &lt;p>On earth our weighing machines are calibrated to show our weight in kg. But it is actually showing our mass in kg. This is because the standard gravitational acceleration on Earth is assumed, and weighing machines are calibrated to show &amp;ldquo;weight&amp;rdquo; in kilograms, which is a bit of a misnomer because kilograms technically measure mass, not weight&lt;/p>
-&lt;p>If we took an earth calibration weighing machine to the moon, it would show our weight much less than 70 kg. But our mass would still be 70 kg. Because the weighing machine is calibrated to show weight on earth. If someone calibrated it to show weight on the moon, it would show 70 kg.&lt;/p></description></item><item><title>Ublock Origin Youtube Filter List</title><link>https://kbs.murarisumit.in/6e225c364f36afa1b5766490db9e7229/</link><pubDate>Tue, 23 Nov 2021 14:43:52 +0530</pubDate><guid>https://kbs.murarisumit.in/6e225c364f36afa1b5766490db9e7229/</guid><description>&lt;p>So idea here is to reduce the distraction. One thought that was difficult for me to overcame was&lt;/p>
+&lt;p>If we took an earth calibration weighing machine to the moon, it would show our weight much less than 70 kg. But our mass would still be 70 kg. Because the weighing machine is calibrated to show weight on earth. If someone calibrated it to show weight on the moon, it would show 70 kg.&lt;/p></description></item><item><title>Awscli snippets</title><link>https://kbs.murarisumit.in/c0b28c0e8bc16283b3c9e2d099eabe63/</link><pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate><guid>https://kbs.murarisumit.in/c0b28c0e8bc16283b3c9e2d099eabe63/</guid><description>&lt;h4 id="fetch-running-instance-with-their-private-ip">Fetch running instance with their private IP&lt;/h4>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">aws ec2 describe-instances --query &lt;span class="s1">&amp;#39;Reservations[*].Instances[*].[NetworkInterfaces[0].PrivateIpAddresses[0].PrivateIpAddress,Tags[?Key==`Name`].Value| [0]]&amp;#39;&lt;/span> --filters &lt;span class="s2">&amp;#34;Name=instance-state-name,Values=running&amp;#34;&lt;/span> &lt;span class="s2">&amp;#34;Name=tag:environment,Values=production&amp;#34;&lt;/span> --output text
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h4 id="fetch-running-instance-for-given-tag">Fetch running instance for given tag&lt;/h4>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># simple text output&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">aws ec2 describe-instances --query &lt;span class="s1">&amp;#39;Reservations[*].Instances[*].[InstanceId,Tags[?Key==`Name`].Value|[0]]&amp;#39;&lt;/span> --output text
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># for table output&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">aws ec2 describe-instances --query &lt;span class="s1">&amp;#39;Reservations[*].Instances[*].[InstanceId,Tags[?Key==`Name`].Value|[0]]&amp;#39;&lt;/span> --output table
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h4 id="fetch-just-filtered-instances-using---filters-option">fetch just filtered instances using &lt;code>--filters&lt;/code> option&lt;/h4>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">aws ec2 describe-instances --output table --query &lt;span class="s1">&amp;#39;Reservations[].Instances[].[Tags[?Key==`Name`] | [0].Value, State.Name]&amp;#39;&lt;/span> --filters &lt;span class="nv">Name&lt;/span>&lt;span class="o">=&lt;/span>instance-state-name,Values&lt;span class="o">=&lt;/span>running &lt;span class="nv">Name&lt;/span>&lt;span class="o">=&lt;/span>tag:billing,Values&lt;span class="o">=&lt;/span>devops
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="fetch-ami-id-and-name-start-with-given-name">Fetch AMI-ID and Name start with given Name&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">aws ec2 describe-images --query &lt;span class="s1">&amp;#39;Images[].[Tags[?Key==`Name`] | [0].Value,ImageId]&amp;#39;&lt;/span> --filters &lt;span class="s1">&amp;#39;Name=tag:Name,Values=funky-name-*&amp;#39;&lt;/span> --output text
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>Linked post:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/">Understanding text output for awscli&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Reference:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/23936216/how-can-i-get-list-of-only-running-instances-when-using-ec2-describe-tags">https://stackoverflow.com/questions/23936216/how-can-i-get-list-of-only-running-instances-when-using-ec2-describe-tags&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Ublock Origin Youtube Filter List</title><link>https://kbs.murarisumit.in/6e225c364f36afa1b5766490db9e7229/</link><pubDate>Tue, 23 Nov 2021 14:43:52 +0530</pubDate><guid>https://kbs.murarisumit.in/6e225c364f36afa1b5766490db9e7229/</guid><description>&lt;p>So idea here is to reduce the distraction. One thought that was difficult for me to overcame was&lt;/p>
 &lt;blockquote>
 &lt;p>I should have self-control, no such controls are needed.&lt;/p>
 &lt;/blockquote>
@@ -399,7 +448,78 @@ Superman says, &amp;quot;This is what I tried to tell you Bruce. Before we start
 Batman says, &amp;quot;A truce then. It looks like we will both need each other then. Lex is working on something terrible in the Kryptonian ship. You go to Lex. I promise you, your mother won't die tonight. I will save her. But you must stop Lex...&amp;quot;
 In the battle, Batman realizes who Superman really is. In death, Batman realizes what he almost did -- destroy Humanity. He has a change of heart: Humanity needs the Metahumans. All of them.
 That would have been more fluid. It would have taken --maybe-- an extra 120 seconds. The spare 180 seconds taken back from the Bruce Wayne intro in the beginning could have been put into the fight scene. Three minutes is a HUGE amount of time in a fight scene. It could have been even-more-epicker.
-&lt;/code>&lt;/pre></description></item><item><title>Basic Geometry Concepts</title><link>https://kbs.murarisumit.in/en/5d37dda250aad63a22125b1eb0e01430/</link><pubDate>Wed, 01 Nov 2017 22:41:06 +0530</pubDate><guid>https://kbs.murarisumit.in/en/5d37dda250aad63a22125b1eb0e01430/</guid><description>&lt;p>Some basic terminologies in geometry&lt;/p>
+&lt;/code>&lt;/pre></description></item><item><title>Hugo Tags List</title><link>https://kbs.murarisumit.in/posts/hugo-tags-list/</link><pubDate>Sun, 17 May 2020 18:09:46 +0530</pubDate><guid>https://kbs.murarisumit.in/posts/hugo-tags-list/</guid><description>&lt;p>A simple snippet found to fetch all tags, and still to read it up&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;span class="lnt">30
+&lt;/span>&lt;span class="lnt">31
+&lt;/span>&lt;span class="lnt">32
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-golang" data-lang="golang">&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="k">if&lt;/span> &lt;span class="nx">ne&lt;/span> &lt;span class="p">.&lt;/span>&lt;span class="nx">Site&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">Params&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">TagsInHome&lt;/span> &lt;span class="mi">0&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span> &lt;span class="o">:=&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nx">slice&lt;/span>&lt;span class="p">)}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="k">range&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">name&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">taxonomy&lt;/span> &lt;span class="o">:=&lt;/span> &lt;span class="p">.&lt;/span>&lt;span class="nx">Site&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">Taxonomies&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">tags&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span> &lt;span class="p">|&lt;/span> &lt;span class="nx">append&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">name&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="nx">end&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="nf">sort&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nx">first&lt;/span> &lt;span class="p">.&lt;/span>&lt;span class="nx">Site&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">Params&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nf">TagsInHome&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nx">shuffle&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span>&lt;span class="p">))&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="k">if&lt;/span> &lt;span class="nf">gt&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nx">len&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="mi">1&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">div&lt;/span> &lt;span class="nx">class&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;columns is-centered has-text-centered&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">div&lt;/span> &lt;span class="nx">class&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;column is-10&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">div&lt;/span> &lt;span class="nx">class&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;content&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">a&lt;/span> &lt;span class="nx">href&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;{{ &amp;#34;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">tags&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="s">&amp;#34; | relURL }}&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">h1&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>&lt;span class="nx">Read&lt;/span> &lt;span class="nx">articles&lt;/span> &lt;span class="nx">by&lt;/span> &lt;span class="nx">tags&lt;/span>&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">h1&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">a&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">p&lt;/span> &lt;span class="nx">class&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;tags-summary&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">{{&lt;/span> &lt;span class="k">range&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">name&lt;/span> &lt;span class="o">:=&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">randTags&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">a&lt;/span> &lt;span class="nx">href&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;{{ &amp;#34;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">tags&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="s">&amp;#34; | relURL }}{{ $name | urlize }}&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">span&lt;/span> &lt;span class="nx">class&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;tag is-dark is-large is-rounded&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">{{&lt;/span> &lt;span class="nx">replace&lt;/span> &lt;span class="err">$&lt;/span>&lt;span class="nx">name&lt;/span> &lt;span class="s">&amp;#34;-&amp;#34;&lt;/span> &lt;span class="s">&amp;#34; &amp;#34;&lt;/span> &lt;span class="p">|&lt;/span> &lt;span class="nx">title&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">span&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">a&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">{{&lt;/span> &lt;span class="nx">end&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">div&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">div&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="nx">div&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">br&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="nx">end&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&lt;/span> &lt;span class="nx">end&lt;/span> &lt;span class="p">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>References: &lt;a href="https://github.com/rafed/ramium/blob/master/layouts/partials/index/tag-bullet.html">https://github.com/rafed/ramium/blob/master/layouts/partials/index/tag-bullet.html&lt;/a>&lt;/p></description></item><item><title>Basic Geometry Concepts</title><link>https://kbs.murarisumit.in/en/5d37dda250aad63a22125b1eb0e01430/</link><pubDate>Wed, 01 Nov 2017 22:41:06 +0530</pubDate><guid>https://kbs.murarisumit.in/en/5d37dda250aad63a22125b1eb0e01430/</guid><description>&lt;p>Some basic terminologies in geometry&lt;/p>
 &lt;h4 id="q-what-is-the-curve-">Q: What is the curve ?&lt;/h4>
 &lt;p>A curve is a shape which is smoothly drawn in a plane having a bent or turns in it.&lt;/p>
 &lt;h4 id="q-what-is-the-tangent-to-the-curve-">Q: What is the tangent to the curve ?&lt;/h4>

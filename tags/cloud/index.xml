@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cloud on knowledge base</title><link>https://kbs.murarisumit.in/tags/cloud/</link><description>Recent content in Cloud on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 26 Nov 2021 22:48:14 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/cloud/index.xml" rel="self" type="application/rss+xml"/><item><title>Awscli snippets</title><link>https://kbs.murarisumit.in/c0b28c0e8bc16283b3c9e2d099eabe63/</link><pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate><guid>https://kbs.murarisumit.in/c0b28c0e8bc16283b3c9e2d099eabe63/</guid><description>&lt;h4 id="fetch-running-instance-with-their-private-ip">Fetch running instance with their private IP&lt;/h4>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">aws ec2 describe-instances --query &lt;span class="s1">&amp;#39;Reservations[*].Instances[*].[NetworkInterfaces[0].PrivateIpAddresses[0].PrivateIpAddress,Tags[?Key==`Name`].Value| [0]]&amp;#39;&lt;/span> --filters &lt;span class="s2">&amp;#34;Name=instance-state-name,Values=running&amp;#34;&lt;/span> &lt;span class="s2">&amp;#34;Name=tag:environment,Values=production&amp;#34;&lt;/span> --output text
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h4 id="fetch-running-instance-for-given-tag">Fetch running instance for given tag&lt;/h4>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># simple text output&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">aws ec2 describe-instances --query &lt;span class="s1">&amp;#39;Reservations[*].Instances[*].[InstanceId,Tags[?Key==`Name`].Value|[0]]&amp;#39;&lt;/span> --output text
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># for table output&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">aws ec2 describe-instances --query &lt;span class="s1">&amp;#39;Reservations[*].Instances[*].[InstanceId,Tags[?Key==`Name`].Value|[0]]&amp;#39;&lt;/span> --output table
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h4 id="fetch-just-filtered-instances-using---filters-option">fetch just filtered instances using &lt;code>--filters&lt;/code> option&lt;/h4>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">aws ec2 describe-instances --output table --query &lt;span class="s1">&amp;#39;Reservations[].Instances[].[Tags[?Key==`Name`] | [0].Value, State.Name]&amp;#39;&lt;/span> --filters &lt;span class="nv">Name&lt;/span>&lt;span class="o">=&lt;/span>instance-state-name,Values&lt;span class="o">=&lt;/span>running &lt;span class="nv">Name&lt;/span>&lt;span class="o">=&lt;/span>tag:billing,Values&lt;span class="o">=&lt;/span>devops
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="fetch-ami-id-and-name-start-with-given-name">Fetch AMI-ID and Name start with given Name&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">aws ec2 describe-images --query &lt;span class="s1">&amp;#39;Images[].[Tags[?Key==`Name`] | [0].Value,ImageId]&amp;#39;&lt;/span> --filters &lt;span class="s1">&amp;#39;Name=tag:Name,Values=funky-name-*&amp;#39;&lt;/span> --output text
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>Linked post:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://kbs.murarisumit.in/cb09c8a3463c51091177eff829bd82d8/">Understanding text output for awscli&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Reference:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/23936216/how-can-i-get-list-of-only-running-instances-when-using-ec2-describe-tags">https://stackoverflow.com/questions/23936216/how-can-i-get-list-of-only-running-instances-when-using-ec2-describe-tags&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
