@@ -1,4 +1,244 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Murarisumit on knowledge base</title><link>https://kbs.murarisumit.in/author/murarisumit/</link><description>Recent content in Murarisumit on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 02 Jul 2024 04:22:28 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/author/murarisumit/index.xml" rel="self" type="application/rss+xml"/><item><title>What Is Spacetime in Einstein Theory</title><link>https://kbs.murarisumit.in/en/f7de1f85aff4e3440204f197756f8b68/</link><pubDate>Tue, 02 Jul 2024 04:22:28 +0530</pubDate><guid>https://kbs.murarisumit.in/en/f7de1f85aff4e3440204f197756f8b68/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Murarisumit on knowledge base</title><link>https://kbs.murarisumit.in/author/murarisumit/</link><description>Recent content in Murarisumit on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 24 Jul 2024 07:15:19 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/author/murarisumit/index.xml" rel="self" type="application/rss+xml"/><item><title>'in-addr.arpa' in DNS</title><link>https://kbs.murarisumit.in/en/d0cb2c770b64f100615c2784aabec28e/</link><pubDate>Wed, 24 Jul 2024 07:15:19 +0530</pubDate><guid>https://kbs.murarisumit.in/en/d0cb2c770b64f100615c2784aabec28e/</guid><description>&lt;p>Doing a reverse DNS lookup is a common task, where you find out which domain is associated with this ip. This is done by querying the PTR record of the &amp;lsquo;in-addr.arpa&amp;rsquo; domain. This domain is used for reverse DNS lookups, mapping IP addresses back to domain names. Here&amp;rsquo;s how it works:&lt;/p>
+&lt;h3 id="sample-reverse-dns-lookup">Sample reverse DNS lookup&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-sh" data-lang="sh">&lt;span class="line">&lt;span class="cl">$ dig -x 192.0.2.1
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">;&lt;/span> &amp;lt;&amp;lt;&amp;gt;&amp;gt; DiG 9.10.6 &amp;lt;&amp;lt;&amp;gt;&amp;gt; -x 192.0.2.1
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">;;&lt;/span> global options: +cmd
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">;;&lt;/span> Got answer:
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">;;&lt;/span> -&amp;gt;&amp;gt;HEADER&lt;span class="s">&amp;lt;&amp;lt;- opcode: QUERY, status: NXDOMAIN, id: 57404
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s">;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s">;; OPT PSEUDOSECTION:
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s">; EDNS: version: 0, flags:; udp: 512
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s">;; QUESTION SECTION:
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s">;1.2.0.192.in-addr.arpa. IN PTR
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s">;; AUTHORITY SECTION:
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s">192.in-addr.arpa. 600 IN SOA z.arin.net. dns-op&lt;/span>s.arin.net. &lt;span class="m">2017038062&lt;/span> &lt;span class="m">1800&lt;/span> &lt;span class="m">900&lt;/span> &lt;span class="m">691200&lt;/span> &lt;span class="m">10800&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">;;&lt;/span> Query time: &lt;span class="m">52&lt;/span> msec
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">;;&lt;/span> SERVER: 2406:7400:a:10::2#53&lt;span class="o">(&lt;/span>2406:7400:a:10::2&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">;;&lt;/span> WHEN: Wed Jul &lt;span class="m">24&lt;/span> 07:57:57 IST &lt;span class="m">2024&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">;;&lt;/span> MSG SIZE rcvd: &lt;span class="m">105&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>Here we see&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-sh" data-lang="sh">&lt;span class="line">&lt;span class="cl">&lt;span class="p">;;&lt;/span> QUESTION SECTION:
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">;&lt;/span>1.2.0.192.in-addr.arpa. IN PTR
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="now-question-comes-where-does-in-addrarpa-come-from-">Now question comes where does &amp;lsquo;in-addr.arpa&amp;rsquo; come from ?&lt;/h3>
+&lt;p>The &amp;lsquo;in-addr&amp;rsquo; part stands for &amp;ldquo;inverse address,&amp;rdquo; indicating its role in reverse address mapping The use of “in-addr.arpa” is defined by various internet standards (RFCs).&lt;/p>
+&lt;p>One of oldest RFC from &amp;lsquo;Nov 1987&amp;rsquo; &lt;a href="https://tools.ietf.org/html/rfc1035">RFC 1035&lt;/a> which defines the DNS protocol and its operations. Here is the excerpt from &lt;a href="https://datatracker.ietf.org/doc/html/rfc1035#section-3.5">section 3.5&lt;/a>&lt;/p>
+&lt;div style="text-align: center;">
+&lt;pre>&lt;code>```
+The Internet uses a special domain to support gateway location and
+Internet address to host mapping
+...
+Thus data for Internet address 10.2.0.52 is located at
+domain name 52.0.2.10.IN-ADDR.ARPA.
+...
+```
+&lt;/code>&lt;/pre>
+&lt;/div>
+&lt;p>So utility like dig reverse the IP address and append it to &amp;lsquo;in-addr.arpa&amp;rsquo; to get the domain name.&lt;/p>
+&lt;p>Below is the code snippet from bind9 source code which also hosts the dig utility. This code is used to do reverse DNS lookup.&lt;/p>
+&lt;details class="details"
+style="border: 1px solid #ccc; border-radius: 5px; padding: 5px;"
+>
+&lt;summary>
+Snnippet from bind9 source code which has &amp;lsquo;dig&amp;rsquo; utility
+&lt;/summary>
+&lt;p>Snippet from &lt;code>https://gitlab.isc.org/isc-projects/bind9/-/blob/main/bin/dig/dig.c#L2831&lt;/code>&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-c" data-lang="c">&lt;span class="line">&lt;span class="cl"> &lt;span class="k">case&lt;/span> &lt;span class="sc">&amp;#39;x&amp;#39;&lt;/span>&lt;span class="o">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="n">need_clone&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">*&lt;/span>&lt;span class="n">lookup&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nf">clone_lookup&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">default_lookup&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="nb">true&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">*&lt;/span>&lt;span class="n">need_clone&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">true&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nf">get_reverse&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">textname&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="k">sizeof&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">textname&lt;/span>&lt;span class="p">),&lt;/span> &lt;span class="n">value&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="nb">false&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="o">==&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">ISC_R_SUCCESS&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">...&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">...&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span> &lt;span class="k">else&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nf">fprintf&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">stderr&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s">&amp;#34;Invalid IP address %s&lt;/span>&lt;span class="se">\n&lt;/span>&lt;span class="s">&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">value&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nf">exit&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">EXIT_FAILURE&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">value_from_next&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nl">invalid_option&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">....&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>This code snippet is from the &lt;code>get_reverse&lt;/code> &lt;a href="https://gitlab.isc.org/isc-projects/bind9/-/blob/main/bin/delv/delv.c#L1783">https://gitlab.isc.org/isc-projects/bind9/-/blob/main/bin/delv/delv.c#L1783&lt;/a>&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;span class="lnt">30
+&lt;/span>&lt;span class="lnt">31
+&lt;/span>&lt;span class="lnt">32
+&lt;/span>&lt;span class="lnt">33
+&lt;/span>&lt;span class="lnt">34
+&lt;/span>&lt;span class="lnt">35
+&lt;/span>&lt;span class="lnt">36
+&lt;/span>&lt;span class="lnt">37
+&lt;/span>&lt;span class="lnt">38
+&lt;/span>&lt;span class="lnt">39
+&lt;/span>&lt;span class="lnt">40
+&lt;/span>&lt;span class="lnt">41
+&lt;/span>&lt;span class="lnt">42
+&lt;/span>&lt;span class="lnt">43
+&lt;/span>&lt;span class="lnt">44
+&lt;/span>&lt;span class="lnt">45
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-c" data-lang="c">&lt;span class="line">&lt;span class="cl">&lt;span class="k">static&lt;/span> &lt;span class="kt">isc_result_t&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nf">get_reverse&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="kt">char&lt;/span> &lt;span class="o">*&lt;/span>&lt;span class="n">reverse&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="kt">size_t&lt;/span> &lt;span class="n">len&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="kt">char&lt;/span> &lt;span class="o">*&lt;/span>&lt;span class="n">value&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="kt">bool&lt;/span> &lt;span class="n">strict&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kt">int&lt;/span> &lt;span class="n">r&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kt">isc_result_t&lt;/span> &lt;span class="n">result&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kt">isc_netaddr_t&lt;/span> &lt;span class="n">addr&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">addr&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">family&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">AF_INET6&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">r&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nf">inet_pton&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">AF_INET6&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">value&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="o">&amp;amp;&lt;/span>&lt;span class="n">addr&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">type&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">in6&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">r&lt;/span> &lt;span class="o">&amp;gt;&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="cm">/* This is a valid IPv6 address. */&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kt">dns_fixedname_t&lt;/span> &lt;span class="n">fname&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kt">dns_name_t&lt;/span> &lt;span class="o">*&lt;/span>&lt;span class="n">name&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">name&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nf">dns_fixedname_initname&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="o">&amp;amp;&lt;/span>&lt;span class="n">fname&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">result&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nf">dns_byaddr_createptrname&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="o">&amp;amp;&lt;/span>&lt;span class="n">addr&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">name&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">result&lt;/span> &lt;span class="o">!=&lt;/span> &lt;span class="n">ISC_R_SUCCESS&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">result&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nf">dns_name_format&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">name&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">reverse&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="kt">unsigned&lt;/span> &lt;span class="kt">int&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="n">len&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">ISC_R_SUCCESS&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span> &lt;span class="k">else&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="cm">/*
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="cm"> * Not a valid IPv6 address. Assume IPv4.
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="cm"> * If &amp;#39;strict&amp;#39; is not set, construct the
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="cm"> * in-addr.arpa name by blindly reversing
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="cm"> * octets whether or not they look like integers,
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="cm"> * so that this can be used for RFC2317 names
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="cm"> * and such.
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="cm"> */&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kt">char&lt;/span> &lt;span class="o">*&lt;/span>&lt;span class="n">p&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">reverse&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kt">char&lt;/span> &lt;span class="o">*&lt;/span>&lt;span class="n">end&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">reverse&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="n">len&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">strict&lt;/span> &lt;span class="o">&amp;amp;&amp;amp;&lt;/span> &lt;span class="nf">inet_pton&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">AF_INET&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">value&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="o">&amp;amp;&lt;/span>&lt;span class="n">addr&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">type&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">in&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="o">!=&lt;/span> &lt;span class="mi">1&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">DNS_R_BADDOTTEDQUAD&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">result&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nf">reverse_octets&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">value&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="o">&amp;amp;&lt;/span>&lt;span class="n">p&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">end&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">result&lt;/span> &lt;span class="o">!=&lt;/span> &lt;span class="n">ISC_R_SUCCESS&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">result&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">result&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nf">append_str&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s">&amp;#34;.in-addr.arpa.&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">15&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="o">&amp;amp;&lt;/span>&lt;span class="n">p&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">end&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">result&lt;/span> &lt;span class="o">!=&lt;/span> &lt;span class="n">ISC_R_SUCCESS&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">result&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">ISC_R_SUCCESS&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;/details>
+&lt;p>To summarise:
+When an IPv4 address like &lt;code>192.0.2.1&lt;/code> needs to be resolved back to a domain name,&lt;/p>
+&lt;ol>
+&lt;li>It is reversed then&lt;/li>
+&lt;li>Appended with &amp;lsquo;in-addr.arpa&amp;rsquo;, resulting in &lt;code>1.2.0.192.in-addr.arpa&lt;/code>.&lt;/li>
+&lt;li>DNS query is then made for this domain to retrieve the &lt;strong>PTR&lt;/strong> record, which provides the domain name associated with the IP address.&lt;/li>
+&lt;/ol>
+&lt;h3 id="q-who-manages-the-in-addrarpa-domain">Q: Who manages the &amp;lsquo;in-addr.arpa&amp;rsquo; domain?&lt;/h3>
+&lt;p>Hierarchical like the normal DNS.&lt;/p>
+&lt;ul>
+&lt;li>IANA(Internet Assigned Numbers Authority) oversees the top-level delegation(i.e. in-addr.arpa).&lt;/li>
+&lt;li>RIRs(Regional Internet Registries) manage portions of the namespace within their regions.&lt;/li>
+&lt;li>ISPs and organizations manage reverse DNS for their allocated IP address ranges, creating PTR records within the appropriate &amp;lsquo;in-addr.arpa&amp;rsquo; subdomains.&lt;/li>
+&lt;/ul>
+&lt;h3 id="q-what-about-private-ip-addresses-and-reverse-dns">Q: What about private IP addresses and reverse DNS?&lt;/h3>
+&lt;p>&lt;strong>A&lt;/strong>: For private IP address blocks (such as &lt;code>10.0.0.0/8&lt;/code>, &lt;code>172.16.0.0/12&lt;/code>, &lt;code>192.168.0.0/16&lt;/code>), reverse DNS is managed internally within the organization.&lt;/p>
+&lt;p>You can also do &lt;code>dig -x 192.168.2.1&lt;/code> or &lt;code>dig 1.2.168.192.in-addr.arpa PTR&lt;/code> manually to check the reverse DNS for private IP addresses.&lt;/p>
+&lt;h3 id="q-what-about-ipv6-reverse-dns">Q: What about IPv6 reverse DNS?&lt;/h3>
+&lt;p>Similar to IPv4, IPv6 addresses are also mapped back to domain names using the &amp;lsquo;ip6.arpa&amp;rsquo; domain. The process is similar, but the domain name is constructed differently due to the longer address length of IPv6.&lt;/p>
+&lt;p>Doing &lt;code>dig -x 2001:0db8::1&lt;/code> or &lt;code>dig 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.b.d.0.1.0.0.2.ip6.arpa. PTR&lt;/code>&lt;/p></description></item><item><title>What Is Spacetime in Einstein Theory</title><link>https://kbs.murarisumit.in/en/f7de1f85aff4e3440204f197756f8b68/</link><pubDate>Tue, 02 Jul 2024 04:22:28 +0530</pubDate><guid>https://kbs.murarisumit.in/en/f7de1f85aff4e3440204f197756f8b68/</guid><description>
 &lt;div class="reftext">
 &lt;ul>
 &lt;li>
@@ -1087,7 +1327,7 @@ If S is a subtype of T, then objects of type T may be replaced with objects of t
 &lt;p>I&amp;rsquo;m ready to give that price, and become exceptional. Family do matter to me, friends to matter to me, but would keep the circle small and would focus on the goals that I have. Ready to give 80 hours work-week.&lt;/p>
 &lt;p>Goals are private for now, but for my reference are kept at: &lt;a href="https://www.notion.so/yinyangi/a-lifetime-11c407f3b4034e14805328f1c7bd5ffa">https://www.notion.so/yinyangi/a-lifetime-11c407f3b4034e14805328f1c7bd5ffa&lt;/a>&lt;/p></description></item><item><title>Novak Djokovic vs Roger Federer Wimbledon 2019 FullMatch</title><link>https://kbs.murarisumit.in/3eea4986a87740003aa7e5b40354ce03/</link><pubDate>Sat, 14 Aug 2021 04:57:43 +0530</pubDate><guid>https://kbs.murarisumit.in/3eea4986a87740003aa7e5b40354ce03/</guid><description>&lt;p>One more djo&amp;rsquo;s match, but was looking at federer who showed his metal at 36 yrs of age.&lt;/p></description></item><item><title>Jordan Peterson Successful Men Are Insane and Work All the Time</title><link>https://kbs.murarisumit.in/ce39966c39f2ea7d1a55946669a84685/</link><pubDate>Sat, 14 Aug 2021 01:51:32 +0530</pubDate><guid>https://kbs.murarisumit.in/ce39966c39f2ea7d1a55946669a84685/</guid><description>&lt;p>He said in one of his interviews that men wrote to him and told that he changed his life. I&amp;rsquo;m one of such characters. Here also a lot of thanks goes to people who made the internet happen, so I could watch his lessons/lectures or speeches.&lt;/p>
 &lt;p>To achieve to be highly successful in corporate world i.e. reach at high position in social order one has to put insane amount of work, he mentioned 80 hours work week, translates to ~ 12 hours every day without breaks for years and with &lt;strong>focus&lt;/strong> and &lt;strong>determination&lt;/strong>.&lt;/p>
-&lt;p>~hello~&lt;/p>
+&lt;p>&lt;del>hello&lt;/del>&lt;/p>
 &lt;p>It isn&amp;rsquo;t like when kids go to work to the library to study for 6 hours.&lt;/p>
 &lt;p>High social order always means different from different cultures. India had a weird culture once, people who left the material world and lived for pursuit of knowledge were treated on high pecking order, but that is for a very evolved state of culture. Mostly it would refer to high financial or political position.
 Disclaimer: Today India is in a very sad state w.r.t its culture and the same system has become the biggest baggage.&lt;/p>
