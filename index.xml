@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>knowledge base</title><link>https://kbs.murarisumit.in/</link><description>Recent content on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 16 Aug 2024 22:38:47 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/index.xml" rel="self" type="application/rss+xml"/><item><title>Minimal Dhcp</title><link>https://kbs.murarisumit.in/en/d336278e88c99785b29addd7bb175142/</link><pubDate>Fri, 16 Aug 2024 22:38:47 +0530</pubDate><guid>https://kbs.murarisumit.in/en/d336278e88c99785b29addd7bb175142/</guid><description>&lt;p>The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on UDP/IP networks whereby a DHCP server dynamically assigns an IP address and other network configuration parameters to each device on a network so they can communicate with other IP networks wiki
-How it does internally in nutshell is like:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>knowledge base</title><link>https://kbs.murarisumit.in/</link><description>Recent content on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 16 Aug 2024 23:08:35 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/index.xml" rel="self" type="application/rss+xml"/><item><title>Minimal Dhcp</title><link>https://kbs.murarisumit.in/en/d336278e88c99785b29addd7bb175142/</link><pubDate>Fri, 16 Aug 2024 22:38:47 +0530</pubDate><guid>https://kbs.murarisumit.in/en/d336278e88c99785b29addd7bb175142/</guid><description>&lt;p>The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on UDP/IP networks whereby a DHCP server dynamically assigns an IP address and other network configuration parameters to each device on a network so they can communicate with other IP networks.&lt;/p>
+&lt;p>How it works internally, in a nutshell, is like this:&lt;/p>
 &lt;ol>
 &lt;li>The device broadcasts a request called a DHCPDISCOVER request, looking for a server on the network that can send out DHCP configuration information.&lt;/li>
 &lt;/ol>
@@ -7,7 +7,7 @@ How it does internally in nutshell is like:&lt;/p>
 style="border: 1px solid #ccc; border-radius: 5px; padding: 5px;"
 >
 &lt;summary>
-How &amp;amp; where does device broadcast if doesn&amp;rsquo;t know anything about network
+How and where does the device broadcast if it doesn&amp;rsquo;t know anything about the network?
 &lt;/summary>
 &lt;p>It sends a DHCPDISCOVER packet to the broadcast MAC address (FF:FF:FF:FF:FF:FF) at Layer 2 and the broadcast IP address (255.255.255.255) at Layer 3.&lt;/p>
 &lt;p>Why both MAC and IP address?&lt;/p>
@@ -20,15 +20,15 @@ How &amp;amp; where does device broadcast if doesn&amp;rsquo;t know anything abo
 style="border: 1px solid #ccc; border-radius: 5px; padding: 5px;"
 >
 &lt;summary>
-What is MAC address
+What is a MAC address?
 &lt;/summary>
 &lt;ul>
-&lt;li>Unique Identifier for all network devices. No two devices will have same MAC address.
+&lt;li>Unique identifier for all network devices. No two devices will have the same MAC address.
 &lt;ul>
-&lt;li>So IEEE gives OUI (Organizationally Unique Identifier) which is first 24 bits of MAC address. This is assigned by IEEE to manufacturers.&lt;/li>
+&lt;li>IEEE gives an OUI (Organizationally Unique Identifier), which is the first 24 bits of the MAC address, to manufacturers.&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>Overall 48 bits long; 24 bits for OUI and 24 bits for device identifier.&lt;/li>
+&lt;li>Overall, it is 48 bits long; 24 bits for the OUI and 24 bits for the device identifier.&lt;/li>
 &lt;/ul>
 &lt;/details>
 &lt;ol start="2">
@@ -41,7 +41,7 @@ What is MAC address
 &lt;li>
 &lt;p>If the device accepts what’s on offer, it sends a DHCPREQUEST to reserve the IP address.&lt;/p>
 &lt;ul>
-&lt;li>If multiple DHCP server send offer, then client chooses one and sends request to that server.&lt;/li>
+&lt;li>If multiple DHCP servers send offers, then the client chooses one and sends a request to that server.&lt;/li>
 &lt;li>The DHCPREQUEST message is broadcast to inform all DHCP servers on the network that it has selected an offer from one specific server.&lt;/li>
 &lt;/ul>
 &lt;/li>
