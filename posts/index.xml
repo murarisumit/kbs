@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on knowledge base</title><link>https://kbs.murarisumit.in/posts/</link><description>Recent content in Posts on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 16 Aug 2024 23:29:06 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Firefox Tricks</title><link>https://kbs.murarisumit.in/en/72ff43ee035217085d814ff2033b47da/</link><pubDate>Fri, 16 Aug 2024 23:19:50 +0530</pubDate><guid>https://kbs.murarisumit.in/en/72ff43ee035217085d814ff2033b47da/</guid><description>&lt;h4 id="search-from-bookmarks-only">Search from bookmarks only:&lt;/h4>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on knowledge base</title><link>https://kbs.murarisumit.in/posts/</link><description>Recent content in Posts on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 16 Aug 2024 23:29:06 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>12 Factor Methodology for Software Development</title><link>https://kbs.murarisumit.in/en/c683007a0e861f251b49d2682d5b3f18/</link><pubDate>Fri, 16 Aug 2024 23:29:06 +0530</pubDate><guid>https://kbs.murarisumit.in/en/c683007a0e861f251b49d2682d5b3f18/</guid><description>&lt;p>This is taken all from 12factor.net. This methodology include the 12 factors or 12 parts of software engineering, which should be used while engineering softwares.
+My app should be a follow these 12 factor or confor with as my factor possible.&lt;/p>
+&lt;p>In my opinion&lt;/p>
+&lt;ul>
+&lt;li>It’s most important to get it done.&lt;/li>
+&lt;/ul>
+&lt;p>While doing any of 12 factors given below(maintaining configs/dependencies management, or trying build,release), read below mentioned best practices.&lt;/p>
+&lt;h3 id="the-twelve-factors">The Twelve Factors&lt;/h3>
+&lt;ol>
+&lt;li>&lt;a href="https://12factor.net/codebase">Codebase&lt;/a>: One codebase tracked in revision control, many deploys&lt;/li>
+&lt;li>&lt;a href="https://12factor.net/dependencies">Dependencies&lt;/a>: Explicitly declare and isolate dependencies&lt;/li>
+&lt;li>&lt;a href="https://12factor.net/config">Config&lt;/a>: Store config in the environment&lt;/li>
+&lt;li>&lt;a href="https://12factor.net/backing-services">Backing services&lt;/a>: Treat backing services (database, SMTP, etc.) as attached resources&lt;/li>
+&lt;li>&lt;a href="https://12factor.net/build-release-run">Build, release, run&lt;/a>: Strictly separate build, release, and run stages&lt;/li>
+&lt;li>&lt;a href="https://12factor.net/processes">Processes&lt;/a>: Execute the app as one or more stateless processes. Persist data in a stateful backing (e.g., database, queue) service.&lt;/li>
+&lt;li>&lt;a href="https://12factor.net/port-binding">Port binding&lt;/a>: Export services via port binding&lt;/li>
+&lt;li>&lt;a href="https://12factor.net/concurrency">Concurrency&lt;/a>: Scale out via the process model&lt;/li>
+&lt;li>&lt;a href="https://12factor.net/disposability">Disposability&lt;/a>: Maximize robustness with fast startup and graceful shutdown&lt;/li>
+&lt;li>&lt;a href="https://12factor.net/dev-prod-parity">Dev/prod parity&lt;/a>: Keep development, staging, and production as similar as possible&lt;/li>
+&lt;li>&lt;a href="https://12factor.net/logs">Logs&lt;/a>: Treat logs as event streams. Each running process writes its event stream, unbuffered, to stdout.&lt;/li>
+&lt;li>&lt;a href="https://12factor.net/admin-processes">Admin processes&lt;/a>: Run admin/management tasks as one-off processes&lt;/li>
+&lt;/ol>
+&lt;p>References:
+This post is copied from &lt;a href="https://12factor.net/">https://12factor.net/&lt;/a> and kept here for my personal reference.&lt;/p></description></item><item><title>Firefox Tricks</title><link>https://kbs.murarisumit.in/en/72ff43ee035217085d814ff2033b47da/</link><pubDate>Fri, 16 Aug 2024 23:19:50 +0530</pubDate><guid>https://kbs.murarisumit.in/en/72ff43ee035217085d814ff2033b47da/</guid><description>&lt;h4 id="search-from-bookmarks-only">Search from bookmarks only:&lt;/h4>
 &lt;ul>
 &lt;li>Press F6 i.e. goto search/url bar&lt;/li>
 &lt;li>Press *[_]search_text i.e. star space search_text&lt;/li>
