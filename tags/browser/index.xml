@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Browser on knowledge base</title><link>https://kbs.murarisumit.in/tags/browser/</link><description>Recent content in Browser on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 16 Aug 2024 23:19:50 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/browser/index.xml" rel="self" type="application/rss+xml"/><item><title>Firefox Tricks</title><link>https://kbs.murarisumit.in/en/72ff43ee035217085d814ff2033b47da/</link><pubDate>Fri, 16 Aug 2024 23:19:50 +0530</pubDate><guid>https://kbs.murarisumit.in/en/72ff43ee035217085d814ff2033b47da/</guid><description>&lt;h4 id="search-from-bookmarks-only">Search from bookmarks only:&lt;/h4>
+&lt;ul>
+&lt;li>Press F6 i.e. goto search/url bar&lt;/li>
+&lt;li>Press *[_]search_text i.e. star space search_text&lt;/li>
+&lt;/ul>
+&lt;h4 id="search-from-open-tabs-only">Search from open tabs only:&lt;/h4>
+&lt;ul>
+&lt;li>Press F6 i.e. goto search/url bar&lt;/li>
+&lt;li>Press % search_text i.e. star space search_text&lt;/li>
+&lt;/ul>
+&lt;h4 id="restart-the-firefox-without-losing-current-tabs-or-context">Restart the firefox without losing current tabs or context:&lt;/h4>
+&lt;ul>
+&lt;li>Press Shift+f2, a shell at bottom of screen will show up.&lt;/li>
+&lt;li>Type restart&lt;/li>
+&lt;/ul>
+&lt;h4 id="find-your-profile-folder-location-from-firefox-itself">Find your profile folder location from firefox itself.&lt;/h4>
+&lt;ul>
+&lt;li>Press F6 i.e. goto search/url bar&lt;/li>
+&lt;li>Type about:support, will show all the details.&lt;/li>
+&lt;/ul></description></item></channel></rss>

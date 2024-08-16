@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>knowledge base</title><link>https://kbs.murarisumit.in/</link><description>Recent content on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 16 Aug 2024 23:08:35 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/index.xml" rel="self" type="application/rss+xml"/><item><title>Minimal Dhcp</title><link>https://kbs.murarisumit.in/en/d336278e88c99785b29addd7bb175142/</link><pubDate>Fri, 16 Aug 2024 22:38:47 +0530</pubDate><guid>https://kbs.murarisumit.in/en/d336278e88c99785b29addd7bb175142/</guid><description>&lt;p>The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on UDP/IP networks whereby a DHCP server dynamically assigns an IP address and other network configuration parameters to each device on a network so they can communicate with other IP networks.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>knowledge base</title><link>https://kbs.murarisumit.in/</link><description>Recent content on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 16 Aug 2024 23:29:06 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/index.xml" rel="self" type="application/rss+xml"/><item><title>Firefox Tricks</title><link>https://kbs.murarisumit.in/en/72ff43ee035217085d814ff2033b47da/</link><pubDate>Fri, 16 Aug 2024 23:19:50 +0530</pubDate><guid>https://kbs.murarisumit.in/en/72ff43ee035217085d814ff2033b47da/</guid><description>&lt;h4 id="search-from-bookmarks-only">Search from bookmarks only:&lt;/h4>
+&lt;ul>
+&lt;li>Press F6 i.e. goto search/url bar&lt;/li>
+&lt;li>Press *[_]search_text i.e. star space search_text&lt;/li>
+&lt;/ul>
+&lt;h4 id="search-from-open-tabs-only">Search from open tabs only:&lt;/h4>
+&lt;ul>
+&lt;li>Press F6 i.e. goto search/url bar&lt;/li>
+&lt;li>Press % search_text i.e. star space search_text&lt;/li>
+&lt;/ul>
+&lt;h4 id="restart-the-firefox-without-losing-current-tabs-or-context">Restart the firefox without losing current tabs or context:&lt;/h4>
+&lt;ul>
+&lt;li>Press Shift+f2, a shell at bottom of screen will show up.&lt;/li>
+&lt;li>Type restart&lt;/li>
+&lt;/ul>
+&lt;h4 id="find-your-profile-folder-location-from-firefox-itself">Find your profile folder location from firefox itself.&lt;/h4>
+&lt;ul>
+&lt;li>Press F6 i.e. goto search/url bar&lt;/li>
+&lt;li>Type about:support, will show all the details.&lt;/li>
+&lt;/ul></description></item><item><title>Frequency in Electricity</title><link>https://kbs.murarisumit.in/en/a9a02bc27366cf020d00baf3ae29e77e/</link><pubDate>Fri, 16 Aug 2024 23:08:35 +0530</pubDate><guid>https://kbs.murarisumit.in/en/a9a02bc27366cf020d00baf3ae29e77e/</guid><description>&lt;h3 id="how-is-electricity-produced">How is electricity produced.&lt;/h3>
+&lt;p>A characteristic of electricity is that it is not a primary energy freely present in nature in remarkable amounts and it must be produced. Production is carried out in power stations (also called “power plants”).&lt;/p>
+&lt;p>Most power plants/stations contain one or more generators, a rotating machine that converts mechanical power into electrical power. The relative motion between a magnetic field and a conductor creates an electrical current.&lt;/p>
+&lt;p>So the source can be different to move the generator:&lt;/p>
+&lt;ul>
+&lt;li>In hydro, water is used to move turbines&lt;/li>
+&lt;li>In coal plants, steam does the job&lt;/li>
+&lt;li>In wind power, the movement of those giant blades generates electricity.&lt;/li>
+&lt;li>Or a nuclear reaction to produce steam.&lt;/li>
+&lt;li>Or solar panels convert sunlight to electricity.&lt;/li>
+&lt;li>Or geothermal energy to move turbines.&lt;/li>
+&lt;li>Basically, any mechanical movement can be used to move the generator.&lt;/li>
+&lt;/ul>
+&lt;h3 id="frequency-in-electricity">Frequency in electricity&lt;/h3>
+&lt;p>How does frequency come about? As we know, electricity is produced by converting mechanical movement to electricity using the phenomenon of magnetism.&lt;/p>
+&lt;ul>
+&lt;li>So when a conductor rotates in a magnetic field, the magnetic field lines are cut and current is induced in the conductor.&lt;/li>
+&lt;li>Since the magnet has lines of field from north to south (uni-directional), the conductor will move back and forth in this direction.&lt;/li>
+&lt;li>So when it cuts all the lines, the maximum current is induced, and then as it moves back with no lines cut, the current is zero. Then the conductor comes back in the opposite direction, inducing a reverse current.&lt;/li>
+&lt;/ul>
+&lt;p>So this is like a sine wave: the current goes to a maximum, then zero, then a negative maximum (on the other side). We have rectifiers to manage this, but this is what frequency is in electric current.&lt;/p>
+&lt;p>Reference:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Power_station">https://en.wikipedia.org/wiki/Power_station&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Electricity_generation">https://en.wikipedia.org/wiki/Electricity_generation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=4oRT7PoXSS0">https://www.youtube.com/watch?v=4oRT7PoXSS0&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Minimal Dhcp</title><link>https://kbs.murarisumit.in/en/d336278e88c99785b29addd7bb175142/</link><pubDate>Fri, 16 Aug 2024 22:38:47 +0530</pubDate><guid>https://kbs.murarisumit.in/en/d336278e88c99785b29addd7bb175142/</guid><description>&lt;p>The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on UDP/IP networks whereby a DHCP server dynamically assigns an IP address and other network configuration parameters to each device on a network so they can communicate with other IP networks.&lt;/p>
 &lt;p>How it works internally, in a nutshell, is like this:&lt;/p>
 &lt;ol>
 &lt;li>The device broadcasts a request called a DHCPDISCOVER request, looking for a server on the network that can send out DHCP configuration information.&lt;/li>
