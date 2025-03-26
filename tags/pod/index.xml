@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pod on knowledge base</title><link>https://kbs.murarisumit.in/tags/pod/</link><description>Recent content in Pod on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 26 Mar 2025 09:52:25 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/pod/index.xml" rel="self" type="application/rss+xml"/><item><title>Kubernetes Pod Environment Variable Preferences</title><link>https://kbs.murarisumit.in/en/442bc6e6eca3067e8feb0414fb36e19b/</link><pubDate>Wed, 26 Mar 2025 09:52:25 +0530</pubDate><guid>https://kbs.murarisumit.in/en/442bc6e6eca3067e8feb0414fb36e19b/</guid><description>&lt;blockquote>
+&lt;p>When a key exists in multiple sources, the value associated with the last source will take precedence. Values defined by an Env with a duplicate key will take precedence. Cannot be updated.
+Ref: &lt;a href="https://kubernetes.io/docs/reference/kubernetes-api/workload-resources/pod-v1/#environment-variables">https://kubernetes.io/docs/reference/kubernetes-api/workload-resources/pod-v1/#environment-variables&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>When defining environment variables in Kubernetes, the order of precedence matters! Here’s how Kubernetes decides which value takes effect when the same variable is defined in multiple places:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Explicitly set in the env field (highest priority)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Loaded via envFrom (ConfigMaps or Secrets)&lt;/p>
+&lt;ol>
+&lt;li>If the same key is defined in multiple ConfigMaps or Secrets, the last one takes precedence&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;p>Defined in the container image (lowest priority)&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">containers&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">name&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">my-app&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">my-app-image&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">env&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">name&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">DB_HOST&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">value&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="s2">&amp;#34;database.internal&amp;#34;&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="c"># Highest priority&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">envFrom&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">configMapRef&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">name&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">my-config&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">secretRef&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">name&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">my-secret&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>In the above example, if &lt;code>DB_HOST&lt;/code> is defined in both &lt;code>env&lt;/code> and &lt;code>envFrom&lt;/code>, the value from &lt;code>env&lt;/code> will take precedence.
+If &lt;code>DB_HOST&lt;/code> is defined in multiple ConfigMaps or Secrets, the value from the last one will take precedence i.e. &lt;code>my-secret&lt;/code> in this case.&lt;/p></description></item></channel></rss>
