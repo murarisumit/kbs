@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2017-11 on knowledge base</title><link>https://kbs.murarisumit.in/month/2017-11/</link><description>Recent content in 2017-11 on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 01 Nov 2017 22:41:06 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/month/2017-11/index.xml" rel="self" type="application/rss+xml"/><item><title>Basic Geometry Concepts</title><link>https://kbs.murarisumit.in/en/5d37dda250aad63a22125b1eb0e01430/</link><pubDate>Wed, 01 Nov 2017 22:41:06 +0530</pubDate><guid>https://kbs.murarisumit.in/en/5d37dda250aad63a22125b1eb0e01430/</guid><description>&lt;p>Some basic terminologies in geometry&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2017-11 on knowledge base</title><link>https://kbs.murarisumit.in/month/2017-11/</link><description>Recent content in 2017-11 on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 11 Nov 2017 06:35:46 +0000</lastBuildDate><atom:link href="https://kbs.murarisumit.in/month/2017-11/index.xml" rel="self" type="application/rss+xml"/><item><title>Module and Package Python</title><link>https://kbs.murarisumit.in/en/b8d35b1f0509e8dbf205cfa0372cf263/</link><pubDate>Sat, 11 Nov 2017 06:35:46 +0000</pubDate><guid>https://kbs.murarisumit.in/en/b8d35b1f0509e8dbf205cfa0372cf263/</guid><description>&lt;h3 id="modules">Modules&lt;/h3>
+&lt;p>These are simple python files with the .py extension, which implement a set of functions/functionality.
+Modules are imported from other modules using the import command like import file
+Above will import variables/funtions/classes from file.py.&lt;/p>
+&lt;h3 id="packages">Packages&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>A package is a directory that contains multiple Python modules and must include an &lt;strong>init&lt;/strong>.py file.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The &lt;strong>init&lt;/strong>.py file marks the directory as a package and can also execute initialization code.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Even though modules and packages are conceptually different (file vs directory), both are of type &amp;lsquo;module&amp;rsquo; when imported in Python:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">&amp;gt;&amp;gt;&amp;gt; import some_module
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;gt;&amp;gt;&amp;gt; type(some_module)
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;lt;type &amp;#39;module&amp;#39;&amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;gt;&amp;gt;&amp;gt; import some_package
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;gt;&amp;gt;&amp;gt; type(some_package)
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;lt;type &amp;#39;module&amp;#39;&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;/li>
+&lt;li>
+&lt;p>When we import module we get all its functions, classes and variables defined in it.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>When we import package only variables/functions/classes in the &lt;code>__init__.py&lt;/code> file of that package are directly visible, not sub-packages or modules.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The directory to be identified as package by python, should have init.py file in that directory&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Packages can have sub-packages, those directories should have init.py file in the sub-directory.&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Basic Geometry Concepts</title><link>https://kbs.murarisumit.in/en/5d37dda250aad63a22125b1eb0e01430/</link><pubDate>Wed, 01 Nov 2017 22:41:06 +0530</pubDate><guid>https://kbs.murarisumit.in/en/5d37dda250aad63a22125b1eb0e01430/</guid><description>&lt;p>Some basic terminologies in geometry&lt;/p>
 &lt;h4 id="q-what-is-the-curve-">Q: What is the curve ?&lt;/h4>
 &lt;p>A curve is a shape which is smoothly drawn in a plane having a bent or turns in it.&lt;/p>
 &lt;h4 id="q-what-is-the-tangent-to-the-curve-">Q: What is the tangent to the curve ?&lt;/h4>
