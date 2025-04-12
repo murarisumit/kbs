@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cryptography on knowledge base</title><link>https://kbs.murarisumit.in/tags/cryptography/</link><description>Recent content in Cryptography on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 12 Aug 2018 14:33:16 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/cryptography/index.xml" rel="self" type="application/rss+xml"/><item><title>Local Certificate Authority for Self Sign Certificate</title><link>https://kbs.murarisumit.in/en/5289c1079e811e7d1886fcccd103f0ff/</link><pubDate>Sun, 12 Aug 2018 14:33:16 +0530</pubDate><guid>https://kbs.murarisumit.in/en/5289c1079e811e7d1886fcccd103f0ff/</guid><description>&lt;p>Here we will be creating local certificate authority.&lt;/p>
+&lt;ol>
+&lt;li>Create keys for CA&lt;/li>
+&lt;li>Add the cert to trusted keychain.&lt;/li>
+&lt;li>Now Certificates signed with CA&amp;rsquo;s key will work without issues.&lt;/li>
+&lt;li>Create new certs&lt;/li>
+&lt;li>Sign the certs using our created CA&lt;/li>
+&lt;/ol>
+&lt;p>Used commands :&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>To create the root ca key: openssl genrsa -out rootCA.key 2048&lt;/p>
+&lt;ul>
+&lt;li>To create password protected key: &lt;code>openssl genrsa -des3 -out rootCA.key 2048&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Self sign the certificate: &lt;code>openssl req -x509 -new -nodes -key rootCA.key -sha256 -days 1024 -out rootCA.pem&lt;/code>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Add that cert to macos keychain to trust it.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Create certificates that trust are signed by this CA.&lt;/p>
+&lt;ul>
+&lt;li>Create private key: &lt;code>openssl genrsa -out device.key 2048&lt;/code>&lt;/li>
+&lt;li>Create CSR : &lt;code>openssl req -new -key device.key -out device.csr&lt;/code>&lt;/li>
+&lt;li>Sign the key and get certificate: &lt;code>openssl x509 -req -in device.csr -CA rootCA.pem -CAkey rootCA.key -CAcreateserial -out device.crt -days 365 -sha256&lt;/code>&lt;/li>
+&lt;li>Now use the private key and newly created certicate where you have trusted the base(ca) certificate and all will work fine.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>

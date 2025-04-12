@@ -2370,7 +2370,38 @@ to orient it correctly.&lt;/p>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;p>It takes an angle which can be specified in degrees. Here I use &lt;code>90deg&lt;/code>. If I
-was going for a different effect, I could do something like &lt;code>45deg&lt;/code>.&lt;/p></description></item><item><title>Module and Package Python</title><link>https://kbs.murarisumit.in/en/b8d35b1f0509e8dbf205cfa0372cf263/</link><pubDate>Sat, 11 Nov 2017 06:35:46 +0000</pubDate><guid>https://kbs.murarisumit.in/en/b8d35b1f0509e8dbf205cfa0372cf263/</guid><description>&lt;h3 id="modules">Modules&lt;/h3>
+was going for a different effect, I could do something like &lt;code>45deg&lt;/code>.&lt;/p></description></item><item><title>Local Certificate Authority for Self Sign Certificate</title><link>https://kbs.murarisumit.in/en/5289c1079e811e7d1886fcccd103f0ff/</link><pubDate>Sun, 12 Aug 2018 14:33:16 +0530</pubDate><guid>https://kbs.murarisumit.in/en/5289c1079e811e7d1886fcccd103f0ff/</guid><description>&lt;p>Here we will be creating local certificate authority.&lt;/p>
+&lt;ol>
+&lt;li>Create keys for CA&lt;/li>
+&lt;li>Add the cert to trusted keychain.&lt;/li>
+&lt;li>Now Certificates signed with CA&amp;rsquo;s key will work without issues.&lt;/li>
+&lt;li>Create new certs&lt;/li>
+&lt;li>Sign the certs using our created CA&lt;/li>
+&lt;/ol>
+&lt;p>Used commands :&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>To create the root ca key: openssl genrsa -out rootCA.key 2048&lt;/p>
+&lt;ul>
+&lt;li>To create password protected key: &lt;code>openssl genrsa -des3 -out rootCA.key 2048&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Self sign the certificate: &lt;code>openssl req -x509 -new -nodes -key rootCA.key -sha256 -days 1024 -out rootCA.pem&lt;/code>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Add that cert to macos keychain to trust it.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Create certificates that trust are signed by this CA.&lt;/p>
+&lt;ul>
+&lt;li>Create private key: &lt;code>openssl genrsa -out device.key 2048&lt;/code>&lt;/li>
+&lt;li>Create CSR : &lt;code>openssl req -new -key device.key -out device.csr&lt;/code>&lt;/li>
+&lt;li>Sign the key and get certificate: &lt;code>openssl x509 -req -in device.csr -CA rootCA.pem -CAkey rootCA.key -CAcreateserial -out device.crt -days 365 -sha256&lt;/code>&lt;/li>
+&lt;li>Now use the private key and newly created certicate where you have trusted the base(ca) certificate and all will work fine.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Module and Package Python</title><link>https://kbs.murarisumit.in/en/b8d35b1f0509e8dbf205cfa0372cf263/</link><pubDate>Sat, 11 Nov 2017 06:35:46 +0000</pubDate><guid>https://kbs.murarisumit.in/en/b8d35b1f0509e8dbf205cfa0372cf263/</guid><description>&lt;h3 id="modules">Modules&lt;/h3>
 &lt;p>These are simple python files with the .py extension, which implement a set of functions/functionality.
 Modules are imported from other modules using the import command like import file
 Above will import variables/funtions/classes from file.py.&lt;/p>
