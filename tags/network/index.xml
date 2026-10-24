@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Network on knowledge base</title><link>https://kbs.yinagi.in/tags/network/</link><description>Recent content in Network on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>inbox@yinagi.in (murarisumit)</managingEditor><webMaster>inbox@yinagi.in (murarisumit)</webMaster><lastBuildDate>Mon, 25 May 2020 09:24:33 +0530</lastBuildDate><atom:link href="https://kbs.yinagi.in/tags/network/index.xml" rel="self" type="application/rss+xml"/><item><title>IPv4 Link Local</title><link>https://kbs.yinagi.in/tils/ipv4-link-local/</link><pubDate>Mon, 25 May 2020 09:24:33 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/tils/ipv4-link-local/</guid><description>&lt;p&gt;To participate in wide-area IP networking, a host needs to be
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Network on knowledge base</title><link>https://kbs.yinagi.in/tags/network/</link><description>Recent content in Network on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>inbox@yinagi.in (murarisumit)</managingEditor><webMaster>inbox@yinagi.in (murarisumit)</webMaster><lastBuildDate>Sat, 24 Oct 2026 12:53:01 +0530</lastBuildDate><atom:link href="https://kbs.yinagi.in/tags/network/index.xml" rel="self" type="application/rss+xml"/><item><title>eMudhra's leaked CA keys: the real question is who can get in the middle</title><link>https://kbs.yinagi.in/en/a0f71bb532a8a4da8fa2ae81b9731b4f/</link><pubDate>Sat, 24 Oct 2026 12:53:01 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/a0f71bb532a8a4da8fa2ae81b9731b4f/</guid><description>&lt;link rel="stylesheet" href="https://kbs.yinagi.in/css/carousel.css"&gt;
+&lt;script src="https://kbs.yinagi.in/js/carousel.js" defer&gt;&lt;/script&gt;
+&lt;div class="kb-carousel" role="region" aria-roledescription="carousel" aria-label="eMudhra: who can get in the middle"&gt;
+&lt;div class="kb-track" tabindex="0"&gt;
+&lt;figure class="kb-slide" aria-label="Slide 1 of 10"&gt;
+&lt;img src="https://kbs.yinagi.in/images/emudhra/slide-01.png" alt="eMudhra: who can get in the middle, slide 1 of 10" width="1080" height="1350" loading="eager" decoding="async"&gt;
+&lt;/figure&gt;
+&lt;figure class="kb-slide" aria-label="Slide 2 of 10"&gt;
+&lt;img src="https://kbs.yinagi.in/images/emudhra/slide-02.png" alt="eMudhra: who can get in the middle, slide 2 of 10" width="1080" height="1350" loading="lazy" decoding="async"&gt;
+&lt;/figure&gt;
+&lt;figure class="kb-slide" aria-label="Slide 3 of 10"&gt;
+&lt;img src="https://kbs.yinagi.in/images/emudhra/slide-03.png" alt="eMudhra: who can get in the middle, slide 3 of 10" width="1080" height="1350" loading="lazy" decoding="async"&gt;
+&lt;/figure&gt;
+&lt;figure class="kb-slide" aria-label="Slide 4 of 10"&gt;
+&lt;img src="https://kbs.yinagi.in/images/emudhra/slide-04.png" alt="eMudhra: who can get in the middle, slide 4 of 10" width="1080" height="1350" loading="lazy" decoding="async"&gt;
+&lt;/figure&gt;
+&lt;figure class="kb-slide" aria-label="Slide 5 of 10"&gt;
+&lt;img src="https://kbs.yinagi.in/images/emudhra/slide-05.png" alt="eMudhra: who can get in the middle, slide 5 of 10" width="1080" height="1350" loading="lazy" decoding="async"&gt;
+&lt;/figure&gt;
+&lt;figure class="kb-slide" aria-label="Slide 6 of 10"&gt;
+&lt;img src="https://kbs.yinagi.in/images/emudhra/slide-06.png" alt="eMudhra: who can get in the middle, slide 6 of 10" width="1080" height="1350" loading="lazy" decoding="async"&gt;
+&lt;/figure&gt;
+&lt;figure class="kb-slide" aria-label="Slide 7 of 10"&gt;
+&lt;img src="https://kbs.yinagi.in/images/emudhra/slide-07.png" alt="eMudhra: who can get in the middle, slide 7 of 10" width="1080" height="1350" loading="lazy" decoding="async"&gt;
+&lt;/figure&gt;
+&lt;figure class="kb-slide" aria-label="Slide 8 of 10"&gt;
+&lt;img src="https://kbs.yinagi.in/images/emudhra/slide-08.png" alt="eMudhra: who can get in the middle, slide 8 of 10" width="1080" height="1350" loading="lazy" decoding="async"&gt;
+&lt;/figure&gt;
+&lt;figure class="kb-slide" aria-label="Slide 9 of 10"&gt;
+&lt;img src="https://kbs.yinagi.in/images/emudhra/slide-09.png" alt="eMudhra: who can get in the middle, slide 9 of 10" width="1080" height="1350" loading="lazy" decoding="async"&gt;
+&lt;/figure&gt;
+&lt;figure class="kb-slide" aria-label="Slide 10 of 10"&gt;
+&lt;img src="https://kbs.yinagi.in/images/emudhra/slide-10.png" alt="eMudhra: who can get in the middle, slide 10 of 10" width="1080" height="1350" loading="lazy" decoding="async"&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+&lt;button class="kb-nav kb-prev" type="button" aria-label="Previous slide" hidden&gt;&amp;#8249;&lt;/button&gt;
+&lt;button class="kb-nav kb-next" type="button" aria-label="Next slide"&gt;&amp;#8250;&lt;/button&gt;
+&lt;div class="kb-count" aria-live="polite"&gt;&lt;span class="kb-cur"&gt;1&lt;/span&gt; / 10&lt;/div&gt;
+&lt;div class="kb-dots" aria-hidden="true"&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="references"&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The X thread this post is based on (24 Oct 2026): &lt;a href="https://x.com/i/status/2113771366034055362"&gt;eMudhra's leaked CA keys and who can get in the middle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google: &lt;a href="https://blog.google/security/protecting-chrome-and-android-users-from-compromised-emudhra-intermediate-ca-certificates/"&gt;Protecting Chrome and Android Users from Compromised eMudhra Intermediate CA Certificates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mozilla Security Blog (20 Oct 2026): &lt;a href="https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/"&gt;Protecting Firefox users following the compromise of eMudhra intermediate certificates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mozilla Bugzilla: &lt;a href="https://bugzilla.mozilla.org/show_bug.cgi?id=2083449"&gt;Bug 2083449, eMudhra: Private key compromise of Intermediate Certificates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ars Technica (2018): &lt;a href="https://arstechnica.com/information-technology/2018/04/suspicious-event-hijacks-amazon-traffic-for-2-hours-steals-cryptocurrency/"&gt;Suspicious event hijacks Amazon traffic for 2 hours, steals cryptocurrency&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Internet Society (2018): &lt;a href="https://www.internetsociety.org/blog/2018/04/amazons-route-53-bgp-hijack/"&gt;What Happened? The Amazon Route 53 BGP Hijack to Take Over Ethereum Cryptocurrency Wallets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://emudhra.we-have-a-problem.com/"&gt;eMudhra Intermediate CA Compromise: checks and fixes per OS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>IPv4 Link Local</title><link>https://kbs.yinagi.in/tils/ipv4-link-local/</link><pubDate>Mon, 25 May 2020 09:24:33 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/tils/ipv4-link-local/</guid><description>&lt;p&gt;To participate in wide-area IP networking, a host needs to be
 configured with IP addresses for its interfaces, either manually by
 the user or automatically from a source on the network such as a
 Dynamic Host Configuration Protocol (DHCP) server. Unfortunately,
