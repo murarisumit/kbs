@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Support.mozilla.org on knowledge base</title><link>https://kbs.yinagi.in/sources/support.mozilla.org/</link><description>Recent content in Support.mozilla.org on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>inbox@yinagi.in (murarisumit)</managingEditor><webMaster>inbox@yinagi.in (murarisumit)</webMaster><lastBuildDate>Thu, 26 Aug 2021 10:05:32 +0530</lastBuildDate><atom:link href="https://kbs.yinagi.in/sources/support.mozilla.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Firefox Address Bar Tricks</title><link>https://kbs.yinagi.in/1ba60d8b37da60f549c99f54313330a3/</link><pubDate>Thu, 26 Aug 2021 10:05:32 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/1ba60d8b37da60f549c99f54313330a3/</guid><description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Firefox provides easy way for searching the bookmarking, history or open tabs using the address bar.&lt;/p&gt;
+&lt;p&gt;For searching bookmarks only&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Press &lt;code&gt;Cmd/Ctrl + L&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;*&lt;/code&gt; the search would come only for bookmarks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Similarly we can search for history, open tags or title using special character mentioned below&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Add ^ to show only matches in your browsing history.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Add * to show only matches in your bookmarks.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Add + to show only matches in bookmarks you&amp;#39;ve tagged.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Add % to show only matches in your currently open tabs.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Add # to show only matches where every search term is part of the title or part of a tag.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Add $ to show only matches where every search term is part of the web address (URL). The text &amp;#34;https://&amp;#34; or &amp;#34;http://&amp;#34; in the URL is ignored but not &amp;#34;file:///&amp;#34;.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Add ? to show only search suggestions.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

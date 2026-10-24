@@ -1,241 +1,241 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2024-08 on knowledge base</title><link>https://kbs.murarisumit.in/month/2024-08/</link><description>Recent content in 2024-08 on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 20 Aug 2024 16:53:59 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/month/2024-08/index.xml" rel="self" type="application/rss+xml"/><item><title>Making Whisky With Deodar Wood</title><link>https://kbs.murarisumit.in/en/170f32fbb347808c2d5cb79cdcf5856b/</link><pubDate>Tue, 20 Aug 2024 16:53:59 +0530</pubDate><guid>https://kbs.murarisumit.in/en/170f32fbb347808c2d5cb79cdcf5856b/</guid><description/></item><item><title>12 Factor Methodology for Software Development</title><link>https://kbs.murarisumit.in/en/c683007a0e861f251b49d2682d5b3f18/</link><pubDate>Fri, 16 Aug 2024 23:29:06 +0530</pubDate><guid>https://kbs.murarisumit.in/en/c683007a0e861f251b49d2682d5b3f18/</guid><description>&lt;p>This is taken all from 12factor.net. This methodology include the 12 factors or 12 parts of software engineering, which should be used while engineering softwares.
-My app should be a follow these 12 factor or confor with as my factor possible.&lt;/p>
-&lt;p>In my opinion&lt;/p>
-&lt;ul>
-&lt;li>It’s most important to get it done.&lt;/li>
-&lt;/ul>
-&lt;p>While doing any of 12 factors given below(maintaining configs/dependencies management, or trying build,release), read below mentioned best practices.&lt;/p>
-&lt;h3 id="the-twelve-factors">The Twelve Factors&lt;/h3>
-&lt;ol>
-&lt;li>&lt;a href="https://12factor.net/codebase">Codebase&lt;/a>: One codebase tracked in revision control, many deploys&lt;/li>
-&lt;li>&lt;a href="https://12factor.net/dependencies">Dependencies&lt;/a>: Explicitly declare and isolate dependencies&lt;/li>
-&lt;li>&lt;a href="https://12factor.net/config">Config&lt;/a>: Store config in the environment&lt;/li>
-&lt;li>&lt;a href="https://12factor.net/backing-services">Backing services&lt;/a>: Treat backing services (database, SMTP, etc.) as attached resources&lt;/li>
-&lt;li>&lt;a href="https://12factor.net/build-release-run">Build, release, run&lt;/a>: Strictly separate build, release, and run stages&lt;/li>
-&lt;li>&lt;a href="https://12factor.net/processes">Processes&lt;/a>: Execute the app as one or more stateless processes. Persist data in a stateful backing (e.g., database, queue) service.&lt;/li>
-&lt;li>&lt;a href="https://12factor.net/port-binding">Port binding&lt;/a>: Export services via port binding&lt;/li>
-&lt;li>&lt;a href="https://12factor.net/concurrency">Concurrency&lt;/a>: Scale out via the process model&lt;/li>
-&lt;li>&lt;a href="https://12factor.net/disposability">Disposability&lt;/a>: Maximize robustness with fast startup and graceful shutdown&lt;/li>
-&lt;li>&lt;a href="https://12factor.net/dev-prod-parity">Dev/prod parity&lt;/a>: Keep development, staging, and production as similar as possible&lt;/li>
-&lt;li>&lt;a href="https://12factor.net/logs">Logs&lt;/a>: Treat logs as event streams. Each running process writes its event stream, unbuffered, to stdout.&lt;/li>
-&lt;li>&lt;a href="https://12factor.net/admin-processes">Admin processes&lt;/a>: Run admin/management tasks as one-off processes&lt;/li>
-&lt;/ol>
-&lt;p>References:
-This post is copied from &lt;a href="https://12factor.net/">https://12factor.net/&lt;/a> and kept here for my personal reference.&lt;/p></description></item><item><title>Firefox Tricks</title><link>https://kbs.murarisumit.in/en/72ff43ee035217085d814ff2033b47da/</link><pubDate>Fri, 16 Aug 2024 23:19:50 +0530</pubDate><guid>https://kbs.murarisumit.in/en/72ff43ee035217085d814ff2033b47da/</guid><description>&lt;h4 id="search-from-bookmarks-only">Search from bookmarks only:&lt;/h4>
-&lt;ul>
-&lt;li>Press F6 i.e. goto search/url bar&lt;/li>
-&lt;li>Press *[_]search_text i.e. star space search_text&lt;/li>
-&lt;/ul>
-&lt;h4 id="search-from-open-tabs-only">Search from open tabs only:&lt;/h4>
-&lt;ul>
-&lt;li>Press F6 i.e. goto search/url bar&lt;/li>
-&lt;li>Press % search_text i.e. star space search_text&lt;/li>
-&lt;/ul>
-&lt;h4 id="restart-the-firefox-without-losing-current-tabs-or-context">Restart the firefox without losing current tabs or context:&lt;/h4>
-&lt;ul>
-&lt;li>Press Shift+f2, a shell at bottom of screen will show up.&lt;/li>
-&lt;li>Type restart&lt;/li>
-&lt;/ul>
-&lt;h4 id="find-your-profile-folder-location-from-firefox-itself">Find your profile folder location from firefox itself.&lt;/h4>
-&lt;ul>
-&lt;li>Press F6 i.e. goto search/url bar&lt;/li>
-&lt;li>Type about:support, will show all the details.&lt;/li>
-&lt;/ul></description></item><item><title>Frequency in Electricity</title><link>https://kbs.murarisumit.in/en/a9a02bc27366cf020d00baf3ae29e77e/</link><pubDate>Fri, 16 Aug 2024 23:08:35 +0530</pubDate><guid>https://kbs.murarisumit.in/en/a9a02bc27366cf020d00baf3ae29e77e/</guid><description>&lt;h3 id="how-is-electricity-produced">How is electricity produced.&lt;/h3>
-&lt;p>A characteristic of electricity is that it is not a primary energy freely present in nature in remarkable amounts and it must be produced. Production is carried out in power stations (also called “power plants”).&lt;/p>
-&lt;p>Most power plants/stations contain one or more generators, a rotating machine that converts mechanical power into electrical power. The relative motion between a magnetic field and a conductor creates an electrical current.&lt;/p>
-&lt;p>So the source can be different to move the generator:&lt;/p>
-&lt;ul>
-&lt;li>In hydro, water is used to move turbines&lt;/li>
-&lt;li>In coal plants, steam does the job&lt;/li>
-&lt;li>In wind power, the movement of those giant blades generates electricity.&lt;/li>
-&lt;li>Or a nuclear reaction to produce steam.&lt;/li>
-&lt;li>Or solar panels convert sunlight to electricity.&lt;/li>
-&lt;li>Or geothermal energy to move turbines.&lt;/li>
-&lt;li>Basically, any mechanical movement can be used to move the generator.&lt;/li>
-&lt;/ul>
-&lt;h3 id="frequency-in-electricity">Frequency in electricity&lt;/h3>
-&lt;p>How does frequency come about? As we know, electricity is produced by converting mechanical movement to electricity using the phenomenon of magnetism.&lt;/p>
-&lt;ul>
-&lt;li>So when a conductor rotates in a magnetic field, the magnetic field lines are cut and current is induced in the conductor.&lt;/li>
-&lt;li>Since the magnet has lines of field from north to south (uni-directional), the conductor will move back and forth in this direction.&lt;/li>
-&lt;li>So when it cuts all the lines, the maximum current is induced, and then as it moves back with no lines cut, the current is zero. Then the conductor comes back in the opposite direction, inducing a reverse current.&lt;/li>
-&lt;/ul>
-&lt;p>So this is like a sine wave: the current goes to a maximum, then zero, then a negative maximum (on the other side). We have rectifiers to manage this, but this is what frequency is in electric current.&lt;/p>
-&lt;p>Reference:&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Power_station">https://en.wikipedia.org/wiki/Power_station&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Electricity_generation">https://en.wikipedia.org/wiki/Electricity_generation&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=4oRT7PoXSS0">https://www.youtube.com/watch?v=4oRT7PoXSS0&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Minimal Dhcp</title><link>https://kbs.murarisumit.in/en/d336278e88c99785b29addd7bb175142/</link><pubDate>Fri, 16 Aug 2024 22:38:47 +0530</pubDate><guid>https://kbs.murarisumit.in/en/d336278e88c99785b29addd7bb175142/</guid><description>&lt;p>The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on UDP/IP networks whereby a DHCP server dynamically assigns an IP address and other network configuration parameters to each device on a network so they can communicate with other IP networks.&lt;/p>
-&lt;p>How it works internally, in a nutshell, is like this:&lt;/p>
-&lt;ol>
-&lt;li>The device broadcasts a request called a DHCPDISCOVER request, looking for a server on the network that can send out DHCP configuration information.&lt;/li>
-&lt;/ol>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2024-08 on knowledge base</title><link>https://kbs.yinagi.in/month/2024-08/</link><description>Recent content in 2024-08 on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>inbox@yinagi.in (murarisumit)</managingEditor><webMaster>inbox@yinagi.in (murarisumit)</webMaster><lastBuildDate>Tue, 20 Aug 2024 16:53:59 +0530</lastBuildDate><atom:link href="https://kbs.yinagi.in/month/2024-08/index.xml" rel="self" type="application/rss+xml"/><item><title>Making Whisky With Deodar Wood</title><link>https://kbs.yinagi.in/en/170f32fbb347808c2d5cb79cdcf5856b/</link><pubDate>Tue, 20 Aug 2024 16:53:59 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/170f32fbb347808c2d5cb79cdcf5856b/</guid><description/></item><item><title>12 Factor Methodology for Software Development</title><link>https://kbs.yinagi.in/en/c683007a0e861f251b49d2682d5b3f18/</link><pubDate>Fri, 16 Aug 2024 23:29:06 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/c683007a0e861f251b49d2682d5b3f18/</guid><description>&lt;p&gt;This is taken all from 12factor.net. This methodology include the 12 factors or 12 parts of software engineering, which should be used while engineering softwares.
+My app should be a follow these 12 factor or confor with as my factor possible.&lt;/p&gt;
+&lt;p&gt;In my opinion&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It’s most important to get it done.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;While doing any of 12 factors given below(maintaining configs/dependencies management, or trying build,release), read below mentioned best practices.&lt;/p&gt;
+&lt;h3 id="the-twelve-factors"&gt;The Twelve Factors&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="https://12factor.net/codebase"&gt;Codebase&lt;/a&gt;: One codebase tracked in revision control, many deploys&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://12factor.net/dependencies"&gt;Dependencies&lt;/a&gt;: Explicitly declare and isolate dependencies&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://12factor.net/config"&gt;Config&lt;/a&gt;: Store config in the environment&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://12factor.net/backing-services"&gt;Backing services&lt;/a&gt;: Treat backing services (database, SMTP, etc.) as attached resources&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://12factor.net/build-release-run"&gt;Build, release, run&lt;/a&gt;: Strictly separate build, release, and run stages&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://12factor.net/processes"&gt;Processes&lt;/a&gt;: Execute the app as one or more stateless processes. Persist data in a stateful backing (e.g., database, queue) service.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://12factor.net/port-binding"&gt;Port binding&lt;/a&gt;: Export services via port binding&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://12factor.net/concurrency"&gt;Concurrency&lt;/a&gt;: Scale out via the process model&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://12factor.net/disposability"&gt;Disposability&lt;/a&gt;: Maximize robustness with fast startup and graceful shutdown&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://12factor.net/dev-prod-parity"&gt;Dev/prod parity&lt;/a&gt;: Keep development, staging, and production as similar as possible&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://12factor.net/logs"&gt;Logs&lt;/a&gt;: Treat logs as event streams. Each running process writes its event stream, unbuffered, to stdout.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://12factor.net/admin-processes"&gt;Admin processes&lt;/a&gt;: Run admin/management tasks as one-off processes&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;References:
+This post is copied from &lt;a href="https://12factor.net/"&gt;https://12factor.net/&lt;/a&gt; and kept here for my personal reference.&lt;/p&gt;</description></item><item><title>Firefox Tricks</title><link>https://kbs.yinagi.in/en/72ff43ee035217085d814ff2033b47da/</link><pubDate>Fri, 16 Aug 2024 23:19:50 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/72ff43ee035217085d814ff2033b47da/</guid><description>&lt;h4 id="search-from-bookmarks-only"&gt;Search from bookmarks only:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Press F6 i.e. goto search/url bar&lt;/li&gt;
+&lt;li&gt;Press *[_]search_text i.e. star space search_text&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="search-from-open-tabs-only"&gt;Search from open tabs only:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Press F6 i.e. goto search/url bar&lt;/li&gt;
+&lt;li&gt;Press % search_text i.e. star space search_text&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="restart-the-firefox-without-losing-current-tabs-or-context"&gt;Restart the firefox without losing current tabs or context:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Press Shift+f2, a shell at bottom of screen will show up.&lt;/li&gt;
+&lt;li&gt;Type restart&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="find-your-profile-folder-location-from-firefox-itself"&gt;Find your profile folder location from firefox itself.&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Press F6 i.e. goto search/url bar&lt;/li&gt;
+&lt;li&gt;Type about:support, will show all the details.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Frequency in Electricity</title><link>https://kbs.yinagi.in/en/a9a02bc27366cf020d00baf3ae29e77e/</link><pubDate>Fri, 16 Aug 2024 23:08:35 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/a9a02bc27366cf020d00baf3ae29e77e/</guid><description>&lt;h3 id="how-is-electricity-produced"&gt;How is electricity produced.&lt;/h3&gt;
+&lt;p&gt;A characteristic of electricity is that it is not a primary energy freely present in nature in remarkable amounts and it must be produced. Production is carried out in power stations (also called “power plants”).&lt;/p&gt;
+&lt;p&gt;Most power plants/stations contain one or more generators, a rotating machine that converts mechanical power into electrical power. The relative motion between a magnetic field and a conductor creates an electrical current.&lt;/p&gt;
+&lt;p&gt;So the source can be different to move the generator:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In hydro, water is used to move turbines&lt;/li&gt;
+&lt;li&gt;In coal plants, steam does the job&lt;/li&gt;
+&lt;li&gt;In wind power, the movement of those giant blades generates electricity.&lt;/li&gt;
+&lt;li&gt;Or a nuclear reaction to produce steam.&lt;/li&gt;
+&lt;li&gt;Or solar panels convert sunlight to electricity.&lt;/li&gt;
+&lt;li&gt;Or geothermal energy to move turbines.&lt;/li&gt;
+&lt;li&gt;Basically, any mechanical movement can be used to move the generator.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="frequency-in-electricity"&gt;Frequency in electricity&lt;/h3&gt;
+&lt;p&gt;How does frequency come about? As we know, electricity is produced by converting mechanical movement to electricity using the phenomenon of magnetism.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;So when a conductor rotates in a magnetic field, the magnetic field lines are cut and current is induced in the conductor.&lt;/li&gt;
+&lt;li&gt;Since the magnet has lines of field from north to south (uni-directional), the conductor will move back and forth in this direction.&lt;/li&gt;
+&lt;li&gt;So when it cuts all the lines, the maximum current is induced, and then as it moves back with no lines cut, the current is zero. Then the conductor comes back in the opposite direction, inducing a reverse current.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So this is like a sine wave: the current goes to a maximum, then zero, then a negative maximum (on the other side). We have rectifiers to manage this, but this is what frequency is in electric current.&lt;/p&gt;
+&lt;p&gt;Reference:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Power_station"&gt;https://en.wikipedia.org/wiki/Power_station&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Electricity_generation"&gt;https://en.wikipedia.org/wiki/Electricity_generation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=4oRT7PoXSS0"&gt;https://www.youtube.com/watch?v=4oRT7PoXSS0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Minimal Dhcp</title><link>https://kbs.yinagi.in/en/d336278e88c99785b29addd7bb175142/</link><pubDate>Fri, 16 Aug 2024 22:38:47 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/d336278e88c99785b29addd7bb175142/</guid><description>&lt;p&gt;The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on UDP/IP networks whereby a DHCP server dynamically assigns an IP address and other network configuration parameters to each device on a network so they can communicate with other IP networks.&lt;/p&gt;
+&lt;p&gt;How it works internally, in a nutshell, is like this:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The device broadcasts a request called a DHCPDISCOVER request, looking for a server on the network that can send out DHCP configuration information.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;details class="details"
 style="border: 1px solid #ccc; border-radius: 5px; padding: 5px;"
->
-&lt;summary>
+&gt;
+&lt;summary&gt;
 How and where does the device broadcast if it doesn&amp;rsquo;t know anything about the network?
-&lt;/summary>
-&lt;p>It sends a DHCPDISCOVER packet to the broadcast MAC address (FF:FF:FF:FF:FF:FF) at Layer 2 and the broadcast IP address (255.255.255.255) at Layer 3.&lt;/p>
-&lt;p>Why both MAC and IP address?&lt;/p>
-&lt;ul>
-&lt;li>Layer 2 Broadcast: Ensures that the message reaches all network devices on the local Ethernet segment, especially within the same switch or hub.&lt;/li>
-&lt;li>Layer 3 Broadcast: Ensures that the message is broadcast to all devices within the same IP subnet, including those that may be separated by routers or other Layer 3 devices, provided they allow broadcast traffic.&lt;/li>
-&lt;/ul>
-&lt;/details>
+&lt;/summary&gt;
+&lt;p&gt;It sends a DHCPDISCOVER packet to the broadcast MAC address (FF:FF:FF:FF:FF:FF) at Layer 2 and the broadcast IP address (255.255.255.255) at Layer 3.&lt;/p&gt;
+&lt;p&gt;Why both MAC and IP address?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Layer 2 Broadcast: Ensures that the message reaches all network devices on the local Ethernet segment, especially within the same switch or hub.&lt;/li&gt;
+&lt;li&gt;Layer 3 Broadcast: Ensures that the message is broadcast to all devices within the same IP subnet, including those that may be separated by routers or other Layer 3 devices, provided they allow broadcast traffic.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
 &lt;details class="details"
 style="border: 1px solid #ccc; border-radius: 5px; padding: 5px;"
->
-&lt;summary>
+&gt;
+&lt;summary&gt;
 What is a MAC address?
-&lt;/summary>
-&lt;ul>
-&lt;li>Unique identifier for all network devices. No two devices will have the same MAC address.
-&lt;ul>
-&lt;li>IEEE gives an OUI (Organizationally Unique Identifier), which is the first 24 bits of the MAC address, to manufacturers.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Overall, it is 48 bits long; 24 bits for the OUI and 24 bits for the device identifier.&lt;/li>
-&lt;/ul>
-&lt;/details>
-&lt;ol start="2">
-&lt;li>
-&lt;p>If there’s such a server and it’s working correctly, it responds with a DHCPOFFER message specifying the IP address and other configuration data that is available.&lt;/p>
-&lt;ul>
-&lt;li>This DHCPOFFER is usually sent as a unicast to the client’s MAC address, but some servers might also broadcast the DHCPOFFER if they are unsure whether the client has received it (particularly if the client does not yet have an IP address).&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>If the device accepts what’s on offer, it sends a DHCPREQUEST to reserve the IP address.&lt;/p>
-&lt;ul>
-&lt;li>If multiple DHCP servers send offers, then the client chooses one and sends a request to that server.&lt;/li>
-&lt;li>The DHCPREQUEST message is broadcast to inform all DHCP servers on the network that it has selected an offer from one specific server.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>DHCPACK (Server Acknowledgment)&lt;/p>
-&lt;ul>
-&lt;li>The selected DHCP server responds with a DHCPACK (Acknowledgment) message.&lt;/li>
-&lt;li>The DHCPACK message contains the finalized IP address lease and other network configuration parameters (subnet mask, gateway, DNS servers, etc.).&lt;/li>
-&lt;li>This message is typically unicast to the client, confirming that the IP address and configuration have been successfully allocated.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ol></description></item><item><title>Primer to Python Lambda Function</title><link>https://kbs.murarisumit.in/en/5f716b1e3d04d6a089c7786ff2a8000f/</link><pubDate>Thu, 15 Aug 2024 04:21:44 +0530</pubDate><guid>https://kbs.murarisumit.in/en/5f716b1e3d04d6a089c7786ff2a8000f/</guid><description>&lt;p>Lambda function is a way to create small anonymous functions, i.e. functions without a name. These functions are throw-away functions, i.e. they are just needed where they have been created.&lt;/p>
-&lt;p>The general syntax of a lambda function is quite simple:&lt;/p>
-&lt;p>&lt;code>lambda argument_list: expression&lt;/code>&lt;/p>
-&lt;p>Sample&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;span class="lnt">3
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="o">&amp;gt;&amp;gt;&amp;gt;&lt;/span> &lt;span class="n">f&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">lambda&lt;/span> &lt;span class="n">x&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">y&lt;/span> &lt;span class="p">:&lt;/span> &lt;span class="n">x&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="n">y&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">&amp;gt;&amp;gt;&amp;gt;&lt;/span> &lt;span class="n">f&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="mi">2&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>Lambda functions are mainly used in combination with the functions filter(), map() and reduce()&lt;/p>
-&lt;ul>
-&lt;li>map: Apply function to all elements in sequence&lt;/li>
-&lt;li>filter: Apply function to all elements in sequence and return only those elements for which the function returns True&lt;/li>
-&lt;li>reduce: Apply function to all elements in sequence cumulatively&lt;/li>
-&lt;/ul>
-&lt;h3 id="map">Map&lt;/h3>
-&lt;p>The function map(f,l) applies the function f() to all the elements of the sequence l. It returns a new list with the elements changed by f().&lt;/p>
-&lt;p>Without lambda:&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;span class="lnt">3
-&lt;/span>&lt;span class="lnt">4
-&lt;/span>&lt;span class="lnt">5
-&lt;/span>&lt;span class="lnt">6
-&lt;/span>&lt;span class="lnt">7
-&lt;/span>&lt;span class="lnt">8
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">def&lt;/span> &lt;span class="nf">to_fahrenheit&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">T&lt;/span>&lt;span class="p">):&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="p">((&lt;/span>&lt;span class="nb">float&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">9&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="mi">5&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="n">T&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="mi">32&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">def&lt;/span> &lt;span class="nf">to_celsius&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">T&lt;/span>&lt;span class="p">):&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nb">float&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">5&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="mi">9&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">T&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="mi">32&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">temp&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="mf">36.5&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">37&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mf">37.5&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">39&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">F&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">map&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">to_fahrenheit&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">temp&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">C&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">map&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">to_fahrenheit&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">F&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>With lambda&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;span class="lnt">3
-&lt;/span>&lt;span class="lnt">4
-&lt;/span>&lt;span class="lnt">5
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="n">temp&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="mf">36.5&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">37&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mf">37.5&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">39&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">to_farenheit&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">lambda&lt;/span> &lt;span class="n">x&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nb">float&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">9&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="mi">5&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="n">x&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="mi">32&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">to_celsius&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">lambda&lt;/span> &lt;span class="n">x&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nb">float&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">5&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">/&lt;/span>&lt;span class="mi">9&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="mi">32&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">F&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">map&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">to_farenheit&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">temp&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">C&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">map&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">to_celsius&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">F&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;h3 id="filter">Filter&lt;/h3>
-&lt;p>The function filter(f,l) needs a function f as its first argument. f returns a Boolean value, i.e. either True or False.&lt;/p>
-&lt;p>Here the function will list the odd Fibonacci numbers&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;span class="lnt">3
-&lt;/span>&lt;span class="lnt">4
-&lt;/span>&lt;span class="lnt">5
-&lt;/span>&lt;span class="lnt">6
-&lt;/span>&lt;span class="lnt">7
-&lt;/span>&lt;span class="lnt">8
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="o">&amp;gt;&amp;gt;&amp;gt;&lt;/span> &lt;span class="n">fib&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">[&lt;/span>&lt;span class="mi">0&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">2&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">3&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">5&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">8&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">13&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">21&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">34&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">55&lt;/span>&lt;span class="p">]&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">&amp;gt;&amp;gt;&lt;/span> &lt;span class="n">odd_lambda&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">lambda&lt;/span> &lt;span class="n">x&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="n">x&lt;/span> &lt;span class="o">%&lt;/span> &lt;span class="mi">2&lt;/span> &lt;span class="o">!=&lt;/span> &lt;span class="mi">0&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">&amp;gt;&amp;gt;&amp;gt;&lt;/span> &lt;span class="n">result&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">filter&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">odd_lambda&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">fib&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">&amp;gt;&amp;gt;&amp;gt;&lt;/span> &lt;span class="nb">print&lt;/span> &lt;span class="n">result&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">[&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">1&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">3&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">5&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">13&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">21&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">55&lt;/span>&lt;span class="p">]&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">&amp;gt;&amp;gt;&amp;gt;&lt;/span> &lt;span class="n">result&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">filter&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="k">lambda&lt;/span> &lt;span class="n">x&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="n">x&lt;/span> &lt;span class="o">%&lt;/span> &lt;span class="mi">2&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">fib&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">&amp;gt;&amp;gt;&amp;gt;&lt;/span> &lt;span class="nb">print&lt;/span> &lt;span class="n">result&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">[&lt;/span>&lt;span class="mi">0&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">2&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">8&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">34&lt;/span>&lt;span class="p">]&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;h3 id="reduce">Reduce&lt;/h3>
-&lt;p>The function reduce(f,l) continually applies the function f() to the sequence l. It returns a single value.&lt;/p>
-&lt;ol>
-&lt;li>At first the first two elements of sequence are applied to f, i.e. f(s1,s2)&lt;/li>
-&lt;li>Next f() is applied on the previous result and the third element of the list, i.e. f(f(s1,s2),s3)&lt;/li>
-&lt;li>The process continues till the last element of the sequence.&lt;/li>
-&lt;/ol>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;span class="lnt">3
-&lt;/span>&lt;span class="lnt">4
-&lt;/span>&lt;span class="lnt">5
-&lt;/span>&lt;span class="lnt">6
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="o">&amp;gt;&amp;gt;&amp;gt;&lt;/span> &lt;span class="kn">from&lt;/span> &lt;span class="nn">functools&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">reduce&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">&amp;gt;&amp;gt;&amp;gt;&lt;/span> &lt;span class="n">reduce&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="k">lambda&lt;/span> &lt;span class="n">x&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="n">y&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="n">x&lt;/span>&lt;span class="o">+&lt;/span>&lt;span class="n">y&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="p">[&lt;/span>&lt;span class="mi">47&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">11&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">42&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">14&lt;/span>&lt;span class="p">])&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="mi">114&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">&amp;gt;&amp;gt;&amp;gt;&lt;/span> &lt;span class="n">f&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">lambda&lt;/span> &lt;span class="n">a&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="n">b&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="n">a&lt;/span> &lt;span class="k">if&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">a&lt;/span> &lt;span class="o">&amp;gt;&lt;/span> &lt;span class="n">b&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="k">else&lt;/span> &lt;span class="n">b&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">&amp;gt;&amp;gt;&amp;gt;&lt;/span> &lt;span class="n">reduce&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">f&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="p">[&lt;/span>&lt;span class="mi">47&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">11&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">42&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">102&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">13&lt;/span>&lt;span class="p">])&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="mi">102&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>Reference:&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://python-course.eu/advanced-python/lambda-filter-reduce-map.php">https://python-course.eu/advanced-python/lambda-filter-reduce-map.php&lt;/a>&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Unique identifier for all network devices. No two devices will have the same MAC address.
+&lt;ul&gt;
+&lt;li&gt;IEEE gives an OUI (Organizationally Unique Identifier), which is the first 24 bits of the MAC address, to manufacturers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Overall, it is 48 bits long; 24 bits for the OUI and 24 bits for the device identifier.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;ol start="2"&gt;
+&lt;li&gt;
+&lt;p&gt;If there’s such a server and it’s working correctly, it responds with a DHCPOFFER message specifying the IP address and other configuration data that is available.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This DHCPOFFER is usually sent as a unicast to the client’s MAC address, but some servers might also broadcast the DHCPOFFER if they are unsure whether the client has received it (particularly if the client does not yet have an IP address).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If the device accepts what’s on offer, it sends a DHCPREQUEST to reserve the IP address.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If multiple DHCP servers send offers, then the client chooses one and sends a request to that server.&lt;/li&gt;
+&lt;li&gt;The DHCPREQUEST message is broadcast to inform all DHCP servers on the network that it has selected an offer from one specific server.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DHCPACK (Server Acknowledgment)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The selected DHCP server responds with a DHCPACK (Acknowledgment) message.&lt;/li&gt;
+&lt;li&gt;The DHCPACK message contains the finalized IP address lease and other network configuration parameters (subnet mask, gateway, DNS servers, etc.).&lt;/li&gt;
+&lt;li&gt;This message is typically unicast to the client, confirming that the IP address and configuration have been successfully allocated.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description></item><item><title>Primer to Python Lambda Function</title><link>https://kbs.yinagi.in/en/5f716b1e3d04d6a089c7786ff2a8000f/</link><pubDate>Thu, 15 Aug 2024 04:21:44 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/5f716b1e3d04d6a089c7786ff2a8000f/</guid><description>&lt;p&gt;Lambda function is a way to create small anonymous functions, i.e. functions without a name. These functions are throw-away functions, i.e. they are just needed where they have been created.&lt;/p&gt;
+&lt;p&gt;The general syntax of a lambda function is quite simple:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;lambda argument_list: expression&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Sample&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;f&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;lambda&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;y&lt;/span&gt; &lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="n"&gt;y&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;f&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;2&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Lambda functions are mainly used in combination with the functions filter(), map() and reduce()&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;map: Apply function to all elements in sequence&lt;/li&gt;
+&lt;li&gt;filter: Apply function to all elements in sequence and return only those elements for which the function returns True&lt;/li&gt;
+&lt;li&gt;reduce: Apply function to all elements in sequence cumulatively&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="map"&gt;Map&lt;/h3&gt;
+&lt;p&gt;The function map(f,l) applies the function f() to all the elements of the sequence l. It returns a new list with the elements changed by f().&lt;/p&gt;
+&lt;p&gt;Without lambda:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;to_fahrenheit&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;T&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="nb"&gt;float&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;9&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;T&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="mi"&gt;32&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;to_celsius&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;T&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;float&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;9&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;T&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;32&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;temp&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;36.5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;37&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mf"&gt;37.5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;39&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;F&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;map&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;to_fahrenheit&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;temp&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;C&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;map&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;to_fahrenheit&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;F&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;With lambda&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;temp&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;36.5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;37&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mf"&gt;37.5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;39&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;to_farenheit&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;lambda&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;float&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;9&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="mi"&gt;32&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;to_celsius&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;lambda&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;float&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;9&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;32&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;F&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;map&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;to_farenheit&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;temp&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;C&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;map&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;to_celsius&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;F&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id="filter"&gt;Filter&lt;/h3&gt;
+&lt;p&gt;The function filter(f,l) needs a function f as its first argument. f returns a Boolean value, i.e. either True or False.&lt;/p&gt;
+&lt;p&gt;Here the function will list the odd Fibonacci numbers&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;fib&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;13&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;21&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;34&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;55&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;odd_lambda&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;lambda&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;filter&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;odd_lambda&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;fib&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="nb"&gt;print&lt;/span&gt; &lt;span class="n"&gt;result&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;13&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;21&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;55&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;filter&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="k"&gt;lambda&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;fib&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="nb"&gt;print&lt;/span&gt; &lt;span class="n"&gt;result&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;34&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id="reduce"&gt;Reduce&lt;/h3&gt;
+&lt;p&gt;The function reduce(f,l) continually applies the function f() to the sequence l. It returns a single value.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;At first the first two elements of sequence are applied to f, i.e. f(s1,s2)&lt;/li&gt;
+&lt;li&gt;Next f() is applied on the previous result and the third element of the list, i.e. f(f(s1,s2),s3)&lt;/li&gt;
+&lt;li&gt;The process continues till the last element of the sequence.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;functools&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;reduce&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;reduce&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="k"&gt;lambda&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;y&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;y&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;47&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;11&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;42&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;14&lt;/span&gt;&lt;span class="p"&gt;])&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;114&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;f&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;lambda&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;b&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="k"&gt;else&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;reduce&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;f&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;47&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;11&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;42&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;102&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;13&lt;/span&gt;&lt;span class="p"&gt;])&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;102&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Reference:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://python-course.eu/advanced-python/lambda-filter-reduce-map.php"&gt;https://python-course.eu/advanced-python/lambda-filter-reduce-map.php&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

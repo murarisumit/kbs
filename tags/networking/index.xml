@@ -1,56 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Networking on knowledge base</title><link>https://kbs.murarisumit.in/tags/networking/</link><description>Recent content in Networking on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 16 Aug 2024 22:38:47 +0530</lastBuildDate><atom:link href="https://kbs.murarisumit.in/tags/networking/index.xml" rel="self" type="application/rss+xml"/><item><title>Minimal Dhcp</title><link>https://kbs.murarisumit.in/en/d336278e88c99785b29addd7bb175142/</link><pubDate>Fri, 16 Aug 2024 22:38:47 +0530</pubDate><guid>https://kbs.murarisumit.in/en/d336278e88c99785b29addd7bb175142/</guid><description>&lt;p>The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on UDP/IP networks whereby a DHCP server dynamically assigns an IP address and other network configuration parameters to each device on a network so they can communicate with other IP networks.&lt;/p>
-&lt;p>How it works internally, in a nutshell, is like this:&lt;/p>
-&lt;ol>
-&lt;li>The device broadcasts a request called a DHCPDISCOVER request, looking for a server on the network that can send out DHCP configuration information.&lt;/li>
-&lt;/ol>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Networking on knowledge base</title><link>https://kbs.yinagi.in/tags/networking/</link><description>Recent content in Networking on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>inbox@yinagi.in (murarisumit)</managingEditor><webMaster>inbox@yinagi.in (murarisumit)</webMaster><lastBuildDate>Fri, 16 Aug 2024 22:38:47 +0530</lastBuildDate><atom:link href="https://kbs.yinagi.in/tags/networking/index.xml" rel="self" type="application/rss+xml"/><item><title>Minimal Dhcp</title><link>https://kbs.yinagi.in/en/d336278e88c99785b29addd7bb175142/</link><pubDate>Fri, 16 Aug 2024 22:38:47 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/d336278e88c99785b29addd7bb175142/</guid><description>&lt;p&gt;The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on UDP/IP networks whereby a DHCP server dynamically assigns an IP address and other network configuration parameters to each device on a network so they can communicate with other IP networks.&lt;/p&gt;
+&lt;p&gt;How it works internally, in a nutshell, is like this:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The device broadcasts a request called a DHCPDISCOVER request, looking for a server on the network that can send out DHCP configuration information.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;details class="details"
 style="border: 1px solid #ccc; border-radius: 5px; padding: 5px;"
->
-&lt;summary>
+&gt;
+&lt;summary&gt;
 How and where does the device broadcast if it doesn&amp;rsquo;t know anything about the network?
-&lt;/summary>
-&lt;p>It sends a DHCPDISCOVER packet to the broadcast MAC address (FF:FF:FF:FF:FF:FF) at Layer 2 and the broadcast IP address (255.255.255.255) at Layer 3.&lt;/p>
-&lt;p>Why both MAC and IP address?&lt;/p>
-&lt;ul>
-&lt;li>Layer 2 Broadcast: Ensures that the message reaches all network devices on the local Ethernet segment, especially within the same switch or hub.&lt;/li>
-&lt;li>Layer 3 Broadcast: Ensures that the message is broadcast to all devices within the same IP subnet, including those that may be separated by routers or other Layer 3 devices, provided they allow broadcast traffic.&lt;/li>
-&lt;/ul>
-&lt;/details>
+&lt;/summary&gt;
+&lt;p&gt;It sends a DHCPDISCOVER packet to the broadcast MAC address (FF:FF:FF:FF:FF:FF) at Layer 2 and the broadcast IP address (255.255.255.255) at Layer 3.&lt;/p&gt;
+&lt;p&gt;Why both MAC and IP address?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Layer 2 Broadcast: Ensures that the message reaches all network devices on the local Ethernet segment, especially within the same switch or hub.&lt;/li&gt;
+&lt;li&gt;Layer 3 Broadcast: Ensures that the message is broadcast to all devices within the same IP subnet, including those that may be separated by routers or other Layer 3 devices, provided they allow broadcast traffic.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
 &lt;details class="details"
 style="border: 1px solid #ccc; border-radius: 5px; padding: 5px;"
->
-&lt;summary>
+&gt;
+&lt;summary&gt;
 What is a MAC address?
-&lt;/summary>
-&lt;ul>
-&lt;li>Unique identifier for all network devices. No two devices will have the same MAC address.
-&lt;ul>
-&lt;li>IEEE gives an OUI (Organizationally Unique Identifier), which is the first 24 bits of the MAC address, to manufacturers.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Overall, it is 48 bits long; 24 bits for the OUI and 24 bits for the device identifier.&lt;/li>
-&lt;/ul>
-&lt;/details>
-&lt;ol start="2">
-&lt;li>
-&lt;p>If there’s such a server and it’s working correctly, it responds with a DHCPOFFER message specifying the IP address and other configuration data that is available.&lt;/p>
-&lt;ul>
-&lt;li>This DHCPOFFER is usually sent as a unicast to the client’s MAC address, but some servers might also broadcast the DHCPOFFER if they are unsure whether the client has received it (particularly if the client does not yet have an IP address).&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>If the device accepts what’s on offer, it sends a DHCPREQUEST to reserve the IP address.&lt;/p>
-&lt;ul>
-&lt;li>If multiple DHCP servers send offers, then the client chooses one and sends a request to that server.&lt;/li>
-&lt;li>The DHCPREQUEST message is broadcast to inform all DHCP servers on the network that it has selected an offer from one specific server.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>DHCPACK (Server Acknowledgment)&lt;/p>
-&lt;ul>
-&lt;li>The selected DHCP server responds with a DHCPACK (Acknowledgment) message.&lt;/li>
-&lt;li>The DHCPACK message contains the finalized IP address lease and other network configuration parameters (subnet mask, gateway, DNS servers, etc.).&lt;/li>
-&lt;li>This message is typically unicast to the client, confirming that the IP address and configuration have been successfully allocated.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ol></description></item></channel></rss>
+&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Unique identifier for all network devices. No two devices will have the same MAC address.
+&lt;ul&gt;
+&lt;li&gt;IEEE gives an OUI (Organizationally Unique Identifier), which is the first 24 bits of the MAC address, to manufacturers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Overall, it is 48 bits long; 24 bits for the OUI and 24 bits for the device identifier.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;ol start="2"&gt;
+&lt;li&gt;
+&lt;p&gt;If there’s such a server and it’s working correctly, it responds with a DHCPOFFER message specifying the IP address and other configuration data that is available.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This DHCPOFFER is usually sent as a unicast to the client’s MAC address, but some servers might also broadcast the DHCPOFFER if they are unsure whether the client has received it (particularly if the client does not yet have an IP address).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If the device accepts what’s on offer, it sends a DHCPREQUEST to reserve the IP address.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If multiple DHCP servers send offers, then the client chooses one and sends a request to that server.&lt;/li&gt;
+&lt;li&gt;The DHCPREQUEST message is broadcast to inform all DHCP servers on the network that it has selected an offer from one specific server.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DHCPACK (Server Acknowledgment)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The selected DHCP server responds with a DHCPACK (Acknowledgment) message.&lt;/li&gt;
+&lt;li&gt;The DHCPACK message contains the finalized IP address lease and other network configuration parameters (subnet mask, gateway, DNS servers, etc.).&lt;/li&gt;
+&lt;li&gt;This message is typically unicast to the client, confirming that the IP address and configuration have been successfully allocated.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description></item></channel></rss>

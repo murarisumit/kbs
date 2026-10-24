@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News.ycombinator.com on knowledge base</title><link>https://kbs.yinagi.in/sources/news.ycombinator.com/</link><description>Recent content in News.ycombinator.com on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>inbox@yinagi.in (murarisumit)</managingEditor><webMaster>inbox@yinagi.in (murarisumit)</webMaster><lastBuildDate>Wed, 04 Aug 2021 15:31:55 +0530</lastBuildDate><atom:link href="https://kbs.yinagi.in/sources/news.ycombinator.com/index.xml" rel="self" type="application/rss+xml"/><item><title>NASA K8s Hardening Guide</title><link>https://kbs.yinagi.in/bookmarks/nasa-k8s-hardening-guide/</link><pubDate>Wed, 04 Aug 2021 15:31:55 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/bookmarks/nasa-k8s-hardening-guide/</guid><description>&lt;p&gt;Main highlights as mentioned by top commentator&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Scan containers and Pods for vulnerabilities or misconfigurations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Run containers and Pods with the least privileges possible.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use network separation to control the amount of damage a compromise can cause.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use firewalls to limit unneeded network connectivity and encryption to protect confidentiality.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use strong authentication and authorization to limit user and administrator access as well as to limit the attack surface.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use log auditing so that administrators can monitor activity and be alerted to potential malicious activity.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Periodically review all Kubernetes settings and use vulnerability scans to help ensure risks are appropriately accounted for and security patches are applied.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For me encryption is the key, mTLS feature should be must for any secure environment.&lt;/p&gt;</description></item></channel></rss>
