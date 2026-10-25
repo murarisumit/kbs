@@ -225,3 +225,29 @@ details[open] {
         padding: 0.7rem 0.75rem;
     }
 }
+
+/* ---------- Mobile: wrap long code lines (e.g. awscli) ---------- */
+@media (max-width: 768px) {
+    .highlight > .chroma,
+    .highlight > pre.chroma,
+    pre:not(.chroma):not(.highlight pre) {
+        overflow-x: hidden;
+    }
+    .highlight pre,
+    .highlight pre.chroma,
+    .highlight code,
+    .highlight code *,
+    pre:not(.chroma):not(.highlight pre) {
+        white-space: pre-wrap;     /* keep indentation and line breaks */
+        overflow-wrap: anywhere;   /* break long tokens instead of overflowing */
+    }
+    /* wrapped lines would no longer line up with the numbers, so hide them */
+    .chroma .lntd:first-child { display: none; }
+    .chroma .lntd:last-child pre { padding-left: 0.8rem; }
+    /* hanging indent: continuation of a wrapped line sits slightly in */
+    .highlight .line {
+        display: block;
+        padding-left: 1.2em;
+        text-indent: -1.2em;
+    }
+}
