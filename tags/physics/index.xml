@@ -55,86 +55,116 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Whatever the theory of origin of this force, we found that earth &amp;amp; other planets pull objects towards themselves which causes acceleration. This acceleration is called gravity.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Understanding Physics Units in Basic Form</title><link>https://kbs.yinagi.in/en/c6e8cea33966964777e8ec8b34a71cef/</link><pubDate>Tue, 02 Jul 2024 04:08:15 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/c6e8cea33966964777e8ec8b34a71cef/</guid><description>&lt;h3 id="how-much-is-ms2"&gt;How much is m/s^2&lt;/h3&gt;
+&lt;/ul&gt;</description></item><item><title>Understanding Physics Units in Basic Form</title><link>https://kbs.yinagi.in/en/c6e8cea33966964777e8ec8b34a71cef/</link><pubDate>Tue, 02 Jul 2024 04:08:15 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/c6e8cea33966964777e8ec8b34a71cef/</guid><description>&lt;h3 id="first-how-big-is-a-meter-and-a-second"&gt;First, how big is a meter and a second?&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;It means we have an increase in speed of 1m/s in 1 second.&lt;/li&gt;
-&lt;li&gt;For 10m/s^2 for 60 seconds means
+&lt;li&gt;&lt;strong&gt;1 meter (m)&lt;/strong&gt; is about one big step, or about half the height of a standard door (a door is about 2 m high). In feet, 1 m is about 3.3 ft, or 39 inches.
 &lt;ul&gt;
-&lt;li&gt;Speed of an object increases by 10 m/s every second for a duration of 60 seconds.&lt;/li&gt;
-&lt;li&gt;In the end, the object will have a speed of 600m/s.&lt;/li&gt;
+&lt;li&gt;An Alto-size car is about 3.5 m long (an Alto K10 is 3.545 m), so about 3 to 4 big steps.&lt;/li&gt;
+&lt;li&gt;A two-storey house is about 6 to 7 m tall.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://kbs.yinagi.in/en/cd0225c83fc890539178b33340888ea1/"&gt;Acceleration due to gravity&lt;/a&gt; on earth in 9.8m/s^2
+&lt;li&gt;&lt;strong&gt;1 second (s)&lt;/strong&gt; is one tick of a wall clock&amp;rsquo;s second hand. It is also about one heartbeat of a person resting (a resting adult beats 60 to 100 times a minute, so roughly once a second). Counting &amp;ldquo;ek, do, teen&amp;rdquo; at a calm, steady pace is also roughly one count per second.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1 kilogram (kg)&lt;/strong&gt; is a 1 kg packet of atta or sugar, or a 1 litre bottle of water. In pounds, it is a bit over 2 lb (2.2 lb).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Speed&lt;/strong&gt; is how many meters you cover in 1 second. &lt;strong&gt;1 m/s&lt;/strong&gt; is a slow walk. A normal walking pace is about 1.4 m/s, which is 5 km/h or 3 mph. To convert, multiply m/s by 3.6 to get km/h.
 &lt;ul&gt;
-&lt;li&gt;It means if you&amp;rsquo;re falling from a height, your speed will increase by 9.8m/s every second.&lt;/li&gt;
-&lt;li&gt;If one fall from building from 1 km height, when you reach the ground, you will have a speed of 98m/s.&lt;/li&gt;
-&lt;li&gt;For comparison, Usain Bolt&amp;rsquo;s top speed is ~10m/s.&lt;/li&gt;
+&lt;li&gt;A city bus in traffic: 20 to 30 km/h, which is 6 to 8 m/s (12 to 19 mph).&lt;/li&gt;
+&lt;li&gt;An auto-rickshaw cruising: 30 to 40 km/h, which is 8 to 11 m/s (19 to 25 mph).&lt;/li&gt;
+&lt;li&gt;A bike at 60 km/h is 17 m/s (37 mph).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;Everything below is built from these ideas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="how-much-is-ms2"&gt;How much is m/s^2&lt;/h3&gt;
+&lt;p&gt;Start with a car. An Alto K10 takes about 12 to 15 seconds to go from 0 to 100 km/h (62 mph) in road tests. Say 13 seconds. It gains about 2 m/s of speed every second. That is an acceleration of about &lt;strong&gt;2 m/s^2&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;100 km/h = 27.8 m/s, so 27.8 m/s / 13 s = 2.1 m/s^2.&lt;/li&gt;
+&lt;li&gt;A quicker car, one that does 0 to 100 km/h in 10 seconds, gains 2.8 m/s every second, so about 2.8 m/s^2.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1 m/s^2&lt;/strong&gt; means your speed goes up by 1 m/s (about a slow walk) in every second.&lt;/li&gt;
+&lt;li&gt;Formula: &lt;code&gt;acceleration = change in speed / time&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://kbs.yinagi.in/en/cd0225c83fc890539178b33340888ea1/"&gt;Gravity&lt;/a&gt; is also an acceleration. On Earth it is &lt;strong&gt;9.8 m/s^2&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Step off a 1 m ledge (a big step down, about half a door&amp;rsquo;s height). Gravity speeds you up for about half a second, and you land at about 4.4 m/s, which is roughly 16 km/h or 10 mph. That is the jolt in your knees.&lt;/li&gt;
+&lt;li&gt;After 1 second of falling, your speed is 9.8 m/s (35 km/h, 22 mph). That is an auto-rickshaw&amp;rsquo;s cruising speed, reached in one second. After 2 seconds, it is 19.6 m/s (71 km/h, 44 mph).&lt;/li&gt;
+&lt;li&gt;Falling off a two-storey roof (about 6.5 m) takes about 1.2 seconds, and you hit the ground at about 11 m/s, which is roughly 40 km/h or 25 mph.&lt;/li&gt;
+&lt;li&gt;After 10 seconds of falling, your speed would be 9.8 x 10 = 98 m/s (353 km/h, 219 mph). In that time you would have fallen about 490 m (1,600 ft), which is nearly 7 Qutub Minars stacked up: &lt;code&gt;distance = 1/2 x 9.8 x 10^2 = 490 m&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;That 98 m/s is only true with no air. In real life, air drag stops a falling person from getting faster at about 55 m/s (200 km/h, roughly 120 mph) when falling belly-down. This is why skydivers don&amp;rsquo;t keep speeding up.&lt;/li&gt;
+&lt;li&gt;For comparison, Usain Bolt&amp;rsquo;s top speed is about 12 m/s (43 km/h, 27 mph), which for a moment is about an auto-rickshaw&amp;rsquo;s cruising speed.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="how-much-is-1-newton"&gt;How much is 1 Newton&lt;/h3&gt;
+&lt;p&gt;Hold a 100 g apple (about 3.5 oz) in your hand. The pull of gravity on it, the force you feel in your palm, is about &lt;strong&gt;1 Newton (N)&lt;/strong&gt;.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;1N is the force required to accelerate a 1kg mass at 1m/s^2.&lt;/li&gt;
-&lt;li&gt;For 60kg of human, the force applied on Earth is approximately 588.6 N
-&lt;ul&gt;
-&lt;li&gt;60kg * 9.8m/s^2 = 588.6N&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+&lt;li&gt;Formula: &lt;code&gt;force = mass x acceleration&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;1 N is the force needed to speed up a 1 kg mass by 1 m/s every second (1 N = 1 kg x 1 m/s^2).&lt;/li&gt;
+&lt;li&gt;Apple: 0.1 kg x 9.8 m/s^2 = 0.98 N, so about 1 N. In pounds-force, 1 N is about 0.22 lbf.&lt;/li&gt;
+&lt;li&gt;A 1 kg packet of atta pulls down with about 9.8 N, so about 10 N.&lt;/li&gt;
+&lt;li&gt;A 60 kg (132 lb) person: 60 kg x 9.8 m/s^2 = 588 N. That is the force Earth pulls them down with, and the force they press on the floor with while standing still (about 132 lbf).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="how-much-is-1-joule"&gt;How much is 1 Joule&lt;/h3&gt;
+&lt;p&gt;A Joule is the energy it takes to push with a force of 1 N over a distance of 1 m.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Amount of energy to move 1kg mass at 1m/s^2 for 1 m distance.&lt;/li&gt;
-&lt;li&gt;Picking up 100 gm apple from ground to table(at 1m height) is ~1J of work.
+&lt;li&gt;Formula: &lt;code&gt;energy (work) = force x distance&lt;/code&gt;, so 1 J = 1 N x 1 m.&lt;/li&gt;
+&lt;li&gt;Lift that 100 g apple from the floor up to a table about 1 m (3.3 ft) high. You pushed with about 1 N over 1 m, so you spent about &lt;strong&gt;1 J&lt;/strong&gt;.
 &lt;ul&gt;
-&lt;li&gt;0.1kg * 9.8m/s^2 * 1m = 0.98J&lt;/li&gt;
+&lt;li&gt;0.1 kg x 9.8 m/s^2 x 1 m = 0.98 J&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;Lifting the 1 kg packet of atta by 1 m takes about 9.8 J.&lt;/li&gt;
+&lt;li&gt;A typical phone battery (about 3,000 mAh) holds roughly 11 Wh, which is about &lt;strong&gt;40,000 J&lt;/strong&gt;. That is the same energy as lifting around 40,000 apples up by 1 m.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="how-much-is-1-watt"&gt;How much is 1 Watt&lt;/h3&gt;
+&lt;p&gt;A Watt is how fast you use energy: &lt;strong&gt;1 Watt = 1 Joule every second.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Amount of power needed to move 1kg mass at 1m/s^2 for 1 m distance in 1 second.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Same apple example, if you pick up 100 gm apple from ground to table(at 1m height) in 2 second then&lt;/em&gt;
+&lt;li&gt;Formula: &lt;code&gt;power = energy / time&lt;/code&gt;, so 1 W = 1 J / 1 s.&lt;/li&gt;
+&lt;li&gt;Same apple, lifted 1 m (3.3 ft) in 2 seconds:
 &lt;ul&gt;
-&lt;li&gt;Joule = &lt;code&gt;0.1kg * 9.8m/s^2 * 1m = 0.98J&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Watt = &lt;code&gt;0.98J / 2(second) = 0.49W&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;It means you need 0.49W power to pick up apple in 2 seconds at 1m height.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Energy = 0.1 kg x 9.8 m/s^2 x 1 m = 0.98 J&lt;/li&gt;
+&lt;li&gt;Power = 0.98 J / 2 s = 0.49 W&lt;/li&gt;
+&lt;li&gt;So you need about half a Watt to lift that apple in 2 seconds.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;For 100W light bulb,
+&lt;li&gt;Some everyday powers:
 &lt;ul&gt;
-&lt;li&gt;Power = 100W == 100J/s&lt;/li&gt;
-&lt;li&gt;Time = 2 hour&lt;/li&gt;
-&lt;li&gt;Energy = 100W * 2h == 200Wh&lt;/li&gt;
+&lt;li&gt;A person resting gives off about 100 W of heat. That is why a crowded room gets warm.&lt;/li&gt;
+&lt;li&gt;A basic phone charger (5 V, 2 A) delivers about 10 W.&lt;/li&gt;
+&lt;li&gt;A ceiling fan uses about 70 W (a newer energy-saving BLDC fan uses less, about 30 W).&lt;/li&gt;
+&lt;li&gt;An electric kettle is about 1500 to 2000 W, and a geyser (water heater) is typically about 2000 W.&lt;/li&gt;
+&lt;li&gt;A room air conditioner (AC) draws about 1500 to 2000 W while its compressor is running.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;A 100 W light bulb uses 100 J every second (100 W = 100 J/s). That is the old filament kind. A modern LED bulb that lights a room about as well as a 60 W filament bulb uses only about 9 W.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="what-is-watt-hour"&gt;What is Watt-hour&lt;/h3&gt;
+&lt;p&gt;A Watt-hour (Wh) is a unit of &lt;strong&gt;energy&lt;/strong&gt;, not power. It is the energy used by 1 Watt running for 1 hour.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Watt-hour is the unit of energy?&lt;/li&gt;
-&lt;li&gt;1 watt-hour is equal to 1 watt of power sustained for 1 hour (1 Wh = 1 W × 1 h = 3600 joules).&lt;/li&gt;
-&lt;li&gt;100-watt light bulb
+&lt;li&gt;Formula: &lt;code&gt;energy = power x time&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;1 Wh = 1 W x 1 h = 3,600 J&lt;/li&gt;
+&lt;li&gt;Example, a 100 W light bulb running for 1 hour:
 &lt;ul&gt;
-&lt;li&gt;Time = 2 hour&lt;/li&gt;
-&lt;li&gt;Energy = &lt;code&gt;100W * 1h = 100Wh = 0.1KWh&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Energy = 100 W x 1 h = 100 Wh = 0.1 kWh (360,000 J)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;For AC with with 2000Wh
+&lt;li&gt;Example, an AC drawing 2000 W (power) running for 1 hour:
 &lt;ul&gt;
-&lt;li&gt;Time = 1 hour&lt;/li&gt;
-&lt;li&gt;Power = 2000W&lt;/li&gt;
-&lt;li&gt;Energy = &lt;code&gt;2000W * 1h = 2000Wh = 2KWh = 2 units&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Energy = 2000 W x 1 h = 2000 Wh = 2 kWh = 2 units&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="what-is-kilowatt-hour"&gt;What is kilowatt-hour&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;1 Kwh is 1000 watt-hour.&lt;/li&gt;
-&lt;li&gt;Commonly used unit of energy for electricity, also called &amp;ldquo;unit&amp;rdquo; in India.&lt;/li&gt;
-&lt;li&gt;For AC with 2 Kwh, it means 2000W power sustained for 1 hour.
+&lt;li&gt;1 kWh is 1000 Wh (3,600,000 J).&lt;/li&gt;
+&lt;li&gt;It is the common unit for electricity. In India it is called one &amp;ldquo;unit&amp;rdquo; on your bill.&lt;/li&gt;
+&lt;li&gt;An AC drawing 2 kW (2000 W) uses 2 kWh of energy for every hour it runs, which is 2 units.&lt;/li&gt;
+&lt;li&gt;What does 1 unit (1 kWh) buy you?
 &lt;ul&gt;
-&lt;li&gt;For every hour, it consumes 2 Kwh of energy.&lt;/li&gt;
+&lt;li&gt;A 100 W bulb for 10 hours.&lt;/li&gt;
+&lt;li&gt;A ceiling fan (about 70 W) for roughly 14 hours.&lt;/li&gt;
+&lt;li&gt;A 2000 W geyser or kettle for 30 minutes.&lt;/li&gt;
+&lt;li&gt;An AC at full power (1500 to 2000 W) for about 30 to 40 minutes. An inverter AC averaging 1000 W (because its compressor cycles on and off) would run for about 1 hour.&lt;/li&gt;
+&lt;li&gt;A phone charger for about 100 hours, or about 90 full charges of a 11 Wh phone battery.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;Rough cost (indicative only): in 2025-26, domestic electricity in most Indian states works out to about Rs 3 to Rs 10 per unit at typical household use. It varies by state, slab and subsidy, and some states charge less or more. Check your own bill. At that range, a 100 W bulb for 10 hours costs about Rs 3 to Rs 10, and an AC at 2 kW for 1 hour costs about Rs 6 to Rs 20.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Basic Electricity Concepts</title><link>https://kbs.yinagi.in/en/d18fce9e9ee9b2675bfa90d5ed808e64/</link><pubDate>Mon, 01 Jul 2024 23:01:53 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/d18fce9e9ee9b2675bfa90d5ed808e64/</guid><description>&lt;p&gt;So for now( 2018 AD) we human believe that &lt;a href="https://kbs.yinagi.in/tags/electricity/"&gt;electricity&lt;/a&gt; is flow of energy via electron from -ve(explained below) terminal to +ve(explained below) terminal, it is just that. The simple way to get this flow of energy is by using the batteries, now lets start go to deep down.&lt;/p&gt;
 &lt;h3 id="how-did-humans-figured-out-electricity-"&gt;How did humans figured out electricity ?&lt;/h3&gt;
 &lt;ul&gt;
