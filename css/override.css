@@ -10,3 +10,218 @@
     top: 0;
     z-index: 50;
 }
+
+/* =====================================================================
+   Reading UI (mobile-ui branch)
+   Note on dark mode: the theme's dark.css inverts the whole <html> with a
+   CSS filter. Anything dark (like a dark code theme) would be flipped into a
+   pale box, which is what made code blocks sage-green. So in dark mode we
+   counter-invert code blocks, the same trick dark.css uses for images,
+   and they show their true Dracula colours in both modes.
+   ===================================================================== */
+
+/* ---------- Prose ---------- */
+.single {
+    line-height: 1.7;
+    font-size: 1.02rem;
+    max-width: 46rem;          /* ~70 characters per line on desktop */
+    margin: 0 auto;
+    overflow-wrap: break-word;
+}
+.single p,
+.single li {
+    line-height: 1.7;
+}
+.single h1, .single h2, .single h3, .single h4 {
+    line-height: 1.3;
+}
+.single a {
+    overflow-wrap: anywhere;   /* long URLs wrap instead of overflowing */
+    font-family: inherit;
+}
+
+/* ---------- Code blocks ---------- */
+.highlight {
+    margin: 1rem 0;
+    border-radius: 0.6rem;
+    overflow: hidden;          /* rounds the corners; inner element scrolls */
+    background: #282a36;
+    max-width: 100%;
+}
+.highlight > .chroma,
+.highlight > pre.chroma {
+    border-radius: 0;
+    margin: 0;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    background: #282a36;
+}
+.highlight pre,
+.highlight pre.chroma {
+    margin: 0;
+    padding: 0.85rem 1rem;
+    white-space: pre;          /* never force-wrap code */
+    word-wrap: normal;
+    overflow-wrap: normal;
+    background: transparent;
+    font-size: 0.85rem;
+    line-height: 1.55;
+    tab-size: 4;
+}
+.highlight > pre.chroma {
+    overflow-x: auto;          /* blocks without line numbers */
+    background: #282a36;
+}
+.highlight code,
+.highlight code * {
+    font-style: normal;        /* theme makes every <code> italic */
+    font-size: inherit;
+    white-space: pre;
+}
+/* line-number table: let it be as wide as the code and scroll as one */
+.chroma .lntable {
+    display: table;
+    width: 100%;
+    overflow: visible;
+    border-spacing: 0;
+    margin: 0;
+}
+.chroma .lntd {
+    vertical-align: top;
+    padding: 0;
+}
+.chroma .lntd:first-child {
+    width: 1%;
+    position: sticky;          /* numbers stay put while code scrolls */
+    left: 0;
+    background: #282a36;
+    z-index: 1;
+}
+.chroma .lntd:first-child pre {
+    padding-right: 0.6rem;
+    border-right: 1px solid rgba(255, 255, 255, 0.08);
+}
+.chroma .lntd:last-child pre {
+    padding-left: 0.8rem;
+}
+.chroma .lnt,
+.chroma .ln {
+    color: #5c6370;
+    margin-right: 0;
+    padding: 0 0.2rem;
+    -webkit-user-select: none;
+    user-select: none;
+}
+.highlight ::-webkit-scrollbar { height: 6px; }
+.highlight ::-webkit-scrollbar-thumb { background: #44475a; border-radius: 3px; }
+
+/* dark mode: undo the page-wide invert for code blocks */
+html:has(#dark-mode-theme:not([disabled])) .highlight,
+html:has(#dark-mode-theme:not([disabled])) pre:not(.highlight pre) {
+    filter: invert(100%) hue-rotate(180deg);
+    -webkit-filter: invert(100%) hue-rotate(180deg);
+}
+
+/* bare <pre> without the highlighter (e.g. fenced block with no language) */
+pre:not(.chroma):not(.highlight pre) {
+    background: #282a36;
+    color: #f8f8f2;
+    padding: 0.85rem 1rem;
+    border-radius: 0.6rem;
+    overflow-x: auto;
+    white-space: pre;
+    font-size: 0.85rem;
+    line-height: 1.55;
+}
+pre:not(.chroma) code { font-style: normal; color: inherit; background: none; padding: 0; }
+
+/* ---------- Inline code ---------- */
+:not(pre) > code {
+    font-style: normal;
+    font-size: 0.86em;
+    padding: 0.1em 0.38em;
+    border-radius: 0.3rem;
+    background: rgba(127, 127, 127, 0.14);
+    border: 1px solid rgba(127, 127, 127, 0.22);
+    color: #9a3412;            /* reads as warm amber once dark mode inverts it */
+    overflow-wrap: anywhere;   /* long paths / URLs wrap cleanly */
+    word-break: normal;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+}
+:not(pre) > code.no-inner-tags { color: #9a3412; }
+
+/* ---------- <details> / <summary> as a clean card ---------- */
+.single details,
+details.details {
+    border: 1px solid rgba(127, 127, 127, 0.3) !important;   /* beats inline style */
+    border-radius: 0.6rem !important;
+    padding: 0 1rem !important;
+    margin: 1.2rem 0;
+    background: rgba(127, 127, 127, 0.05);
+    outline: none;
+}
+details[open] {
+    outline: none;
+    padding-bottom: 0.6rem !important;
+}
+.single details > summary {
+    list-style: none;
+    margin: 0 -1rem;
+    padding: 0.75rem 1rem;
+    font-weight: 600;
+    line-height: 1.4;
+    display: flex;
+    gap: 0.5rem;
+    align-items: baseline;
+}
+.single details > summary::-webkit-details-marker { display: none; }
+.single details > summary:before {
+    content: '▸';
+    padding-right: 0;
+    flex: none;
+    transition: transform 0.15s ease;
+    display: inline-block;
+}
+.single details[open] > summary:before {
+    content: '▸';
+    transform: rotate(90deg);
+}
+.single details[open] > summary {
+    border-bottom: 1px solid rgba(127, 127, 127, 0.22);
+    margin-bottom: 0.6rem;
+}
+
+/* ---------- Images / tables never overflow ---------- */
+.single img { max-width: 100%; height: auto; }
+.single table:not(.lntable) {
+    display: block;
+    overflow-x: auto;
+    max-width: 100%;
+}
+
+/* ---------- Mobile ---------- */
+@media (max-width: 600px) {
+    .single {
+        padding: 0.9rem 1rem;
+        font-size: 1rem;
+    }
+    .highlight {
+        margin-left: -0.25rem;
+        margin-right: -0.25rem;
+        border-radius: 0.5rem;
+    }
+    .highlight pre,
+    .highlight pre.chroma {
+        font-size: 0.8rem;
+        padding: 0.75rem 0.8rem;
+    }
+    .single details,
+    details.details {
+        padding: 0 0.75rem !important;
+    }
+    .single details > summary {
+        margin: 0 -0.75rem;
+        padding: 0.7rem 0.75rem;
+    }
+}
