@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Debugging on knowledge base</title><link>https://kbs.yinagi.in/tags/debugging/</link><description>Recent content in Debugging on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>inbox@yinagi.in (murarisumit)</managingEditor><webMaster>inbox@yinagi.in (murarisumit)</webMaster><lastBuildDate>Tue, 27 Oct 2026 12:15:36 +0530</lastBuildDate><atom:link href="https://kbs.yinagi.in/tags/debugging/index.xml" rel="self" type="application/rss+xml"/><item><title>How to change bot avatars for Hermes bots (and why the old face may stick)</title><link>https://kbs.yinagi.in/en/da9520d883e034e92d42ad902ff29721/</link><pubDate>Tue, 27 Oct 2026 12:15:36 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/da9520d883e034e92d42ad902ff29721/</guid><description>&lt;p&gt;How do you change bot avatars for Hermes bots on macOS? The short answer: &lt;strong&gt;Edit Profile, then Save.&lt;/strong&gt; The long answer is why I needed two hours to learn that. I swapped 16 bot avatars in Hermes Bot Mode by putting new 512x512 PNGs on disk. The files were valid, and the app still showed the old faces after every restart. It turned out the avatar lives in three places, and the app trusted the one I wasn&amp;rsquo;t looking at.&lt;/p&gt;
+&lt;h3 id="is-this-worth-reading"&gt;Is this worth reading?&lt;/h3&gt;
+&lt;p&gt;If you change a Hermes avatar on macOS by editing files on disk, the desktop app can keep showing the old image because of its own cache. This post shows where the three copies live, which one the app trusts, and the quick fix. It&amp;rsquo;s worth reading if you manage more than a couple of bots.&lt;/p&gt;
+&lt;h3 id="quick-steps-macos"&gt;Quick steps (macOS)&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Easiest:&lt;/strong&gt; right-click the bot, choose Edit Profile, pick the image, then Save. That is the path that updates every layer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Keep it under 2 MB&lt;/strong&gt; (PNG, JPEG or WebP). I&amp;rsquo;d also use 512x512, not 160x160 (see below).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Already changed files on disk?&lt;/strong&gt; Clear the app&amp;rsquo;s cached copy (the fix at the end).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="where-hermes-keeps-things-on-disk-macos"&gt;Where Hermes keeps things on disk (macOS)&lt;/h3&gt;
+&lt;p&gt;All paths in this post are for macOS:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;App:&lt;/strong&gt; &lt;code&gt;/Applications/Hermes.app&lt;/code&gt;; &lt;strong&gt;CLI:&lt;/strong&gt; &lt;code&gt;~/.local/bin/hermes&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hermes home:&lt;/strong&gt; &lt;code&gt;~/.hermes&lt;/code&gt;, which holds the default profile (&lt;code&gt;profile.yaml&lt;/code&gt;, &lt;code&gt;config.yaml&lt;/code&gt;, &lt;code&gt;state.db&lt;/code&gt;, &lt;code&gt;kanban.db&lt;/code&gt;, &lt;code&gt;skills/&lt;/code&gt;, &lt;code&gt;memories/&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bot profiles:&lt;/strong&gt; &lt;code&gt;~/.hermes/profiles/&amp;lt;name&amp;gt;/&lt;/code&gt;, each with its own &lt;code&gt;profile.yaml&lt;/code&gt;, &lt;code&gt;SOUL.md&lt;/code&gt;, &lt;code&gt;AGENTS.md&lt;/code&gt;, &lt;code&gt;skills/&lt;/code&gt;, &lt;code&gt;memories/&lt;/code&gt;, &lt;code&gt;cron/&lt;/code&gt;, &lt;code&gt;state.db&lt;/code&gt; and &lt;code&gt;assets/avatar.png&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;App data (Electron):&lt;/strong&gt; &lt;code&gt;~/Library/Application Support/Hermes/&lt;/code&gt;, with the renderer&amp;rsquo;s localStorage in &lt;code&gt;Local Storage/leveldb&lt;/code&gt; inside it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Leave any credential files in &lt;code&gt;~/.hermes&lt;/code&gt; alone; none of this needs them.&lt;/p&gt;
+&lt;p&gt;From my debugging, a bot&amp;rsquo;s avatar exists in three copies:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Server copy:&lt;/strong&gt; &lt;code&gt;assets/avatar.png&lt;/code&gt; in the bot&amp;rsquo;s folder, served by the gateway through &lt;code&gt;profiles.get_asset&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Profile metadata:&lt;/strong&gt; &lt;code&gt;profile.yaml&lt;/code&gt;, under &lt;code&gt;ui_meta.hermes-bots&lt;/code&gt;, holds the bot&amp;rsquo;s title and the image as a data URL. The gateway re-reads it on every roster poll.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;App cache:&lt;/strong&gt; localStorage key &lt;code&gt;hermes.plugin.hermes-bots.bot-meta-v2&lt;/code&gt;, in that &lt;code&gt;Local Storage/leveldb&lt;/code&gt; folder. This is the copy that wins over the server.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Copies 1 and 2 were correct. Copy 3 still held the old images, and that&amp;rsquo;s the one the app paints from.&lt;/p&gt;
+&lt;h3 id="why-the-cache-never-refreshed"&gt;Why the cache never refreshed&lt;/h3&gt;
+&lt;p&gt;The local image has priority, and the app only asks the server for an avatar when it has no local one. A simplified version of the merge logic in &lt;code&gt;profile-ops.ts&lt;/code&gt; (&lt;code&gt;mergeServerMeta&lt;/code&gt;):&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-ts" data-lang="ts"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="c1"&gt;// simplified
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="c1"&gt;// server fields win...
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="kr"&gt;const&lt;/span&gt; &lt;span class="nx"&gt;merged&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="p"&gt;...&lt;/span&gt;&lt;span class="nx"&gt;mine&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="p"&gt;...&lt;/span&gt;&lt;span class="nx"&gt;server&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="c1"&gt;// ...except the image: local always wins
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;mine&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;image&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="nx"&gt;merged&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;image&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nx"&gt;mine&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;image&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;The avatar pull also only runs when the bot has no local image. Both guards make sense: they stop a roster refresh from wiping an avatar you just uploaded. Together, though, they make a correct backend change invisible. Restarting doesn&amp;rsquo;t help, because the app reloads the same persistent localStorage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The 160x160 trap:&lt;/strong&gt; a PNG that is exactly 160x160 is treated as a backfilled auto-generated face (&lt;code&gt;isBackfilledFacePng&lt;/code&gt; in &lt;code&gt;avatar-image.ts&lt;/code&gt;), and &lt;code&gt;pullServerAvatars&lt;/code&gt; skips it unless the bot&amp;rsquo;s saved image kind is already &amp;ldquo;photo&amp;rdquo;. This is PNG-specific. That&amp;rsquo;s why I recommend 512x512; the only hard limit is the 2 MB cap.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why two layers need checking:&lt;/strong&gt; &lt;code&gt;profiles.set_asset&lt;/code&gt; (in &lt;code&gt;methods_profiles.py&lt;/code&gt;) writes only &lt;code&gt;assets/avatar.png&lt;/code&gt;, accepting PNG, JPEG or WebP up to 2 MB. It doesn&amp;rsquo;t touch the app&amp;rsquo;s local cache, so a file-level change also needs the app&amp;rsquo;s cached copy cleared.&lt;/p&gt;
+&lt;h3 id="why-it-was-hard-to-see"&gt;Why it was hard to see&lt;/h3&gt;
+&lt;p&gt;Every layer I could inspect looked fine. The cache was the one layer I couldn&amp;rsquo;t look at: this build didn&amp;rsquo;t expose a debugging port, so I ended up reading the source. Two early restarts didn&amp;rsquo;t take effect either, because the app was still shutting down and its single-instance lock made the relaunch look like a restart.&lt;/p&gt;
+&lt;h3 id="the-fix-macos"&gt;The fix (macOS)&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Quit Hermes fully and wait for it to exit.&lt;/li&gt;
+&lt;li&gt;Back up the &lt;code&gt;Local Storage/leveldb&lt;/code&gt; folder, then clear the &lt;code&gt;hermes-bots.bot-meta*&lt;/code&gt; keys inside that folder.&lt;/li&gt;
+&lt;li&gt;Relaunch. The app re-pulls every avatar from &lt;code&gt;assets/avatar.png&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A caveat: I haven&amp;rsquo;t checked what else lives in those &lt;code&gt;hermes-bots.bot-meta*&lt;/code&gt; keys. Deleting them may reset other app-side metadata for those bots, so back up first and try one bot before clearing all.&lt;/p&gt;
+&lt;h3 id="takeaways"&gt;Takeaways&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;When one fact lives in three places, &amp;ldquo;is the data correct?&amp;rdquo; is the wrong question. Ask which copy the UI actually trusts.&lt;/li&gt;
+&lt;li&gt;A &amp;ldquo;local wins&amp;rdquo; cache needs a way to invalidate it, or the app&amp;rsquo;s own Save button becomes the only write path that works.&lt;/li&gt;
+&lt;li&gt;Edit Profile, then Save, is the path that updates every layer. If you change files directly, clear the plugin&amp;rsquo;s cache too.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="references"&gt;References&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hermes Desktop Bot Mode source, &lt;a href="https://github.com/NousResearch/hermes-agent/blob/main/apps/desktop/src/plugins/hermes-bots/profile-ops.ts"&gt;&lt;code&gt;profile-ops.ts&lt;/code&gt;&lt;/a&gt; (&lt;code&gt;mergeServerMeta&lt;/code&gt;, &lt;code&gt;pullServerAvatars&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/NousResearch/hermes-agent/tree/main/apps/desktop/src/plugins/hermes-bots"&gt;Bot Mode plugin directory&lt;/a&gt;, including &lt;code&gt;avatar-image.ts&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Gateway profile methods: &lt;code&gt;tui_gateway/methods_profiles.py&lt;/code&gt; (&lt;code&gt;profiles.get_asset&lt;/code&gt;, &lt;code&gt;profiles.set_asset&lt;/code&gt;)&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
