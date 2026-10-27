@@ -16,7 +16,7 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;** Note: I don&amp;rsquo;t have intuition about spacetime in Einstein theory. **&lt;/p&gt;
-&lt;h4 id="what-is-spacetime-in-einstein-theory-"&gt;What is spacetime in Einstein theory ?&lt;/h4&gt;
+&lt;h2 id="what-is-spacetime-in-einstein-theory-"&gt;What is spacetime in Einstein theory ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;It&amp;rsquo;s like all objects in the universe sit in a smooth, four-dimensional fabric called space-time.&lt;/li&gt;
 &lt;li&gt;This fabric is curved by the mass and energy of objects in it.&lt;/li&gt;
@@ -38,7 +38,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="newtons-theory-of-gravity"&gt;Newton&amp;rsquo;s theory of gravity&lt;/h4&gt;
+&lt;h2 id="newtons-theory-of-gravity"&gt;Newton&amp;rsquo;s theory of gravity&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Newton had his theory why we feel this acceleration. He said that mass attracts mass.
 &lt;ul&gt;
@@ -46,7 +46,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="einsteins-theory-of-gravity"&gt;Einstein&amp;rsquo;s theory of gravity&lt;/h4&gt;
+&lt;h2 id="einsteins-theory-of-gravity"&gt;Einstein&amp;rsquo;s theory of gravity&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Einstein had his theory on how this force comes.&lt;/li&gt;
 &lt;li&gt;He said that mass bends the &lt;a href="https://kbs.yinagi.in/en/f7de1f85aff4e3440204f197756f8b68/"&gt;space-time&lt;/a&gt; around it. So, objects are pulled towards the mass. This bending of space-time is called gravity.
@@ -55,7 +55,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Whatever the theory of origin of this force, we found that earth &amp;amp; other planets pull objects towards themselves which causes acceleration. This acceleration is called gravity.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Understanding Physics Units in Basic Form</title><link>https://kbs.yinagi.in/en/c6e8cea33966964777e8ec8b34a71cef/</link><pubDate>Tue, 02 Jul 2024 04:08:15 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/c6e8cea33966964777e8ec8b34a71cef/</guid><description>&lt;h3 id="first-how-big-is-a-meter-and-a-second"&gt;First, how big is a meter and a second?&lt;/h3&gt;
+&lt;/ul&gt;</description></item><item><title>Understanding Physics Units in Basic Form</title><link>https://kbs.yinagi.in/en/c6e8cea33966964777e8ec8b34a71cef/</link><pubDate>Tue, 02 Jul 2024 04:08:15 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/c6e8cea33966964777e8ec8b34a71cef/</guid><description>&lt;h2 id="first-how-big-is-a-meter-and-a-second"&gt;First, how big is a meter and a second?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;1 meter (m)&lt;/strong&gt; is about one big step, or about half the height of a standard door (a door is about 2 m high). In feet, 1 m is about 3.3 ft, or 39 inches.
 &lt;ul&gt;
@@ -74,7 +74,7 @@
 &lt;/li&gt;
 &lt;li&gt;Everything below is built from these ideas.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="how-much-is-ms2"&gt;How much is m/s^2&lt;/h3&gt;
+&lt;h2 id="how-much-is-ms2"&gt;How much is m/s^2&lt;/h2&gt;
 &lt;p&gt;Start with a car. An Alto K10 takes about 12 to 15 seconds to go from 0 to 100 km/h (62 mph) in road tests. Say 13 seconds. It gains about 2 m/s of speed every second. That is an acceleration of about &lt;strong&gt;2 m/s^2&lt;/strong&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;100 km/h = 27.8 m/s, so 27.8 m/s / 13 s = 2.1 m/s^2.&lt;/li&gt;
@@ -91,7 +91,7 @@
 &lt;li&gt;That 98 m/s is only true with no air. In real life, air drag stops a falling person from getting faster at about 55 m/s (200 km/h, roughly 120 mph) when falling belly-down. This is why skydivers don&amp;rsquo;t keep speeding up.&lt;/li&gt;
 &lt;li&gt;For comparison, Usain Bolt&amp;rsquo;s top speed is about 12 m/s (43 km/h, 27 mph), which for a moment is about an auto-rickshaw&amp;rsquo;s cruising speed.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="how-much-is-1-newton"&gt;How much is 1 Newton&lt;/h3&gt;
+&lt;h2 id="how-much-is-1-newton"&gt;How much is 1 Newton&lt;/h2&gt;
 &lt;p&gt;Hold a 100 g apple (about 3.5 oz) in your hand. The pull of gravity on it, the force you feel in your palm, is about &lt;strong&gt;1 Newton (N)&lt;/strong&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Formula: &lt;code&gt;force = mass x acceleration&lt;/code&gt;&lt;/li&gt;
@@ -100,7 +100,7 @@
 &lt;li&gt;A 1 kg packet of atta pulls down with about 9.8 N, so about 10 N.&lt;/li&gt;
 &lt;li&gt;A 60 kg (132 lb) person: 60 kg x 9.8 m/s^2 = 588 N. That is the force Earth pulls them down with, and the force they press on the floor with while standing still (about 132 lbf).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="how-much-is-1-joule"&gt;How much is 1 Joule&lt;/h3&gt;
+&lt;h2 id="how-much-is-1-joule"&gt;How much is 1 Joule&lt;/h2&gt;
 &lt;p&gt;A Joule is the energy it takes to push with a force of 1 N over a distance of 1 m.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Formula: &lt;code&gt;energy (work) = force x distance&lt;/code&gt;, so 1 J = 1 N x 1 m.&lt;/li&gt;
@@ -112,7 +112,7 @@
 &lt;li&gt;Lifting the 1 kg packet of atta by 1 m takes about 9.8 J.&lt;/li&gt;
 &lt;li&gt;A typical phone battery (about 3,000 mAh) holds roughly 11 Wh, which is about &lt;strong&gt;40,000 J&lt;/strong&gt;. That is the same energy as lifting around 40,000 apples up by 1 m.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="how-much-is-1-watt"&gt;How much is 1 Watt&lt;/h3&gt;
+&lt;h2 id="how-much-is-1-watt"&gt;How much is 1 Watt&lt;/h2&gt;
 &lt;p&gt;A Watt is how fast you use energy: &lt;strong&gt;1 Watt = 1 Joule every second.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Formula: &lt;code&gt;power = energy / time&lt;/code&gt;, so 1 W = 1 J / 1 s.&lt;/li&gt;
@@ -134,7 +134,7 @@
 &lt;/li&gt;
 &lt;li&gt;A 100 W light bulb uses 100 J every second (100 W = 100 J/s). That is the old filament kind. A modern LED bulb that lights a room about as well as a 60 W filament bulb uses only about 9 W.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="what-is-watt-hour"&gt;What is Watt-hour&lt;/h3&gt;
+&lt;h2 id="what-is-watt-hour"&gt;What is Watt-hour&lt;/h2&gt;
 &lt;p&gt;A Watt-hour (Wh) is a unit of &lt;strong&gt;energy&lt;/strong&gt;, not power. It is the energy used by 1 Watt running for 1 hour.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Formula: &lt;code&gt;energy = power x time&lt;/code&gt;&lt;/li&gt;
@@ -150,7 +150,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="what-is-kilowatt-hour"&gt;What is kilowatt-hour&lt;/h3&gt;
+&lt;h2 id="what-is-kilowatt-hour"&gt;What is kilowatt-hour&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;1 kWh is 1000 Wh (3,600,000 J).&lt;/li&gt;
 &lt;li&gt;It is the common unit for electricity. In India it is called one &amp;ldquo;unit&amp;rdquo; on your bill.&lt;/li&gt;
@@ -166,24 +166,24 @@
 &lt;/li&gt;
 &lt;li&gt;Rough cost (indicative only): in 2025-26, domestic electricity in most Indian states works out to about Rs 3 to Rs 10 per unit at typical household use. It varies by state, slab and subsidy, and some states charge less or more. Check your own bill. At that range, a 100 W bulb for 10 hours costs about Rs 3 to Rs 10, and an AC at 2 kW for 1 hour costs about Rs 6 to Rs 20.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Basic Electricity Concepts</title><link>https://kbs.yinagi.in/en/d18fce9e9ee9b2675bfa90d5ed808e64/</link><pubDate>Mon, 01 Jul 2024 23:01:53 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/d18fce9e9ee9b2675bfa90d5ed808e64/</guid><description>&lt;p&gt;So for now( 2018 AD) we human believe that &lt;a href="https://kbs.yinagi.in/tags/electricity/"&gt;electricity&lt;/a&gt; is flow of energy via electron from -ve(explained below) terminal to +ve(explained below) terminal, it is just that. The simple way to get this flow of energy is by using the batteries, now lets start go to deep down.&lt;/p&gt;
-&lt;h3 id="how-did-humans-figured-out-electricity-"&gt;How did humans figured out electricity ?&lt;/h3&gt;
+&lt;h2 id="how-did-humans-figured-out-electricity-"&gt;How did humans figured out electricity ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Lots of things around us exhibit this energy flow.&lt;/li&gt;
 &lt;li&gt;Lightning, static electricity etc.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="human-figured-out-electricity-by-rubbing-glass-rod-with-silk-cloth"&gt;Human figured out electricity by rubbing glass rod with silk cloth&lt;/h4&gt;
+&lt;h3 id="human-figured-out-electricity-by-rubbing-glass-rod-with-silk-cloth"&gt;Human figured out electricity by rubbing glass rod with silk cloth&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;When people were figuring out these weird behaviours around us, they found that &amp;ldquo;When we rub the glass rod with silk cloth, glass gets a different type of behaviour and silk gets different one&amp;rdquo;.&lt;/li&gt;
 &lt;li&gt;They also saw when they rub the rubber-rod with cat-fur the rubber-rod got different behaviour &amp;amp; cat-fur got different one.&lt;/li&gt;
 &lt;li&gt;Similarly when they rub the amber with fur, the amber got different behaviour and fur got different one.&lt;/li&gt;
 &lt;li&gt;Also when they rub the ebonite with fur, ebonite has different behaviour and fur has different one.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="what-are-positive-and-negative-charges-why-is-one-called-positive--other-negative"&gt;What are positive and negative charges, why is one called positive &amp;amp; other negative?&lt;/h4&gt;
+&lt;h3 id="what-are-positive-and-negative-charges-why-is-one-called-positive--other-negative"&gt;What are positive and negative charges, why is one called positive &amp;amp; other negative?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Glass &amp;amp; silk cloth gets different behaviour after rubbing them together.&lt;/li&gt;
 &lt;li&gt;They named them positive &amp;amp; negative charges. They could&amp;rsquo;ve named it as A and B or anything else, but they named it as positive and negative. There is no reason behind it, it&amp;rsquo;s just a convention that people have come up with.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="what-was-positive--negative-in-above-glass-rod-and-silk-cloth-observation-"&gt;What was positive &amp;amp; negative in above glass rod and silk cloth observation ?&lt;/h4&gt;
+&lt;h3 id="what-was-positive--negative-in-above-glass-rod-and-silk-cloth-observation-"&gt;What was positive &amp;amp; negative in above glass rod and silk cloth observation ?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;The glass rods now attracts a conductor, silk cloth repels the conductor&lt;/li&gt;
 &lt;li&gt;So they named glass rod as positive charge and silk cloth as negative charge.
@@ -197,14 +197,14 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="why-does-rubbing-cause-this-behaviour-"&gt;Why does rubbing cause this behaviour ?&lt;/h4&gt;
+&lt;h3 id="why-does-rubbing-cause-this-behaviour-"&gt;Why does rubbing cause this behaviour ?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Rubber attracts electrons more than animal fur.&lt;/li&gt;
 &lt;li&gt;So while rubbing atoms of rubber pull electrons from the atoms of animal fur.&lt;/li&gt;
 &lt;li&gt;Some particle attracts electron and some lose it up&lt;/li&gt;
 &lt;li&gt;Similar when you comb your hairs, the comb gets +ve charge, it losses electron and hairs attract them.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="what-is-an-electron-"&gt;What is an electron ?&lt;/h3&gt;
+&lt;h2 id="what-is-an-electron-"&gt;What is an electron ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Electron is the basic particle we know, that explains the flow of electricity.&lt;/li&gt;
 &lt;li&gt;It is a negatively charged particle. Remember negative charge is just a convention, it could&amp;rsquo;ve been named as A or B, but it is named as negative.&lt;/li&gt;
@@ -212,7 +212,7 @@
 &lt;li&gt;&lt;a href="https://kbs.yinagi.in/en/4710840f1b6de62e27bbf0bf75af303e/"&gt;Like matter has mass&lt;/a&gt;, the electron has charge.&lt;/li&gt;
 &lt;li&gt;Charge of electron is calculated to electron is 1.6 * 10^-19C&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="can-we-see-electron-"&gt;Can we see electron ?&lt;/h4&gt;
+&lt;h3 id="can-we-see-electron-"&gt;Can we see electron ?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;No, we can&amp;rsquo;t see electrons, they are very small particles.&lt;/li&gt;
 &lt;li&gt;Again goes to realm of &lt;a href="https://kbs.yinagi.in/tags/quantum-physics/"&gt;quantum-physics&lt;/a&gt;, where we can&amp;rsquo;t see things, but we can predict their behaviour.&lt;/li&gt;
@@ -222,7 +222,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="what-is-charge"&gt;What is charge&lt;/h3&gt;
+&lt;h2 id="what-is-charge"&gt;What is charge&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Charge is the fundamental property we take that it exists(again we prove things taking this as base behaviour that we see).&lt;/li&gt;
 &lt;li&gt;Charge is the property of matter to interact with electromagnetic fields, analogous to masses in gravitational fields (but, much stronger!)&lt;/li&gt;
@@ -233,30 +233,30 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="why-q--n--e-"&gt;Why q = n * e ?&lt;/h3&gt;
+&lt;h2 id="why-q--n--e-"&gt;Why q = n * e ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;It comes from quantization of electric charge.&lt;/li&gt;
 &lt;li&gt;Humans found that the charge of any object is multiple of the charge of electrons.&lt;/li&gt;
 &lt;li&gt;It&amp;rsquo;s like saying that you can&amp;rsquo;t have 1.5 electrons, you can have 1 or 2 electrons.&lt;/li&gt;
 &lt;li&gt;The smallest indivisible unit of charge is the charge of an electron (e)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="how-much-is-1c-of-charge-"&gt;How much is 1C of charge ?&lt;/h4&gt;
+&lt;h3 id="how-much-is-1c-of-charge-"&gt;How much is 1C of charge ?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;q = n * e&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="what-is-resistance-"&gt;What is resistance ?&lt;/h3&gt;
+&lt;h2 id="what-is-resistance-"&gt;What is resistance ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Resistance is the property of a conductor to resist the flow of electrons.&lt;/li&gt;
 &lt;li&gt;It is measured in ohms.&lt;/li&gt;
 &lt;li&gt;It is denoted by &lt;code&gt;R&lt;/code&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="what-is-voltage"&gt;What is voltage&lt;/h3&gt;
+&lt;h2 id="what-is-voltage"&gt;What is voltage&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;For energy to flow from one point to another, there should be a difference in energy level.&lt;/li&gt;
 &lt;li&gt;This difference in energy level is called voltage.&lt;/li&gt;
 &lt;li&gt;When there is difference in energy level, the energy via electric field flows using electrons in the conductor&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="what-is-current-"&gt;What is current ?&lt;/h3&gt;
+&lt;h2 id="what-is-current-"&gt;What is current ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This flow of electrons is called current.
 &lt;ul&gt;
@@ -268,11 +268,11 @@
 &lt;li&gt;Current flows from high electric potential to low electric potential.&lt;/li&gt;
 &lt;li&gt;Current of 1 ampere (A) means that 1 coulomb of charge passes through a point in the circuit each second.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="what-is-high-electric-potential-and-low-electric-potential-"&gt;What is high electric potential and low electric potential ?&lt;/h3&gt;
+&lt;h2 id="what-is-high-electric-potential-and-low-electric-potential-"&gt;What is high electric potential and low electric potential ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;High electric potential is where there is more energy, and low electric potential is where there is less energy.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="how-does-this-high-electric-potential-and-low-electric-potential-is-created-"&gt;How does this high electric potential and low electric potential is created ?&lt;/h3&gt;
+&lt;h2 id="how-does-this-high-electric-potential-and-low-electric-potential-is-created-"&gt;How does this high electric potential and low electric potential is created ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;To get this energy, humans do various things.&lt;/li&gt;
 &lt;li&gt;Humans found that moving magnet near the conductor also generates this electric field.
@@ -290,11 +290,11 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="what-is-a-battery-"&gt;What is a battery ?&lt;/h3&gt;
+&lt;h2 id="what-is-a-battery-"&gt;What is a battery ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Battery is the device that stores energy in it.&lt;/li&gt;
 &lt;li&gt;Energy is stored in the form of chemical energy.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Mass vs matter ?</title><link>https://kbs.yinagi.in/en/4710840f1b6de62e27bbf0bf75af303e/</link><pubDate>Thu, 27 Jun 2024 23:46:01 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/4710840f1b6de62e27bbf0bf75af303e/</guid><description>&lt;h4 id="mass-vs-matter-"&gt;Mass vs matter ?&lt;/h4&gt;
+&lt;/ul&gt;</description></item><item><title>Mass vs matter ?</title><link>https://kbs.yinagi.in/en/4710840f1b6de62e27bbf0bf75af303e/</link><pubDate>Thu, 27 Jun 2024 23:46:01 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/4710840f1b6de62e27bbf0bf75af303e/</guid><description>&lt;h3 id="mass-vs-matter-"&gt;Mass vs matter ?&lt;/h3&gt;
 &lt;div class="reftext"&gt;
 &lt;p&gt;Mass is a measure of an object&amp;rsquo;s inertia and is quantified in terms of kilograms or grams, while matter refers to anything that occupies space and has mass.&lt;/p&gt;
 &lt;p&gt;Matter is all the “stuff” that exists in the universe. It has both mass and volume. Mass measures the amount of matter in a substance or an object. The basic SI unit for mass is the kilogram (kg).11&lt;/p&gt;
@@ -302,9 +302,9 @@
 &lt;/div&gt;
 &lt;p&gt;Still this confused me, not able to intitutively, what is &amp;ldquo;mass&amp;rdquo; and what is &amp;ldquo;matter&amp;rdquo; ?&lt;/p&gt;
 &lt;p&gt;Bit more detailed explanation:&lt;/p&gt;
-&lt;h3 id="q-what-is-matter-"&gt;Q: What is matter ?&lt;/h3&gt;
+&lt;h2 id="q-what-is-matter-"&gt;Q: What is matter ?&lt;/h2&gt;
 &lt;p&gt;We are made of matter We are made of cells, tissues, and organs. These are all made of atoms and molecules. The rabbit is made of matter.&lt;/p&gt;
-&lt;h3 id="q-what-is-mass-"&gt;Q: What is mass ?&lt;/h3&gt;
+&lt;h2 id="q-what-is-mass-"&gt;Q: What is mass ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Mass is a property of a physical body.&lt;/li&gt;
 &lt;li&gt;We take that every physical body has property called mass.&lt;/li&gt;
@@ -312,7 +312,7 @@
 &lt;li&gt;It determines its acceleration in the presence of an applied force similar to ‘charge in electro-magnetic field’.&lt;br&gt;
 It is the same whether we are on Earth, the Moon, or in space.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="q-if-mass--weight-the-same-if-not-then-what-is-the-difference-"&gt;Q: If mass &amp;amp; weight the same, if not then what is the difference ?&lt;/h3&gt;
+&lt;h2 id="q-if-mass--weight-the-same-if-not-then-what-is-the-difference-"&gt;Q: If mass &amp;amp; weight the same, if not then what is the difference ?&lt;/h2&gt;
 &lt;p&gt;No, mass and weight are not the same. Mass we&amp;rsquo;ve read above, while weight is the force of gravity acting on an object.If weight &amp;amp; mass are different, then&lt;/p&gt;
 &lt;p&gt;Why:&lt;/p&gt;
 &lt;ul&gt;
@@ -334,19 +334,19 @@ Read more about &lt;a href="https://kbs.yinagi.in/en/cd0225c83fc890539178b333408
 &lt;li&gt;1 Newton is the force required to accelerate a 1kg mass at 1m/s for 1 second.&lt;/li&gt;
 &lt;li&gt;Read more about &lt;a href="https://kbs.yinagi.in/en/c6e8cea33966964777e8ec8b34a71cef/"&gt;Understanding Physics Units in Basic Form&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="q-if-weight-in-newton-then-why-weighting-machine-show-70kg-then-"&gt;Q: If weight in &lt;a href="https://kbs.yinagi.in/en/c6e8cea33966964777e8ec8b34a71cef/"&gt;Newton&lt;/a&gt;, then why weighting machine show 70kg then ?&amp;quot;&lt;/h3&gt;
+&lt;h2 id="q-if-weight-in-newton-then-why-weighting-machine-show-70kg-then-"&gt;Q: If weight in &lt;a href="https://kbs.yinagi.in/en/c6e8cea33966964777e8ec8b34a71cef/"&gt;Newton&lt;/a&gt;, then why weighting machine show 70kg then ?&amp;quot;&lt;/h2&gt;
 &lt;p&gt;On earth our weighing machines are calibrated to show our weight in kg. But it is actually showing our mass in kg. This is because the standard gravitational acceleration on Earth is assumed, and weighing machines are calibrated to show &amp;ldquo;weight&amp;rdquo; in kilograms, which is a bit of a misnomer because kilograms technically measure mass, not weight&lt;/p&gt;
 &lt;p&gt;If we took an earth calibration weighing machine to the moon, it would show our weight much less than 70 kg. But our mass would still be 70 kg. Because the weighing machine is calibrated to show weight on earth. If someone calibrated it to show weight on the moon, it would show 70 kg.&lt;/p&gt;</description></item><item><title>Understand Electricity Generation</title><link>https://kbs.yinagi.in/bookmarks/understand-electricity-generation/</link><pubDate>Sat, 07 Aug 2021 18:40:36 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/bookmarks/understand-electricity-generation/</guid><description>&lt;p&gt;This video actually helps us understand how electricity is generated by using magnets.&lt;/p&gt;
 &lt;p&gt;When studies electricity for first time, never understood where does frequency mean, what current is, what does voltage mean and simple things like this and whole electrical energy didn&amp;rsquo;t made sense to me. Now most of it does, probably if I go for advanced study would really make sense.&lt;/p&gt;</description></item><item><title>Basic Geometry Concepts</title><link>https://kbs.yinagi.in/en/5d37dda250aad63a22125b1eb0e01430/</link><pubDate>Wed, 01 Nov 2017 22:41:06 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/5d37dda250aad63a22125b1eb0e01430/</guid><description>&lt;p&gt;Some basic terminologies in geometry&lt;/p&gt;
-&lt;h4 id="q-what-is-the-curve-"&gt;Q: What is the curve ?&lt;/h4&gt;
+&lt;h3 id="q-what-is-the-curve-"&gt;Q: What is the curve ?&lt;/h3&gt;
 &lt;p&gt;A curve is a shape which is smoothly drawn in a plane having a bent or turns in it.&lt;/p&gt;
-&lt;h4 id="q-what-is-the-tangent-to-the-curve-"&gt;Q: What is the tangent to the curve ?&lt;/h4&gt;
+&lt;h3 id="q-what-is-the-tangent-to-the-curve-"&gt;Q: What is the tangent to the curve ?&lt;/h3&gt;
 &lt;p&gt;Tangent to the curve is the line that touches it(curve) only at one point.&lt;/p&gt;
-&lt;h4 id="q-what-is-a-vector-"&gt;Q: What is a vector ?&lt;/h4&gt;
+&lt;h3 id="q-what-is-a-vector-"&gt;Q: What is a vector ?&lt;/h3&gt;
 &lt;p&gt;In physics and geometry, (Euclidean vector or a direction vector), used to represent physical quantities that have both magnitude and direction.&lt;/p&gt;
-&lt;h4 id="q-what-is-a-tangent-vector-"&gt;Q: What is a tangent vector ?&lt;/h4&gt;
+&lt;h3 id="q-what-is-a-tangent-vector-"&gt;Q: What is a tangent vector ?&lt;/h3&gt;
 &lt;p&gt;Any vector that is tangent to the curve is a tangent vector.&lt;/p&gt;
-&lt;h3 id="q-what-is-parallel-transported-"&gt;Q: What is parallel transported ?&lt;/h3&gt;
+&lt;h2 id="q-what-is-parallel-transported-"&gt;Q: What is parallel transported ?&lt;/h2&gt;
 &lt;p&gt;It means transferring things parallel. Here moving vector together, working things in parallel or transposing parallelly&lt;/p&gt;
-&lt;h4 id="q-what-is-a-straight-line-"&gt;Q: What is a straight line ?&lt;/h4&gt;
+&lt;h3 id="q-what-is-a-straight-line-"&gt;Q: What is a straight line ?&lt;/h3&gt;
 &lt;p&gt;It&amp;rsquo;s a special curve, when its tangent vector stays tangent when parallelly transported along the curve.&lt;/p&gt;</description></item></channel></rss>

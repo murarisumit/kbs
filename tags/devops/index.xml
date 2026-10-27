@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Devops on knowledge base</title><link>https://kbs.yinagi.in/tags/devops/</link><description>Recent content in Devops on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>inbox@yinagi.in (murarisumit)</managingEditor><webMaster>inbox@yinagi.in (murarisumit)</webMaster><lastBuildDate>Fri, 26 Nov 2021 22:48:14 +0530</lastBuildDate><atom:link href="https://kbs.yinagi.in/tags/devops/index.xml" rel="self" type="application/rss+xml"/><item><title>Awscli snippets</title><link>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</link><pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</guid><description>&lt;h4 id="fetch-running-instance-with-their-private-ip"&gt;Fetch running instance with their private IP&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Devops on knowledge base</title><link>https://kbs.yinagi.in/tags/devops/</link><description>Recent content in Devops on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>inbox@yinagi.in (murarisumit)</managingEditor><webMaster>inbox@yinagi.in (murarisumit)</webMaster><lastBuildDate>Fri, 26 Nov 2021 22:48:14 +0530</lastBuildDate><atom:link href="https://kbs.yinagi.in/tags/devops/index.xml" rel="self" type="application/rss+xml"/><item><title>Awscli snippets</title><link>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</link><pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</guid><description>&lt;h3 id="fetch-running-instance-with-their-private-ip"&gt;Fetch running instance with their private IP&lt;/h3&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
@@ -7,7 +7,7 @@
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;aws ec2 describe-instances --query &lt;span class="s1"&gt;&amp;#39;Reservations[*].Instances[*].[NetworkInterfaces[0].PrivateIpAddresses[0].PrivateIpAddress,Tags[?Key==`Name`].Value| [0]]&amp;#39;&lt;/span&gt; --filters &lt;span class="s2"&gt;&amp;#34;Name=instance-state-name,Values=running&amp;#34;&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;Name=tag:environment,Values=production&amp;#34;&lt;/span&gt; --output text
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h4 id="fetch-running-instance-for-given-tag"&gt;Fetch running instance for given tag&lt;/h4&gt;
+&lt;/div&gt;&lt;h3 id="fetch-running-instance-for-given-tag"&gt;Fetch running instance for given tag&lt;/h3&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
@@ -22,7 +22,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;aws ec2 describe-instances --query &lt;span class="s1"&gt;&amp;#39;Reservations[*].Instances[*].[InstanceId,Tags[?Key==`Name`].Value|[0]]&amp;#39;&lt;/span&gt; --output table
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h4 id="fetch-just-filtered-instances-using---filters-option"&gt;fetch just filtered instances using &lt;code&gt;--filters&lt;/code&gt; option&lt;/h4&gt;
+&lt;/div&gt;&lt;h3 id="fetch-just-filtered-instances-using---filters-option"&gt;fetch just filtered instances using &lt;code&gt;--filters&lt;/code&gt; option&lt;/h3&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
@@ -31,7 +31,7 @@
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;aws ec2 describe-instances --output table --query &lt;span class="s1"&gt;&amp;#39;Reservations[].Instances[].[Tags[?Key==`Name`] | [0].Value, State.Name]&amp;#39;&lt;/span&gt; --filters &lt;span class="nv"&gt;Name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;instance-state-name,Values&lt;span class="o"&gt;=&lt;/span&gt;running &lt;span class="nv"&gt;Name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;tag:billing,Values&lt;span class="o"&gt;=&lt;/span&gt;devops
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h3 id="fetch-ami-id-and-name-start-with-given-name"&gt;Fetch AMI-ID and Name start with given Name&lt;/h3&gt;
+&lt;/div&gt;&lt;h2 id="fetch-ami-id-and-name-start-with-given-name"&gt;Fetch AMI-ID and Name start with given Name&lt;/h2&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
@@ -50,28 +50,28 @@
 &lt;/ul&gt;</description></item><item><title>What Does 9s Mean in Downtime</title><link>https://kbs.yinagi.in/ec9cc6baa4890df4cb5e5dc561d60e43/</link><pubDate>Fri, 19 Nov 2021 21:00:55 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/ec9cc6baa4890df4cb5e5dc561d60e43/</guid><description>&lt;p&gt;Sometime i just forgot how much 9s means in w.r.t SLA and how much downtime can be afforded and this above reference is simple and beautiful.&lt;/p&gt;
 &lt;p&gt;Try with multiple 9s like this: &lt;a href="https://uptime.is/99.9"&gt;https://uptime.is/99.9&lt;/a&gt; or &lt;a href="https://uptime.is/99.99"&gt;https://uptime.is/99.99&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To put from website.&lt;/p&gt;
-&lt;h3 id="999"&gt;99.9&lt;/h3&gt;
+&lt;h2 id="999"&gt;99.9&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;Daily: 1m 26s
 Weekly: 10m 4s
 Monthly: 43m 49s
 Quarterly: 2h 11m 29s
 Yearly: 8h 45m 56s
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id="9999"&gt;99.99&lt;/h3&gt;
+&lt;h2 id="9999"&gt;99.99&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;Daily: 8s
 Weekly: 1m 0s
 Monthly: 4m 22s
 Quarterly: 13m 8s
 Yearly: 52m 35s
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id="99999"&gt;99.999&lt;/h3&gt;
+&lt;h2 id="99999"&gt;99.999&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;Daily: 0s
 Weekly: 6s
 Monthly: 26s
 Quarterly: 1m 18s
 Yearly: 5m 15s
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;For more 9s visit &lt;a href="https://uptime.is/99.9999"&gt;https://uptime.is/99.9999&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Linux Load Avgs</title><link>https://kbs.yinagi.in/bookmarks/linux-load-avgs/</link><pubDate>Mon, 09 Aug 2021 09:25:45 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/bookmarks/linux-load-avgs/</guid><description>&lt;h1 id="excerpt-from-blog-post"&gt;Excerpt from blog post&lt;/h1&gt;
+&lt;p&gt;For more 9s visit &lt;a href="https://uptime.is/99.9999"&gt;https://uptime.is/99.9999&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Linux Load Avgs</title><link>https://kbs.yinagi.in/bookmarks/linux-load-avgs/</link><pubDate>Mon, 09 Aug 2021 09:25:45 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/bookmarks/linux-load-avgs/</guid><description>&lt;h2 id="excerpt-from-blog-post"&gt;Excerpt from blog post&lt;/h2&gt;
 &lt;p&gt;Linux load averages are &amp;ldquo;system load averages&amp;rdquo; that show the running thread (task) demand on the system as an average number of running plus waiting threads. This measures demand, which can be greater than what the system is currently processing. Most tools show three averages, for 1, 5, and 15 minutes:&lt;/p&gt;
 &lt;p&gt;Some interpretations:&lt;/p&gt;
 &lt;ul&gt;
@@ -80,14 +80,14 @@ Yearly: 5m 15s
 &lt;li&gt;If the 1 minute average is lower than the 5 or 15 minute averages, then load is decreasing.&lt;/li&gt;
 &lt;li&gt;If they are higher than your CPU count, then you might have a performance problem (it depends).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="making-sense-of-linux-load-averages"&gt;Making sense of Linux load averages&lt;/h2&gt;
+&lt;h3 id="making-sense-of-linux-load-averages"&gt;Making sense of Linux load averages&lt;/h3&gt;
 &lt;p&gt;I grew up with OSes where load averages meant CPU load averages, so the Linux version has always bothered me. Perhaps the real problem all along is that the words &amp;ldquo;load averages&amp;rdquo; are about as ambiguous as &amp;ldquo;I/O&amp;rdquo;. Which type of I/O? Disk I/O? File system I/O? Network I/O? &amp;hellip; Likewise, which load averages? CPU load averages? System load averages? Clarifying it this way lets me make sense of it like this:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;On Linux, load averages are (or try to be) &amp;quot;system load averages&amp;quot;, for the system as a whole, measuring the number of threads that are working and waiting to work (CPU, disk, uninterruptible locks). Put differently, it measures the number of threads that aren't completely idle. Advantage: includes demand for different resources.
 On other OSes, load averages are &amp;quot;CPU load averages&amp;quot;, measuring the number of CPU running + CPU runnable threads. Advantage: can be easier to understand and reason about (for CPUs only).
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Note that there&amp;rsquo;s another possible type: &amp;ldquo;physical resource load averages&amp;rdquo;, which would include load for physical resources only (CPU + disk).&lt;/p&gt;
 &lt;p&gt;Perhaps one day we&amp;rsquo;ll add additional load averages to Linux, and let the user choose what they want to use: a separate &amp;ldquo;CPU load averages&amp;rdquo;, &amp;ldquo;disk load averages&amp;rdquo;, &amp;ldquo;network load averages&amp;rdquo;, etc. Or just use different metrics altogether.&lt;/p&gt;
-&lt;h2 id="better-metrics"&gt;Better Metrics&lt;/h2&gt;
+&lt;h3 id="better-metrics"&gt;Better Metrics&lt;/h3&gt;
 &lt;p&gt;When Linux load averages increase, you know you have higher demand for resources (CPUs, disks, and some locks), but you aren&amp;rsquo;t sure which. You can use other metrics for clarification. For example, for CPUs:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;per-CPU utilization: eg, using mpstat -P ALL 1
 per-process CPU utilization: eg, top, pidstat 1, etc.

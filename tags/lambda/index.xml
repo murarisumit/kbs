@@ -20,7 +20,7 @@
 &lt;li&gt;filter: Apply function to all elements in sequence and return only those elements for which the function returns True&lt;/li&gt;
 &lt;li&gt;reduce: Apply function to all elements in sequence cumulatively&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="map"&gt;Map&lt;/h3&gt;
+&lt;h2 id="map"&gt;Map&lt;/h2&gt;
 &lt;p&gt;The function map(f,l) applies the function f() to all the elements of the sequence l. It returns a new list with the elements changed by f().&lt;/p&gt;
 &lt;p&gt;Without lambda:&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
@@ -62,7 +62,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;C&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;map&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;to_celsius&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;F&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h3 id="filter"&gt;Filter&lt;/h3&gt;
+&lt;/div&gt;&lt;h2 id="filter"&gt;Filter&lt;/h2&gt;
 &lt;p&gt;The function filter(f,l) needs a function f as its first argument. f returns a Boolean value, i.e. either True or False.&lt;/p&gt;
 &lt;p&gt;Here the function will list the odd Fibonacci numbers&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
@@ -87,7 +87,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;34&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h3 id="reduce"&gt;Reduce&lt;/h3&gt;
+&lt;/div&gt;&lt;h2 id="reduce"&gt;Reduce&lt;/h2&gt;
 &lt;p&gt;The function reduce(f,l) continually applies the function f() to the sequence l. It returns a single value.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;At first the first two elements of sequence are applied to f, i.e. f(s1,s2)&lt;/li&gt;

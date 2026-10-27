@@ -172,7 +172,7 @@ Absolute justice and impartiality: People may not like you but you would be resp
 &lt;li&gt;Attack persistance is hard, but just restart it every now and then. It might help you.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Most simpler tricks are &lt;a href="https://www.youtube.com/watch?v=NWtm4X6L_Cs"&gt;Phishing&lt;/a&gt; you should be worry about.&lt;/p&gt;</description></item><item><title>Shamir Secret Sharing</title><link>https://kbs.yinagi.in/b21e7d844c3b536261f757f5a735dc8a/</link><pubDate>Thu, 02 Dec 2021 10:07:05 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/b21e7d844c3b536261f757f5a735dc8a/</guid><description>&lt;p&gt;This idea is really elegant to me and seeing it work is beautiful&lt;/p&gt;
-&lt;p&gt;Keeping it here for reference.&lt;/p&gt;</description></item><item><title>Awscli snippets</title><link>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</link><pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</guid><description>&lt;h4 id="fetch-running-instance-with-their-private-ip"&gt;Fetch running instance with their private IP&lt;/h4&gt;
+&lt;p&gt;Keeping it here for reference.&lt;/p&gt;</description></item><item><title>Awscli snippets</title><link>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</link><pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</guid><description>&lt;h3 id="fetch-running-instance-with-their-private-ip"&gt;Fetch running instance with their private IP&lt;/h3&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
@@ -181,7 +181,7 @@ Absolute justice and impartiality: People may not like you but you would be resp
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;aws ec2 describe-instances --query &lt;span class="s1"&gt;&amp;#39;Reservations[*].Instances[*].[NetworkInterfaces[0].PrivateIpAddresses[0].PrivateIpAddress,Tags[?Key==`Name`].Value| [0]]&amp;#39;&lt;/span&gt; --filters &lt;span class="s2"&gt;&amp;#34;Name=instance-state-name,Values=running&amp;#34;&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;Name=tag:environment,Values=production&amp;#34;&lt;/span&gt; --output text
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h4 id="fetch-running-instance-for-given-tag"&gt;Fetch running instance for given tag&lt;/h4&gt;
+&lt;/div&gt;&lt;h3 id="fetch-running-instance-for-given-tag"&gt;Fetch running instance for given tag&lt;/h3&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
@@ -196,7 +196,7 @@ Absolute justice and impartiality: People may not like you but you would be resp
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;aws ec2 describe-instances --query &lt;span class="s1"&gt;&amp;#39;Reservations[*].Instances[*].[InstanceId,Tags[?Key==`Name`].Value|[0]]&amp;#39;&lt;/span&gt; --output table
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h4 id="fetch-just-filtered-instances-using---filters-option"&gt;fetch just filtered instances using &lt;code&gt;--filters&lt;/code&gt; option&lt;/h4&gt;
+&lt;/div&gt;&lt;h3 id="fetch-just-filtered-instances-using---filters-option"&gt;fetch just filtered instances using &lt;code&gt;--filters&lt;/code&gt; option&lt;/h3&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
@@ -205,7 +205,7 @@ Absolute justice and impartiality: People may not like you but you would be resp
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;aws ec2 describe-instances --output table --query &lt;span class="s1"&gt;&amp;#39;Reservations[].Instances[].[Tags[?Key==`Name`] | [0].Value, State.Name]&amp;#39;&lt;/span&gt; --filters &lt;span class="nv"&gt;Name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;instance-state-name,Values&lt;span class="o"&gt;=&lt;/span&gt;running &lt;span class="nv"&gt;Name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;tag:billing,Values&lt;span class="o"&gt;=&lt;/span&gt;devops
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h3 id="fetch-ami-id-and-name-start-with-given-name"&gt;Fetch AMI-ID and Name start with given Name&lt;/h3&gt;
+&lt;/div&gt;&lt;h2 id="fetch-ami-id-and-name-start-with-given-name"&gt;Fetch AMI-ID and Name start with given Name&lt;/h2&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
@@ -232,7 +232,7 @@ Absolute justice and impartiality: People may not like you but you would be resp
 &lt;li&gt;Suggested videos.&lt;/li&gt;
 &lt;li&gt;Comments (Wasted time reading it, and endup think, why in this world did I read them).&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id="steps"&gt;Steps&lt;/h3&gt;
+&lt;h2 id="steps"&gt;Steps&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Go to filters pane: &lt;a href="https://github.com/gorhill/uBlock/wiki/Dashboard:-My-filters"&gt;https://github.com/gorhill/uBlock/wiki/Dashboard:-My-filters&lt;/a&gt;&lt;/p&gt;
@@ -267,21 +267,21 @@ Absolute justice and impartiality: People may not like you but you would be resp
 &lt;p&gt;Loving is therapy for the soul.&lt;/p&gt;</description></item><item><title>What Does 9s Mean in Downtime</title><link>https://kbs.yinagi.in/ec9cc6baa4890df4cb5e5dc561d60e43/</link><pubDate>Fri, 19 Nov 2021 21:00:55 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/ec9cc6baa4890df4cb5e5dc561d60e43/</guid><description>&lt;p&gt;Sometime i just forgot how much 9s means in w.r.t SLA and how much downtime can be afforded and this above reference is simple and beautiful.&lt;/p&gt;
 &lt;p&gt;Try with multiple 9s like this: &lt;a href="https://uptime.is/99.9"&gt;https://uptime.is/99.9&lt;/a&gt; or &lt;a href="https://uptime.is/99.99"&gt;https://uptime.is/99.99&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To put from website.&lt;/p&gt;
-&lt;h3 id="999"&gt;99.9&lt;/h3&gt;
+&lt;h2 id="999"&gt;99.9&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;Daily: 1m 26s
 Weekly: 10m 4s
 Monthly: 43m 49s
 Quarterly: 2h 11m 29s
 Yearly: 8h 45m 56s
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id="9999"&gt;99.99&lt;/h3&gt;
+&lt;h2 id="9999"&gt;99.99&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;Daily: 8s
 Weekly: 1m 0s
 Monthly: 4m 22s
 Quarterly: 13m 8s
 Yearly: 52m 35s
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id="99999"&gt;99.999&lt;/h3&gt;
+&lt;h2 id="99999"&gt;99.999&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;Daily: 0s
 Weekly: 6s
 Monthly: 26s
@@ -290,9 +290,9 @@ Yearly: 5m 15s
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;For more 9s visit &lt;a href="https://uptime.is/99.9999"&gt;https://uptime.is/99.9999&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Understand How Cloth Is Made</title><link>https://kbs.yinagi.in/9d01b610df2e9fb18d7aa175fa879285/</link><pubDate>Fri, 19 Nov 2021 13:05:44 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/9d01b610df2e9fb18d7aa175fa879285/</guid><description>&lt;p&gt;So while shopping for my pajyamas today, was thinking how this cloth is made. After searching on youtube these few videos made it easier to understand.&lt;/p&gt;
 &lt;p&gt;First part is getting raw, either by cotton tree, or silk worm or cashmere/kashmir goats or sheeps etc.&lt;/p&gt;
-&lt;h4 id="on-simple-human-level"&gt;On simple human level&lt;/h4&gt;
+&lt;h2 id="on-simple-human-level"&gt;On simple human level&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=2LuuFXFDLDY"&gt;https://www.youtube.com/watch?v=2LuuFXFDLDY&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id="less-than-industrial-but-on-large-scale"&gt;Less than industrial but on large scale&lt;/h4&gt;
+&lt;h2 id="less-than-industrial-but-on-large-scale"&gt;Less than industrial but on large scale&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=9OHbJQ90hfY"&gt;https://www.youtube.com/watch?v=9OHbJQ90hfY&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Diff Between "su" and "su -"</title><link>https://kbs.yinagi.in/7fa5b4e9b48dbb81c234710d25151f22/</link><pubDate>Wed, 17 Nov 2021 09:25:52 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/7fa5b4e9b48dbb81c234710d25151f22/</guid><description>&lt;p&gt;Keeping here for reference:&lt;/p&gt;
 &lt;p&gt;The difference between &amp;ldquo;-&amp;rdquo; and &amp;ldquo;no hyphen&amp;rdquo; is&lt;/p&gt;
 &lt;ul&gt;
@@ -385,17 +385,17 @@ The hyphen has two effects:
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Solid Principle in Simple Way</title><link>https://kbs.yinagi.in/5df1af1a7c595eb1c55b78bc2086c772/</link><pubDate>Tue, 02 Nov 2021 22:00:04 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/5df1af1a7c595eb1c55b78bc2086c772/</guid><description>&lt;p&gt;Summary:&lt;/p&gt;
-&lt;h4 id="single-responsibility-principle-"&gt;Single Responsibility principle :&lt;/h4&gt;
+&lt;h2 id="single-responsibility-principle-"&gt;Single Responsibility principle :&lt;/h2&gt;
 &lt;p&gt;Don’t surprise the people who read your code.&lt;/p&gt;
 &lt;p&gt;There should never be more than one reason for a class to change. You should be able to use and add to a module without rewriting it.&lt;/p&gt;
-&lt;h4 id="open-close-principle"&gt;Open-Close principle&lt;/h4&gt;
+&lt;h2 id="open-close-principle"&gt;Open-Close principle&lt;/h2&gt;
 &lt;p&gt;Don’t surprise the people who use your code. Your code should be close for modification and open for extension&lt;/p&gt;
-&lt;h4 id="liskov-substitution-principle"&gt;Liskov substitution principle&lt;/h4&gt;
+&lt;h2 id="liskov-substitution-principle"&gt;Liskov substitution principle&lt;/h2&gt;
 &lt;p&gt;Don’t overwhelm the people who read your code.
 If S is a subtype of T, then objects of type T may be replaced with objects of type S without altering any of the desirable properties of the program. &lt;em&gt;You should be able to substitute one thing for another if those things are declared to behave the same way&lt;/em&gt;.&lt;/p&gt;
-&lt;h4 id="interface-segregation-principle-use-sane-boundaries-for-your-code"&gt;Interface segregation principle: Use sane boundaries for your code.&lt;/h4&gt;
+&lt;h2 id="interface-segregation-principle-use-sane-boundaries-for-your-code"&gt;Interface segregation principle: Use sane boundaries for your code.&lt;/h2&gt;
 &lt;p&gt;Many client-specific interfaces are better than one general-purpose interface. Don’t show your clients more than they need to see&lt;/p&gt;
-&lt;h4 id="dependency-inversion-principle-use-the-right-level-of-couplingkeep-things-together-that-belong-together-and-keep-them-apart-if-they-belong-apart"&gt;Dependency inversion principle: Use the right level of coupling—keep things together that belong together, and keep them apart if they belong apart.&lt;/h4&gt;
+&lt;h2 id="dependency-inversion-principle-use-the-right-level-of-couplingkeep-things-together-that-belong-together-and-keep-them-apart-if-they-belong-apart"&gt;Dependency inversion principle: Use the right level of coupling—keep things together that belong together, and keep them apart if they belong apart.&lt;/h2&gt;
 &lt;p&gt;Depend upon abstractions, not concretions.&lt;/p&gt;
 &lt;hr&gt;</description></item><item><title>Golang Codereview Comments</title><link>https://kbs.yinagi.in/c0ab4091d733d85471515c2cd581fd67/</link><pubDate>Wed, 27 Oct 2021 16:32:43 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/c0ab4091d733d85471515c2cd581fd67/</guid><description/></item><item><title>Terraform Best Practices</title><link>https://kbs.yinagi.in/e730b5f8cf640bb6823be168475994d9/</link><pubDate>Fri, 22 Oct 2021 10:52:47 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/e730b5f8cf640bb6823be168475994d9/</guid><description>&lt;p&gt;Some convetion for best practices, it would be better use lint to enforce them, still good to reference once in a while.&lt;/p&gt;</description></item><item><title>Multiple Git Ssh Config Single Machine</title><link>https://kbs.yinagi.in/d881fb4640d6de032e6221c9eabe0e39/</link><pubDate>Wed, 20 Oct 2021 10:21:50 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/d881fb4640d6de032e6221c9eabe0e39/</guid><description>&lt;p&gt;To use multiple github account on same hosts, and using ssh to push and pull the repo. We have multiple tricks&lt;/p&gt;
 &lt;ul&gt;
@@ -696,7 +696,7 @@ Disclaimer: Today India is in a very sad state w.r.t its culture and the same sy
 &lt;hr&gt;
 &lt;pre&gt;&lt;code&gt; So goal of life is to explore this third route
 &lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Novak Djokovic vs Rafael Nadal in the Longest Final in Grand Slam History</title><link>https://kbs.yinagi.in/dba141a324349154865a7bdf421eee15/</link><pubDate>Sat, 14 Aug 2021 01:48:05 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/dba141a324349154865a7bdf421eee15/</guid><description>&lt;p&gt;If this can&amp;rsquo;t inspire anyone, not sure what could. These guys played for around ~ 6 hours, and that&amp;rsquo;s an incredible feat of achievement.&lt;/p&gt;</description></item><item><title>How Kubectl Logs Work</title><link>https://kbs.yinagi.in/d19e8438d682f3f5a897296206ca9828/</link><pubDate>Fri, 13 Aug 2021 04:57:32 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/d19e8438d682f3f5a897296206ca9828/</guid><description>&lt;p&gt;Links to notion page, as it had diagram and it was easier to put post like these on notion.&lt;/p&gt;</description></item><item><title>Hard Drive Failure Report Backblaze</title><link>https://kbs.yinagi.in/332d6b43914e2eeba6333c1a057f9f15/</link><pubDate>Fri, 13 Aug 2021 04:45:22 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/332d6b43914e2eeba6333c1a057f9f15/</guid><description>&lt;p&gt;It gives us of which hard drive to buy and which not as they are one of the biggest buyer of hard-driver and see those working at scale.&lt;/p&gt;
-&lt;p&gt;As they mentioned Seagate ST16000NM001G has quite a high failure rate of 6.72% with backblaze so it would be wise to not buy that hard-drive.&lt;/p&gt;</description></item><item><title>Fake Reviews in Amazon</title><link>https://kbs.yinagi.in/203914e598a6b162307c47a51eb79378/</link><pubDate>Fri, 13 Aug 2021 04:41:18 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/203914e598a6b162307c47a51eb79378/</guid><description>&lt;h3 id="op-post-from-reddit-thread"&gt;OP post from &lt;a href="https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/"&gt;reddit thread&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As they mentioned Seagate ST16000NM001G has quite a high failure rate of 6.72% with backblaze so it would be wise to not buy that hard-drive.&lt;/p&gt;</description></item><item><title>Fake Reviews in Amazon</title><link>https://kbs.yinagi.in/203914e598a6b162307c47a51eb79378/</link><pubDate>Fri, 13 Aug 2021 04:41:18 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/203914e598a6b162307c47a51eb79378/</guid><description>&lt;h2 id="op-post-from-reddit-thread"&gt;OP post from &lt;a href="https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/"&gt;reddit thread&lt;/a&gt;&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt; First of all my background - I've been working on Amazon for years and know all the tricks of getting ranked. I do not engage in black hat tactics and I did the review game when it wasnt against TOS. As soon as they changed everything, I did not engage. However because of all my contacts I'm in the know for a lot of things. Getting reviews and the strategies used is one of those things.
 I noticed this brand popping up in searches a while back when it had only 5 reviews. I went into search mode after reading reviews and tried to figure out where this company came from.
 Their website lists no address but says that they adhere to standards in BC, Canada. I searched more and found an office address in Chinatown in Vancouver. I kept searching and found the business is registered to a 'investment group'.
@@ -720,7 +720,7 @@ So wait and watch over the next month as the reviews keep piling in, unless of c
 &lt;li&gt;Cross-referencing become difficult&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Cross referencing is important to me, and with keeping other param than UUID would be difficult to maintain, as it might break URL on this website(which is last thing I want), hence opting to machine generated &lt;a href="https://discourse.gohugo.io/t/generating-a-unique-number-or-string/7930/6"&gt;unique ID from hugo&lt;/a&gt; i.e. &lt;code&gt;{{ .File.UniqueID }}&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Personally for me &lt;a href="https://kbs.yinagi.in/tags/"&gt;tags&lt;/a&gt; are preferred way to find similar topics, if anyone else other than me is looking at this website.&lt;/p&gt;</description></item><item><title>Container Security Nist 800 190</title><link>https://kbs.yinagi.in/bookmarks/container-security-nist-800-190/</link><pubDate>Mon, 09 Aug 2021 10:17:05 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/bookmarks/container-security-nist-800-190/</guid><description>&lt;p&gt;About link takes you to NIST(National Institute of Standards and Technology) guide for container security @ &lt;a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf"&gt;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Linux Load Avgs</title><link>https://kbs.yinagi.in/bookmarks/linux-load-avgs/</link><pubDate>Mon, 09 Aug 2021 09:25:45 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/bookmarks/linux-load-avgs/</guid><description>&lt;h1 id="excerpt-from-blog-post"&gt;Excerpt from blog post&lt;/h1&gt;
+&lt;p&gt;Personally for me &lt;a href="https://kbs.yinagi.in/tags/"&gt;tags&lt;/a&gt; are preferred way to find similar topics, if anyone else other than me is looking at this website.&lt;/p&gt;</description></item><item><title>Container Security Nist 800 190</title><link>https://kbs.yinagi.in/bookmarks/container-security-nist-800-190/</link><pubDate>Mon, 09 Aug 2021 10:17:05 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/bookmarks/container-security-nist-800-190/</guid><description>&lt;p&gt;About link takes you to NIST(National Institute of Standards and Technology) guide for container security @ &lt;a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf"&gt;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Linux Load Avgs</title><link>https://kbs.yinagi.in/bookmarks/linux-load-avgs/</link><pubDate>Mon, 09 Aug 2021 09:25:45 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/bookmarks/linux-load-avgs/</guid><description>&lt;h2 id="excerpt-from-blog-post"&gt;Excerpt from blog post&lt;/h2&gt;
 &lt;p&gt;Linux load averages are &amp;ldquo;system load averages&amp;rdquo; that show the running thread (task) demand on the system as an average number of running plus waiting threads. This measures demand, which can be greater than what the system is currently processing. Most tools show three averages, for 1, 5, and 15 minutes:&lt;/p&gt;
 &lt;p&gt;Some interpretations:&lt;/p&gt;
 &lt;ul&gt;
@@ -729,14 +729,14 @@ So wait and watch over the next month as the reviews keep piling in, unless of c
 &lt;li&gt;If the 1 minute average is lower than the 5 or 15 minute averages, then load is decreasing.&lt;/li&gt;
 &lt;li&gt;If they are higher than your CPU count, then you might have a performance problem (it depends).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="making-sense-of-linux-load-averages"&gt;Making sense of Linux load averages&lt;/h2&gt;
+&lt;h3 id="making-sense-of-linux-load-averages"&gt;Making sense of Linux load averages&lt;/h3&gt;
 &lt;p&gt;I grew up with OSes where load averages meant CPU load averages, so the Linux version has always bothered me. Perhaps the real problem all along is that the words &amp;ldquo;load averages&amp;rdquo; are about as ambiguous as &amp;ldquo;I/O&amp;rdquo;. Which type of I/O? Disk I/O? File system I/O? Network I/O? &amp;hellip; Likewise, which load averages? CPU load averages? System load averages? Clarifying it this way lets me make sense of it like this:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;On Linux, load averages are (or try to be) &amp;quot;system load averages&amp;quot;, for the system as a whole, measuring the number of threads that are working and waiting to work (CPU, disk, uninterruptible locks). Put differently, it measures the number of threads that aren't completely idle. Advantage: includes demand for different resources.
 On other OSes, load averages are &amp;quot;CPU load averages&amp;quot;, measuring the number of CPU running + CPU runnable threads. Advantage: can be easier to understand and reason about (for CPUs only).
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Note that there&amp;rsquo;s another possible type: &amp;ldquo;physical resource load averages&amp;rdquo;, which would include load for physical resources only (CPU + disk).&lt;/p&gt;
 &lt;p&gt;Perhaps one day we&amp;rsquo;ll add additional load averages to Linux, and let the user choose what they want to use: a separate &amp;ldquo;CPU load averages&amp;rdquo;, &amp;ldquo;disk load averages&amp;rdquo;, &amp;ldquo;network load averages&amp;rdquo;, etc. Or just use different metrics altogether.&lt;/p&gt;
-&lt;h2 id="better-metrics"&gt;Better Metrics&lt;/h2&gt;
+&lt;h3 id="better-metrics"&gt;Better Metrics&lt;/h3&gt;
 &lt;p&gt;When Linux load averages increase, you know you have higher demand for resources (CPUs, disks, and some locks), but you aren&amp;rsquo;t sure which. You can use other metrics for clarification. For example, for CPUs:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;per-CPU utilization: eg, using mpstat -P ALL 1
 per-process CPU utilization: eg, top, pidstat 1, etc.
@@ -783,7 +783,7 @@ CPU run queue length: eg, using vmstat 1 and the 'r' column, or my runqlen bcc t
 &lt;/ul&gt;
 &lt;p&gt;So in the first case without test, there was 1% i.e. 1 in 100 that you&amp;rsquo;ve cancer without test. After the test, your chances just get updated. After test is positive your chances are: 1/100 * 10 ~ 1/10. So that is also not 100% sure now.&lt;/p&gt;
 &lt;p&gt;So for tests your symptoms, contacts, genetics all come up to increase the chance, but still not 100%, we need to remember. &lt;strong&gt;&amp;ldquo;All tests do is update the chances of having it, but not sure shot thing. Until tests are bulletproof.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id="better-to-watch-the-whole-video-above-are-just-notes-taken-from-there"&gt;Better to watch the whole video, above are just notes taken from there.&lt;/h3&gt;
+&lt;h2 id="better-to-watch-the-whole-video-above-are-just-notes-taken-from-there"&gt;Better to watch the whole video, above are just notes taken from there.&lt;/h2&gt;
 &lt;p&gt;One of top comments for youtube channel&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;As a doctor I&amp;rsquo;m so happy you&amp;rsquo;re using your platform to get this information out. Let me tell you though&amp;hellip; it gets way more complicated! Unfortunately prevalence estimates aren&amp;rsquo;t always known and are constantly changing (especially in pandemics). Another thing to consider is the gold standard. If your test looks for breast cancer you can cut out the lump and look at it under a microscope. Some diseases aren&amp;rsquo;t as easily clarified. For instance, since we don&amp;rsquo;t have a highly accurate, easy test for pancreatic cancer we rely on imaging, demographics, blood markers, symptoms (or lack thereof) as multiple things that form a conglomerate test to increase our Bayes factor. Despite all these things we can&amp;rsquo;t always get a great prediction on whether that scar in your bile duct is cancer or just a residual scar from pancreatitis you had 10 years ago. So we offer the patient a huge surgery to remove the head of their pancreas and duodenum only to find that it wasn&amp;rsquo;t cancer. You can imagine the patient is happy it&amp;rsquo;s not cancer but not so happy they don&amp;rsquo;t have half their pancreas and have abdominal pain and maybe diabetes. Medicine is a tricky thing. Another tricky thing is operator error. Some tests depend on the skill of the lab tech, radiologist, or surgeon. The complexity of the human body and the uniqueness of each individual also plays a role. Your test may be false positive in a particular patient 100% of the time because they have some strange protein mutation. It&amp;rsquo;s tough!&lt;/p&gt;
@@ -809,7 +809,7 @@ CPU run queue length: eg, using vmstat 1 and the 'r' column, or my runqlen bcc t
 &lt;p&gt;This continuous loop, then reduces our ability to focus and concentrate.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="solution"&gt;Solution&lt;/h3&gt;
+&lt;h2 id="solution"&gt;Solution&lt;/h2&gt;
 &lt;p&gt;So the problem is defined and most of us are aware of it and we need solutions. One such technique if you have lower focus time is to use pomodoro technique, created by Francesco Cirillo in the late 1980s.&lt;/p&gt;
 &lt;p&gt;Short note on pomodoro technique which helps me&lt;/p&gt;
 &lt;ol&gt;

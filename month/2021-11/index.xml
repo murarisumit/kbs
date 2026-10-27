@@ -56,7 +56,7 @@
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;aws elasticache describe-cache-clusters --show-cache-node-info --query CacheClusters&lt;span class="o"&gt;[]&lt;/span&gt;.&lt;span class="o"&gt;[&lt;/span&gt;CacheClusterId,CacheNodes&lt;span class="o"&gt;[]&lt;/span&gt;.Endpoint.Address&lt;span class="o"&gt;]&lt;/span&gt; --output table
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description></item><item><title>Awscli snippets</title><link>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</link><pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</guid><description>&lt;h4 id="fetch-running-instance-with-their-private-ip"&gt;Fetch running instance with their private IP&lt;/h4&gt;
+&lt;/div&gt;</description></item><item><title>Awscli snippets</title><link>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</link><pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</guid><description>&lt;h3 id="fetch-running-instance-with-their-private-ip"&gt;Fetch running instance with their private IP&lt;/h3&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
@@ -65,7 +65,7 @@
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;aws ec2 describe-instances --query &lt;span class="s1"&gt;&amp;#39;Reservations[*].Instances[*].[NetworkInterfaces[0].PrivateIpAddresses[0].PrivateIpAddress,Tags[?Key==`Name`].Value| [0]]&amp;#39;&lt;/span&gt; --filters &lt;span class="s2"&gt;&amp;#34;Name=instance-state-name,Values=running&amp;#34;&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;Name=tag:environment,Values=production&amp;#34;&lt;/span&gt; --output text
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h4 id="fetch-running-instance-for-given-tag"&gt;Fetch running instance for given tag&lt;/h4&gt;
+&lt;/div&gt;&lt;h3 id="fetch-running-instance-for-given-tag"&gt;Fetch running instance for given tag&lt;/h3&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
@@ -80,7 +80,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;aws ec2 describe-instances --query &lt;span class="s1"&gt;&amp;#39;Reservations[*].Instances[*].[InstanceId,Tags[?Key==`Name`].Value|[0]]&amp;#39;&lt;/span&gt; --output table
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h4 id="fetch-just-filtered-instances-using---filters-option"&gt;fetch just filtered instances using &lt;code&gt;--filters&lt;/code&gt; option&lt;/h4&gt;
+&lt;/div&gt;&lt;h3 id="fetch-just-filtered-instances-using---filters-option"&gt;fetch just filtered instances using &lt;code&gt;--filters&lt;/code&gt; option&lt;/h3&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
@@ -89,7 +89,7 @@
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;aws ec2 describe-instances --output table --query &lt;span class="s1"&gt;&amp;#39;Reservations[].Instances[].[Tags[?Key==`Name`] | [0].Value, State.Name]&amp;#39;&lt;/span&gt; --filters &lt;span class="nv"&gt;Name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;instance-state-name,Values&lt;span class="o"&gt;=&lt;/span&gt;running &lt;span class="nv"&gt;Name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;tag:billing,Values&lt;span class="o"&gt;=&lt;/span&gt;devops
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h3 id="fetch-ami-id-and-name-start-with-given-name"&gt;Fetch AMI-ID and Name start with given Name&lt;/h3&gt;
+&lt;/div&gt;&lt;h2 id="fetch-ami-id-and-name-start-with-given-name"&gt;Fetch AMI-ID and Name start with given Name&lt;/h2&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
@@ -116,7 +116,7 @@
 &lt;li&gt;Suggested videos.&lt;/li&gt;
 &lt;li&gt;Comments (Wasted time reading it, and endup think, why in this world did I read them).&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id="steps"&gt;Steps&lt;/h3&gt;
+&lt;h2 id="steps"&gt;Steps&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Go to filters pane: &lt;a href="https://github.com/gorhill/uBlock/wiki/Dashboard:-My-filters"&gt;https://github.com/gorhill/uBlock/wiki/Dashboard:-My-filters&lt;/a&gt;&lt;/p&gt;
@@ -151,21 +151,21 @@
 &lt;p&gt;Loving is therapy for the soul.&lt;/p&gt;</description></item><item><title>What Does 9s Mean in Downtime</title><link>https://kbs.yinagi.in/ec9cc6baa4890df4cb5e5dc561d60e43/</link><pubDate>Fri, 19 Nov 2021 21:00:55 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/ec9cc6baa4890df4cb5e5dc561d60e43/</guid><description>&lt;p&gt;Sometime i just forgot how much 9s means in w.r.t SLA and how much downtime can be afforded and this above reference is simple and beautiful.&lt;/p&gt;
 &lt;p&gt;Try with multiple 9s like this: &lt;a href="https://uptime.is/99.9"&gt;https://uptime.is/99.9&lt;/a&gt; or &lt;a href="https://uptime.is/99.99"&gt;https://uptime.is/99.99&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To put from website.&lt;/p&gt;
-&lt;h3 id="999"&gt;99.9&lt;/h3&gt;
+&lt;h2 id="999"&gt;99.9&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;Daily: 1m 26s
 Weekly: 10m 4s
 Monthly: 43m 49s
 Quarterly: 2h 11m 29s
 Yearly: 8h 45m 56s
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id="9999"&gt;99.99&lt;/h3&gt;
+&lt;h2 id="9999"&gt;99.99&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;Daily: 8s
 Weekly: 1m 0s
 Monthly: 4m 22s
 Quarterly: 13m 8s
 Yearly: 52m 35s
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id="99999"&gt;99.999&lt;/h3&gt;
+&lt;h2 id="99999"&gt;99.999&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;Daily: 0s
 Weekly: 6s
 Monthly: 26s
@@ -174,9 +174,9 @@ Yearly: 5m 15s
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;For more 9s visit &lt;a href="https://uptime.is/99.9999"&gt;https://uptime.is/99.9999&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Understand How Cloth Is Made</title><link>https://kbs.yinagi.in/9d01b610df2e9fb18d7aa175fa879285/</link><pubDate>Fri, 19 Nov 2021 13:05:44 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/9d01b610df2e9fb18d7aa175fa879285/</guid><description>&lt;p&gt;So while shopping for my pajyamas today, was thinking how this cloth is made. After searching on youtube these few videos made it easier to understand.&lt;/p&gt;
 &lt;p&gt;First part is getting raw, either by cotton tree, or silk worm or cashmere/kashmir goats or sheeps etc.&lt;/p&gt;
-&lt;h4 id="on-simple-human-level"&gt;On simple human level&lt;/h4&gt;
+&lt;h2 id="on-simple-human-level"&gt;On simple human level&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=2LuuFXFDLDY"&gt;https://www.youtube.com/watch?v=2LuuFXFDLDY&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id="less-than-industrial-but-on-large-scale"&gt;Less than industrial but on large scale&lt;/h4&gt;
+&lt;h2 id="less-than-industrial-but-on-large-scale"&gt;Less than industrial but on large scale&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=9OHbJQ90hfY"&gt;https://www.youtube.com/watch?v=9OHbJQ90hfY&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Diff Between "su" and "su -"</title><link>https://kbs.yinagi.in/7fa5b4e9b48dbb81c234710d25151f22/</link><pubDate>Wed, 17 Nov 2021 09:25:52 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/7fa5b4e9b48dbb81c234710d25151f22/</guid><description>&lt;p&gt;Keeping here for reference:&lt;/p&gt;
 &lt;p&gt;The difference between &amp;ldquo;-&amp;rdquo; and &amp;ldquo;no hyphen&amp;rdquo; is&lt;/p&gt;
 &lt;ul&gt;
@@ -269,16 +269,16 @@ The hyphen has two effects:
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Solid Principle in Simple Way</title><link>https://kbs.yinagi.in/5df1af1a7c595eb1c55b78bc2086c772/</link><pubDate>Tue, 02 Nov 2021 22:00:04 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/5df1af1a7c595eb1c55b78bc2086c772/</guid><description>&lt;p&gt;Summary:&lt;/p&gt;
-&lt;h4 id="single-responsibility-principle-"&gt;Single Responsibility principle :&lt;/h4&gt;
+&lt;h2 id="single-responsibility-principle-"&gt;Single Responsibility principle :&lt;/h2&gt;
 &lt;p&gt;Don’t surprise the people who read your code.&lt;/p&gt;
 &lt;p&gt;There should never be more than one reason for a class to change. You should be able to use and add to a module without rewriting it.&lt;/p&gt;
-&lt;h4 id="open-close-principle"&gt;Open-Close principle&lt;/h4&gt;
+&lt;h2 id="open-close-principle"&gt;Open-Close principle&lt;/h2&gt;
 &lt;p&gt;Don’t surprise the people who use your code. Your code should be close for modification and open for extension&lt;/p&gt;
-&lt;h4 id="liskov-substitution-principle"&gt;Liskov substitution principle&lt;/h4&gt;
+&lt;h2 id="liskov-substitution-principle"&gt;Liskov substitution principle&lt;/h2&gt;
 &lt;p&gt;Don’t overwhelm the people who read your code.
 If S is a subtype of T, then objects of type T may be replaced with objects of type S without altering any of the desirable properties of the program. &lt;em&gt;You should be able to substitute one thing for another if those things are declared to behave the same way&lt;/em&gt;.&lt;/p&gt;
-&lt;h4 id="interface-segregation-principle-use-sane-boundaries-for-your-code"&gt;Interface segregation principle: Use sane boundaries for your code.&lt;/h4&gt;
+&lt;h2 id="interface-segregation-principle-use-sane-boundaries-for-your-code"&gt;Interface segregation principle: Use sane boundaries for your code.&lt;/h2&gt;
 &lt;p&gt;Many client-specific interfaces are better than one general-purpose interface. Don’t show your clients more than they need to see&lt;/p&gt;
-&lt;h4 id="dependency-inversion-principle-use-the-right-level-of-couplingkeep-things-together-that-belong-together-and-keep-them-apart-if-they-belong-apart"&gt;Dependency inversion principle: Use the right level of coupling—keep things together that belong together, and keep them apart if they belong apart.&lt;/h4&gt;
+&lt;h2 id="dependency-inversion-principle-use-the-right-level-of-couplingkeep-things-together-that-belong-together-and-keep-them-apart-if-they-belong-apart"&gt;Dependency inversion principle: Use the right level of coupling—keep things together that belong together, and keep them apart if they belong apart.&lt;/h2&gt;
 &lt;p&gt;Depend upon abstractions, not concretions.&lt;/p&gt;
 &lt;hr&gt;</description></item></channel></rss>

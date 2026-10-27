@@ -9,7 +9,7 @@
 &lt;li&gt;User-space where user is allowed to access memory or perform operation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;For longer and more accurate answer &lt;a href="https://unix.stackexchange.com/a/368313"&gt;https://unix.stackexchange.com/a/368313&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id="below-are-some-samples"&gt;Below are some samples&lt;/h4&gt;
+&lt;h2 id="below-are-some-samples"&gt;Below are some samples&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;First sample usage: &lt;code&gt;strace ls -l&lt;/code&gt;&lt;/p&gt;
