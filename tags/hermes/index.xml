@@ -59,7 +59,7 @@
 &lt;h3 id="takeaways"&gt;Takeaways&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;When one fact lives in three places, &amp;ldquo;is the data correct?&amp;rdquo; is the wrong question. Ask which copy the UI actually trusts.&lt;/li&gt;
-&lt;li&gt;A &amp;ldquo;local wins&amp;rdquo; cache needs a way to invalidate it, or the app&amp;rsquo;s own Save button becomes the only write path that works.&lt;/li&gt;
+&lt;li&gt;A &amp;ldquo;local wins&amp;rdquo; cache needs a way to invalidate it, or a correct server copy can stay invisible.&lt;/li&gt;
 &lt;li&gt;Edit Profile, then Save, is the path that updates every layer. If you change files directly, clear the plugin&amp;rsquo;s cache too.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Next, part 2: where Hermes skills live.&lt;/p&gt;
