@@ -48,13 +48,13 @@
 &lt;li&gt;Internet Society (2018): &lt;a href="https://www.internetsociety.org/blog/2018/04/amazons-route-53-bgp-hijack/"&gt;What Happened? The Amazon Route 53 BGP Hijack to Take Over Ethereum Cryptocurrency Wallets&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://emudhra.we-have-a-problem.com/"&gt;eMudhra Intermediate CA Compromise: checks and fixes per OS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Simplified view on How Certificate Signing works</title><link>https://kbs.yinagi.in/tils/how-certificate-signing-works/</link><pubDate>Tue, 21 Jul 2020 05:06:45 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/tils/how-certificate-signing-works/</guid><description>&lt;p&gt;Reference: &lt;a href="https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/"&gt;https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id="steps-for-signing-certificate-by-ca"&gt;Steps for signing certificate by CA&lt;/h4&gt;
+&lt;h2 id="steps-for-signing-certificate-by-ca"&gt;Steps for signing certificate by CA&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Subscriber (the person asking a CA to issue them a certificate) sends a Certificate Signing Request (CSR) to the CA which contains all of their details like name, domain name etc.&lt;/li&gt;
 &lt;li&gt;The CA will then take a blank certificate and begins to fill in the details of the Subscriber, validating ownership of the domain along the way, until they have completed all of the fields in the certificate.&lt;/li&gt;
 &lt;li&gt;At this stage we have what we call the Pre-Certificate, it&amp;rsquo;s basically a finished certificate ready to issue but the only thing that&amp;rsquo;s missing is the CAs signature on the bottom of the certificate to make it official&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4 id="signing-of-certificate"&gt;Signing of certificate&lt;/h4&gt;
+&lt;h2 id="signing-of-certificate"&gt;Signing of certificate&lt;/h2&gt;
 &lt;ol start="4"&gt;
 &lt;li&gt;CA takes Pre-Certificate and running it through a hash function, currently SHA256, to obtain the digest.&lt;/li&gt;
 &lt;li&gt;The second step is the CA then taking that digest and encrypting it with their private key.&lt;/li&gt;
@@ -70,7 +70,7 @@
 &lt;p&gt;Q: How does adding the &lt;strong&gt;encrypted digest&lt;/strong&gt; i.e. signature makes it signed certificate ?&lt;/p&gt;
 &lt;p&gt;A: It can better be explained by putting browser in picture and looking at what it does while requesting https website.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h4 id="what-browser-does"&gt;What browser does&lt;/h4&gt;
+&lt;h2 id="what-browser-does"&gt;What browser does&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;During tls handshake with https endpoint, it fetches associate intermediate certificate and root certificate.
 &lt;ul&gt;
