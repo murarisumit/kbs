@@ -102,7 +102,7 @@ My app should be a follow these 12 factor or confor with as my factor possible.&
 &lt;li&gt;It’s most important to get it done.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;While doing any of 12 factors given below(maintaining configs/dependencies management, or trying build,release), read below mentioned best practices.&lt;/p&gt;
-&lt;h3 id="the-twelve-factors"&gt;The Twelve Factors&lt;/h3&gt;
+&lt;h2 id="the-twelve-factors"&gt;The Twelve Factors&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href="https://12factor.net/codebase"&gt;Codebase&lt;/a&gt;: One codebase tracked in revision control, many deploys&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://12factor.net/dependencies"&gt;Dependencies&lt;/a&gt;: Explicitly declare and isolate dependencies&lt;/li&gt;
@@ -118,26 +118,26 @@ My app should be a follow these 12 factor or confor with as my factor possible.&
 &lt;li&gt;&lt;a href="https://12factor.net/admin-processes"&gt;Admin processes&lt;/a&gt;: Run admin/management tasks as one-off processes&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;References:
-This post is copied from &lt;a href="https://12factor.net/"&gt;https://12factor.net/&lt;/a&gt; and kept here for my personal reference.&lt;/p&gt;</description></item><item><title>Firefox Tricks</title><link>https://kbs.yinagi.in/en/72ff43ee035217085d814ff2033b47da/</link><pubDate>Fri, 16 Aug 2024 23:19:50 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/72ff43ee035217085d814ff2033b47da/</guid><description>&lt;h4 id="search-from-bookmarks-only"&gt;Search from bookmarks only:&lt;/h4&gt;
+This post is copied from &lt;a href="https://12factor.net/"&gt;https://12factor.net/&lt;/a&gt; and kept here for my personal reference.&lt;/p&gt;</description></item><item><title>Firefox Tricks</title><link>https://kbs.yinagi.in/en/72ff43ee035217085d814ff2033b47da/</link><pubDate>Fri, 16 Aug 2024 23:19:50 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/72ff43ee035217085d814ff2033b47da/</guid><description>&lt;h2 id="search-from-bookmarks-only"&gt;Search from bookmarks only:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Press F6 i.e. goto search/url bar&lt;/li&gt;
 &lt;li&gt;Press *[_]search_text i.e. star space search_text&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="search-from-open-tabs-only"&gt;Search from open tabs only:&lt;/h4&gt;
+&lt;h2 id="search-from-open-tabs-only"&gt;Search from open tabs only:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Press F6 i.e. goto search/url bar&lt;/li&gt;
 &lt;li&gt;Press % search_text i.e. star space search_text&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="restart-the-firefox-without-losing-current-tabs-or-context"&gt;Restart the firefox without losing current tabs or context:&lt;/h4&gt;
+&lt;h2 id="restart-the-firefox-without-losing-current-tabs-or-context"&gt;Restart the firefox without losing current tabs or context:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Press Shift+f2, a shell at bottom of screen will show up.&lt;/li&gt;
 &lt;li&gt;Type restart&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="find-your-profile-folder-location-from-firefox-itself"&gt;Find your profile folder location from firefox itself.&lt;/h4&gt;
+&lt;h2 id="find-your-profile-folder-location-from-firefox-itself"&gt;Find your profile folder location from firefox itself.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Press F6 i.e. goto search/url bar&lt;/li&gt;
 &lt;li&gt;Type about:support, will show all the details.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Frequency in Electricity</title><link>https://kbs.yinagi.in/en/a9a02bc27366cf020d00baf3ae29e77e/</link><pubDate>Fri, 16 Aug 2024 23:08:35 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/a9a02bc27366cf020d00baf3ae29e77e/</guid><description>&lt;h3 id="how-is-electricity-produced"&gt;How is electricity produced.&lt;/h3&gt;
+&lt;/ul&gt;</description></item><item><title>Frequency in Electricity</title><link>https://kbs.yinagi.in/en/a9a02bc27366cf020d00baf3ae29e77e/</link><pubDate>Fri, 16 Aug 2024 23:08:35 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/a9a02bc27366cf020d00baf3ae29e77e/</guid><description>&lt;h2 id="how-is-electricity-produced"&gt;How is electricity produced.&lt;/h2&gt;
 &lt;p&gt;A characteristic of electricity is that it is not a primary energy freely present in nature in remarkable amounts and it must be produced. Production is carried out in power stations (also called “power plants”).&lt;/p&gt;
 &lt;p&gt;Most power plants/stations contain one or more generators, a rotating machine that converts mechanical power into electrical power. The relative motion between a magnetic field and a conductor creates an electrical current.&lt;/p&gt;
 &lt;p&gt;So the source can be different to move the generator:&lt;/p&gt;
@@ -150,7 +150,7 @@ This post is copied from &lt;a href="https://12factor.net/"&gt;https://12factor.
 &lt;li&gt;Or geothermal energy to move turbines.&lt;/li&gt;
 &lt;li&gt;Basically, any mechanical movement can be used to move the generator.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="frequency-in-electricity"&gt;Frequency in electricity&lt;/h3&gt;
+&lt;h2 id="frequency-in-electricity"&gt;Frequency in electricity&lt;/h2&gt;
 &lt;p&gt;How does frequency come about? As we know, electricity is produced by converting mechanical movement to electricity using the phenomenon of magnetism.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;So when a conductor rotates in a magnetic field, the magnetic field lines are cut and current is induced in the conductor.&lt;/li&gt;
@@ -240,7 +240,7 @@ What is a MAC address?
 &lt;li&gt;filter: Apply function to all elements in sequence and return only those elements for which the function returns True&lt;/li&gt;
 &lt;li&gt;reduce: Apply function to all elements in sequence cumulatively&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="map"&gt;Map&lt;/h3&gt;
+&lt;h2 id="map"&gt;Map&lt;/h2&gt;
 &lt;p&gt;The function map(f,l) applies the function f() to all the elements of the sequence l. It returns a new list with the elements changed by f().&lt;/p&gt;
 &lt;p&gt;Without lambda:&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
@@ -282,7 +282,7 @@ What is a MAC address?
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;C&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;map&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;to_celsius&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;F&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h3 id="filter"&gt;Filter&lt;/h3&gt;
+&lt;/div&gt;&lt;h2 id="filter"&gt;Filter&lt;/h2&gt;
 &lt;p&gt;The function filter(f,l) needs a function f as its first argument. f returns a Boolean value, i.e. either True or False.&lt;/p&gt;
 &lt;p&gt;Here the function will list the odd Fibonacci numbers&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
@@ -307,7 +307,7 @@ What is a MAC address?
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;34&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h3 id="reduce"&gt;Reduce&lt;/h3&gt;
+&lt;/div&gt;&lt;h2 id="reduce"&gt;Reduce&lt;/h2&gt;
 &lt;p&gt;The function reduce(f,l) continually applies the function f() to the sequence l. It returns a single value.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;At first the first two elements of sequence are applied to f, i.e. f(s1,s2)&lt;/li&gt;
@@ -336,7 +336,7 @@ What is a MAC address?
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://python-course.eu/advanced-python/lambda-filter-reduce-map.php"&gt;https://python-course.eu/advanced-python/lambda-filter-reduce-map.php&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>'in-addr.arpa' in DNS</title><link>https://kbs.yinagi.in/en/d0cb2c770b64f100615c2784aabec28e/</link><pubDate>Wed, 24 Jul 2024 07:15:19 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/d0cb2c770b64f100615c2784aabec28e/</guid><description>&lt;p&gt;Doing a reverse DNS lookup is a common task, where you find out which domain is associated with this ip. This is done by querying the PTR record of the &amp;lsquo;in-addr.arpa&amp;rsquo; domain. This domain is used for reverse DNS lookups, mapping IP addresses back to domain names. Here&amp;rsquo;s how it works:&lt;/p&gt;
-&lt;h3 id="sample-reverse-dns-lookup"&gt;Sample reverse DNS lookup&lt;/h3&gt;
+&lt;h2 id="sample-reverse-dns-lookup"&gt;Sample reverse DNS lookup&lt;/h2&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
@@ -394,7 +394,7 @@ What is a MAC address?
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;;&lt;/span&gt;1.2.0.192.in-addr.arpa. IN PTR
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h3 id="now-question-comes-where-does-in-addrarpa-come-from-"&gt;Now question comes where does &amp;lsquo;in-addr.arpa&amp;rsquo; come from ?&lt;/h3&gt;
+&lt;/div&gt;&lt;h2 id="now-question-comes-where-does-in-addrarpa-come-from-"&gt;Now question comes where does &amp;lsquo;in-addr.arpa&amp;rsquo; come from ?&lt;/h2&gt;
 &lt;p&gt;The &amp;lsquo;in-addr&amp;rsquo; part stands for &amp;ldquo;inverse address,&amp;rdquo; indicating its role in reverse address mapping The use of “in-addr.arpa” is defined by various internet standards (RFCs).&lt;/p&gt;
 &lt;p&gt;One of oldest RFC from &amp;lsquo;Nov 1987&amp;rsquo; &lt;a href="https://tools.ietf.org/html/rfc1035"&gt;RFC 1035&lt;/a&gt; which defines the DNS protocol and its operations. Here is the excerpt from &lt;a href="https://datatracker.ietf.org/doc/html/rfc1035#section-3.5"&gt;section 3.5&lt;/a&gt;&lt;/p&gt;
 &lt;div style="text-align: center;"&gt;
@@ -563,17 +563,17 @@ When an IPv4 address like &lt;code&gt;192.0.2.1&lt;/code&gt; needs to be resolve
 &lt;li&gt;Appended with &amp;lsquo;in-addr.arpa&amp;rsquo;, resulting in &lt;code&gt;1.2.0.192.in-addr.arpa&lt;/code&gt;.&lt;/li&gt;
 &lt;li&gt;DNS query is then made for this domain to retrieve the &lt;strong&gt;PTR&lt;/strong&gt; record, which provides the domain name associated with the IP address.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id="q-who-manages-the-in-addrarpa-domain"&gt;Q: Who manages the &amp;lsquo;in-addr.arpa&amp;rsquo; domain?&lt;/h3&gt;
+&lt;h2 id="q-who-manages-the-in-addrarpa-domain"&gt;Q: Who manages the &amp;lsquo;in-addr.arpa&amp;rsquo; domain?&lt;/h2&gt;
 &lt;p&gt;Hierarchical like the normal DNS.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;IANA(Internet Assigned Numbers Authority) oversees the top-level delegation(i.e. in-addr.arpa).&lt;/li&gt;
 &lt;li&gt;RIRs(Regional Internet Registries) manage portions of the namespace within their regions.&lt;/li&gt;
 &lt;li&gt;ISPs and organizations manage reverse DNS for their allocated IP address ranges, creating PTR records within the appropriate &amp;lsquo;in-addr.arpa&amp;rsquo; subdomains.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="q-what-about-private-ip-addresses-and-reverse-dns"&gt;Q: What about private IP addresses and reverse DNS?&lt;/h3&gt;
+&lt;h2 id="q-what-about-private-ip-addresses-and-reverse-dns"&gt;Q: What about private IP addresses and reverse DNS?&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;A&lt;/strong&gt;: For private IP address blocks (such as &lt;code&gt;10.0.0.0/8&lt;/code&gt;, &lt;code&gt;172.16.0.0/12&lt;/code&gt;, &lt;code&gt;192.168.0.0/16&lt;/code&gt;), reverse DNS is managed internally within the organization.&lt;/p&gt;
 &lt;p&gt;You can also do &lt;code&gt;dig -x 192.168.2.1&lt;/code&gt; or &lt;code&gt;dig 1.2.168.192.in-addr.arpa PTR&lt;/code&gt; manually to check the reverse DNS for private IP addresses.&lt;/p&gt;
-&lt;h3 id="q-what-about-ipv6-reverse-dns"&gt;Q: What about IPv6 reverse DNS?&lt;/h3&gt;
+&lt;h2 id="q-what-about-ipv6-reverse-dns"&gt;Q: What about IPv6 reverse DNS?&lt;/h2&gt;
 &lt;p&gt;Similar to IPv4, IPv6 addresses are also mapped back to domain names using the &amp;lsquo;ip6.arpa&amp;rsquo; domain. The process is similar, but the domain name is constructed differently due to the longer address length of IPv6.&lt;/p&gt;
 &lt;p&gt;Doing &lt;code&gt;dig -x 2001:0db8::1&lt;/code&gt; or &lt;code&gt;dig 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.b.d.0.1.0.0.2.ip6.arpa. PTR&lt;/code&gt;&lt;/p&gt;</description></item><item><title>What Is Spacetime in Einstein Theory</title><link>https://kbs.yinagi.in/en/f7de1f85aff4e3440204f197756f8b68/</link><pubDate>Tue, 02 Jul 2024 04:22:28 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/f7de1f85aff4e3440204f197756f8b68/</guid><description>
 &lt;div class="reftext"&gt;
@@ -593,7 +593,7 @@ When an IPv4 address like &lt;code&gt;192.0.2.1&lt;/code&gt; needs to be resolve
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;** Note: I don&amp;rsquo;t have intuition about spacetime in Einstein theory. **&lt;/p&gt;
-&lt;h4 id="what-is-spacetime-in-einstein-theory-"&gt;What is spacetime in Einstein theory ?&lt;/h4&gt;
+&lt;h2 id="what-is-spacetime-in-einstein-theory-"&gt;What is spacetime in Einstein theory ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;It&amp;rsquo;s like all objects in the universe sit in a smooth, four-dimensional fabric called space-time.&lt;/li&gt;
 &lt;li&gt;This fabric is curved by the mass and energy of objects in it.&lt;/li&gt;
@@ -615,7 +615,7 @@ When an IPv4 address like &lt;code&gt;192.0.2.1&lt;/code&gt; needs to be resolve
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="newtons-theory-of-gravity"&gt;Newton&amp;rsquo;s theory of gravity&lt;/h4&gt;
+&lt;h2 id="newtons-theory-of-gravity"&gt;Newton&amp;rsquo;s theory of gravity&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Newton had his theory why we feel this acceleration. He said that mass attracts mass.
 &lt;ul&gt;
@@ -623,7 +623,7 @@ When an IPv4 address like &lt;code&gt;192.0.2.1&lt;/code&gt; needs to be resolve
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="einsteins-theory-of-gravity"&gt;Einstein&amp;rsquo;s theory of gravity&lt;/h4&gt;
+&lt;h2 id="einsteins-theory-of-gravity"&gt;Einstein&amp;rsquo;s theory of gravity&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Einstein had his theory on how this force comes.&lt;/li&gt;
 &lt;li&gt;He said that mass bends the &lt;a href="https://kbs.yinagi.in/en/f7de1f85aff4e3440204f197756f8b68/"&gt;space-time&lt;/a&gt; around it. So, objects are pulled towards the mass. This bending of space-time is called gravity.
@@ -632,7 +632,7 @@ When an IPv4 address like &lt;code&gt;192.0.2.1&lt;/code&gt; needs to be resolve
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Whatever the theory of origin of this force, we found that earth &amp;amp; other planets pull objects towards themselves which causes acceleration. This acceleration is called gravity.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Understanding Physics Units in Basic Form</title><link>https://kbs.yinagi.in/en/c6e8cea33966964777e8ec8b34a71cef/</link><pubDate>Tue, 02 Jul 2024 04:08:15 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/c6e8cea33966964777e8ec8b34a71cef/</guid><description>&lt;h3 id="first-how-big-is-a-meter-and-a-second"&gt;First, how big is a meter and a second?&lt;/h3&gt;
+&lt;/ul&gt;</description></item><item><title>Understanding Physics Units in Basic Form</title><link>https://kbs.yinagi.in/en/c6e8cea33966964777e8ec8b34a71cef/</link><pubDate>Tue, 02 Jul 2024 04:08:15 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/c6e8cea33966964777e8ec8b34a71cef/</guid><description>&lt;h2 id="first-how-big-is-a-meter-and-a-second"&gt;First, how big is a meter and a second?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;1 meter (m)&lt;/strong&gt; is about one big step, or about half the height of a standard door (a door is about 2 m high). In feet, 1 m is about 3.3 ft, or 39 inches.
 &lt;ul&gt;
@@ -651,7 +651,7 @@ When an IPv4 address like &lt;code&gt;192.0.2.1&lt;/code&gt; needs to be resolve
 &lt;/li&gt;
 &lt;li&gt;Everything below is built from these ideas.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="how-much-is-ms2"&gt;How much is m/s^2&lt;/h3&gt;
+&lt;h2 id="how-much-is-ms2"&gt;How much is m/s^2&lt;/h2&gt;
 &lt;p&gt;Start with a car. An Alto K10 takes about 12 to 15 seconds to go from 0 to 100 km/h (62 mph) in road tests. Say 13 seconds. It gains about 2 m/s of speed every second. That is an acceleration of about &lt;strong&gt;2 m/s^2&lt;/strong&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;100 km/h = 27.8 m/s, so 27.8 m/s / 13 s = 2.1 m/s^2.&lt;/li&gt;
@@ -668,7 +668,7 @@ When an IPv4 address like &lt;code&gt;192.0.2.1&lt;/code&gt; needs to be resolve
 &lt;li&gt;That 98 m/s is only true with no air. In real life, air drag stops a falling person from getting faster at about 55 m/s (200 km/h, roughly 120 mph) when falling belly-down. This is why skydivers don&amp;rsquo;t keep speeding up.&lt;/li&gt;
 &lt;li&gt;For comparison, Usain Bolt&amp;rsquo;s top speed is about 12 m/s (43 km/h, 27 mph), which for a moment is about an auto-rickshaw&amp;rsquo;s cruising speed.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="how-much-is-1-newton"&gt;How much is 1 Newton&lt;/h3&gt;
+&lt;h2 id="how-much-is-1-newton"&gt;How much is 1 Newton&lt;/h2&gt;
 &lt;p&gt;Hold a 100 g apple (about 3.5 oz) in your hand. The pull of gravity on it, the force you feel in your palm, is about &lt;strong&gt;1 Newton (N)&lt;/strong&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Formula: &lt;code&gt;force = mass x acceleration&lt;/code&gt;&lt;/li&gt;
@@ -677,7 +677,7 @@ When an IPv4 address like &lt;code&gt;192.0.2.1&lt;/code&gt; needs to be resolve
 &lt;li&gt;A 1 kg packet of atta pulls down with about 9.8 N, so about 10 N.&lt;/li&gt;
 &lt;li&gt;A 60 kg (132 lb) person: 60 kg x 9.8 m/s^2 = 588 N. That is the force Earth pulls them down with, and the force they press on the floor with while standing still (about 132 lbf).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="how-much-is-1-joule"&gt;How much is 1 Joule&lt;/h3&gt;
+&lt;h2 id="how-much-is-1-joule"&gt;How much is 1 Joule&lt;/h2&gt;
 &lt;p&gt;A Joule is the energy it takes to push with a force of 1 N over a distance of 1 m.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Formula: &lt;code&gt;energy (work) = force x distance&lt;/code&gt;, so 1 J = 1 N x 1 m.&lt;/li&gt;
@@ -689,7 +689,7 @@ When an IPv4 address like &lt;code&gt;192.0.2.1&lt;/code&gt; needs to be resolve
 &lt;li&gt;Lifting the 1 kg packet of atta by 1 m takes about 9.8 J.&lt;/li&gt;
 &lt;li&gt;A typical phone battery (about 3,000 mAh) holds roughly 11 Wh, which is about &lt;strong&gt;40,000 J&lt;/strong&gt;. That is the same energy as lifting around 40,000 apples up by 1 m.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="how-much-is-1-watt"&gt;How much is 1 Watt&lt;/h3&gt;
+&lt;h2 id="how-much-is-1-watt"&gt;How much is 1 Watt&lt;/h2&gt;
 &lt;p&gt;A Watt is how fast you use energy: &lt;strong&gt;1 Watt = 1 Joule every second.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Formula: &lt;code&gt;power = energy / time&lt;/code&gt;, so 1 W = 1 J / 1 s.&lt;/li&gt;
@@ -711,7 +711,7 @@ When an IPv4 address like &lt;code&gt;192.0.2.1&lt;/code&gt; needs to be resolve
 &lt;/li&gt;
 &lt;li&gt;A 100 W light bulb uses 100 J every second (100 W = 100 J/s). That is the old filament kind. A modern LED bulb that lights a room about as well as a 60 W filament bulb uses only about 9 W.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="what-is-watt-hour"&gt;What is Watt-hour&lt;/h3&gt;
+&lt;h2 id="what-is-watt-hour"&gt;What is Watt-hour&lt;/h2&gt;
 &lt;p&gt;A Watt-hour (Wh) is a unit of &lt;strong&gt;energy&lt;/strong&gt;, not power. It is the energy used by 1 Watt running for 1 hour.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Formula: &lt;code&gt;energy = power x time&lt;/code&gt;&lt;/li&gt;
@@ -727,7 +727,7 @@ When an IPv4 address like &lt;code&gt;192.0.2.1&lt;/code&gt; needs to be resolve
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="what-is-kilowatt-hour"&gt;What is kilowatt-hour&lt;/h3&gt;
+&lt;h2 id="what-is-kilowatt-hour"&gt;What is kilowatt-hour&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;1 kWh is 1000 Wh (3,600,000 J).&lt;/li&gt;
 &lt;li&gt;It is the common unit for electricity. In India it is called one &amp;ldquo;unit&amp;rdquo; on your bill.&lt;/li&gt;
@@ -743,24 +743,24 @@ When an IPv4 address like &lt;code&gt;192.0.2.1&lt;/code&gt; needs to be resolve
 &lt;/li&gt;
 &lt;li&gt;Rough cost (indicative only): in 2025-26, domestic electricity in most Indian states works out to about Rs 3 to Rs 10 per unit at typical household use. It varies by state, slab and subsidy, and some states charge less or more. Check your own bill. At that range, a 100 W bulb for 10 hours costs about Rs 3 to Rs 10, and an AC at 2 kW for 1 hour costs about Rs 6 to Rs 20.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Basic Electricity Concepts</title><link>https://kbs.yinagi.in/en/d18fce9e9ee9b2675bfa90d5ed808e64/</link><pubDate>Mon, 01 Jul 2024 23:01:53 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/d18fce9e9ee9b2675bfa90d5ed808e64/</guid><description>&lt;p&gt;So for now( 2018 AD) we human believe that &lt;a href="https://kbs.yinagi.in/tags/electricity/"&gt;electricity&lt;/a&gt; is flow of energy via electron from -ve(explained below) terminal to +ve(explained below) terminal, it is just that. The simple way to get this flow of energy is by using the batteries, now lets start go to deep down.&lt;/p&gt;
-&lt;h3 id="how-did-humans-figured-out-electricity-"&gt;How did humans figured out electricity ?&lt;/h3&gt;
+&lt;h2 id="how-did-humans-figured-out-electricity-"&gt;How did humans figured out electricity ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Lots of things around us exhibit this energy flow.&lt;/li&gt;
 &lt;li&gt;Lightning, static electricity etc.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="human-figured-out-electricity-by-rubbing-glass-rod-with-silk-cloth"&gt;Human figured out electricity by rubbing glass rod with silk cloth&lt;/h4&gt;
+&lt;h3 id="human-figured-out-electricity-by-rubbing-glass-rod-with-silk-cloth"&gt;Human figured out electricity by rubbing glass rod with silk cloth&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;When people were figuring out these weird behaviours around us, they found that &amp;ldquo;When we rub the glass rod with silk cloth, glass gets a different type of behaviour and silk gets different one&amp;rdquo;.&lt;/li&gt;
 &lt;li&gt;They also saw when they rub the rubber-rod with cat-fur the rubber-rod got different behaviour &amp;amp; cat-fur got different one.&lt;/li&gt;
 &lt;li&gt;Similarly when they rub the amber with fur, the amber got different behaviour and fur got different one.&lt;/li&gt;
 &lt;li&gt;Also when they rub the ebonite with fur, ebonite has different behaviour and fur has different one.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="what-are-positive-and-negative-charges-why-is-one-called-positive--other-negative"&gt;What are positive and negative charges, why is one called positive &amp;amp; other negative?&lt;/h4&gt;
+&lt;h3 id="what-are-positive-and-negative-charges-why-is-one-called-positive--other-negative"&gt;What are positive and negative charges, why is one called positive &amp;amp; other negative?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Glass &amp;amp; silk cloth gets different behaviour after rubbing them together.&lt;/li&gt;
 &lt;li&gt;They named them positive &amp;amp; negative charges. They could&amp;rsquo;ve named it as A and B or anything else, but they named it as positive and negative. There is no reason behind it, it&amp;rsquo;s just a convention that people have come up with.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="what-was-positive--negative-in-above-glass-rod-and-silk-cloth-observation-"&gt;What was positive &amp;amp; negative in above glass rod and silk cloth observation ?&lt;/h4&gt;
+&lt;h3 id="what-was-positive--negative-in-above-glass-rod-and-silk-cloth-observation-"&gt;What was positive &amp;amp; negative in above glass rod and silk cloth observation ?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;The glass rods now attracts a conductor, silk cloth repels the conductor&lt;/li&gt;
 &lt;li&gt;So they named glass rod as positive charge and silk cloth as negative charge.
@@ -774,14 +774,14 @@ When an IPv4 address like &lt;code&gt;192.0.2.1&lt;/code&gt; needs to be resolve
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="why-does-rubbing-cause-this-behaviour-"&gt;Why does rubbing cause this behaviour ?&lt;/h4&gt;
+&lt;h3 id="why-does-rubbing-cause-this-behaviour-"&gt;Why does rubbing cause this behaviour ?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Rubber attracts electrons more than animal fur.&lt;/li&gt;
 &lt;li&gt;So while rubbing atoms of rubber pull electrons from the atoms of animal fur.&lt;/li&gt;
 &lt;li&gt;Some particle attracts electron and some lose it up&lt;/li&gt;
 &lt;li&gt;Similar when you comb your hairs, the comb gets +ve charge, it losses electron and hairs attract them.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="what-is-an-electron-"&gt;What is an electron ?&lt;/h3&gt;
+&lt;h2 id="what-is-an-electron-"&gt;What is an electron ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Electron is the basic particle we know, that explains the flow of electricity.&lt;/li&gt;
 &lt;li&gt;It is a negatively charged particle. Remember negative charge is just a convention, it could&amp;rsquo;ve been named as A or B, but it is named as negative.&lt;/li&gt;
@@ -789,7 +789,7 @@ When an IPv4 address like &lt;code&gt;192.0.2.1&lt;/code&gt; needs to be resolve
 &lt;li&gt;&lt;a href="https://kbs.yinagi.in/en/4710840f1b6de62e27bbf0bf75af303e/"&gt;Like matter has mass&lt;/a&gt;, the electron has charge.&lt;/li&gt;
 &lt;li&gt;Charge of electron is calculated to electron is 1.6 * 10^-19C&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="can-we-see-electron-"&gt;Can we see electron ?&lt;/h4&gt;
+&lt;h3 id="can-we-see-electron-"&gt;Can we see electron ?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;No, we can&amp;rsquo;t see electrons, they are very small particles.&lt;/li&gt;
 &lt;li&gt;Again goes to realm of &lt;a href="https://kbs.yinagi.in/tags/quantum-physics/"&gt;quantum-physics&lt;/a&gt;, where we can&amp;rsquo;t see things, but we can predict their behaviour.&lt;/li&gt;
@@ -799,7 +799,7 @@ When an IPv4 address like &lt;code&gt;192.0.2.1&lt;/code&gt; needs to be resolve
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="what-is-charge"&gt;What is charge&lt;/h3&gt;
+&lt;h2 id="what-is-charge"&gt;What is charge&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Charge is the fundamental property we take that it exists(again we prove things taking this as base behaviour that we see).&lt;/li&gt;
 &lt;li&gt;Charge is the property of matter to interact with electromagnetic fields, analogous to masses in gravitational fields (but, much stronger!)&lt;/li&gt;
@@ -810,30 +810,30 @@ When an IPv4 address like &lt;code&gt;192.0.2.1&lt;/code&gt; needs to be resolve
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="why-q--n--e-"&gt;Why q = n * e ?&lt;/h3&gt;
+&lt;h2 id="why-q--n--e-"&gt;Why q = n * e ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;It comes from quantization of electric charge.&lt;/li&gt;
 &lt;li&gt;Humans found that the charge of any object is multiple of the charge of electrons.&lt;/li&gt;
 &lt;li&gt;It&amp;rsquo;s like saying that you can&amp;rsquo;t have 1.5 electrons, you can have 1 or 2 electrons.&lt;/li&gt;
 &lt;li&gt;The smallest indivisible unit of charge is the charge of an electron (e)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="how-much-is-1c-of-charge-"&gt;How much is 1C of charge ?&lt;/h4&gt;
+&lt;h3 id="how-much-is-1c-of-charge-"&gt;How much is 1C of charge ?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;q = n * e&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="what-is-resistance-"&gt;What is resistance ?&lt;/h3&gt;
+&lt;h2 id="what-is-resistance-"&gt;What is resistance ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Resistance is the property of a conductor to resist the flow of electrons.&lt;/li&gt;
 &lt;li&gt;It is measured in ohms.&lt;/li&gt;
 &lt;li&gt;It is denoted by &lt;code&gt;R&lt;/code&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="what-is-voltage"&gt;What is voltage&lt;/h3&gt;
+&lt;h2 id="what-is-voltage"&gt;What is voltage&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;For energy to flow from one point to another, there should be a difference in energy level.&lt;/li&gt;
 &lt;li&gt;This difference in energy level is called voltage.&lt;/li&gt;
 &lt;li&gt;When there is difference in energy level, the energy via electric field flows using electrons in the conductor&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="what-is-current-"&gt;What is current ?&lt;/h3&gt;
+&lt;h2 id="what-is-current-"&gt;What is current ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This flow of electrons is called current.
 &lt;ul&gt;
@@ -845,11 +845,11 @@ When an IPv4 address like &lt;code&gt;192.0.2.1&lt;/code&gt; needs to be resolve
 &lt;li&gt;Current flows from high electric potential to low electric potential.&lt;/li&gt;
 &lt;li&gt;Current of 1 ampere (A) means that 1 coulomb of charge passes through a point in the circuit each second.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="what-is-high-electric-potential-and-low-electric-potential-"&gt;What is high electric potential and low electric potential ?&lt;/h3&gt;
+&lt;h2 id="what-is-high-electric-potential-and-low-electric-potential-"&gt;What is high electric potential and low electric potential ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;High electric potential is where there is more energy, and low electric potential is where there is less energy.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="how-does-this-high-electric-potential-and-low-electric-potential-is-created-"&gt;How does this high electric potential and low electric potential is created ?&lt;/h3&gt;
+&lt;h2 id="how-does-this-high-electric-potential-and-low-electric-potential-is-created-"&gt;How does this high electric potential and low electric potential is created ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;To get this energy, humans do various things.&lt;/li&gt;
 &lt;li&gt;Humans found that moving magnet near the conductor also generates this electric field.
@@ -867,34 +867,34 @@ When an IPv4 address like &lt;code&gt;192.0.2.1&lt;/code&gt; needs to be resolve
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="what-is-a-battery-"&gt;What is a battery ?&lt;/h3&gt;
+&lt;h2 id="what-is-a-battery-"&gt;What is a battery ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Battery is the device that stores energy in it.&lt;/li&gt;
 &lt;li&gt;Energy is stored in the form of chemical energy.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Stock Market Fundamentals</title><link>https://kbs.yinagi.in/en/e512411ab8eae0a9d1f2c776df249b21/</link><pubDate>Mon, 01 Jul 2024 14:45:34 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/e512411ab8eae0a9d1f2c776df249b21/</guid><description>&lt;p&gt;Basic terms and concepts in the stock market:&lt;/p&gt;
-&lt;h4 id="shares-"&gt;Shares :&lt;/h4&gt;
+&lt;h2 id="shares-"&gt;Shares :&lt;/h2&gt;
 &lt;p&gt;Certificates or book entries representing ownership in a corporation or similar entity.&lt;/p&gt;
-&lt;h4 id="parface-value-"&gt;Par/Face Value :&lt;/h4&gt;
+&lt;h2 id="parface-value-"&gt;Par/Face Value :&lt;/h2&gt;
 &lt;p&gt;Usually important for debt/bonds, because interest is calculated on based of this face value
 Decided when releasing the stocks
 Par value is usually very low in stocks, because company doesn’t want to have liability if stock prices go down below the par value
 It has no connection to the market value of the share of stock&lt;/p&gt;
-&lt;h4 id="outstanding-stocks-"&gt;Outstanding stocks :&lt;/h4&gt;
+&lt;h2 id="outstanding-stocks-"&gt;Outstanding stocks :&lt;/h2&gt;
 &lt;p&gt;Stocks held by shareholders
 Publicly traded companies are obligated to report the number of issued and outstanding shares,&lt;/p&gt;
-&lt;h4 id="treasury-stock-"&gt;Treasury stock :&lt;/h4&gt;
+&lt;h2 id="treasury-stock-"&gt;Treasury stock :&lt;/h2&gt;
 &lt;p&gt;Treasury stock (treasury shares) are the portion of shares that a company keeps in its own treasury
 Treasury stock may have come from a repurchase or buyback from shareholders, or it may have never been issued to the public in the first place
 Treasury stock is not considered when calculating dividends or earnings per share.
 These are kept in the company’s treasury to be used to create extra cash if it is needed. Another reason may be to keep a controlling interest within the treasury to help ward off hostile takeovers.&lt;/p&gt;
-&lt;h4 id="share-capital-"&gt;Share capital :&lt;/h4&gt;
+&lt;h2 id="share-capital-"&gt;Share capital :&lt;/h2&gt;
 &lt;p&gt;It consists of all funds raised by a company in exchange for shares of their stocks.&lt;/p&gt;
-&lt;h4 id="outstanding-share-capital-"&gt;Outstanding share capital :&lt;/h4&gt;
+&lt;h2 id="outstanding-share-capital-"&gt;Outstanding share capital :&lt;/h2&gt;
 &lt;p&gt;Share capital less the par value of shares that are held as the company’s treasury stock.&lt;/p&gt;
-&lt;h4 id="earnings-per-shareeps-"&gt;Earnings per share(EPS) :&lt;/h4&gt;
+&lt;h2 id="earnings-per-shareeps-"&gt;Earnings per share(EPS) :&lt;/h2&gt;
 &lt;p&gt;A company’s profit divided by its number of common outstanding shares. If a company earning ₹200 in one year had 200 common shares of stock outstanding, its EPS would be ₹1 per share.
 The one-year (historical or trailing) EPS growth rate is calculated as the percentage change in earnings per share(EPS).&lt;/p&gt;
-&lt;h4 id="references"&gt;References:&lt;/h4&gt;
+&lt;h2 id="references"&gt;References:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.nasdaq.com/investing/glossary/"&gt;http://www.nasdaq.com/investing/glossary/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.investopedia.com/terms/t/treasurystock.asp"&gt;http://www.investopedia.com/terms/t/treasurystock.asp&lt;/a&gt;&lt;/li&gt;
@@ -918,7 +918,7 @@ You can do everything you want to do. You just need foresight and patience.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Think ahead. Plan. Use the future.&lt;/p&gt;
 &lt;p&gt;Most people over-estimate what they can do in one year, and under-estimate what they can do in ten years.
-Think long-term. Use the future.&lt;/p&gt;</description></item><item><title>Mass vs matter ?</title><link>https://kbs.yinagi.in/en/4710840f1b6de62e27bbf0bf75af303e/</link><pubDate>Thu, 27 Jun 2024 23:46:01 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/4710840f1b6de62e27bbf0bf75af303e/</guid><description>&lt;h4 id="mass-vs-matter-"&gt;Mass vs matter ?&lt;/h4&gt;
+Think long-term. Use the future.&lt;/p&gt;</description></item><item><title>Mass vs matter ?</title><link>https://kbs.yinagi.in/en/4710840f1b6de62e27bbf0bf75af303e/</link><pubDate>Thu, 27 Jun 2024 23:46:01 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/4710840f1b6de62e27bbf0bf75af303e/</guid><description>&lt;h3 id="mass-vs-matter-"&gt;Mass vs matter ?&lt;/h3&gt;
 &lt;div class="reftext"&gt;
 &lt;p&gt;Mass is a measure of an object&amp;rsquo;s inertia and is quantified in terms of kilograms or grams, while matter refers to anything that occupies space and has mass.&lt;/p&gt;
 &lt;p&gt;Matter is all the “stuff” that exists in the universe. It has both mass and volume. Mass measures the amount of matter in a substance or an object. The basic SI unit for mass is the kilogram (kg).11&lt;/p&gt;
@@ -926,9 +926,9 @@ Think long-term. Use the future.&lt;/p&gt;</description></item><item><title>Mass
 &lt;/div&gt;
 &lt;p&gt;Still this confused me, not able to intitutively, what is &amp;ldquo;mass&amp;rdquo; and what is &amp;ldquo;matter&amp;rdquo; ?&lt;/p&gt;
 &lt;p&gt;Bit more detailed explanation:&lt;/p&gt;
-&lt;h3 id="q-what-is-matter-"&gt;Q: What is matter ?&lt;/h3&gt;
+&lt;h2 id="q-what-is-matter-"&gt;Q: What is matter ?&lt;/h2&gt;
 &lt;p&gt;We are made of matter We are made of cells, tissues, and organs. These are all made of atoms and molecules. The rabbit is made of matter.&lt;/p&gt;
-&lt;h3 id="q-what-is-mass-"&gt;Q: What is mass ?&lt;/h3&gt;
+&lt;h2 id="q-what-is-mass-"&gt;Q: What is mass ?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Mass is a property of a physical body.&lt;/li&gt;
 &lt;li&gt;We take that every physical body has property called mass.&lt;/li&gt;
@@ -936,7 +936,7 @@ Think long-term. Use the future.&lt;/p&gt;</description></item><item><title>Mass
 &lt;li&gt;It determines its acceleration in the presence of an applied force similar to ‘charge in electro-magnetic field’.&lt;br&gt;
 It is the same whether we are on Earth, the Moon, or in space.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="q-if-mass--weight-the-same-if-not-then-what-is-the-difference-"&gt;Q: If mass &amp;amp; weight the same, if not then what is the difference ?&lt;/h3&gt;
+&lt;h2 id="q-if-mass--weight-the-same-if-not-then-what-is-the-difference-"&gt;Q: If mass &amp;amp; weight the same, if not then what is the difference ?&lt;/h2&gt;
 &lt;p&gt;No, mass and weight are not the same. Mass we&amp;rsquo;ve read above, while weight is the force of gravity acting on an object.If weight &amp;amp; mass are different, then&lt;/p&gt;
 &lt;p&gt;Why:&lt;/p&gt;
 &lt;ul&gt;
@@ -958,7 +958,7 @@ Read more about &lt;a href="https://kbs.yinagi.in/en/cd0225c83fc890539178b333408
 &lt;li&gt;1 Newton is the force required to accelerate a 1kg mass at 1m/s for 1 second.&lt;/li&gt;
 &lt;li&gt;Read more about &lt;a href="https://kbs.yinagi.in/en/c6e8cea33966964777e8ec8b34a71cef/"&gt;Understanding Physics Units in Basic Form&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="q-if-weight-in-newton-then-why-weighting-machine-show-70kg-then-"&gt;Q: If weight in &lt;a href="https://kbs.yinagi.in/en/c6e8cea33966964777e8ec8b34a71cef/"&gt;Newton&lt;/a&gt;, then why weighting machine show 70kg then ?&amp;quot;&lt;/h3&gt;
+&lt;h2 id="q-if-weight-in-newton-then-why-weighting-machine-show-70kg-then-"&gt;Q: If weight in &lt;a href="https://kbs.yinagi.in/en/c6e8cea33966964777e8ec8b34a71cef/"&gt;Newton&lt;/a&gt;, then why weighting machine show 70kg then ?&amp;quot;&lt;/h2&gt;
 &lt;p&gt;On earth our weighing machines are calibrated to show our weight in kg. But it is actually showing our mass in kg. This is because the standard gravitational acceleration on Earth is assumed, and weighing machines are calibrated to show &amp;ldquo;weight&amp;rdquo; in kilograms, which is a bit of a misnomer because kilograms technically measure mass, not weight&lt;/p&gt;
 &lt;p&gt;If we took an earth calibration weighing machine to the moon, it would show our weight much less than 70 kg. But our mass would still be 70 kg. Because the weighing machine is calibrated to show weight on earth. If someone calibrated it to show weight on the moon, it would show 70 kg.&lt;/p&gt;</description></item><item><title>How to Run Unverified Binary on MacOS</title><link>https://kbs.yinagi.in/en/33cd415418ce142d633dd2ed852abdc4/</link><pubDate>Sun, 23 Jun 2024 11:14:03 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/33cd415418ce142d633dd2ed852abdc4/</guid><description>&lt;p&gt;If you are trying to run an unsigned binary on MacOS, you can do it by following these steps:&lt;/p&gt;
 &lt;ol&gt;
@@ -1097,30 +1097,30 @@ Read more about &lt;a href="https://kbs.yinagi.in/en/cd0225c83fc890539178b333408
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Decision Making Tricks</title><link>https://kbs.yinagi.in/71cf6d3f5df8908b988630bd57c2541e/</link><pubDate>Tue, 01 Feb 2022 10:01:50 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/71cf6d3f5df8908b988630bd57c2541e/</guid><description>&lt;p&gt;Came to this blog from @navelism bot, which shared this &amp;ldquo;If you can&amp;rsquo;t decide, the answer is no.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;So big takeaways which made to space repitition were&lt;/p&gt;
-&lt;h4 id="naval-ravikant-if-you-cant-decide-the-answer-is-no"&gt;Naval Ravikant: If You Can&amp;rsquo;t Decide, The Answer Is No.&lt;/h4&gt;
+&lt;h2 id="naval-ravikant-if-you-cant-decide-the-answer-is-no"&gt;Naval Ravikant: If You Can&amp;rsquo;t Decide, The Answer Is No.&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;If you cannot decide, the answer is no. And the reason is, modern society is full of options. There are tons and tons of options. We live on a planet of seven billion people, and we are connected to everybody on the internet. There are hundreds of thousands of careers available to you. There are so many choices. You’re biologically not built to realize how many choices there are.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;It’s very, very important we only say yes when we are pretty certain. You’re never going to be absolutely certain, but you’re going to be very certain.&lt;/p&gt;
-&lt;h4 id="nassim-nicholas-taleb-you-only-need-one-reason-to-do-something"&gt;Nassim Nicholas Taleb: You Only Need One Reason To Do Something.&lt;/h4&gt;
+&lt;h2 id="nassim-nicholas-taleb-you-only-need-one-reason-to-do-something"&gt;Nassim Nicholas Taleb: You Only Need One Reason To Do Something.&lt;/h2&gt;
 &lt;p&gt;If you have more than one reason to do something… just don’t do it. It does not mean that one reason is better than two, just that by invoking more than one reason you are trying to convince yourself to do something. Obvious decisions (robust to error) require no more than a single reason.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;This was common theme Warren Buffet and Charlie Munger views on picking stocks. &lt;strong&gt;We only need one reason to reject, and choice should be obivious.&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Stock Market Investing Strategy</title><link>https://kbs.yinagi.in/aa68a2a28a8178304a35c8339a99d5f2/</link><pubDate>Tue, 04 Jan 2022 07:12:32 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/aa68a2a28a8178304a35c8339a99d5f2/</guid><description>&lt;blockquote&gt;
 &lt;p&gt;In the stock market, the most important organ is the stomach. It&amp;rsquo;s not the brain.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h3 id="understand-what-you-own"&gt;Understand what you own.&lt;/h3&gt;
+&lt;h2 id="understand-what-you-own"&gt;Understand what you own.&lt;/h2&gt;
 &lt;p&gt;No use of checking everyday or getting stock calls. It doesn&amp;rsquo;t work. Understand what you invest in. You need to check quarterly reports, see if finances are in place. So when it falls, you can gauge if it&amp;rsquo;s moment of panic or buying opportunity.&lt;/p&gt;
-&lt;h3 id="understand-market"&gt;Understand market.&lt;/h3&gt;
+&lt;h2 id="understand-market"&gt;Understand market.&lt;/h2&gt;
 &lt;p&gt;Understand the bear market is going to come, correction is always there. &lt;strong&gt;It&amp;rsquo;s inevitable&lt;/strong&gt;. He tells at time of video during 93 years of market, there was 10% falling(correction) 50 times. There was 25% falling(Bear market) of market almost ~6 years. &lt;a href="https://en.wikipedia.org/wiki/List_of_stock_market_crashes_and_bear_markets"&gt;List_of_stock_market_crashes_and_bear_markets&lt;/a&gt;
 If you understand what you own, then you will have stomach for it.&lt;/p&gt;
-&lt;h3 id="when-to-sell-the-stock"&gt;When to sell the stock&lt;/h3&gt;
+&lt;h2 id="when-to-sell-the-stock"&gt;When to sell the stock&lt;/h2&gt;
 &lt;p&gt;When you understand what you own, it becomes easier. If you still see room for growth continue, even if 5x, 10x stock has grown. When you don&amp;rsquo;t see the growth, because you know it.&lt;/p&gt;
-&lt;h3 id="criteria-for-investing"&gt;Criteria for investing&lt;/h3&gt;
+&lt;h2 id="criteria-for-investing"&gt;Criteria for investing&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Choose less-debt companies.&lt;/li&gt;
 &lt;li&gt;Don&amp;rsquo;t invest with 1- 2 years in horizon. Have outlook of 10, 20 or 30 years.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="side-information"&gt;Side information&lt;/h4&gt;
+&lt;h3 id="side-information"&gt;Side information&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;You don&amp;rsquo;t need many multi-bagger, only few for making lot of money.&lt;/li&gt;
 &lt;li&gt;Don&amp;rsquo;t fall for how bad it can go. It can go fruther low and to the point of crash.&lt;/li&gt;
@@ -1193,7 +1193,7 @@ If you understand what you own, then you will have stomach for it.&lt;/p&gt;
 &lt;li&gt;Attack persistance is hard, but just restart it every now and then. It might help you.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Most simpler tricks are &lt;a href="https://www.youtube.com/watch?v=NWtm4X6L_Cs"&gt;Phishing&lt;/a&gt; you should be worry about.&lt;/p&gt;</description></item><item><title>Shamir Secret Sharing</title><link>https://kbs.yinagi.in/b21e7d844c3b536261f757f5a735dc8a/</link><pubDate>Thu, 02 Dec 2021 10:07:05 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/b21e7d844c3b536261f757f5a735dc8a/</guid><description>&lt;p&gt;This idea is really elegant to me and seeing it work is beautiful&lt;/p&gt;
-&lt;p&gt;Keeping it here for reference.&lt;/p&gt;</description></item><item><title>Awscli snippets</title><link>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</link><pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</guid><description>&lt;h4 id="fetch-running-instance-with-their-private-ip"&gt;Fetch running instance with their private IP&lt;/h4&gt;
+&lt;p&gt;Keeping it here for reference.&lt;/p&gt;</description></item><item><title>Awscli snippets</title><link>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</link><pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</guid><description>&lt;h3 id="fetch-running-instance-with-their-private-ip"&gt;Fetch running instance with their private IP&lt;/h3&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
@@ -1202,7 +1202,7 @@ If you understand what you own, then you will have stomach for it.&lt;/p&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;aws ec2 describe-instances --query &lt;span class="s1"&gt;&amp;#39;Reservations[*].Instances[*].[NetworkInterfaces[0].PrivateIpAddresses[0].PrivateIpAddress,Tags[?Key==`Name`].Value| [0]]&amp;#39;&lt;/span&gt; --filters &lt;span class="s2"&gt;&amp;#34;Name=instance-state-name,Values=running&amp;#34;&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;Name=tag:environment,Values=production&amp;#34;&lt;/span&gt; --output text
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h4 id="fetch-running-instance-for-given-tag"&gt;Fetch running instance for given tag&lt;/h4&gt;
+&lt;/div&gt;&lt;h3 id="fetch-running-instance-for-given-tag"&gt;Fetch running instance for given tag&lt;/h3&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
@@ -1217,7 +1217,7 @@ If you understand what you own, then you will have stomach for it.&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;aws ec2 describe-instances --query &lt;span class="s1"&gt;&amp;#39;Reservations[*].Instances[*].[InstanceId,Tags[?Key==`Name`].Value|[0]]&amp;#39;&lt;/span&gt; --output table
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h4 id="fetch-just-filtered-instances-using---filters-option"&gt;fetch just filtered instances using &lt;code&gt;--filters&lt;/code&gt; option&lt;/h4&gt;
+&lt;/div&gt;&lt;h3 id="fetch-just-filtered-instances-using---filters-option"&gt;fetch just filtered instances using &lt;code&gt;--filters&lt;/code&gt; option&lt;/h3&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
@@ -1226,7 +1226,7 @@ If you understand what you own, then you will have stomach for it.&lt;/p&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;aws ec2 describe-instances --output table --query &lt;span class="s1"&gt;&amp;#39;Reservations[].Instances[].[Tags[?Key==`Name`] | [0].Value, State.Name]&amp;#39;&lt;/span&gt; --filters &lt;span class="nv"&gt;Name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;instance-state-name,Values&lt;span class="o"&gt;=&lt;/span&gt;running &lt;span class="nv"&gt;Name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;tag:billing,Values&lt;span class="o"&gt;=&lt;/span&gt;devops
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h3 id="fetch-ami-id-and-name-start-with-given-name"&gt;Fetch AMI-ID and Name start with given Name&lt;/h3&gt;
+&lt;/div&gt;&lt;h2 id="fetch-ami-id-and-name-start-with-given-name"&gt;Fetch AMI-ID and Name start with given Name&lt;/h2&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
@@ -1253,7 +1253,7 @@ If you understand what you own, then you will have stomach for it.&lt;/p&gt;
 &lt;li&gt;Suggested videos.&lt;/li&gt;
 &lt;li&gt;Comments (Wasted time reading it, and endup think, why in this world did I read them).&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id="steps"&gt;Steps&lt;/h3&gt;
+&lt;h2 id="steps"&gt;Steps&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Go to filters pane: &lt;a href="https://github.com/gorhill/uBlock/wiki/Dashboard:-My-filters"&gt;https://github.com/gorhill/uBlock/wiki/Dashboard:-My-filters&lt;/a&gt;&lt;/p&gt;
@@ -1288,21 +1288,21 @@ If you understand what you own, then you will have stomach for it.&lt;/p&gt;
 &lt;p&gt;Loving is therapy for the soul.&lt;/p&gt;</description></item><item><title>What Does 9s Mean in Downtime</title><link>https://kbs.yinagi.in/ec9cc6baa4890df4cb5e5dc561d60e43/</link><pubDate>Fri, 19 Nov 2021 21:00:55 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/ec9cc6baa4890df4cb5e5dc561d60e43/</guid><description>&lt;p&gt;Sometime i just forgot how much 9s means in w.r.t SLA and how much downtime can be afforded and this above reference is simple and beautiful.&lt;/p&gt;
 &lt;p&gt;Try with multiple 9s like this: &lt;a href="https://uptime.is/99.9"&gt;https://uptime.is/99.9&lt;/a&gt; or &lt;a href="https://uptime.is/99.99"&gt;https://uptime.is/99.99&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To put from website.&lt;/p&gt;
-&lt;h3 id="999"&gt;99.9&lt;/h3&gt;
+&lt;h2 id="999"&gt;99.9&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;Daily: 1m 26s
 Weekly: 10m 4s
 Monthly: 43m 49s
 Quarterly: 2h 11m 29s
 Yearly: 8h 45m 56s
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id="9999"&gt;99.99&lt;/h3&gt;
+&lt;h2 id="9999"&gt;99.99&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;Daily: 8s
 Weekly: 1m 0s
 Monthly: 4m 22s
 Quarterly: 13m 8s
 Yearly: 52m 35s
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id="99999"&gt;99.999&lt;/h3&gt;
+&lt;h2 id="99999"&gt;99.999&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;Daily: 0s
 Weekly: 6s
 Monthly: 26s
@@ -1311,9 +1311,9 @@ Yearly: 5m 15s
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;For more 9s visit &lt;a href="https://uptime.is/99.9999"&gt;https://uptime.is/99.9999&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Understand How Cloth Is Made</title><link>https://kbs.yinagi.in/9d01b610df2e9fb18d7aa175fa879285/</link><pubDate>Fri, 19 Nov 2021 13:05:44 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/9d01b610df2e9fb18d7aa175fa879285/</guid><description>&lt;p&gt;So while shopping for my pajyamas today, was thinking how this cloth is made. After searching on youtube these few videos made it easier to understand.&lt;/p&gt;
 &lt;p&gt;First part is getting raw, either by cotton tree, or silk worm or cashmere/kashmir goats or sheeps etc.&lt;/p&gt;
-&lt;h4 id="on-simple-human-level"&gt;On simple human level&lt;/h4&gt;
+&lt;h2 id="on-simple-human-level"&gt;On simple human level&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=2LuuFXFDLDY"&gt;https://www.youtube.com/watch?v=2LuuFXFDLDY&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id="less-than-industrial-but-on-large-scale"&gt;Less than industrial but on large scale&lt;/h4&gt;
+&lt;h2 id="less-than-industrial-but-on-large-scale"&gt;Less than industrial but on large scale&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=9OHbJQ90hfY"&gt;https://www.youtube.com/watch?v=9OHbJQ90hfY&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Diff Between "su" and "su -"</title><link>https://kbs.yinagi.in/7fa5b4e9b48dbb81c234710d25151f22/</link><pubDate>Wed, 17 Nov 2021 09:25:52 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/7fa5b4e9b48dbb81c234710d25151f22/</guid><description>&lt;p&gt;Keeping here for reference:&lt;/p&gt;
 &lt;p&gt;The difference between &amp;ldquo;-&amp;rdquo; and &amp;ldquo;no hyphen&amp;rdquo; is&lt;/p&gt;
 &lt;ul&gt;
@@ -1406,17 +1406,17 @@ The hyphen has two effects:
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Solid Principle in Simple Way</title><link>https://kbs.yinagi.in/5df1af1a7c595eb1c55b78bc2086c772/</link><pubDate>Tue, 02 Nov 2021 22:00:04 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/5df1af1a7c595eb1c55b78bc2086c772/</guid><description>&lt;p&gt;Summary:&lt;/p&gt;
-&lt;h4 id="single-responsibility-principle-"&gt;Single Responsibility principle :&lt;/h4&gt;
+&lt;h2 id="single-responsibility-principle-"&gt;Single Responsibility principle :&lt;/h2&gt;
 &lt;p&gt;Don’t surprise the people who read your code.&lt;/p&gt;
 &lt;p&gt;There should never be more than one reason for a class to change. You should be able to use and add to a module without rewriting it.&lt;/p&gt;
-&lt;h4 id="open-close-principle"&gt;Open-Close principle&lt;/h4&gt;
+&lt;h2 id="open-close-principle"&gt;Open-Close principle&lt;/h2&gt;
 &lt;p&gt;Don’t surprise the people who use your code. Your code should be close for modification and open for extension&lt;/p&gt;
-&lt;h4 id="liskov-substitution-principle"&gt;Liskov substitution principle&lt;/h4&gt;
+&lt;h2 id="liskov-substitution-principle"&gt;Liskov substitution principle&lt;/h2&gt;
 &lt;p&gt;Don’t overwhelm the people who read your code.
 If S is a subtype of T, then objects of type T may be replaced with objects of type S without altering any of the desirable properties of the program. &lt;em&gt;You should be able to substitute one thing for another if those things are declared to behave the same way&lt;/em&gt;.&lt;/p&gt;
-&lt;h4 id="interface-segregation-principle-use-sane-boundaries-for-your-code"&gt;Interface segregation principle: Use sane boundaries for your code.&lt;/h4&gt;
+&lt;h2 id="interface-segregation-principle-use-sane-boundaries-for-your-code"&gt;Interface segregation principle: Use sane boundaries for your code.&lt;/h2&gt;
 &lt;p&gt;Many client-specific interfaces are better than one general-purpose interface. Don’t show your clients more than they need to see&lt;/p&gt;
-&lt;h4 id="dependency-inversion-principle-use-the-right-level-of-couplingkeep-things-together-that-belong-together-and-keep-them-apart-if-they-belong-apart"&gt;Dependency inversion principle: Use the right level of coupling—keep things together that belong together, and keep them apart if they belong apart.&lt;/h4&gt;
+&lt;h2 id="dependency-inversion-principle-use-the-right-level-of-couplingkeep-things-together-that-belong-together-and-keep-them-apart-if-they-belong-apart"&gt;Dependency inversion principle: Use the right level of coupling—keep things together that belong together, and keep them apart if they belong apart.&lt;/h2&gt;
 &lt;p&gt;Depend upon abstractions, not concretions.&lt;/p&gt;
 &lt;hr&gt;</description></item><item><title>Golang Codereview Comments</title><link>https://kbs.yinagi.in/c0ab4091d733d85471515c2cd581fd67/</link><pubDate>Wed, 27 Oct 2021 16:32:43 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/c0ab4091d733d85471515c2cd581fd67/</guid><description/></item><item><title>Terraform Best Practices</title><link>https://kbs.yinagi.in/e730b5f8cf640bb6823be168475994d9/</link><pubDate>Fri, 22 Oct 2021 10:52:47 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/e730b5f8cf640bb6823be168475994d9/</guid><description>&lt;p&gt;Some convetion for best practices, it would be better use lint to enforce them, still good to reference once in a while.&lt;/p&gt;</description></item><item><title>Multiple Git Ssh Config Single Machine</title><link>https://kbs.yinagi.in/d881fb4640d6de032e6221c9eabe0e39/</link><pubDate>Wed, 20 Oct 2021 10:21:50 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/d881fb4640d6de032e6221c9eabe0e39/</guid><description>&lt;p&gt;To use multiple github account on same hosts, and using ssh to push and pull the repo. We have multiple tricks&lt;/p&gt;
 &lt;ul&gt;
@@ -1717,7 +1717,7 @@ Disclaimer: Today India is in a very sad state w.r.t its culture and the same sy
 &lt;hr&gt;
 &lt;pre&gt;&lt;code&gt; So goal of life is to explore this third route
 &lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Novak Djokovic vs Rafael Nadal in the Longest Final in Grand Slam History</title><link>https://kbs.yinagi.in/dba141a324349154865a7bdf421eee15/</link><pubDate>Sat, 14 Aug 2021 01:48:05 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/dba141a324349154865a7bdf421eee15/</guid><description>&lt;p&gt;If this can&amp;rsquo;t inspire anyone, not sure what could. These guys played for around ~ 6 hours, and that&amp;rsquo;s an incredible feat of achievement.&lt;/p&gt;</description></item><item><title>How Kubectl Logs Work</title><link>https://kbs.yinagi.in/d19e8438d682f3f5a897296206ca9828/</link><pubDate>Fri, 13 Aug 2021 04:57:32 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/d19e8438d682f3f5a897296206ca9828/</guid><description>&lt;p&gt;Links to notion page, as it had diagram and it was easier to put post like these on notion.&lt;/p&gt;</description></item><item><title>Hard Drive Failure Report Backblaze</title><link>https://kbs.yinagi.in/332d6b43914e2eeba6333c1a057f9f15/</link><pubDate>Fri, 13 Aug 2021 04:45:22 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/332d6b43914e2eeba6333c1a057f9f15/</guid><description>&lt;p&gt;It gives us of which hard drive to buy and which not as they are one of the biggest buyer of hard-driver and see those working at scale.&lt;/p&gt;
-&lt;p&gt;As they mentioned Seagate ST16000NM001G has quite a high failure rate of 6.72% with backblaze so it would be wise to not buy that hard-drive.&lt;/p&gt;</description></item><item><title>Fake Reviews in Amazon</title><link>https://kbs.yinagi.in/203914e598a6b162307c47a51eb79378/</link><pubDate>Fri, 13 Aug 2021 04:41:18 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/203914e598a6b162307c47a51eb79378/</guid><description>&lt;h3 id="op-post-from-reddit-thread"&gt;OP post from &lt;a href="https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/"&gt;reddit thread&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As they mentioned Seagate ST16000NM001G has quite a high failure rate of 6.72% with backblaze so it would be wise to not buy that hard-drive.&lt;/p&gt;</description></item><item><title>Fake Reviews in Amazon</title><link>https://kbs.yinagi.in/203914e598a6b162307c47a51eb79378/</link><pubDate>Fri, 13 Aug 2021 04:41:18 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/203914e598a6b162307c47a51eb79378/</guid><description>&lt;h2 id="op-post-from-reddit-thread"&gt;OP post from &lt;a href="https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/"&gt;reddit thread&lt;/a&gt;&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt; First of all my background - I've been working on Amazon for years and know all the tricks of getting ranked. I do not engage in black hat tactics and I did the review game when it wasnt against TOS. As soon as they changed everything, I did not engage. However because of all my contacts I'm in the know for a lot of things. Getting reviews and the strategies used is one of those things.
 I noticed this brand popping up in searches a while back when it had only 5 reviews. I went into search mode after reading reviews and tried to figure out where this company came from.
 Their website lists no address but says that they adhere to standards in BC, Canada. I searched more and found an office address in Chinatown in Vancouver. I kept searching and found the business is registered to a 'investment group'.
@@ -1741,7 +1741,7 @@ So wait and watch over the next month as the reviews keep piling in, unless of c
 &lt;li&gt;Cross-referencing become difficult&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Cross referencing is important to me, and with keeping other param than UUID would be difficult to maintain, as it might break URL on this website(which is last thing I want), hence opting to machine generated &lt;a href="https://discourse.gohugo.io/t/generating-a-unique-number-or-string/7930/6"&gt;unique ID from hugo&lt;/a&gt; i.e. &lt;code&gt;{{ .File.UniqueID }}&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Personally for me &lt;a href="https://kbs.yinagi.in/tags/"&gt;tags&lt;/a&gt; are preferred way to find similar topics, if anyone else other than me is looking at this website.&lt;/p&gt;</description></item><item><title>Container Security Nist 800 190</title><link>https://kbs.yinagi.in/bookmarks/container-security-nist-800-190/</link><pubDate>Mon, 09 Aug 2021 10:17:05 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/bookmarks/container-security-nist-800-190/</guid><description>&lt;p&gt;About link takes you to NIST(National Institute of Standards and Technology) guide for container security @ &lt;a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf"&gt;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Linux Load Avgs</title><link>https://kbs.yinagi.in/bookmarks/linux-load-avgs/</link><pubDate>Mon, 09 Aug 2021 09:25:45 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/bookmarks/linux-load-avgs/</guid><description>&lt;h1 id="excerpt-from-blog-post"&gt;Excerpt from blog post&lt;/h1&gt;
+&lt;p&gt;Personally for me &lt;a href="https://kbs.yinagi.in/tags/"&gt;tags&lt;/a&gt; are preferred way to find similar topics, if anyone else other than me is looking at this website.&lt;/p&gt;</description></item><item><title>Container Security Nist 800 190</title><link>https://kbs.yinagi.in/bookmarks/container-security-nist-800-190/</link><pubDate>Mon, 09 Aug 2021 10:17:05 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/bookmarks/container-security-nist-800-190/</guid><description>&lt;p&gt;About link takes you to NIST(National Institute of Standards and Technology) guide for container security @ &lt;a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf"&gt;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Linux Load Avgs</title><link>https://kbs.yinagi.in/bookmarks/linux-load-avgs/</link><pubDate>Mon, 09 Aug 2021 09:25:45 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/bookmarks/linux-load-avgs/</guid><description>&lt;h2 id="excerpt-from-blog-post"&gt;Excerpt from blog post&lt;/h2&gt;
 &lt;p&gt;Linux load averages are &amp;ldquo;system load averages&amp;rdquo; that show the running thread (task) demand on the system as an average number of running plus waiting threads. This measures demand, which can be greater than what the system is currently processing. Most tools show three averages, for 1, 5, and 15 minutes:&lt;/p&gt;
 &lt;p&gt;Some interpretations:&lt;/p&gt;
 &lt;ul&gt;
@@ -1750,14 +1750,14 @@ So wait and watch over the next month as the reviews keep piling in, unless of c
 &lt;li&gt;If the 1 minute average is lower than the 5 or 15 minute averages, then load is decreasing.&lt;/li&gt;
 &lt;li&gt;If they are higher than your CPU count, then you might have a performance problem (it depends).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="making-sense-of-linux-load-averages"&gt;Making sense of Linux load averages&lt;/h2&gt;
+&lt;h3 id="making-sense-of-linux-load-averages"&gt;Making sense of Linux load averages&lt;/h3&gt;
 &lt;p&gt;I grew up with OSes where load averages meant CPU load averages, so the Linux version has always bothered me. Perhaps the real problem all along is that the words &amp;ldquo;load averages&amp;rdquo; are about as ambiguous as &amp;ldquo;I/O&amp;rdquo;. Which type of I/O? Disk I/O? File system I/O? Network I/O? &amp;hellip; Likewise, which load averages? CPU load averages? System load averages? Clarifying it this way lets me make sense of it like this:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;On Linux, load averages are (or try to be) &amp;quot;system load averages&amp;quot;, for the system as a whole, measuring the number of threads that are working and waiting to work (CPU, disk, uninterruptible locks). Put differently, it measures the number of threads that aren't completely idle. Advantage: includes demand for different resources.
 On other OSes, load averages are &amp;quot;CPU load averages&amp;quot;, measuring the number of CPU running + CPU runnable threads. Advantage: can be easier to understand and reason about (for CPUs only).
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Note that there&amp;rsquo;s another possible type: &amp;ldquo;physical resource load averages&amp;rdquo;, which would include load for physical resources only (CPU + disk).&lt;/p&gt;
 &lt;p&gt;Perhaps one day we&amp;rsquo;ll add additional load averages to Linux, and let the user choose what they want to use: a separate &amp;ldquo;CPU load averages&amp;rdquo;, &amp;ldquo;disk load averages&amp;rdquo;, &amp;ldquo;network load averages&amp;rdquo;, etc. Or just use different metrics altogether.&lt;/p&gt;
-&lt;h2 id="better-metrics"&gt;Better Metrics&lt;/h2&gt;
+&lt;h3 id="better-metrics"&gt;Better Metrics&lt;/h3&gt;
 &lt;p&gt;When Linux load averages increase, you know you have higher demand for resources (CPUs, disks, and some locks), but you aren&amp;rsquo;t sure which. You can use other metrics for clarification. For example, for CPUs:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;per-CPU utilization: eg, using mpstat -P ALL 1
 per-process CPU utilization: eg, top, pidstat 1, etc.
@@ -1804,7 +1804,7 @@ CPU run queue length: eg, using vmstat 1 and the 'r' column, or my runqlen bcc t
 &lt;/ul&gt;
 &lt;p&gt;So in the first case without test, there was 1% i.e. 1 in 100 that you&amp;rsquo;ve cancer without test. After the test, your chances just get updated. After test is positive your chances are: 1/100 * 10 ~ 1/10. So that is also not 100% sure now.&lt;/p&gt;
 &lt;p&gt;So for tests your symptoms, contacts, genetics all come up to increase the chance, but still not 100%, we need to remember. &lt;strong&gt;&amp;ldquo;All tests do is update the chances of having it, but not sure shot thing. Until tests are bulletproof.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id="better-to-watch-the-whole-video-above-are-just-notes-taken-from-there"&gt;Better to watch the whole video, above are just notes taken from there.&lt;/h3&gt;
+&lt;h2 id="better-to-watch-the-whole-video-above-are-just-notes-taken-from-there"&gt;Better to watch the whole video, above are just notes taken from there.&lt;/h2&gt;
 &lt;p&gt;One of top comments for youtube channel&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;As a doctor I&amp;rsquo;m so happy you&amp;rsquo;re using your platform to get this information out. Let me tell you though&amp;hellip; it gets way more complicated! Unfortunately prevalence estimates aren&amp;rsquo;t always known and are constantly changing (especially in pandemics). Another thing to consider is the gold standard. If your test looks for breast cancer you can cut out the lump and look at it under a microscope. Some diseases aren&amp;rsquo;t as easily clarified. For instance, since we don&amp;rsquo;t have a highly accurate, easy test for pancreatic cancer we rely on imaging, demographics, blood markers, symptoms (or lack thereof) as multiple things that form a conglomerate test to increase our Bayes factor. Despite all these things we can&amp;rsquo;t always get a great prediction on whether that scar in your bile duct is cancer or just a residual scar from pancreatitis you had 10 years ago. So we offer the patient a huge surgery to remove the head of their pancreas and duodenum only to find that it wasn&amp;rsquo;t cancer. You can imagine the patient is happy it&amp;rsquo;s not cancer but not so happy they don&amp;rsquo;t have half their pancreas and have abdominal pain and maybe diabetes. Medicine is a tricky thing. Another tricky thing is operator error. Some tests depend on the skill of the lab tech, radiologist, or surgeon. The complexity of the human body and the uniqueness of each individual also plays a role. Your test may be false positive in a particular patient 100% of the time because they have some strange protein mutation. It&amp;rsquo;s tough!&lt;/p&gt;
@@ -1830,7 +1830,7 @@ CPU run queue length: eg, using vmstat 1 and the 'r' column, or my runqlen bcc t
 &lt;p&gt;This continuous loop, then reduces our ability to focus and concentrate.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="solution"&gt;Solution&lt;/h3&gt;
+&lt;h2 id="solution"&gt;Solution&lt;/h2&gt;
 &lt;p&gt;So the problem is defined and most of us are aware of it and we need solutions. One such technique if you have lower focus time is to use pomodoro technique, created by Francesco Cirillo in the late 1980s.&lt;/p&gt;
 &lt;p&gt;Short note on pomodoro technique which helps me&lt;/p&gt;
 &lt;ol&gt;
@@ -1849,17 +1849,17 @@ CPU run queue length: eg, using vmstat 1 and the 'r' column, or my runqlen bcc t
 &lt;li&gt;&lt;a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00439/full"&gt;https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00439/full&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Finally Some Sense in Laptops</title><link>https://kbs.yinagi.in/bookmarks/finally-some-sense-in-laptops/</link><pubDate>Thu, 05 Aug 2021 09:44:42 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/bookmarks/finally-some-sense-in-laptops/</guid><description>&lt;p&gt;It was good to see nice laptops coming in now. Which have this repairability in mind. This laptop specially looks with it&amp;rsquo;s modularity. As iFixit says, this is slippery slope, we have seen many such initiatives come and go. So hoping this company works and changes consumer electronics industry for good.&lt;/p&gt;
 &lt;p&gt;Kudos to &lt;a href="https://frame.work/"&gt;https://frame.work/&lt;/a&gt; team.&lt;/p&gt;</description></item><item><title>Azure Caf Terraform Landingzones</title><link>https://kbs.yinagi.in/df6b12d2680b2afbfc3288c0564c3af3/</link><pubDate>Fri, 12 Feb 2021 17:21:31 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/df6b12d2680b2afbfc3288c0564c3af3/</guid><description/></item><item><title>Basic Geometry Concepts</title><link>https://kbs.yinagi.in/en/5d37dda250aad63a22125b1eb0e01430/</link><pubDate>Wed, 01 Nov 2017 22:41:06 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/5d37dda250aad63a22125b1eb0e01430/</guid><description>&lt;p&gt;Some basic terminologies in geometry&lt;/p&gt;
-&lt;h4 id="q-what-is-the-curve-"&gt;Q: What is the curve ?&lt;/h4&gt;
+&lt;h3 id="q-what-is-the-curve-"&gt;Q: What is the curve ?&lt;/h3&gt;
 &lt;p&gt;A curve is a shape which is smoothly drawn in a plane having a bent or turns in it.&lt;/p&gt;
-&lt;h4 id="q-what-is-the-tangent-to-the-curve-"&gt;Q: What is the tangent to the curve ?&lt;/h4&gt;
+&lt;h3 id="q-what-is-the-tangent-to-the-curve-"&gt;Q: What is the tangent to the curve ?&lt;/h3&gt;
 &lt;p&gt;Tangent to the curve is the line that touches it(curve) only at one point.&lt;/p&gt;
-&lt;h4 id="q-what-is-a-vector-"&gt;Q: What is a vector ?&lt;/h4&gt;
+&lt;h3 id="q-what-is-a-vector-"&gt;Q: What is a vector ?&lt;/h3&gt;
 &lt;p&gt;In physics and geometry, (Euclidean vector or a direction vector), used to represent physical quantities that have both magnitude and direction.&lt;/p&gt;
-&lt;h4 id="q-what-is-a-tangent-vector-"&gt;Q: What is a tangent vector ?&lt;/h4&gt;
+&lt;h3 id="q-what-is-a-tangent-vector-"&gt;Q: What is a tangent vector ?&lt;/h3&gt;
 &lt;p&gt;Any vector that is tangent to the curve is a tangent vector.&lt;/p&gt;
-&lt;h3 id="q-what-is-parallel-transported-"&gt;Q: What is parallel transported ?&lt;/h3&gt;
+&lt;h2 id="q-what-is-parallel-transported-"&gt;Q: What is parallel transported ?&lt;/h2&gt;
 &lt;p&gt;It means transferring things parallel. Here moving vector together, working things in parallel or transposing parallelly&lt;/p&gt;
-&lt;h4 id="q-what-is-a-straight-line-"&gt;Q: What is a straight line ?&lt;/h4&gt;
+&lt;h3 id="q-what-is-a-straight-line-"&gt;Q: What is a straight line ?&lt;/h3&gt;
 &lt;p&gt;It&amp;rsquo;s a special curve, when its tangent vector stays tangent when parallelly transported along the curve.&lt;/p&gt;</description></item><item><title>Jonathan Livingston Seagull a Story</title><link>https://kbs.yinagi.in/en/adbbd8fa59d09bc277de9469f4c392a5/</link><pubDate>Thu, 15 Jun 2017 15:30:21 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/adbbd8fa59d09bc277de9469f4c392a5/</guid><description>&lt;p&gt;I’ve been always thinking and fascinated by dharmic itihaas(~=history), puranas(probably ~legend/stories), where bhagvan/devas/avatars(loosely translated to &amp;ldquo;GOD&amp;rdquo;) are said to have done extraordinary things.&lt;/p&gt;
 &lt;p&gt;I still can’t understand how someone can do it, now we worship them.( Were they real characters or were they just fictional stories for entertainment.&lt;/p&gt;
 &lt;p&gt;While reading this book, I found the same thing revolving around my head. Story starts with Jonathan Livingston(a seagull) who tries to go beyond his limits. One who doesn&amp;rsquo;t want to limit himself like others(not trying to push their limits). He feels flying, he feels himself while he is flying fast, but no-one around him is interested in it and furthermore they limit him too.&lt;/p&gt;

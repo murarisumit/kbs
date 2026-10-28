@@ -5,7 +5,7 @@ My app should be a follow these 12 factor or confor with as my factor possible.&
 &lt;li&gt;It’s most important to get it done.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;While doing any of 12 factors given below(maintaining configs/dependencies management, or trying build,release), read below mentioned best practices.&lt;/p&gt;
-&lt;h3 id="the-twelve-factors"&gt;The Twelve Factors&lt;/h3&gt;
+&lt;h2 id="the-twelve-factors"&gt;The Twelve Factors&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href="https://12factor.net/codebase"&gt;Codebase&lt;/a&gt;: One codebase tracked in revision control, many deploys&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://12factor.net/dependencies"&gt;Dependencies&lt;/a&gt;: Explicitly declare and isolate dependencies&lt;/li&gt;

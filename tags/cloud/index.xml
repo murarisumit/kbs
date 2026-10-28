@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cloud on knowledge base</title><link>https://kbs.yinagi.in/tags/cloud/</link><description>Recent content in Cloud on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>inbox@yinagi.in (murarisumit)</managingEditor><webMaster>inbox@yinagi.in (murarisumit)</webMaster><lastBuildDate>Fri, 26 Nov 2021 22:48:14 +0530</lastBuildDate><atom:link href="https://kbs.yinagi.in/tags/cloud/index.xml" rel="self" type="application/rss+xml"/><item><title>Awscli snippets</title><link>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</link><pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</guid><description>&lt;h4 id="fetch-running-instance-with-their-private-ip"&gt;Fetch running instance with their private IP&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cloud on knowledge base</title><link>https://kbs.yinagi.in/tags/cloud/</link><description>Recent content in Cloud on knowledge base</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>inbox@yinagi.in (murarisumit)</managingEditor><webMaster>inbox@yinagi.in (murarisumit)</webMaster><lastBuildDate>Fri, 26 Nov 2021 22:48:14 +0530</lastBuildDate><atom:link href="https://kbs.yinagi.in/tags/cloud/index.xml" rel="self" type="application/rss+xml"/><item><title>Awscli snippets</title><link>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</link><pubDate>Fri, 26 Nov 2021 22:48:14 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/c0b28c0e8bc16283b3c9e2d099eabe63/</guid><description>&lt;h3 id="fetch-running-instance-with-their-private-ip"&gt;Fetch running instance with their private IP&lt;/h3&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
@@ -7,7 +7,7 @@
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;aws ec2 describe-instances --query &lt;span class="s1"&gt;&amp;#39;Reservations[*].Instances[*].[NetworkInterfaces[0].PrivateIpAddresses[0].PrivateIpAddress,Tags[?Key==`Name`].Value| [0]]&amp;#39;&lt;/span&gt; --filters &lt;span class="s2"&gt;&amp;#34;Name=instance-state-name,Values=running&amp;#34;&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;Name=tag:environment,Values=production&amp;#34;&lt;/span&gt; --output text
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h4 id="fetch-running-instance-for-given-tag"&gt;Fetch running instance for given tag&lt;/h4&gt;
+&lt;/div&gt;&lt;h3 id="fetch-running-instance-for-given-tag"&gt;Fetch running instance for given tag&lt;/h3&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
@@ -22,7 +22,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;aws ec2 describe-instances --query &lt;span class="s1"&gt;&amp;#39;Reservations[*].Instances[*].[InstanceId,Tags[?Key==`Name`].Value|[0]]&amp;#39;&lt;/span&gt; --output table
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h4 id="fetch-just-filtered-instances-using---filters-option"&gt;fetch just filtered instances using &lt;code&gt;--filters&lt;/code&gt; option&lt;/h4&gt;
+&lt;/div&gt;&lt;h3 id="fetch-just-filtered-instances-using---filters-option"&gt;fetch just filtered instances using &lt;code&gt;--filters&lt;/code&gt; option&lt;/h3&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
@@ -31,7 +31,7 @@
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;aws ec2 describe-instances --output table --query &lt;span class="s1"&gt;&amp;#39;Reservations[].Instances[].[Tags[?Key==`Name`] | [0].Value, State.Name]&amp;#39;&lt;/span&gt; --filters &lt;span class="nv"&gt;Name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;instance-state-name,Values&lt;span class="o"&gt;=&lt;/span&gt;running &lt;span class="nv"&gt;Name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;tag:billing,Values&lt;span class="o"&gt;=&lt;/span&gt;devops
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h3 id="fetch-ami-id-and-name-start-with-given-name"&gt;Fetch AMI-ID and Name start with given Name&lt;/h3&gt;
+&lt;/div&gt;&lt;h2 id="fetch-ami-id-and-name-start-with-given-name"&gt;Fetch AMI-ID and Name start with given Name&lt;/h2&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1

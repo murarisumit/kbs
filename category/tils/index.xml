@@ -62,9 +62,9 @@ If &lt;code&gt;DB_HOST&lt;/code&gt; is defined in multiple ConfigMaps or Secrets
 &lt;/div&gt;&lt;p&gt;Replace &lt;code&gt;/path/to/your/binary&lt;/code&gt; with the path to your binary file.&lt;/p&gt;
 &lt;p&gt;Example: &lt;code&gt;xattr -d com.apple.quarantine /Applications/minikube-gui.app&lt;/code&gt;&lt;/p&gt;</description></item><item><title>Understand How Cloth Is Made</title><link>https://kbs.yinagi.in/9d01b610df2e9fb18d7aa175fa879285/</link><pubDate>Fri, 19 Nov 2021 13:05:44 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/9d01b610df2e9fb18d7aa175fa879285/</guid><description>&lt;p&gt;So while shopping for my pajyamas today, was thinking how this cloth is made. After searching on youtube these few videos made it easier to understand.&lt;/p&gt;
 &lt;p&gt;First part is getting raw, either by cotton tree, or silk worm or cashmere/kashmir goats or sheeps etc.&lt;/p&gt;
-&lt;h4 id="on-simple-human-level"&gt;On simple human level&lt;/h4&gt;
+&lt;h2 id="on-simple-human-level"&gt;On simple human level&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=2LuuFXFDLDY"&gt;https://www.youtube.com/watch?v=2LuuFXFDLDY&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id="less-than-industrial-but-on-large-scale"&gt;Less than industrial but on large scale&lt;/h4&gt;
+&lt;h2 id="less-than-industrial-but-on-large-scale"&gt;Less than industrial but on large scale&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=9OHbJQ90hfY"&gt;https://www.youtube.com/watch?v=9OHbJQ90hfY&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Cross Referencing Hugo</title><link>https://kbs.yinagi.in/a8aa80afb3e281cf2246df975fef9aa8/</link><pubDate>Sun, 15 Aug 2021 07:21:07 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/a8aa80afb3e281cf2246df975fef9aa8/</guid><description>&lt;p&gt;In my blog, have started to cross-refernce now. Hugo has got support for this and designed in such a way that really make sense to me.&lt;/p&gt;
 &lt;p&gt;Documentation for this is here: &lt;a href="https://gohugo.io/content-management/cross-references/"&gt;https://gohugo.io/content-management/cross-references/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;So to reference some post, you need to know about &lt;strong&gt;file path of that post&lt;/strong&gt;. Proper reading would have made it easier but spent around 2hrs for this stupid things.&lt;/p&gt;
@@ -82,9 +82,9 @@ If &lt;code&gt;DB_HOST&lt;/code&gt; is defined in multiple ConfigMaps or Secrets
 &lt;p&gt;There is a good chance of failing here too, but at-least now understanding our own intuition is better than before and as everyone bet&amp;rsquo;s, mine bet was also on table.&lt;/p&gt;</description></item><item><title>Leaving current org, risk and rewards</title><link>https://kbs.yinagi.in/tils/leaving-exising-org-risk-rewards/</link><pubDate>Thu, 29 Jul 2021 09:34:57 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/tils/leaving-exising-org-risk-rewards/</guid><description>&lt;p&gt;Background:&lt;/p&gt;
 &lt;p&gt;There have been few things and also got new opportunities hence been planning to leave the existing org, meanwhile was having discussion my mentor(will ask him if I can put his name here) about my change and got really nice quote from him
 While changing of jobs you need to think in terms of &lt;strong&gt;risk and reward&lt;/strong&gt;, and also one side quote &lt;code&gt;the devil you know is better than one you don't.&lt;/code&gt; (don&amp;rsquo;t&amp;rsquo; mean literal &lt;code&gt;devil&lt;/code&gt; here but hope you understand meaning behind quote)&lt;/p&gt;
-&lt;h4 id="risk"&gt;Risk:&lt;/h4&gt;
+&lt;h2 id="risk"&gt;Risk:&lt;/h2&gt;
 &lt;p&gt;If you join a new org, you are leaving something you know about(devil you know), how it functions and how to get things done there . When you move to a new org, you don&amp;rsquo;t know how it works, it&amp;rsquo;s a new cognitive load. Hence the risk.&lt;/p&gt;
-&lt;h4 id="reward"&gt;Reward:&lt;/h4&gt;
+&lt;h2 id="reward"&gt;Reward:&lt;/h2&gt;
 &lt;p&gt;One reward that you see directly is compensation. It gets balanced with industry standards, not sure why it is so. Same person in the org is not compensated like a new employee coming in. It&amp;rsquo;s more like you don&amp;rsquo;t treat your current customer well and spend a lot of money on marketing to acquire new customers. There might be some reason probably a bit more google someday #todo&lt;/p&gt;
 &lt;p&gt;The other important one is: sometimes if you&amp;rsquo;re really disgusted by the place you work in, a new workplace gives you a new fresh experience and meeting and working with new peers would be a great learning experience.&lt;/p&gt;</description></item><item><title>Git via Email Getting Started</title><link>https://kbs.yinagi.in/tils/git-via-email-getting-started/</link><pubDate>Sat, 01 Aug 2020 03:01:28 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/tils/git-via-email-getting-started/</guid><description>&lt;p&gt;Simple way to that is via:&lt;/p&gt;
 &lt;ul&gt;
@@ -154,7 +154,7 @@ While changing of jobs you need to think in terms of &lt;strong&gt;risk and rewa
 &lt;li&gt;User-space where user is allowed to access memory or perform operation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;For longer and more accurate answer &lt;a href="https://unix.stackexchange.com/a/368313"&gt;https://unix.stackexchange.com/a/368313&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id="below-are-some-samples"&gt;Below are some samples&lt;/h4&gt;
+&lt;h2 id="below-are-some-samples"&gt;Below are some samples&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;First sample usage: &lt;code&gt;strace ls -l&lt;/code&gt;&lt;/p&gt;
@@ -177,13 +177,13 @@ While changing of jobs you need to think in terms of &lt;strong&gt;risk and rewa
 &lt;li&gt;&lt;a href="https://strace.io/"&gt;https://strace.io/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=EG0ihttnEJI"&gt;https://www.youtube.com/watch?v=EG0ihttnEJI&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Simplified view on How Certificate Signing works</title><link>https://kbs.yinagi.in/tils/how-certificate-signing-works/</link><pubDate>Tue, 21 Jul 2020 05:06:45 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/tils/how-certificate-signing-works/</guid><description>&lt;p&gt;Reference: &lt;a href="https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/"&gt;https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id="steps-for-signing-certificate-by-ca"&gt;Steps for signing certificate by CA&lt;/h4&gt;
+&lt;h2 id="steps-for-signing-certificate-by-ca"&gt;Steps for signing certificate by CA&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Subscriber (the person asking a CA to issue them a certificate) sends a Certificate Signing Request (CSR) to the CA which contains all of their details like name, domain name etc.&lt;/li&gt;
 &lt;li&gt;The CA will then take a blank certificate and begins to fill in the details of the Subscriber, validating ownership of the domain along the way, until they have completed all of the fields in the certificate.&lt;/li&gt;
 &lt;li&gt;At this stage we have what we call the Pre-Certificate, it&amp;rsquo;s basically a finished certificate ready to issue but the only thing that&amp;rsquo;s missing is the CAs signature on the bottom of the certificate to make it official&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4 id="signing-of-certificate"&gt;Signing of certificate&lt;/h4&gt;
+&lt;h2 id="signing-of-certificate"&gt;Signing of certificate&lt;/h2&gt;
 &lt;ol start="4"&gt;
 &lt;li&gt;CA takes Pre-Certificate and running it through a hash function, currently SHA256, to obtain the digest.&lt;/li&gt;
 &lt;li&gt;The second step is the CA then taking that digest and encrypting it with their private key.&lt;/li&gt;
@@ -199,7 +199,7 @@ While changing of jobs you need to think in terms of &lt;strong&gt;risk and rewa
 &lt;p&gt;Q: How does adding the &lt;strong&gt;encrypted digest&lt;/strong&gt; i.e. signature makes it signed certificate ?&lt;/p&gt;
 &lt;p&gt;A: It can better be explained by putting browser in picture and looking at what it does while requesting https website.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h4 id="what-browser-does"&gt;What browser does&lt;/h4&gt;
+&lt;h2 id="what-browser-does"&gt;What browser does&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;During tls handshake with https endpoint, it fetches associate intermediate certificate and root certificate.
 &lt;ul&gt;
@@ -220,15 +220,15 @@ While changing of jobs you need to think in terms of &lt;strong&gt;risk and rewa
 &lt;p&gt;DAC stands for Digital to Analog convertor.&lt;/p&gt;
 &lt;p&gt;So music we store in USB or CD is stored in digital medium, and music is analog we hear, so we need some component to convert it to analog, and that&amp;rsquo;s DAC.&lt;/p&gt;
 &lt;p&gt;There are lots of DAC available as he says, our laptops, our mobile which output sound has some DAC inbuilt into it, but there are some &amp;ldquo;high-end&amp;rdquo; where we can attached external DACs too.&lt;/p&gt;
-&lt;p&gt;One advice he gives: Don&amp;rsquo;t by DAC which plays some some unicorn format or some high res it plays but more for the sound quality it outputs.&lt;/p&gt;</description></item><item><title>Moments: Breakfast With Champions</title><link>https://kbs.yinagi.in/tils/moments-breakfast-with-champions/</link><pubDate>Wed, 24 Jun 2020 12:17:11 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/tils/moments-breakfast-with-champions/</guid><description>&lt;h3 id="hayden"&gt;Hayden: &lt;a href="https://www.youtube.com/watch?v=cfksYTFzY5M"&gt;https://www.youtube.com/watch?v=cfksYTFzY5M&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;One advice he gives: Don&amp;rsquo;t by DAC which plays some some unicorn format or some high res it plays but more for the sound quality it outputs.&lt;/p&gt;</description></item><item><title>Moments: Breakfast With Champions</title><link>https://kbs.yinagi.in/tils/moments-breakfast-with-champions/</link><pubDate>Wed, 24 Jun 2020 12:17:11 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/tils/moments-breakfast-with-champions/</guid><description>&lt;h2 id="hayden"&gt;Hayden: &lt;a href="https://www.youtube.com/watch?v=cfksYTFzY5M"&gt;https://www.youtube.com/watch?v=cfksYTFzY5M&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Point is made was cricket was a big threatre for him, and live broadcasted threatre. He gave his performance and fine. I didn&amp;rsquo;t saw cricket or any game on those lines before. He made it feel like art form.&lt;/p&gt;
-&lt;h3 id="brett-lee"&gt;Brett Lee: &lt;a href="https://www.youtube.com/watch?v=Hl0Wc6TaokI&amp;amp;t"&gt;https://www.youtube.com/watch?v=Hl0Wc6TaokI&amp;t&lt;/a&gt;&lt;/h3&gt;
+&lt;h2 id="brett-lee"&gt;Brett Lee: &lt;a href="https://www.youtube.com/watch?v=Hl0Wc6TaokI&amp;amp;t"&gt;https://www.youtube.com/watch?v=Hl0Wc6TaokI&amp;t&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Pain brett lee went through while bowling:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=Hl0Wc6TaokI&amp;amp;t=14m0s"&gt;https://www.youtube.com/watch?v=Hl0Wc6TaokI&amp;t=14m0s&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=Hl0Wc6TaokI&amp;amp;t=15m26s"&gt;https://www.youtube.com/watch?v=Hl0Wc6TaokI&amp;t=15m26s&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="michael-holding"&gt;Michael Holding: &lt;a href="https://www.youtube.com/watch?v=fbKkJO1OEc4"&gt;https://www.youtube.com/watch?v=fbKkJO1OEc4&lt;/a&gt;&lt;/h3&gt;
+&lt;h2 id="michael-holding"&gt;Michael Holding: &lt;a href="https://www.youtube.com/watch?v=fbKkJO1OEc4"&gt;https://www.youtube.com/watch?v=fbKkJO1OEc4&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Really nice to hear his opinion and found someone who synchronizes with my thought process.&lt;/p&gt;</description></item><item><title>Do Work With Joy</title><link>https://kbs.yinagi.in/tils/do-work-with-joy/</link><pubDate>Sat, 13 Jun 2020 17:43:03 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/tils/do-work-with-joy/</guid><description>&lt;p&gt;Don&amp;rsquo;t give up because it&amp;rsquo;s hard, if you love it: &amp;ldquo;do it&amp;rdquo;. It has to be done with joy, there is no point of adding more misery to our little world&lt;/p&gt;
 &lt;p&gt;Work should be done because you want to do it, you like it. It would bring best from you, else whole point of living life miserably doesn&amp;rsquo;t make sense.
 No point of doing work which you don&amp;rsquo;t like in life, that life is not a full life, and life should be lived fully, joyfully.&lt;/p&gt;

@@ -5,7 +5,7 @@ My app should be a follow these 12 factor or confor with as my factor possible.&
 &lt;li&gt;It’s most important to get it done.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;While doing any of 12 factors given below(maintaining configs/dependencies management, or trying build,release), read below mentioned best practices.&lt;/p&gt;
-&lt;h3 id="the-twelve-factors"&gt;The Twelve Factors&lt;/h3&gt;
+&lt;h2 id="the-twelve-factors"&gt;The Twelve Factors&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href="https://12factor.net/codebase"&gt;Codebase&lt;/a&gt;: One codebase tracked in revision control, many deploys&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://12factor.net/dependencies"&gt;Dependencies&lt;/a&gt;: Explicitly declare and isolate dependencies&lt;/li&gt;
@@ -21,26 +21,26 @@ My app should be a follow these 12 factor or confor with as my factor possible.&
 &lt;li&gt;&lt;a href="https://12factor.net/admin-processes"&gt;Admin processes&lt;/a&gt;: Run admin/management tasks as one-off processes&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;References:
-This post is copied from &lt;a href="https://12factor.net/"&gt;https://12factor.net/&lt;/a&gt; and kept here for my personal reference.&lt;/p&gt;</description></item><item><title>Firefox Tricks</title><link>https://kbs.yinagi.in/en/72ff43ee035217085d814ff2033b47da/</link><pubDate>Fri, 16 Aug 2024 23:19:50 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/72ff43ee035217085d814ff2033b47da/</guid><description>&lt;h4 id="search-from-bookmarks-only"&gt;Search from bookmarks only:&lt;/h4&gt;
+This post is copied from &lt;a href="https://12factor.net/"&gt;https://12factor.net/&lt;/a&gt; and kept here for my personal reference.&lt;/p&gt;</description></item><item><title>Firefox Tricks</title><link>https://kbs.yinagi.in/en/72ff43ee035217085d814ff2033b47da/</link><pubDate>Fri, 16 Aug 2024 23:19:50 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/72ff43ee035217085d814ff2033b47da/</guid><description>&lt;h2 id="search-from-bookmarks-only"&gt;Search from bookmarks only:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Press F6 i.e. goto search/url bar&lt;/li&gt;
 &lt;li&gt;Press *[_]search_text i.e. star space search_text&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="search-from-open-tabs-only"&gt;Search from open tabs only:&lt;/h4&gt;
+&lt;h2 id="search-from-open-tabs-only"&gt;Search from open tabs only:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Press F6 i.e. goto search/url bar&lt;/li&gt;
 &lt;li&gt;Press % search_text i.e. star space search_text&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="restart-the-firefox-without-losing-current-tabs-or-context"&gt;Restart the firefox without losing current tabs or context:&lt;/h4&gt;
+&lt;h2 id="restart-the-firefox-without-losing-current-tabs-or-context"&gt;Restart the firefox without losing current tabs or context:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Press Shift+f2, a shell at bottom of screen will show up.&lt;/li&gt;
 &lt;li&gt;Type restart&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="find-your-profile-folder-location-from-firefox-itself"&gt;Find your profile folder location from firefox itself.&lt;/h4&gt;
+&lt;h2 id="find-your-profile-folder-location-from-firefox-itself"&gt;Find your profile folder location from firefox itself.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Press F6 i.e. goto search/url bar&lt;/li&gt;
 &lt;li&gt;Type about:support, will show all the details.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Frequency in Electricity</title><link>https://kbs.yinagi.in/en/a9a02bc27366cf020d00baf3ae29e77e/</link><pubDate>Fri, 16 Aug 2024 23:08:35 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/a9a02bc27366cf020d00baf3ae29e77e/</guid><description>&lt;h3 id="how-is-electricity-produced"&gt;How is electricity produced.&lt;/h3&gt;
+&lt;/ul&gt;</description></item><item><title>Frequency in Electricity</title><link>https://kbs.yinagi.in/en/a9a02bc27366cf020d00baf3ae29e77e/</link><pubDate>Fri, 16 Aug 2024 23:08:35 +0530</pubDate><author>inbox@yinagi.in (murarisumit)</author><guid>https://kbs.yinagi.in/en/a9a02bc27366cf020d00baf3ae29e77e/</guid><description>&lt;h2 id="how-is-electricity-produced"&gt;How is electricity produced.&lt;/h2&gt;
 &lt;p&gt;A characteristic of electricity is that it is not a primary energy freely present in nature in remarkable amounts and it must be produced. Production is carried out in power stations (also called “power plants”).&lt;/p&gt;
 &lt;p&gt;Most power plants/stations contain one or more generators, a rotating machine that converts mechanical power into electrical power. The relative motion between a magnetic field and a conductor creates an electrical current.&lt;/p&gt;
 &lt;p&gt;So the source can be different to move the generator:&lt;/p&gt;
@@ -53,7 +53,7 @@ This post is copied from &lt;a href="https://12factor.net/"&gt;https://12factor.
 &lt;li&gt;Or geothermal energy to move turbines.&lt;/li&gt;
 &lt;li&gt;Basically, any mechanical movement can be used to move the generator.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="frequency-in-electricity"&gt;Frequency in electricity&lt;/h3&gt;
+&lt;h2 id="frequency-in-electricity"&gt;Frequency in electricity&lt;/h2&gt;
 &lt;p&gt;How does frequency come about? As we know, electricity is produced by converting mechanical movement to electricity using the phenomenon of magnetism.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;So when a conductor rotates in a magnetic field, the magnetic field lines are cut and current is induced in the conductor.&lt;/li&gt;
@@ -143,7 +143,7 @@ What is a MAC address?
 &lt;li&gt;filter: Apply function to all elements in sequence and return only those elements for which the function returns True&lt;/li&gt;
 &lt;li&gt;reduce: Apply function to all elements in sequence cumulatively&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="map"&gt;Map&lt;/h3&gt;
+&lt;h2 id="map"&gt;Map&lt;/h2&gt;
 &lt;p&gt;The function map(f,l) applies the function f() to all the elements of the sequence l. It returns a new list with the elements changed by f().&lt;/p&gt;
 &lt;p&gt;Without lambda:&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
@@ -185,7 +185,7 @@ What is a MAC address?
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;C&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;map&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;to_celsius&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;F&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h3 id="filter"&gt;Filter&lt;/h3&gt;
+&lt;/div&gt;&lt;h2 id="filter"&gt;Filter&lt;/h2&gt;
 &lt;p&gt;The function filter(f,l) needs a function f as its first argument. f returns a Boolean value, i.e. either True or False.&lt;/p&gt;
 &lt;p&gt;Here the function will list the odd Fibonacci numbers&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
@@ -210,7 +210,7 @@ What is a MAC address?
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;34&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h3 id="reduce"&gt;Reduce&lt;/h3&gt;
+&lt;/div&gt;&lt;h2 id="reduce"&gt;Reduce&lt;/h2&gt;
 &lt;p&gt;The function reduce(f,l) continually applies the function f() to the sequence l. It returns a single value.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;At first the first two elements of sequence are applied to f, i.e. f(s1,s2)&lt;/li&gt;

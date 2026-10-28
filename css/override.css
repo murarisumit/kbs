@@ -11,6 +11,18 @@
     z-index: 50;
 }
 
+/* Post tags: small pill buttons; link color stays blue */
+a.tag-link {
+    display: inline-block;
+    padding: 1px 8px;
+    margin: 0 2px 2px 0;
+    border: 1px solid #cdcdcd;
+    border-radius: 999px;
+    background-color: #ebebeb;
+    font-size: 0.85em;
+    line-height: 1.45;
+}
+
 /* =====================================================================
    Reading UI (mobile-ui branch)
    Note on dark mode: the theme's dark.css inverts the whole <html> with a
